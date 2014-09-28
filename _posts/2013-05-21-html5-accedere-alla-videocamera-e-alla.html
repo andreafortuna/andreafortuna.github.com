@@ -1,0 +1,20 @@
+---
+layout: post
+title: 'HTML5: accedere alla videocamera e alla galleria di foto dei dispositivi mobili'
+date: '2013-05-21T14:16:00.000+02:00'
+author: Andrea Fortuna
+tags:
+- JavaScript
+- Programmazione
+- html5
+- Android
+- phonegap
+- iOS
+- jQuery
+modified_time: '2013-05-24T23:30:07.954+02:00'
+thumbnail: http://2.bp.blogspot.com/-I2X_eh3zPdE/UZthQbEYCYI/AAAAAAAAEwc/qJN5Q9ket2s/s72-c/IMG_0084%255B1%255D.PNG
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-4761172196747010754
+blogger_orig_url: http://www.andreafortuna.org/2013/05/html5-accedere-alla-videocamera-e-alla.html
+---
+
+<div class="separator" style="clear: both; text-align: center;"></div><a href="http://2.bp.blogspot.com/-I2X_eh3zPdE/UZthQbEYCYI/AAAAAAAAEwc/qJN5Q9ket2s/s1600/IMG_0084%255B1%255D.PNG" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="200" src="http://2.bp.blogspot.com/-I2X_eh3zPdE/UZthQbEYCYI/AAAAAAAAEwc/qJN5Q9ket2s/s200/IMG_0084%255B1%255D.PNG" width="133" /></a>Tra le tante facilities introdotte con <a href="http://www.andreafortuna.org/search/label/html5" target="_blank">HTML5</a> (oltre al già citato <a href="http://www.andreafortuna.org/2013/05/html5-utilizzare-il-localstorage-per.html" target="_blank">localStorage</a>) troviamo anche la possibilità (finalmente) di accedere ai contenuti multimediali dei dispositivi mobili.<br /><br /><a href="http://www.w3.org/TR/2012/WD-html-media-capture-20120712/" target="_blank">HTML Media Capture</a> è compatibile con i seguenti browser mobili:<br /><br /><br /><ul><li>Browser di Android, dalla versione 3.0 in poi</li><li>Chrome per Android</li><li>Firefox Mobile 10.0</li><li>Safari e Chrome su&nbsp;iOS6</li></ul><br /><br /><a name='more'></a><br /><br /><div>L'implementazione è banale, basta infatti aggiungere gli attributi <b><i>capture </i></b>e&nbsp;<i>accept </i>a un semplice tag &lt;input&gt;:</div><br /><div><pre class="brush: java">&lt;input accept="image/*" capture="camera" type="file" /&gt;</pre></div><br /><a href="http://4.bp.blogspot.com/-x4ev6E5ruRg/UZthL32LFNI/AAAAAAAAEwE/8kzIRS-YZSg/s1600/IMG_0081%5B1%5D.PNG" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="200" src="http://4.bp.blogspot.com/-x4ev6E5ruRg/UZthL32LFNI/AAAAAAAAEwE/8kzIRS-YZSg/s200/IMG_0081%5B1%5D.PNG" width="133" /></a><br /><a href="http://3.bp.blogspot.com/-TDWmbfsz_ZQ/UZthPQsTUbI/AAAAAAAAEwU/05drIse7_SI/s1600/IMG_0083%255B1%255D.PNG" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="200" src="http://3.bp.blogspot.com/-TDWmbfsz_ZQ/UZthPQsTUbI/AAAAAAAAEwU/05drIse7_SI/s200/IMG_0083%255B1%255D.PNG" width="132" /></a>in questo modo il browser dello smartphone aprirà, alla pressione del tasto corrispondente, il menù che permetterà di scegliere se prelevare la foto dalla galleria di immagini oppure acquisirne una nuova con la fotocamera del terminale.<br /><br /><br />L'immagine scelta viene poi salvata dal browser in un file temporaneo, accessibile tramite javascript e utilizzabile sia per un semplice POST su un form ma anche per l'utilizzo all'interno della nostra app (e senza utilizzare le primitive di PhoneGap).<br /><br /><br />Ho realizzato un semplicissimo demo, accessibile da <a href="https://dl.dropboxusercontent.com/u/1550912/HTMLCaptureImages/index.html" target="_blank">QUESTO INDIRIZZO</a>, questo è il sorgente:<br /><br /><script src="https://gist.github.com/andreafortuna/5646642.js"></script>

@@ -1,0 +1,15 @@
+---
+layout: post
+title: 'CSS: la proprietà "position: sticky" '
+date: '2013-07-08T09:30:00.000+02:00'
+author: Andrea Fortuna
+tags:
+- CSS
+- html
+modified_time: '2013-07-08T09:30:01.300+02:00'
+thumbnail: http://2.bp.blogspot.com/-WAgh1IU8L7I/UdUtMaeiCgI/AAAAAAAAFVo/7rRxhUG6Vsw/s72-c/WebkitExperimental.png
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-5544774335785161095
+blogger_orig_url: http://www.andreafortuna.org/2013/07/css-la-proprieta-position-sticky.html
+---
+
+"position: sticky" è una nuova proprietà CSS introdotta in via sperimentale in Webkit lo scorso anno che permette agli elementi di rimanere <i>attaccati</i>&nbsp;al&nbsp;bordo della pagina, a prescindere da come venga effettuato lo scroll della stessa.<br />Si tratta di una funzionalità non ancora standardizzata: per testarla è necessario abilitare in Google Chrome il flag&nbsp;<b>Enable experimental WebKit features</b>, accessibile digitanto nella barra degli indirizzi la stringa <i>chrome://flags</i>:<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-WAgh1IU8L7I/UdUtMaeiCgI/AAAAAAAAFVo/7rRxhUG6Vsw/s450/WebkitExperimental.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-WAgh1IU8L7I/UdUtMaeiCgI/AAAAAAAAFVo/7rRxhUG6Vsw/s1600/WebkitExperimental.png" /></a></div><br /><br /><a name='more'></a>L'utilizzo è molto semplice, dichiariamo una classe che assegneremo all'elemento che vogliamo diventi <i>appiccicoso </i>(ovviamente le proprieta' sono ancora <i>vendor-prefixed</i>):<br /><br /><pre class="brush:xml"><br />.sticky {<br />  position: -webkit-sticky;<br />  position: -moz-sticky;<br />  position: -ms-sticky;<br />  position: -o-sticky;<br />  position: sticky;<br />}<br /></pre><br />Vediamo un esempio funzionante:<br /><br /><br /><iframe allowfullscreen="allowfullscreen" frameborder="0" height="600" src="http://jsfiddle.net/AndyFor/YrtsA/embedded/result,css,html" width="100%"></iframe>

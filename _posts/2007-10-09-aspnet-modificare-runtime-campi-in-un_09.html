@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'ASP.NET: modificare a runtime campi in un DetailsView'
+date: '2007-10-09T16:45:00.001+02:00'
+author: Andrea Fortuna
+tags:
+- VB.NET
+- Programmazione
+- ASP.NET
+- DetailsView
+modified_time: '2013-06-18T10:16:38.055+02:00'
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-1035307861392580717
+blogger_orig_url: http://www.andreafortuna.org/2007/10/aspnet-modificare-runtime-campi-in-un_09.html
+---
+
+Sviluppando in Asp.Net puo' saltare fuori la necessita' di modificare a runtime un valore nelle comodissime DetailsView: ad esempio facendo in modo che, una volta passati in modalita' 'insert' alcuni campi siano gia' valorizzati.<br /><br />Presupponendo quindi di avere nella nostra pagina un controllo DetailsView chiamato <em>DetailsView1</em>, andremo a modificare la textbox presente nella prima riga della stessa, inserendo il codice seguente in corrispondenza dell'evento <em>PreRender</em> :<br /><br /><script src="https://gist.github.com/andreafortuna/ceed47e40ee4d24c9210.js"></script><br />p.s.<br />Dimenticavo! La realizzazione di questo frammento di codice sarebbe stata impossibile senza il provvidenziale aiuto di <a href="http://www.cicoira.it/">Gianpiero</a>! :-)

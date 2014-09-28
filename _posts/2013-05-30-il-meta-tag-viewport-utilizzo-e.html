@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'Il meta tag Viewport: utilizzo e modifica dinamica in base alla densità dello
+  schermo'
+date: '2013-05-30T09:00:00.000+02:00'
+author: Andrea Fortuna
+tags:
+- JavaScript
+- Programmazione
+- html5
+- iOS
+modified_time: '2013-05-30T09:00:14.875+02:00'
+thumbnail: http://1.bp.blogspot.com/-NQ2KO52hP9A/UZomqkBE9MI/AAAAAAAAEv0/PKAEfpuhTEo/s72-c/HTML5_logo.svg.png
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-2310427113823930603
+blogger_orig_url: http://www.andreafortuna.org/2013/05/il-meta-tag-viewport-utilizzo-e.html
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-NQ2KO52hP9A/UZomqkBE9MI/AAAAAAAAEv0/PKAEfpuhTEo/s1600/HTML5_logo.svg.png" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="200" src="http://1.bp.blogspot.com/-NQ2KO52hP9A/UZomqkBE9MI/AAAAAAAAEv0/PKAEfpuhTEo/s200/HTML5_logo.svg.png" width="200" /></a></div>Quando si approccia lo sviluppo di una webapp in HTML5, una delle prime cose da definire è il meta tag <b><i>viewport.</i></b><div><br /></div><div>Se inserito nella sezione <i>&lt;head&gt;</i> delle pagine ottimizzate per smartphones, <b>viewport </b>indica al browser che la sta mostrando le dimensioni della pagina e  il livello di zoom da utilizzare nella visualizzazione.<br /><br />Un esempio può essere questo:<br /><br /><pre class="brush:java;">&lt;meta name="viewport" content=" user-scalable = no, target-densitydpi = device-dpi, initial-scale=1, maximum-scale=1, width=320"/&gt;<br /></pre><br />che fissa una larghezza di pagina di 320 pixel e uno zoom predefinito a 1.<br /><br /><a name='more'></a><br /><br />Da notare l'utilizzo del valore <i>device-dpi </i>per la proprietà <i>target-densitydpi</i>: gli altri valori utilizzabili sono <i>low-dpi</i>&nbsp;(120 dpi), <i>medium-dpi</i>&nbsp;(160 dpi) e <i>high-dpi </i>(240 dpi).<br /><br />Un'applicazione costruita per il iPhone di solito utilizza il valore <i>medium-dpi</i>&nbsp;se la densità dello schermo è inferiore al <i>medium-dpi </i>(es. iPhone 3G), e &nbsp;l'interfaccia utente apparirà leggermente più grande del normale, risultando comunque accettabile.<br /><br />Tuttavia, se la densità è maggiore del <i>medium-dpi</i>&nbsp;(es. iPhone 4/5, iPad) l'interfaccia utente si restringe, risultando più piccola e meno leggibile del previsto.<br /><br />Per correggere questo, è necessario impostare il valore del <i>target-densitydpi</i> da <i>device-dpi</i> a &nbsp;<i>medium-dpi&nbsp;</i>per dispositivi con risoluzioni più elevate, utilizzando la funzione <b>window.devicePixelRatio</b> disponibile sui browser basati su <i>WebKit</i>.<br /><br />Ecco un breve snippet che si occupa di questa operazione:<br /><br /><script src="https://gist.github.com/andreafortuna/ed9d8b2d458dddf204b1.js"></script></div>

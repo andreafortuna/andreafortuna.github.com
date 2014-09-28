@@ -1,0 +1,13 @@
+---
+layout: post
+title: 'Pillole di Computer Forensics: le basi'
+date: '2005-12-24T14:12:00.001+01:00'
+author: Andrea Fortuna
+tags:
+- Privacy
+modified_time: '2012-04-26T14:24:31.066+02:00'
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-1911494814678571604
+blogger_orig_url: http://www.andreafortuna.org/2005/12/pillole-di-computer-forensics-le-basi_24.html
+---
+
+<p>Con <em>computer forensic</em> si identificano tutte quelle attivita' effettuate su un sistema informatico con lo scopo di individuare, estrarre, analizzare, conservare e documentare le prove relative a un determinato atto (solitamente con scopi criminosi) intrapreso sul sistema stesso.</p><a name='more'></a><p>Un'attivita' del genere richiede l'osservanza di procedure chiare e ben definite, e di aggiornamenti costanti: il mondo dell'informatica e' in continua evoluzione e chi si occupa di c.f. deve obbligatoriamente essere al passo con i tempi.</p><p>A fronte di un'analisi forense, si possono dover affrontare due opposte situazioni:</p><ul><li>Il sistema da analizzare e' stato il mezzo utilizzato per compiere l'azione criminosa</li><li>Il sistema stesso e' stato vittima di un crimine.</li></ul><p>In entrambi i casi, i passi fondamentali da seguire per effettuare una corretta analisi (ognuno di questi passi sara' trattato approfonditamente in un articolo dedicato) sono i medesimi:</p><ul><li><div>Le prove devono essere acquisite senza alterare in nessun modo i dati originali.La mia procedura standard e' quella di spegnere la macchina da analizzare (anche brutalmente: le procedure di shutdown possono compromettere dati importanti), avviarla poi con un S.O. alternativo, da CD o drive USB (utilizzo una normalissima distro Live) e effettuare via rete o se possibile su un disco USB un'immagine dei dischi da analizzare. tale immagine sara' per prima cosa verificata sia con MD5 che con SHA1, e gli hash ottenuti annotati sul verbale di acquisizione.</div><div /></li><li><div>L'analisi dei dati raccolti deve essere effettuata senza modificare i dati stessi:</div><div>Partendo dall'immagine effettuata prima, verranno create <em>n</em> copie da utilizzare durante l'analisi.</div><div></div></li><li><div>E' necessario autenticare le prove e certificare che siano identiche al dato analizzato in origine:</div><div>Le copie andranno verificate con MD5 e SHA1, e gli hash confrontati con quelli dell'originale, per avere la certezza che la copia sia fedele.</div></li></ul>

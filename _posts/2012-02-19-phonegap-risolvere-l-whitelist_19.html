@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'PhoneGap: risolvere l''errore "ERROR whitelist rejection"'
+date: '2012-02-19T16:27:00.001+01:00'
+author: Andrea Fortuna
+tags:
+- Programmazione
+- Android
+- iOS
+modified_time: '2013-05-30T15:35:16.887+02:00'
+thumbnail: http://2.bp.blogspot.com/-NIc41UXppzY/UZIhEWYq9TI/AAAAAAAAEs8/Qfrn3nwFNP4/s72-c/PhoneGap.png
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-6842956145808876050
+blogger_orig_url: http://www.andreafortuna.org/2012/02/phonegap-risolvere-l-whitelist_19.html
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-NIc41UXppzY/UZIhEWYq9TI/AAAAAAAAEs8/Qfrn3nwFNP4/s1600/PhoneGap.png" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="200" src="http://2.bp.blogspot.com/-NIc41UXppzY/UZIhEWYq9TI/AAAAAAAAEs8/Qfrn3nwFNP4/s200/PhoneGap.png" width="200" /></a></div>Sviluppando con <a href="http://andreafortuna.wordpress.com/tag/phonegap/">PhoneGap</a>, si può incappare nell'errore<br /><br /><blockquote>NomeApp[XXX:XXXXX] ERROR whitelist rejection [...]</blockquote><br />quando la nostra applicazione utilizza codice che tenta di accedere ad internet (ad esempio andando ad includere i file di <a href="http://andreafortuna.wordpress.com/tag/jquery/">JQuery</a> direttamente dal CDN).<br /><a name='more'></a><br /><br /><br />Questo è dovuto alle policy di sicurezza di <strong>PhoneGap</strong> che di default sono abbastanza restrittive per quanto riguarda l'accesso alla rete. <br />La risoluzione è semplice. <br />su iOS/Xcode, è necessario modificare il file <strong>PhoneGap.plist</strong> (in <strong>Supporting Files</strong>), aggiungendo una riga all'elemento <strong>ExternalHost</strong>, contenente l'hostname da 'sbloccare' (oppure un '*' per permettere la connessione a qualsiasi host):<br /><br /><a href="http://andreafortuna.files.wordpress.com/2012/02/schermata-02-2455977-alle-15-15-15.png"><img alt="" class="alignnone size-full wp-image-1450" height="227" src="http://andreafortuna.files.wordpress.com/2012/02/schermata-02-2455977-alle-15-15-15.png" title="Schermata 02-2455977 alle 15.15.15" width="640" /></a><br /><br />mentre su Android/Eclipse e sufficiente creare (se non presente) un file chiamato <strong>phonegap.xml</strong> in <strong>/res/xml/</strong> con il seguente contenuto:<br /><pre class="brush:xml">&lt;?xml version="1.0" encoding="UTF-8"?&gt;<br />&lt;phonegap&gt;<br />&lt;access origin="*" /&gt;<br />&lt;/phonegap&gt;<br /></pre>

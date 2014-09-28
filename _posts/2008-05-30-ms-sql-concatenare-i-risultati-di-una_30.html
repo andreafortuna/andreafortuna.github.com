@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'MS SQL: Concatenare i risultati di una subquery'
+date: '2008-05-30T12:06:00.001+02:00'
+author: Andrea Fortuna
+tags:
+- Tips
+- Programmazione
+- mssql
+- SQL
+modified_time: '2012-04-26T14:20:43.836+02:00'
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-1928527324102992069
+blogger_orig_url: http://www.andreafortuna.org/2008/05/ms-sql-concatenare-i-risultati-di-una_30.html
+---
+
+Puo' capitare, costruendo una query, di dover realizzare una subquery che restituisca piu' di un risultato.<br/>Un esempio pratico:<br/><br/>[sourcecode language="sql"]<br/><br/>select Nome, Cognome, ( select Numero_di_telefono from Numeri_di_telefono where Numeri_di_telefono.id_utente = Utenti.id_utente)<br/>from Utenti<br/><br/>[/sourcecode]<br/><br/>La query e' ovviamente <strong>sbagliata </strong>e, invece di restituire su una unica riga il Nome e Cognome dell'utente seguiti dai suoi numeri di telefono risponde con un bel<br/><blockquote><em><span><span>Subquery returned more than 1 value.</span></span></em></blockquote><br/>Per risolvere il problema si puo' operare in 2 diversi modi, a seconda se la versione di SQLServer usata sia la 2000 o la 2005.<br/><br/>Quindi, con SQLServer 2005 useremo le funzioni di esportazione dei dati in XML, native della piattaforma:<br/><br/>[sourcecode language="sql"]<br/><br/>select Nome, Cognome,( select Numero_di_telefono + ' '  as [text()] from Numeri_di_telefono where Numeri_di_telefono.id_utente = Utenti.id_utente for xml path('')) from Utenti<br/><br/>[/sourcecode]<br/><br/>Mentre con SQLServer 2000 dovremo realizzare una breve funzione per integrare le funzionalita' mancanti.<br/><br/>Dal QueryAnalyzer creiamo la funzione:<br/><br/>[sourcecode language="sql"]<br/><br/>create function dbo.Concatena(@id_utente)<br/>returns varchar(8000)<br/>as<br/>Begin<br/>            Declare @result as  varchar(8000)<br/>            Set @result =''<br/>            Select @result = @result + Numero_di_telefono + ' ' from Numeri_di_telefono<br/>            where Numeri_di_telefono.id_utente = @id_utente<br/>            return @result<br/>End<br/><br/>[/sourcecode]<br/><br/>a questo punto, possiamo richiamare la funzione creata all'interno della nostra query:<br/><br/>[sourcecode language="sql"]<br/><br/>select Nome, Cognome, dbo.Concatena(utenti.id_utente) from Utenti<br/><br/>[/sourcecode]

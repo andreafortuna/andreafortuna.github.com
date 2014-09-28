@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'Android e PhoneGap: richieste AJAX su https con certificati self signed'
+date: '2013-04-28T13:35:00.001+02:00'
+author: Andrea Fortuna
+tags:
+- yattrssc
+- Java
+- https
+- Android
+- phonegap
+modified_time: '2013-04-28T13:35:28.541+02:00'
+thumbnail: http://1.bp.blogspot.com/-UkIWz76TZbk/UQEDqzxgaeI/AAAAAAAAETY/s40QbykOxUI/s72-c/graphic_build_bot.png
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-4530616854013319915
+blogger_orig_url: http://www.andreafortuna.org/2013/04/android-e-phonegap-richieste-ajax-su.html
+---
+
+<a href="http://1.bp.blogspot.com/-UkIWz76TZbk/UQEDqzxgaeI/AAAAAAAAETY/s40QbykOxUI/s1600/graphic_build_bot.png" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="170" src="http://1.bp.blogspot.com/-UkIWz76TZbk/UQEDqzxgaeI/AAAAAAAAETY/s40QbykOxUI/s200/graphic_build_bot.png" width="200" /></a>A quanto pare, su android si verifica lo stesso <a href="http://www.andreafortuna.org/2013/04/ios-e-phonegap-richieste-ajax-su-https.html" target="_blank">problema riscontrato su iOS</a>, che non permette le richieste ajax su https con certificati self signed.<br /><br /><br />La soluzione su android è un po' più macchinosa di quella su <a href="http://www.andreafortuna.org/2013/04/ios-e-phonegap-richieste-ajax-su-https.html" target="_blank">iOs</a> ma ugualmente risolutiva.<br /><br /><br /><a name='more'></a><br /><br />Per prima cosa, realizzare una nuova classe:<br /><br /><br /><pre class="brush:java">import org.apache.cordova.CordovaWebViewClient;<br />import org.apache.cordova.DroidGap;<br /><br />import android.net.http.SslError;<br />import android.webkit.SslErrorHandler;<br />import android.webkit.WebView;<br /><br />public class SSLAcceptingWebViewClient extends CordovaWebViewClient {<br />    public SSLAcceptingWebViewClient(DroidGap ctx) {<br />        super(ctx);<br />    }<br />    @Override<br />    public void onReceivedSslError(WebView view, SslErrorHandler handler, SslError error) {<br />            handler.proceed();<br />    }<br />  <br />}<br /></pre>che estende la classe <i>CordovaWebViewClient</i> e riscrive il metodo <i>onReceivedSslError</i>, forzando l'esecuzione della richiesta con <b>handler.proceed()  </b><br /><b><br /></b>In seguito, modificare in questo modo la <i>main activity</i>:<br /><br /><pre class="brush:java">public class MyActivity extends DroidGap {<br />    /** Called when the activity is first created. */<br />    @Override<br />    public void onCreate(Bundle savedInstanceState) {<br />        super.onCreate(savedInstanceState);<br />        super.init();<br />      <br />        CordovaWebViewClient webViewClient = new SSLAcceptingWebViewClient(this);<br />        webViewClient.setWebView(this.appView);<br />        this.appView.setWebViewClient(webViewClient);<br />      <br />        super.loadUrl(Config.getStartUrl());  <br />    }<br />}<br /></pre>

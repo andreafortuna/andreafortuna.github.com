@@ -1,0 +1,16 @@
+---
+layout: post
+title: |-
+  User32.dll, risolvere il problema successivo all'ultimo aggiornamento
+  di Windows XP
+date: '2007-04-09T23:54:00.001+02:00'
+author: Andrea Fortuna
+tags:
+- Windows
+- Microsoft
+modified_time: '2012-04-26T14:22:18.872+02:00'
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-7624707930558221827
+blogger_orig_url: http://www.andreafortuna.org/2007/04/user32dll-risolvere-il-problema_09.html
+---
+
+<strong>UPDATE 10-Novembre-2008</strong>: se di recente avete incontrato problemi con user32.dll, potrebbe derivare dall'antivirus AVG che, vittima di un falso positivo, cancella il file in questione.<br/><br/>Maggiori dettagli (e la soluzione al problema) su:<br/><br/><a href="http://andreafortuna.wordpress.com/2008/11/10/windows-non-si-avvia-dopo-la-rimozione-di-user32dll-da-parte-di-avg/">http://andreafortuna.wordpress.com/2008/11/10/windows-non-si-avvia-dopo-la-rimozione-di-user32dll-da-parte-di-avg/</a><br/><br/> <br/><p align="left">L'altro giorno arrivo in ufficio e il buon <a href="http://andreafortuna.wordpress.com/2006/08/22/scherzi-in-ufficio-volume-2/">Luchetto</a> mi placca chiedendo aiuto per un problema col suo laptop, che a quanto pare restituisce uno strano errore all'avvio.</p><br/><p align="left">Senza ancora aver letto nessuno dei feed che di solito seguo rispondo a Luca con un laconico "avrai installato qualche puttanata (<em>tipico gergo tecnico!</em>), fai un repair dell'installazione o formatta e reinstalla!"</p><br/><p align="left"> </p><br/><p align="left">Mettendo mano all'aggregatore scopro però che dopo un pacchetto di aggiornamenti rilasciati da Microsoft per correggere la vulnerabilità <em>Animated Cursor Handling</em> (<a href="http://www.microsoft.com/technet/security/bulletin/ms07-017.mspx" target="_blank"><span class="Hv"><strong>MS07-017</strong></span></a>) alcuni utenti al riavvio del proprio PC hanno riscontrato un messaggio di errore di questo tipo:</p><br/><br/><blockquote><br/><p align="left"> </p><br/><p align="left">Rthdcpl.exe - 		  Rilocazione della DLL del sistema non valida</p><br/><br/>La DLL del sistema 		  user32.dll è stata rilocata in memoria. L'applicazione non sarà eseguita 		  correttamente. La DLL C:\Windows\System32\Hhctrl.ocx è stata rilocata poiché 		  occupava uno spazio di indirizzamento riservato a una delle DLL del sistema di 		  Windows. Contattare il fornitore della DLL per ottenere una nuova 		  DLL.</blockquote><br/><p align="left"> </p><br/><p align="left">(da <a href="http://support.microsoft.com/?kbid=935448">http://support.microsoft.com/?kbid=935448</a>)</p><br/><p align="left"> </p><br/><p align="left">(lo stesso lamentato da Luchetto! <strong>Mea Culpa!</strong>)</p><br/><p align="left"> </p><br/><p align="left">L'errore sembra essere derivato da una incompatibilità delle nuove DLL installate con i driver e relativo pannello di controllo delle schede <em>Realtek HD Audio</em>, e può essere corretta installando una ulteriore patch, la <a href="http://www.microsoft.com/downloads/details.aspx?displaylang=it&amp;FamilyID=74ad4188-3131-429c-8fcb-f7b3b0fd3d86">KB935448</a>.</p><br/><p align="left"> </p>

@@ -1,0 +1,18 @@
+---
+layout: post
+title: |-
+  ASP.NET: accedere a un controllo presente su una MasterPage da una
+  ContentPage
+date: '2008-02-06T10:30:00.001+01:00'
+author: Andrea Fortuna
+tags:
+- VB.NET
+- Programmazione
+- ASP.NET
+- masterpage
+modified_time: '2012-04-26T14:21:01.587+02:00'
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-9219673837715026010
+blogger_orig_url: http://www.andreafortuna.org/2008/02/aspnet-accedere-un-controllo-presente_06.html
+---
+
+<img src="http://andreafortuna.files.wordpress.com/2008/02/aspnet.png" alt="aspnet.png" align="right" hspace="6" />Chi sviluppa in ASP.NET si sara' sicuramente accorto di quanto sia importante tenere bene a mente il ciclo di vita di una pagina: durante la creazione delle pagina stessa si susseguono una serie di eventi in un ordine ben definito, e tutto va realizzato proprio nel rispetto di tale ordine.<br/><br/>Nel caso la nostra applicazioni utilizzi le MasterPages la faccenda si complica un pochino, e benche' sia possibile includere codice nella MasterPage spesso ci si trova nella situazione di dover agire dal codice presente su una ContentPage su un controllo presente invece nella pagina Master.<br/><br/>La procedura che utilizzo di solito ' riassunta in questo esempio:<br/>[sourcecode language='vb']<br/>Dim MP_TextBox As TextBox = CType(Page.Master.FindControl("TextBoxMaster"), TextBox)<br/>MP_TextBox.Text = "TESTO"[/sourcecode]<br/>Il funzionamento e' presto spiegato: tramite la funzione FindControl mi ricavo una istanza del controllo di tipo TextBox presente sulla masterPage.<br/>Tale istanza mi viene restituita come oggetto 'grezzo', quindi ne effettuo il cast in un oggetto TextBox utilizzando CType. A questo punto posso accedere tranquillamente al controllo.Tale procedura puo' essere utilizzata anche per metter mano sulla MasterPage a controlli non strettamente legati al framework.<br/>Un esempio puo' essere quello di modificare il background del body (dichiarato quindi nella MP).<br/>Per prima cosa e' necessario dichiarare il body della MP come runat="server", e assegnargli un ID:<br/>[sourcecode language='html']<br/><br/><body topmargin=0 leftmargin=0 runat=server id="bodyMaster" ><br/><br/>[/sourcecode]<br/>in seguito, dalla content page il codice sara' il seguente:<br/>[sourcecode language='vb']<br/><br/>Dim MP_Body As System.Web.UI.HtmlControls.HtmlGenericControl = CType(Page.Master.FindControl("bodyMaster"), System.Web.UI.HtmlControls.HtmlGenericControl)<br/>MP_Body.Attributes("bgcolor") = "red"[/sourcecode]<br/>Ovviamente, dell'oggetto ottenuto tramite FindControl andra' effettuato il casting in HtmlGenericControl.</body>

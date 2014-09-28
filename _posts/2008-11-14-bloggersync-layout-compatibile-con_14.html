@@ -1,0 +1,18 @@
+---
+layout: post
+title: 'BloggerSync, layout compatibile con iPhone '
+date: '2008-11-14T23:19:00.001+01:00'
+author: Andrea Fortuna
+tags:
+- blogger
+- iPhone
+- Programmazione
+- python
+- google app engine
+- bloggersync
+modified_time: '2013-05-29T13:56:16.639+02:00'
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-1355109965320287579
+blogger_orig_url: http://www.andreafortuna.org/2008/11/bloggersync-layout-compatibile-con_14.html
+---
+
+<a href="http://andreafortuna.files.wordpress.com/2008/10/bloggersync.png?w=128" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img alt="bloggersync" border="0" class="alignright size-thumbnail wp-image-1174" height="79" src="http://andreafortuna.files.wordpress.com/2008/10/bloggersync.png?w=128" title="bloggersync" width="200" /></a>Visto l'interesse nato attorno a <a href="http://bloggersync.appspot.com/">BloggerSync</a> (le statistiche degli accessi mi hanno stupito), ho deciso di rilasciare un piccolo aggiornamento, correggendo un paio di bugs e adattando il (semplicissimo) layout dell'applicazione alla visualizzazione con iPhone.<br /><br /><a name='more'></a><br /><br />Essendo già sviluppato in maniera 'verticale', l'unica modifica necessaria per renderlo fruibile comodamente col melafonino consiste nel 'forzare' il livello di zoom di default, in modo da centrare la webapp nello schermo senza successivi ridimensionamenti a colpi di dita, utilizzando il metatag 'viewport':<br /><br /><pre class="brush:java">&lt;meta name="viewport" content="width=480" /&gt;<br /></pre><br />inoltre è una buona pratica il realizzare un foglio di stile dedicato a Safari Mobile (adattando ad esempio i fonts allo schermo di dimensioni ridotte) includendolo in questo modo:<br /><br /><pre class="brush:java;">&lt;link href="css_iphone.css" media="only screen and (max-device-width: 480px)" rel="stylesheet" type="text/css"&gt;&lt;/link&gt;&lt;br /&gt;<br /></pre><br /><a href="http://andreafortuna.files.wordpress.com/2008/11/photo.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img alt="photo" class="alignleft size-thumbnail wp-image-1215" height="96" src="http://andreafortuna.files.wordpress.com/2008/11/photo.jpg?w=64" title="photo" width="64" /></a>Così facendo tutti i device con uno schermo di dimensione superiore ai 480 pixel (iPhone in modalità 'landscape') ignoreranno il caricamento del CSS dedicato all’iPhone.
