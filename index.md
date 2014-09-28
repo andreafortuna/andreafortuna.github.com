@@ -7,18 +7,13 @@ tagline: Code monkey by day, code ninja by night...
 
  
 <div class="blog-index">
-{% assign post = site.posts.first %}
+{% for post in site.posts limit:5 %}
 {% assign content = post.content %}
 {% include post_detail.html %}
+{% endfor %}
 </div>
-
 <hr>
-
-<ul class="posts">
-  {% for post in site.posts limit:5 %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+<a href="archive.html">All posts...</a>
 
 
 
