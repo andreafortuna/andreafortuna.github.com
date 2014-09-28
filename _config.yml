@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : andreafortuna
     livefyre :
       site_id : 123
     intensedebate :
@@ -115,7 +115,7 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : false
+    provider : facebook
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:

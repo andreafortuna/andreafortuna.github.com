@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 
-tagline: Code monkey by day, code ninja by night...
+title: Code monkey by day, code ninja by night...
+tagline: 
 ---
 {% include JB/setup %}
 
@@ -12,8 +12,8 @@ tagline: Code monkey by day, code ninja by night...
 {% include post_detail.html %}
 {% endfor %}
 </div>
-<hr>
-<a href="archive.html">All posts...</a>
-
+<br>
+<a href="archive.html" style="float:right;">All posts...</a>
+<br>
 
 
