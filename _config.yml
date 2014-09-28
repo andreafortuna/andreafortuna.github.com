@@ -15,7 +15,7 @@ author :
   email : andrea@andreafortuna.org
   github : andreafortuna
   twitter : AndyF 
-  feedburner : feedname
+  feedburner : http://feeds.feedburner.com/andreafortuna
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://andreafortuna.github.com
+production_url : http://www.andreafortuna.org
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -100,7 +100,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-131216-28'
     getclicky :
       site_id : 
     mixpanel :
