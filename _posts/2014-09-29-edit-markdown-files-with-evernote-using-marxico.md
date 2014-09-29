@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Edit markdown files with evernote using Marxi.co"
+title: "Edit markdown files with Evernote using Marxi.co"
 description: ""
 category: blogging
 tags: 
