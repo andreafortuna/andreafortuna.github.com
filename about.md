@@ -14,15 +14,11 @@ Andrea Fortuna, born in 1978.
 
 I am working in Information Technology since 1998.
 
-Vegan, I love animals (*especially cats*), good food, travel, good books, good music and good cinema.
-
+Raw Vegan, i love animals (*especially cats*), good food, travel, good books, good music and good cinema.
 
 I started working in the ICT sector as an analyst / programmer in a small software house and currently i'm an IT Architect in a large telecommunications company.
 
-In my free time i play the guitar and develop applications for mobile devices (iOS, Android and Symbian).
-
-
-
+In my free time i play the guitar and [develop applications](portfolio.html) for mobile devices (iOS, Android and Symbian).
 
 
 #Contacts
