@@ -26,7 +26,7 @@ The text in the anonymous message is this:
 
 [Code4HK](http://www.code4.hk/) is a community of programmers who have been working to support the democracy movement: it has nothing to do with the application, according to Lacoon.
 
-Lacoon has released few informations about infection methods:
+Lacoon has released a lot of informations about infection methods:
 
 >The iOS device needs to be jailbroken in order to be infected. Then with Cydia installed, the repository would be need to be added and then the package could be installed. All that’s known is that both the iOS and Android attacks share a CnC server.
 
