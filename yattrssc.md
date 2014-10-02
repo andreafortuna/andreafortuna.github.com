@@ -36,7 +36,6 @@ YATTRSSC is a free and Open Source.
 
 If YATTRSSC was useful to you and want to finance the project, you can use the PayPal button below
 
-
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input name="cmd" value="_s-xclick" type="hidden">
 <input name="hosted_button_id" value="RRQTMNKKL6N78" type="hidden">
