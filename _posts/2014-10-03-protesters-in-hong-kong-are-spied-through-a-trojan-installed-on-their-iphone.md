@@ -15,6 +15,7 @@ In [this article](http://www.nytimes.com/2014/10/02/business/protesters-are-targ
 
 <!-- more -->
 The trojan could be **Xsser mRAT**, [discovered](https://www.lacoon.com/lacoon-discovers-xsser-mrat-first-advanced-ios-trojan/) few days ago from [Lacoon Mobile Security](https://www.lacoon.com):
+
 >The Xsser mRAT specifically targets iOS devices, and is related to Android spyware already distributed broadly in Hong Kong.
 
 The infection is spread by using a link sent through a WhatsApp message, that invites to download an app to help coordinate Occupy Central protests in Hong Kong. 
