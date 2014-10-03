@@ -23,6 +23,7 @@ The infection is spread by using a link sent through a WhatsApp message, that in
 >In its investigation of that spyware, Lacoon uncovered the Xsser mRAT hosted on the same Command and Control (CnC) domain with the project being named Xsser. Though called Xsser, this is not related to an XSS attack.
 
 The text in the anonymous message is this:
+
 >“Check out this Android app designed by Code4HK for the coordination of OCCUPY CENTRAL!”
 
 [Code4HK](http://www.code4.hk/) is a community of programmers who have been working to support the democracy movement: it has nothing to do with the application, according to Lacoon.
