@@ -16,6 +16,7 @@ tags:
 <!-- more -->
 
 Dropbox says:
+
 >These usernames and passwords were unfortunately stolen from other services and used in attempts to log in to Dropbox accounts. We'd previously detected these attacks and the vast majority of the passwords posted have been expired for some time now. All other remaining passwords have been expired as well.
 
 My 2 Cents: *change your password and enable [2 step authentication](https://blog.dropbox.com/2014/10/have-you-enabled-two-step-verification/)*!
