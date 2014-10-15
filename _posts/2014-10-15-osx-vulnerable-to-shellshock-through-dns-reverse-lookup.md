@@ -27,7 +27,7 @@ The vulnerability is fixed by [this patch](http://support.apple.com/kb/DL1769) l
 
 How to reproduce this flaw?
 ---
-From [seclist.org](seclists.org](http://seclists.org/fulldisclosure/2014/Oct/53) article:
+From [seclist.org](http://seclists.org/fulldisclosure/2014/Oct/53) article:
 
 >A simple zone file; such as:
 
