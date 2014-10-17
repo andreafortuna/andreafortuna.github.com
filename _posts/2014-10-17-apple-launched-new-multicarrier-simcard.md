@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apple launch a new multi-carrier Sim Card"
+title: "Apple launched a new multi-carrier Sim Card"
 description: ""
 category: Apple
 tags: 
