@@ -19,9 +19,9 @@ However, on my *Lenovo* notebook with *Synaptics* touchpad the "two-finger scrol
 
 After a quick search on support forums, i have found a very simple solution:
 
-* Open Registry Editor (Windows + R, type *regedit* and hit *Enter*)
-* Navigate to HKEY_LOCAL_MACHINE\SOFTWARE\Synaptics\SynTPEnh
-* Create a new **DWORD** called **UseScrollCursor** with a value of **0**.
-* Logoff or Restart
+*  Open Registry Editor (Windows + R, type *regedit* and hit *Enter*)
+*  Navigate to HKEY_LOCAL_MACHINE\SOFTWARE\Synaptics\SynTPEnh
+*  Create a new **DWORD** called **UseScrollCursor** with a value of **0**.
+*  Logoff or Restart
 
 That's all!
