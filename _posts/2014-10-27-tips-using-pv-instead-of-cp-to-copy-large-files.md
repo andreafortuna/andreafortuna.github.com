@@ -19,7 +19,7 @@ It could be used to monitor some long operations performed by utility that not d
 
 With a simple trick, can be used also to display a progress bar and speed monitoring when copying a very large file, with this command:
 
-```bash
+```
 pv /oldfolder/file > /newfolder/file
 ```
 
