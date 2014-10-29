@@ -15,7 +15,9 @@ tags:
 <!-- more -->
 
 [*The Register*](http://www.theregister.co.uk/2014/10/28/shellshocked_via_email_smtp_attacks_on_the_rise/) jokes about this news:
+
 >**Shellshock over SMTP attacks mean you can now ignore your email**
+
 >*'But boss, the Internet Storm Centre says it's dangerous for me to reply to you'*
 
 Attackers are using Shellshock exploits in order to drop a perl script onto compromised computers. 
