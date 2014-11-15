@@ -18,3 +18,4 @@ What can not be missed this week?
 - [How to become a web developer that stands out from the crowd](http://aestheticio.com/how-to-become-a-web-developer-part-1/)
 
 - [I'm Comic Sans, Asshole](http://mikelacher.com/portfolio/im-comic-sans-asshole/)
+
