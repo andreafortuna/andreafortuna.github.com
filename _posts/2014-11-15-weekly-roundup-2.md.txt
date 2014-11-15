@@ -1,9 +1,9 @@
 ---
-layout:post
+layout: post
 title: "My Weekly Roundup #2"
 description: "My Weekly Digest #2"
 category: WeeklyRoundup
-tags:
+tags: 
 - Roundup
 ---
 {% include JB/setup %}
