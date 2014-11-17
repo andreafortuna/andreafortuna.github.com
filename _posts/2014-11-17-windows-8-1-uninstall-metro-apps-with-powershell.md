@@ -12,6 +12,7 @@ When you uninstall a **Windows Store App** from usual options, the app is remove
 
 ![App Uninstall](http://images.gizmag.com/inline/annoyingmetro81-4.png)
 
+
 <!-- more -->
 
 To completely remove the app, you must be signed in as Administrator of you Windows Account – and you need to remove it in two places:
