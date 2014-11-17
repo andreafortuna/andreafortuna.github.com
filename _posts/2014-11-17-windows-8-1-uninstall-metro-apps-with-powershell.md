@@ -4,18 +4,19 @@ title: "Windows Tips: Completely uninstall Metro Apps from Windows 8/8.1/10 with
 description: "Windows Tips: Completely Uninstall Metro Apps From Windows 8/8.1/10 with PowerShell"
 category: Windows
 tags: 
-- Windows
-- Tips
-- PowerShell
+  - Windows
+  - Tips
+  - PowerShell
+published: true
 ---
+
 {% include JB/setup %}
 When you uninstall a **Windows Store App** from usual options, the app is removed temporarily and goes to a "staged condition":  the app still lies in Windows and is prepared to get automatic installation when a new user account is created.
 
 ![App Uninstall](http://images.gizmag.com/inline/annoyingmetro81-4.png)
 
 <!-- more -->
-
-To completely remove the app, you must be signed in as Administrator of you Windows Account – and you need to remove it in two places:
+To completely remove the app, you must be signed in as Administrator of you Windows Account and you need to remove it in two places:
 
 1. Remove the provisioned package
 2. Remove the "installed" package from the administrator account.
