@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Windows Tips: Completely Uninstall Metro Apps From Windows 8/8.1/10 with PowerShell"
+title: "Windows Tips: Completely uninstall Metro Apps from Windows 8/8.1/10 with PowerShell"
 description: "Windows Tips: Completely Uninstall Metro Apps From Windows 8/8.1/10 with PowerShell"
 category: Windows
 tags: 
 - Windows
 - Tips
+- PowerShell
 ---
 {% include JB/setup %}
 When you uninstall a **Windows Store App** from usual options, the app is removed temporarily and goes to a "staged condition":  the app still lies in Windows and is prepared to get automatic installation when a new user account is created.
