@@ -16,7 +16,7 @@ What can not be missed this week?
 
 - [Apple iOS 8.1.1 Fixes Several Code-Execution Flaws](http://threatpost.com/apple-ios-8-1-1-fixes-several-code-execution-flaws/109423)
 
-[http://xkcd.com/1445/](![Efficiency](http://imgs.xkcd.com/comics/efficiency.png))
+[![Efficiency](http://imgs.xkcd.com/comics/efficiency.png)](http://xkcd.com/1445/)
 
 - [Revealed: The Lost Chapter of Interstellar](http://www.wired.com/2014/11/absolute-zero/)
 
