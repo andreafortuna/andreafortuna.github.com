@@ -11,9 +11,9 @@ tags:
 
 ![Thunderstrike](https://farm9.static.flickr.com/8576/15519086824_abf2dc26bd.jpg)
 
-<!-- more -->
-
 **Trammel Hudson** gave a [talk](https://trmm.net/Thunderstrike_31c3#Summary) at the recent [31C3](http://events.ccc.de/congress/2014/wiki/Static:Main_Page) event in Hamburg, Germany, during which he described an attack called **Thunderstrike**, a *OSX bootkit* delivered either through direct access to the Apple hardware or via a thunderbolt-connected peripheral device.
+
+<!-- more -->
 
 The original Hudson's article is available at [this link](https://trmm.net/Thunderstrike_31c3), and a simple analysis is provided by [ThreatPost](http://threatpost.com/first-public-mac-os-x-firmware-bootkit-unleashed/110287):
 
