@@ -7,7 +7,7 @@ tags:
 - Roundup
 ---
 {% include JB/setup %}
-What can not be missed this firt week of 2015?
+What can not be missed this first week of 2015?
 
 ![Weekly Roundup](https://m3hogw-ch3301.files.1drv.com/y2pGokBTIFXn7-waw4ox3h9MsiYg1NLeM7EzllHai10fy4aL6sT4AaKbhpjlLGZmuFPFh8fhiAcdcXAaVhch1ftkS31-9Z19P6hWtt0RzygNAwYzSY2s4JXsdpxaj3XKXDoOprliH8wEp6vMO6PC3QWUw/reading.jpg)
 <!-- more -->
