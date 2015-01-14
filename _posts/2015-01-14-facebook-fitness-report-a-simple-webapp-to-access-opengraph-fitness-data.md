@@ -33,6 +33,6 @@ i have forced the API to return all datafeed.
 
 All processed data are stored locally in the browser using the **localStorage** capability, for a fast further access.
 
-The application is available from [http://fitnessreport.andreafortuna.org](http://fitnessreport.andreafortuna.org): is made with a responsive layout, so can be visualized on mobile and desktop.
+The application is available from [http://fitnessreport.andreafortuna.org](http://fitnessreport.andreafortuna.org) (actually works only with **Firefox** and **Chrome**): is made with a responsive layout, so can be visualized on mobile and desktop.
 
 Obviously all [source code](http://git.andreafortuna.org/fitnessreport/src/) is available on my [GIT repository](http://git.andreafortuna.org/): suggestions and bug reports are welcome!
