@@ -23,7 +23,7 @@ The app is realized in HTML5 (using a usefull [responsive boilerplate](http://ww
 
 After the facebook login process, needed to obtain an access token, the access to facebook data feed is made with a simple **$.getJSON** call, with a simple trick: by default, the result is paginated but with an optional querystring parameter (**limit=100000**)
 
-```javascript
+```
 $.getJSON("https://graph.facebook.com/v2.2/me/fitness.runs?limit=100000&access_token=" + fbToken
 ```
 
