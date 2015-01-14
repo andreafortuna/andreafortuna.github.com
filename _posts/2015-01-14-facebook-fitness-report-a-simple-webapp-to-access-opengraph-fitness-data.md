@@ -11,7 +11,7 @@ tags:
 ---
 {% include JB/setup %}
 
-In my previous post, I have published a simple report of my running activities in 2014.
+In my [previous post](http://www.andreafortuna.org/running/2015/01/12/running-chronicles-2014-report/), I have published a simple report of my running activities in 2014.
 All data used for the report are extracted from my facebook datafeed, using the [OpenGraph API](https://developers.facebook.com/docs/opengraph?locale=it_IT).
 
 ![caledos](/images/caledosRunner.PNG)
