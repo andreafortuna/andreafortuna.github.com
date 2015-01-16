@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Andy's Weblog
+title: My latest posts
 tagline: 
 ---
 {% include JB/setup %}
