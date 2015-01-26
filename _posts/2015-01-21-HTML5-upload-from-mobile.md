@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "HTML5: take a photo and upload them from mobile phone browser"
-description: "Simple tutorial: take a photo and upload them from mobile phone browser"
+title: "HTML5: take a photo and upload it from mobile phone browser"
+description: "Simple tutorial: take a photo and upload it from mobile phone browser"
 category: Programming
 tags: 
 - HTML5
@@ -9,6 +9,11 @@ tags:
 - Javascript
 ---
 {% include JB/setup %}
+
+**UPDATED on 2015-01-26 with [Image Resize](/programming/2015/01/26/HTML5-upload-from-mobile-with-image-resize/)**
+
+***
+
 Yesterday, a colleague asked me: 
 
 >"Andy, I need to make a simple mobile application that takes a picture and sends it to my webserver. It's too difficult?"
