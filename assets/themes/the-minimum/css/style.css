@@ -51,9 +51,16 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
+  font-family:  Calibri, Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
   font-weight: bold;
 }
+
+/* Adsense patch */
+
+ins {
+    background-color: #FFFFFF !important;
+}
+
 h1, .h1 {
   font-size: 42px;
   line-height: 52px;
@@ -230,13 +237,13 @@ pre {
 /* MAIN
 --------------------------------------------------------------------------------- */
 .unit-article header {
-  background: url('/assets/themes/the-minimum/skin/100-90-5-monochrome.png');
+  /*background: url('/assets/themes/the-minimum/skin/100-90-5-monochrome.png');
   background-repeat: repeat;
   background-position: 0 0;
   background-color: #BADA55;
   margin-bottom: 1.625em;
   padding-top: 1.625em;
-  padding-bottom: 1.625em;
+  padding-bottom: 1.625em; */
 }
 .unit-article header h1 {
   color: #2d2d2d;
@@ -548,6 +555,7 @@ pre {
 .the-header .logo a {
   font-size: 32px;
   line-height: 42px;
+  font-weight: bold;
 }
 .unit-article .unit-head-inner,
 .unit-article .entry-content,
@@ -676,8 +684,8 @@ pre {
   }
   .the-header .nav-global {
     margin-top: 1.625em;
-    letter-spacing: -0.31em;
-    *letter-spacing: normal;
+   /* letter-spacing: -0.31em;
+    *letter-spacing: normal;*/
     word-spacing: -0.43em;
     list-style: none;
     padding-left: 0;
@@ -765,7 +773,7 @@ pre {
     float: left;
   }
   .the-header .nav-global {
-    margin-top: 21px;
+    margin-top: 15px;
     text-align: right;
     width: 26.25em;
     float: right;
