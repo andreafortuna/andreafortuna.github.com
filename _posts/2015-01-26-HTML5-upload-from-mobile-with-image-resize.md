@@ -9,13 +9,13 @@ tags:
 - Javascript
 ---
 {% include JB/setup %}
-Today, the same colleague of [previous post](/programming/2015/01/21/HTML5-upload-from-mobile/), tell me: 
+Today, the same colleague of [previous post](http://www.andreafortuna.org/programming/2015/01/21/HTML5-upload-from-mobile/), tell me: 
 
 >"Your script works great, but if i take a very big image, the upload with 3G data network is sooooo slow! It's possible to resize the image BEFORE the upload?"
 
 Yes, it's possible!
 
-![HTML5](/images/resize.jpg)
+![HTML5](http://www.andreafortuna.org/images/resize.jpg)
 
 <!-- more -->
 Using the [File API](https://developer.mozilla.org/en-US/docs/Using_files_from_web_applications), and processing the images with the [canvas element](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Using_images), we can resize the image before upload it.

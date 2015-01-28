@@ -20,7 +20,7 @@ Yesterday, a colleague asked me:
 
 Obviously no, with a little bit of HTML5. ;-)
 
-![HTML5](/images/HTML5Common.png)
+![HTML5](http://www.andreafortuna.org/images/HTML5Common.png)
 
 <!-- more -->
 Let's start making an HTML page with a simple form that permits the user to select or take a photo using the phone camera:
