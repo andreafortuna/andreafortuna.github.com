@@ -8,7 +8,8 @@ description: ""
 
 
 
-Andrea Fortuna, born in 1978.
+<br/>
+**Andrea Fortuna, born in 1978.**
 
 <a href="http://4.bp.blogspot.com/-Gcum7xipqJI/USoINw-e-kI/AAAAAAAAEaI/PtjVufUBil8/s1600/AndyF2_small.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img src="http://4.bp.blogspot.com/-Gcum7xipqJI/USoINw-e-kI/AAAAAAAAEaI/PtjVufUBil8/s200/AndyF2_small.jpg" border="0" height="200" width="150"></a>
 
