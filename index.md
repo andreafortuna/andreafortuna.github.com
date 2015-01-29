@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My latest posts
+title: Code monkey by day, code ninja by night
 tagline: 
 ---
 {% include JB/setup %}
