@@ -11,7 +11,7 @@ tags:
 ---
 {% include JB/setup %}
 
-[Laxman Muthiyah](https://plus.google.com/104205981064231768788) on his blog has [published](http://www.7xter.com/2015/02/how-i-hacked-your-facebook-photos.html) a post that explain a vulnerability on Facbook Open Graph API, that permits an attacker to delete any photo album on Facebook. 
+[Laxman Muthiyah](https://plus.google.com/104205981064231768788) on his blog has [published](http://www.7xter.com/2015/02/how-i-hacked-your-facebook-photos.html) a post that explain a vulnerability on Facebook OpenGraph API, that permits an attacker to delete any photo album on Facebook. 
 
 
 ![FACEBOOK](http://4.bp.blogspot.com/-0-v9JVM_6Iw/VNuhDwi-hMI/AAAAAAAAAA8/BlXn8DsZ-NI/s1600/first%2Back.JPG)
