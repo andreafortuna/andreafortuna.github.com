@@ -11,7 +11,7 @@ tags:
 ---
 {% include JB/setup %}
 Some colleagues asked me: "Why go running every morning before come to the office?".
-![Morning run](http://www.andreafortuna.org/images/morning-jump.jpg)
+![Morning run](http://www.andreafortuna.org/images/morning_jump.jpg)
 <!-- more -->
 
 The explanation is very simple, for me:
