@@ -15,7 +15,7 @@ Some colleagues asked me: "Why go running every morning before come to the offic
 ![Morning run](http://www.andreafortuna.org/images/morning_jump.jpg)
 <!-- more -->
 
-The explanation is very simple, for me:
+The explanation is very simple, in my case:
 
 1. I don't like make workouts in the afternoon: after the office work i like to devote some time to more relaxing activities (reading, cooking, listen music, watching movies and TV Series)
 
