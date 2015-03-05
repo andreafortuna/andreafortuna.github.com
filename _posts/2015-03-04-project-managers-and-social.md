@@ -11,7 +11,7 @@ tags:
 
 ---
 {% include JB/setup %}
-In recent days I have attended a course taught by the excellent [Piero Tagliapietra](http://www.piero.tagliapietra.net/) dedicated to "*Strategic and Tactical Approaches to the Social Media*".
+Recently  I have attended a course taught by the excellent [Piero Tagliapietra](http://www.piero.tagliapietra.net/) dedicated to "*Strategic and Tactical Approaches to the Social Media*".
 
 ![TwitterAndInstagram](http://wanna-joke.com/wp-content/uploads/2013/08/funny-pictures-some-truth-about-social-networks.jpg)
 <!-- more -->
