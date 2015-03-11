@@ -15,7 +15,7 @@ tags:
 ---
 {% include JB/setup %}
 
-Egor Homakov, a security researcher of penetration testing company "[Sakurity](http://sakurity.com/)", has discovered a vulnerability that allows malicious hackers take over Facebook accounts on websites that use the 'Login with Facebook' feature.
+[Egor Homakov](https://twitter.com/homakov), a security researcher of penetration testing company "[Sakurity](http://sakurity.com/)", has discovered a vulnerability that allows malicious hackers take over Facebook accounts on websites that use the 'Login with Facebook' feature.
 
 ![ReConnect](http://sakurity.com/img/reconnect.png)
 <!-- more -->
