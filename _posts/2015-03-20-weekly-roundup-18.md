@@ -8,6 +8,14 @@ tags:
 - Geek
 - Security
 - Programming
+- Eclipse
+- Windows
+- Elon Musk
+- Scrum
+- Teamwork
+- Mike Porcaro
+- Facebook
+- APT
 
 ---
 {% include JB/setup %}
