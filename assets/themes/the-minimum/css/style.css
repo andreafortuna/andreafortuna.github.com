@@ -769,13 +769,13 @@ pre {
     width: 60em;
   }
   .the-header .logo {
-    width: 26.25em;
+    width: 20em;
     float: left;
   }
   .the-header .nav-global {
     margin-top: 15px;
     text-align: right;
-    width: 26.25em;
+    width: 36em;
     float: right;
   }
   .unit-article .unit-head-inner,
