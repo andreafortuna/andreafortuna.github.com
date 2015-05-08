@@ -15,7 +15,7 @@ In some configurations with special customizations, updating wordpress cannot/mu
 
 How to disable the update messages without using a [special plug-in](https://wordpress.org/plugins/disable-wordpress-updates/)?
 
-![Wordpress](http://pixabay.com/static/uploads/photo/2014/02/13/07/28/wordpress-265132_640.jpg)
+![Wordpress](http://www.andreafortuna.org/images/wordpress.jpg)
 <!-- more -->
 
 With a simple snippet! Paste this code in ***function.php*** of the active theme:
