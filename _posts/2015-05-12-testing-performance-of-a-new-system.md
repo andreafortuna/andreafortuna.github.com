@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing the performance of a new new system before website's migration"
+title: "Testing the performance of a new system before website's migration"
 description: "a very simple trick to testing the performance of a new system before the website's migration"
 category: Programming
 tags: 
