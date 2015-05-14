@@ -23,14 +23,17 @@ In my free time i play the guitar and [ukulele](ukulele.html) and [develop appli
 
 #Contacts
 
-<ul>
-<li><i class="icon-facebook"></i>&nbsp;<a href="https://www.facebook.com/andreafortuna" target="_blank">https://www.facebook.com/andreafortuna</a></li>
+<ul  style="list-style-type: none;">
+<li><i class="icon-facebook"></i>&nbsp;<a href="https://www.facebook.com/andreafortuna" target="_blank">facebook.com/andreafortuna</a></li>
 <li><i class="icon-twitter"></i>&nbsp;<a href="https://twitter.com/AndyF" target="_blank">@AndyF</a></li>
 <li><i class="icon-linkedin"></i>&nbsp;<a href="http://it.linkedin.com/in/andreafortuna/" target="_blank">it.linkedin.com/in/andreafortuna/</a></li>
-<li><i class="icon-instagram"></i>&nbsp;<a href="http://instagram.com/andrea_fortuna" target="_blank">http://instagram.com/andrea_fortuna</a></li>
+<li><i class="icon-youtube"></i>&nbsp;<a href="https://www.youtube.com/c/AndreaFortuna" rel="me">youtube.com/c/AndreaFortuna</a></li>
+<li><i class="icon-instagram"></i>&nbsp;<a href="http://instagram.com/andrea_fortuna" target="_blank">instagram.com/andrea_fortuna</a></li>
 <li><i class="icon-github"></i>&nbsp;<a href="https://github.com/andreafortuna">https://github.com/andreafortuna</a></li>
-<li><i class="icon-envelope"></i>&nbsp;<a href="mailto:andy@andreafortuna.org" target="_blank">andy@andreafortuna.org</a></li>
+<li><i class="icon-envelope"></i>&nbsp;<a href="mailto:andrea@andreafortuna.org" target="_blank">andrea@andreafortuna.org</a></li>
 <li><i class="icon-skype"></i>&nbsp;andreafortuna</li>
 </ul>
+
+
 <div style="clear: both;"></div>
 
