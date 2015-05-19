@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Code monkey by day, code ninja by night
+title: Technology, Running and Ukulele!
 tagline: 
 ---
 {% include JB/setup %}
