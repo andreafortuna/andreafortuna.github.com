@@ -13,7 +13,7 @@ Recently, I had a "love at first sight" for the ukulele: a musical instrument th
 
 In this section I am going to publish my thoughts, my exercises and my transcriptions.
 
-
+<hr/>
  
 <div class="blog-index">
 
