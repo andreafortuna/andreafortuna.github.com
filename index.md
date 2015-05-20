@@ -7,7 +7,7 @@ tagline:
 
  
 <div class="blog-index">
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:10 %}
 {% assign content = post.content %}
 {% include post_detail.html %}
 {% endfor %}
