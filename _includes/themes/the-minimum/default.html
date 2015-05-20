@@ -16,6 +16,17 @@
 </head>
 <body>
 
+<!-- cookies warning -->
+
+<script src="{{ ASSET_PATH }}/scripts/cookiechoices.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('We use cookies to improve your browsing experience. By continuing to use our website you agree to our use of such cookies.',
+      'Accept', 'Find out more', '/privacy.html');
+  });
+</script>
+<!-- cookies warning end -->
+
 <div id="page" class="hentry">
 	<header class="the-header">
 		<div class="unit-head">
