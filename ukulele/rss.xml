@@ -15,14 +15,15 @@ title : RSS Feed
         <ttl>1800</ttl>
 
 {% for post in site.posts limit: 20 %}
+        {% if post.categories contains 'ukulele' %}
         <item>
                 <title>{{ post.title }}</title>
-                <category>{{ post.categories }}</category>
                 <description>{{ post.content | xml_escape }}</description>
                 <link>{{ site.production_url }}{{ post.url }}</link>
                 <guid>{{ site.production_url }}{{ post.id }}</guid>
                 <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
         </item>
+        {% endif %}
 {% endfor %}
 
 </channel>
