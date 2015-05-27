@@ -15,7 +15,7 @@ It may happen that you have need to make a wordpress site accessible only to reg
 
 Let's see how to make a courtesy page for anonymous users without using any plugins.
 
-![Wordpress](/images/wordpress2.jpg)
+![Wordpress](http://www.andreafortuna.org/images/wordpress2.jpg)
 <!-- more -->
 
 It is enough to add on top of the file ***header.php*** of the active theme the following code snippet:

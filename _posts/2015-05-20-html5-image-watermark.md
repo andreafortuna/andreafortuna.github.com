@@ -15,7 +15,7 @@ tags:
 {% include JB/setup %}
 Using the CANVAS object introduced by HTML5 we can do several operations  on images. Today we see how to apply a text watermark.
 
-![jswatermark](/images/jswatermark.PNG)
+![jswatermark](http://www.andreafortuna.org/images/jswatermark.PNG)
 <!-- more -->
 
 I have [already covered (in italian)](http://www.andreafortuna.org/2013/05/24/html5-utilizzare-loggetto-canvas-per/) the topic in the past, but I explained how to apply a watermark using a logo in PNG. 
