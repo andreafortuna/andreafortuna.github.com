@@ -11,7 +11,7 @@ tags:
 
 ---
 {% include JB/setup %}
-I have realized that many of the "43 Ghiribizzi" Paganini (I have already talked about in [this post](http://www.andreafortuna.org/ukulele/2015/05/25/paganini-ghiribizzo-no-4/)) are well placed to be transcribed for ukulele.
+I have realized that many of the Paganini's "43 Ghiribizzi" (I have already talked about in [this post](http://www.andreafortuna.org/ukulele/2015/05/25/paganini-ghiribizzo-no-4/)) are well placed to be transcribed for ukulele.
 
 ![Ghiribizzo No. 4](http://www.andreafortuna.org/images/Ghiribizzo1.png)
 <!-- more -->
