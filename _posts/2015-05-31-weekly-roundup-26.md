@@ -37,7 +37,7 @@ Security & Privacy
 --
 [![History](https://i.chzbgr.com/maxW500/8025350656/hA8E190B1/)](http://cheezburger.com/8025350656)
 
-- [This Facebook Hack Allows You to Track Your Friends On Map](http://thehackernews.com/2015/05/facebook-hack-location.html)
+- [This Facebook Hack Allows You to Track Your Friends On Map](http://thehackernews.com/2015/05/facebook-hack-location.html){:target="_blank"}
 
 - [Crashing an iPhone with a simple message?](http://www.andreafortuna.org/security/2015/05/29/ios-imessage-crash/)
 
