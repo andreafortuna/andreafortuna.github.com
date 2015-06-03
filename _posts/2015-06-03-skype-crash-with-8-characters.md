@@ -20,7 +20,7 @@ Today is the turn of Skype: users have discovered that sending the characters "h
 The bug works on *Windows*, *Android*, and *iOS*. 
 It seem to have no effect on Skype for Mac and Skype for modern Windows.
 
-[Venturebeat.com](http://venturebeat.com/) asked to Skype a confirm:
+[Venturebeat.com](http://venturebeat.com/2015/06/02/these-8-characters-crash-skype-and-once-theyre-in-your-chat-history-the-app-cant-start/) asked to Skype a confirm:
 
 >**Update**: Skype has confirmed the bug. "We are aware of the problem and are working to provide an resolution" a Skype spokesperson told VentureBeat.
 
