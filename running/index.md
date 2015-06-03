@@ -7,6 +7,12 @@ tagline: Running
 
 ![Homer on the couch](/images/homer.png)
 
+«Pain is inevitable. Suffering is optional.»
+--
+<p style="text-align: right;font-style: italic;"><strong>Haruki Murakami</strong></p>
+
+<hr/>
+
 In June 2012, my life changed: after 34 years spent on the couch, I decided to start doing something for my body and start doing exercise.
 
 I wore the first pair of sneakers that I found in the house, I went out to run and since that day I have not stopped more!

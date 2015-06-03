@@ -7,6 +7,13 @@ tagline: Ukulele
 
 ![My Ukulele](/images/ukulele.jpg)
 
+«If everyone played the ukulele, the world would be a better place.»
+--
+<p style="text-align: right;font-style: italic;"><strong>Jake Shimabukuro</strong></p>
+
+
+<hr/>
+
 As a child I started studying music and classical guitar, then i dedicated myself also to other musical genres.
 
 Recently, I had a "love at first sight" for the ukulele: a musical instrument that many call a "little guitar", but with a soul and a technique radically different from his cousin with 6 strings.
