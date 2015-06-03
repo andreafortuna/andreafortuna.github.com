@@ -24,3 +24,10 @@ It seem to have no effect on Skype for Mac and Skype for modern Windows.
 
 >**Update**: Skype has confirmed the bug. "We are aware of the problem and are working to provide an resolution" a Skype spokesperson told VentureBeat.
 
+<hr/>
+
+<a name="update">**UPDATE**</a>
+
+Reddit user [yorkshireale](http://www.reddit.com/user/yorkshireale) tells me:
+
+>This has already been fixed with the latest update to Skype.

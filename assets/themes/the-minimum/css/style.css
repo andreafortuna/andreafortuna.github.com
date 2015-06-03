@@ -859,3 +859,34 @@ pre {
     margin-right: 360px;
   }
 }
+
+figure, figure img { margin-bottom: 0px; text-align: center; }
+
+figure {
+  max-width:170px;
+  float:right;
+  margin:30px;
+
+  border: 1px solid #323232;
+  padding: 5px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 3px 3px 5px rgba(50, 50, 50, .5);
+  
+}
+
+figure img {
+  max-width:160px;
+  border: 1px solid #323232;
+  background: #fff;
+  border-radius: 12px;
+}
+
+figcaption {
+  padding: 5px;
+  font-size: 0.7em;
+  font-weight: 700;
+  background: transparent;
+  word-wrap:normal;
+  text-align: center;
+}
