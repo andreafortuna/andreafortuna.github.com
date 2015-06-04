@@ -18,7 +18,7 @@ A blister is an accumulation of plasma and other body fluids between the layers 
 
 The presence of this small bag filled with liquid also prevents the contact of the bacteria with the wound by removing the risk of infections.
 
-Here is a small Decalogue (made by drawing exclusively on my personal experiences and probably without any medical basis) to prevent the formation of blisters, to speed healing and how to use them in our favor:
+Here is a small Decalogue (made by drawing exclusively on my personal experiences *and probably without any medical basis*) to prevent the formation of blisters, to speed healing and how to use them in our favor:
 
 - Running a little, but every day; the skin of the foot in this way you can get used gradually and smoothly.
 
