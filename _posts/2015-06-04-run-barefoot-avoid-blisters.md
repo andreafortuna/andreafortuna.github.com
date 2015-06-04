@@ -5,8 +5,8 @@ description: "My2C to prevent blisters."
 category: Running
 tags: 
 - Running
-- barefoot
-- blisters
+- Barefoot
+- Blisters
 
 ---
 {% include JB/setup %}
