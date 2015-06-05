@@ -18,7 +18,8 @@ Today propose a new simple exercise, which can be used both as a warmup pattern 
 ![Ukulele](http://www.andreafortuna.org/ukulele/images/tima.png)
 <!-- more -->
 
-It is a simple chromatic scale played 1-2-3-4 with fingering of the left hand, and a T-I-M-A pattern (thumb, index, middle, ring) on the right hand.
+It is a simple chromatic scale played on the left hand with a 1-2-3-4 fingering , and a T-I-M-A pattern (thumb, index, middle, ring) on the right hand. 
+
 Each pattern must be repeated across the entire fretboard, up to the last fret and returning to the first.
 
 The first pattern is very simple,  in the other two is increased the distance of the string skipping, stimulating the precision in execution in both hands.

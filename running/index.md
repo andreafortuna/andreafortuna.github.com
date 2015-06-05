@@ -18,7 +18,7 @@ In June 2012, my life changed: after 34 years spent on the couch, I decided to s
 I wore the first pair of sneakers that I found in the house, I went out to run and since that day I have not stopped more!
  
 <hr/>
-
+<p style="text-align: right;float:right;margin-top:60px;margin-left:20px;"><a href="rss.xml"><i class="fa fa-rss fa-4x" >&nbsp;</i></a></p>
 <div class="blog-index">
 
 {% for post in site.posts %}

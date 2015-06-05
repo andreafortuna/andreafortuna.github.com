@@ -19,9 +19,8 @@ As a child I started studying music and classical guitar, then i dedicated mysel
 Recently, I had a "love at first sight" for the ukulele: a musical instrument that many call a "little guitar", but with a soul and a technique radically different from his cousin with 6 strings.
 
 In this section I am going to publish my thoughts, my exercises and my transcriptions.
-
 <hr/>
- 
+<p style="text-align: right;float:right;margin-top:60px;margin-left:20px;"><a href="rss.xml"><i class="fa fa-rss fa-4x" >&nbsp;</i></a></p>
 <div class="blog-index">
 
 {% for post in site.posts %}
