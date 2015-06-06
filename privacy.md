@@ -168,6 +168,6 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-*http://andreafortuna.org* -  Milan, Italy - Via Angelo Inganni, 16 MI 20147 - andrea@andreafortuna.org
+*http://andreafortuna.org* -  Milan, Italy - Via Angelo Inganni, 7 MI 20147 - andrea@andreafortuna.org
 
 ***Last Edited on 2015-01-26***
