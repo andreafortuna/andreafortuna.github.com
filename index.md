@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Technology, Running and Ukulele!
-tagline: 
+tagline: Technology, Running and Ukulele!
+description: "Technology, Running and Ukulele"
 ---
 {% include JB/setup %}
 
