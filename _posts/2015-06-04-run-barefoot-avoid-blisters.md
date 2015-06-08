@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Avoid blisters, with shoes and barefoot"
+thumbnail: "http://www.andreafortuna.org/running/images/barefoot_1.jpg"
 description: "My2C to prevent blisters."
 category: Running
 tags: 

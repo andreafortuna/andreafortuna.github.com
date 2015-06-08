@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ukulele Tips: chromatic exercise for both hands"
+thumbnail: "http://www.andreafortuna.org/ukulele/images/tima.png"
 description: "Ukulele Tips: chromatic exercise for both hands"
 category: Ukulele
 tags: 

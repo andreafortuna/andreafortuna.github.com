@@ -2,6 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #27"
 description: "My Weekly Digest #27"
+thumbnail: "https://rubywaynet.files.wordpress.com/2014/02/skypeout.jpg"
 category: WeeklyRoundup
 tags: 
 - Roundup

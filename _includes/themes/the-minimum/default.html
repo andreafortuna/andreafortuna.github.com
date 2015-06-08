@@ -10,11 +10,19 @@
 	
 
 	<meta content="{{ page.title }}"  property="og:title"/>
-	<meta content="{{ page.excerpt }}" property="og:description" />
+	<meta content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}" property="og:description" />
 	<meta content="article" property="og:type"  />
 	<meta property="article:author" content="https://www.facebook.com/andreafortuna" />
 	<meta content="http://www.andreafortuna.org{{ page.url }}/" property="og:url" />
 	<meta content="{{ site.title }}" property="og:site_name" />
+	{% if page.date %}
+	<meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+	{% endif %}
+	{% if page.thumbnail %}
+	<meta property="og:image" content="{{ page.thumbnail }}" />
+	{% endif %}
+
+
 
 	<meta name="author" content="{{ site.author.name }}">
 	<meta name="google-site-verification" content="DecfzkGZRRNdC0sC_2oYaK94hP7W4nEtg1k6Oefxiw4" />
