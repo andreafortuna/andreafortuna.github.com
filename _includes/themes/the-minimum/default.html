@@ -7,6 +7,14 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<title>{{ page.title }} | {{ site.title }}</title>
+	
+
+	<meta content="{{ page.title }}"  property="og:title"/>
+	<meta content="{{ page.excerpt }}" property="og:description" />
+	<meta content="article" property="og:type"  />
+	<meta content="http://www.andreafortuna.org{{ page.url }}" property="og:url" />
+	<meta content="{{ site.title }}" property="og:site_name" />
+
 	<meta name="author" content="{{ site.author.name }}">
 	<meta name="google-site-verification" content="DecfzkGZRRNdC0sC_2oYaK94hP7W4nEtg1k6Oefxiw4" />
 	<link href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' rel='stylesheet'/>
