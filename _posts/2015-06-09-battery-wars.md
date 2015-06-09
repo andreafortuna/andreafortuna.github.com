@@ -39,3 +39,6 @@ And yesterday Apple have presented the new iOS 9 with (finally) a new functional
 Perhaps our beloved devices will survive an entire day on a single charge? I know I'm a dreamer!
 
 ![Fresh battery](http://cdn.someecards.com/someecards/usercards/MjAxMy0yMTIyZTA2N2MyMGQ1NWQz_5272bf304be0a.png)
+
+
+Image credits: [CommitStrip](http://www.commitstrip.com/en/2014/07/30/the-lithium-anode-according-to-journalists/){:target="_blank"}
