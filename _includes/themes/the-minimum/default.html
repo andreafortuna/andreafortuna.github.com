@@ -27,7 +27,7 @@
 
 
 	<meta name="author" content="{{ site.author.name }}">
-	
+	<meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}" />
 	<meta name="google-site-verification" content="DecfzkGZRRNdC0sC_2oYaK94hP7W4nEtg1k6Oefxiw4" />
 	<link href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' rel='stylesheet'/>
 	<link href='{{ ASSET_PATH }}/css/style.css' rel="stylesheet" media="all">

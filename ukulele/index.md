@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Ukulele stuff
+description: "Ukulele transcriptions, tutorials, videos"
+thumbnail: "http://www.andreafortuna.org/images/ukulele.jpg"
 tagline: Ukulele
 ---
 {% include JB/setup %}
