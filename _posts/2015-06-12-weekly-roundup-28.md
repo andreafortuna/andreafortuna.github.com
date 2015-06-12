@@ -11,6 +11,20 @@ tags:
 - Programming
 - Running
 - Ukulele
+- Music
+- iOS
+- Apple
+- WhatsApp
+- OpenSSL
+- Samantha Cristoforetti
+- Christopher Lee
+- Ornette Coleman
+- Hyperloop
+- Android
+- NGINX
+- JavaScript
+- Ember
+- Barefoot
 
 ---
 {% include JB/setup %}
