@@ -1,18 +1,17 @@
 ---
 layout: page
-title: Ukulele stuff
+title: Ukulele transcriptions, tutorials, videos
 description: "Ukulele transcriptions, tutorials, videos"
-thumbnail: "http://www.andreafortuna.org/images/ukulele.jpg"
+thumbnail: "http://www.andreafortuna.org/ukulele/images/ukulele2.jpg"
 tagline: Ukulele
 ---
 {% include JB/setup %}
-
-![My Ukulele](/images/ukulele.jpg)
 
 «If everyone played the ukulele, the world would be a better place.»
 --
 <p style="text-align: right;font-style: italic;"><strong>Jake Shimabukuro</strong></p>
 
+![My Ukulele](/ukulele/images/ukulele2.jpg)
 
 <hr/>
 

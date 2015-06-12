@@ -5,11 +5,11 @@ tagline: Running
 ---
 {% include JB/setup %}
 
-![Homer on the couch](/images/homer.png)
-
 «Pain is inevitable. Suffering is optional.»
 --
 <p style="text-align: right;font-style: italic;"><strong>Haruki Murakami</strong></p>
+
+![Homer on the couch](/images/homer.png)
 
 <hr/>
 
