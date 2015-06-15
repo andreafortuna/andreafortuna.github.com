@@ -2,6 +2,7 @@
 layout: post
 title: "Super Mario Bros. Ground Theme: my ukulele cover (video and transcription)"
 description: "Super Mario Bros. Ground Theme: my ukulele cover (video and tab)"
+thumbnail: "http://www.andreafortuna.org/images/Super_Mario_Bros__Logo.png"
 category: Ukulele
 tags: 
 - Ukulele
@@ -15,7 +16,7 @@ tags:
 {% include JB/setup %}
 Why I started playing the ukulele? But it's obvious: to play the theme of *Super Mario Bros.*!
 
-![SuperMarioBros](/images/Super_Mario_Bros__Logo.png)
+![SuperMarioBros](http://www.andreafortuna.org/images/Super_Mario_Bros__Logo.png)
 <!-- more -->
 
 One of most famous videogame soundtrack  (along with *Korobeiniki*, the theme of "Tetris"), includes a huge number of covers and remixes.
@@ -32,3 +33,12 @@ So I decided to create my own transcription of the song (with tablature and fing
 The piece is quite simply: the fingerings (especially those relating to the right hand) are just suggestions based on my technique.
 
 [![Download!](/images/Download-PDF-Button.png)](/files/SuperMarioBros.pdf)
+
+
+
+UPDATE 15/06/2015
+---
+
+I publish also a version arranged for "Low G" tuning:
+
+[![Download!](/images/Download-PDF-Button.png)](/ukulele/files/SuperMarioBrosLowG.pdf)
