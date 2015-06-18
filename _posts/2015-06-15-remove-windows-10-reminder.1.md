@@ -16,8 +16,6 @@ Annoyed by the notification in the tray area that reminds you that is available 
 ![Battery](http://www.andreafortuna.org/technology/images/getwindows10.png)
 <!-- more -->
 
-Annoyed by the notification in the tray area that reminds you that is available the free upgrade to Windows 10?
-
 Removing is very simple, follow this simple steps:
 
 1. Open "Run" command box by pressing *Windows* and *R* keys.
