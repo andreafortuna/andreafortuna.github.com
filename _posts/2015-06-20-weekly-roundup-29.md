@@ -20,7 +20,10 @@ tags:
 - SEO
 - WebAssembly
 - Notepad++
-- 
+- DuckDuckGo
+- Curiosity
+- PHP
+- Paganini
 
 ---
 {% include JB/setup %}
