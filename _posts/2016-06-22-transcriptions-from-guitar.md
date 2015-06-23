@@ -74,7 +74,7 @@ After defining the dynamics the execution is very simple except the beats 8 and 
 
 Believe me, you can do it! I don't have enormous hands and I can play it without difficulty...a bit of finger-stretching it never hurts!
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/SweetChildOMine.pdf)
+[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Matteo_Carcassi_Andantino_in_C.pdf)
 
 
 
