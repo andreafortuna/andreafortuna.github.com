@@ -11,7 +11,7 @@ tags:
 
 ---
 {% include JB/setup %}
-Another version of the "Spider Exercise". Even this exercise is born on the guitar, but easily adaptable on ukulele.
+Another version of the ["Spider Exercise"](http://www.andreafortuna.org/ukulele/2015/05/19/ukulele-spider-pattern/). Even this exercise is born on the guitar, but easily adaptable on ukulele.
 
 ![SpiderV2](http://www.andreafortuna.org/ukulele/images/ukuspiderv2.PNG)
 <!-- more -->
