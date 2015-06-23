@@ -41,7 +41,7 @@ Let us now consider the transcript of a simple study of Matteo Carcassi that all
 
 It's a simple *Andantino in C major*, so well suited for ukulele arrangement that allowing a total fidelity to the original score:
 
-![Andantino Carcassi](http://www.andreafortuna.org/AndantinoCarcassi1.png)
+![Andantino Carcassi](http://www.andreafortuna.org/ukulele/images/AndantinoCarcassi1.png)
 
 
 The guitar  fingering  is made by Ruggero Chiesa (the music sheet is taken from his famous method "Guitar Gradus")
@@ -66,13 +66,13 @@ During the execution it will be necessary to pay attention to the dynamics of th
 
 This is my interpretation:
 
-[SCORE]
+![Andantino Carcassi for ukulele](http://www.andreafortuna.org/ukulele/images/AndantinoCarcassi2.png)
 
 After defining the dynamics the execution is very simple except the beats 8 and 9, where the comfortable continuous G that has been with us throughout the entire  piece momentarily leaves the place for a D played on the second string, with an extension from the first to the fourth finger of 8 frets:
 
-[SCORE]
+![Andantino Carcassi, difficult phrase](http://www.andreafortuna.org/ukulele/images/AndantinoCarcassi3.png)
 
-Believe me, it's doable: I don't have enormous hands and I can play it without difficulty ... a bit of finger-stretching it never hurts!
+Believe me, you can do it! I don't have enormous hands and I can play it without difficulty...a bit of finger-stretching it never hurts!
 
 [![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/SweetChildOMine.pdf)
 
