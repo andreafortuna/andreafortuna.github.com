@@ -48,7 +48,7 @@ All on one page?
 
 We can choose not to use an external file to define the code of our webworker, packing up everything on a single page using a [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob).
 
-Then we declare a <script> element contains the code to be executed (a simple counter):
+Then we declare a *script* element containing the code to be executed (a simple counter):
 
 
 {% highlight JavaScript %}
