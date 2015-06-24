@@ -64,7 +64,7 @@ Then we declare a <script> element contains the code to be executed (a simple co
 {% endhighlight %}    
 
 
-and then we create and start the WebWorker from a blob filled with the contents of the <script> tag:
+and then we create and start the WebWorker from a blob filled with the contents of the *script* tag:
 
 {% highlight JavaScript %}
 
