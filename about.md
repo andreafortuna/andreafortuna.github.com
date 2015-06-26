@@ -12,13 +12,13 @@ description: ""
 
 <a href="http://4.bp.blogspot.com/-Gcum7xipqJI/USoINw-e-kI/AAAAAAAAEaI/PtjVufUBil8/s1600/AndyF2_small.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img src="http://4.bp.blogspot.com/-Gcum7xipqJI/USoINw-e-kI/AAAAAAAAEaI/PtjVufUBil8/s200/AndyF2_small.jpg" border="0" height="200" width="150"></a>
 
-I am working in Information Technology since 1998.
+*Developer, Hacker, Raw vegan, Barefoot Runner, Sci-fi addicted, Ukulele lover*
 
-Raw Vegan, i love animals (*especially cats*), [running](running.html), good food, travel, good books, good music and good cinema.
+Raw Vegan, i love animals, [running](/running/), good food, travels, good books, good music and good movies.
 
-I started working in the ICT sector as an analyst / programmer in a small software house and currently i'm an IT Architect in a big telecommunications company.
+I started working in the ICT industry as an analyst/programmer in a small software house and currently i'm an IT Architect in a big (red) company.
 
-In my free time i play the guitar and [ukulele](ukulele.html) and [develop applications](portfolio.html) for mobile devices (iOS, Android and Symbian).
+In my free time i play guitar and [ukulele](/ukulele/) and [develop applications](portfolio.html) for mobile devices (iOS, Android and Windows Phone).
 
 
 #Contacts

@@ -9,6 +9,8 @@ tagline: Technology
 --
 <p style="text-align: right;font-style: italic;"><strong>Douglas Adams</strong></p>
 
+![Tech Cat](/technology/images/technology.png)
+
 <hr/>
 <p style="text-align: right;float:right;margin-top:60px;margin-left:20px;"><a href="rss.xml"><i class="fa fa-rss fa-4x" >&nbsp;</i></a></p>
 <div class="blog-index">
