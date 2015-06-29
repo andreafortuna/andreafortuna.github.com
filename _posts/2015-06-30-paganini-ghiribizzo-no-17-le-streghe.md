@@ -25,7 +25,7 @@ From [MusWrite](http://muswrite.blogspot.it/2013/10/paganini-le-streghe.html){:t
 
 ![Ghiribizzo 17](http://www.andreafortuna.org/ukulele/images/lestreghe.png)
 
-The original key is D major, and this transcript on ukulele was not necessary to make transpositions.
+The original key is D major, and for this transcript on ukulele was not necessary to make transpositions.
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/06ZhFSMyoos" frameborder="0" allowfullscreen></iframe>
 
