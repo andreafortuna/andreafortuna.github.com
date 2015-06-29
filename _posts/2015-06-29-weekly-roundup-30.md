@@ -101,6 +101,8 @@ Ukulele & Music
 
 - [Makala Waterman Soprano Ukulele REVIEW](http://www.gotaukulele.com/2015/06/makala-waterman-soprano-ukulele-review.html){:target="_blank"}
 
+- [Ukulele exercises: Spider v2.0](http://www.andreafortuna.org/ukulele/2015/06/23/ukulele-spider-exercise-v2/){:target="_blank"}
+
 - [Tons of Wicked Cool Ukulele Stuff](http://ukenut.com/tons-of-wicked-cool-ukulele-stuff/){:target="_blank"}
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/06ZhFSMyoos" frameborder="0" allowfullscreen></iframe>
