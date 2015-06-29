@@ -29,6 +29,7 @@ The original key is D major, and for this transcript on ukulele was not necessar
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/06ZhFSMyoos" frameborder="0" allowfullscreen></iframe>
 
+Download the PDF tab from the link below:
 
 [![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Ghiribizzo_17.pdf)
 
