@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Niccolò Paganini, Ghiribizzo No. 17 "Le Streghe": my ukulele transcription (video and tabs)"
+title: "Niccolò Paganini, Ghiribizzo No. 17 'Le Streghe': my ukulele transcription (video and tabs)"
 thumbnail: "http://www.andreafortuna.org/ukulele/images/lestreghe_detail.png"
-description: "In this 'Ghiribizzo No. 17', Paganini transcribes on the guitar a theme from his own composition, 'Le streghe' ('Witches' Dance'), Op.8, MS19.
-"
+description: "In this 'Ghiribizzo No. 17', Paganini transcribes on the guitar a theme from his own composition, 'Le streghe' ('Witches' Dance'), Op.8, MS19."
 category: Ukulele
 tags: 
 - Ukulele
@@ -28,11 +27,10 @@ From [MusWrite](http://muswrite.blogspot.it/2013/10/paganini-le-streghe.html){:t
 
 The original key is D major, and this transcript on ukulele was not necessary to make transpositions.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/eOLh2lxF0dE" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/06ZhFSMyoos" frameborder="0" allowfullscreen></iframe>
 
 
-
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/GhiribizzoNo20.pdf)
+[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Ghiribizzo_17.pdf)
 
 
 
