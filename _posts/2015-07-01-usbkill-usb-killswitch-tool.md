@@ -16,7 +16,7 @@ tags:
 {% include JB/setup %}
 *USBkill* is a simple console tool that waits for a change on your USB ports and then immediately shuts down your computer.
 
-![USBKILL](http://www.andreafortuna.org/technology/images/usbkill.gif)
+![USBKILL](http://www.andreafortuna.org/technology/images/USBKill.gif)
 <!-- more -->
 
 From [GitHub repository](https://github.com/hephaest0s/usbkill){:target="_blank"}:
