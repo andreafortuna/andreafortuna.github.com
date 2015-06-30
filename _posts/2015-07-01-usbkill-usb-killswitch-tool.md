@@ -35,5 +35,19 @@ Slightly paranoid!
 
 Anyway, the tool is useful also as a simple security system in case of theft of laptop: with a simple USB key connected to a security cable tied to the desk. :-)
 
+I had already spoken in a previous [Weekly Roundup](http://www.andreafortuna.org/weeklyroundup/2015/05/11/weekly-roundup-23/): latest updates, however, are quite remarkable:
+
+>(version 1.0-rc.2)
+>- Compatible with Linux, *BSD and OS X.
+
+>- Shutdown the computer when there is USB activity.
+- Customizable. Define which commands should be executed just before shut down.
+- Ability to whitelist a USB device.
+- Ability to change the check interval (default: 250ms).
+- Ability to melt the program on shut down.
+- Works with sleep mode (OS X).
+- No dependency except srm. sudo apt-get install secure-delete
+- Sensible defaults
+
 
 *[Download from GitHub](https://github.com/hephaest0s/usbkill){:target="_blank"}*
