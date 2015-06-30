@@ -79,6 +79,7 @@ Believe me, you can do it! I don't have enormous hands and I can play it without
 [![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Matteo_Carcassi_Andantino_in_C.pdf)
 
 
+**Italian version on [MioUkulele](http://mioukulele.blogspot.it/2015/06/arrangiare-i-brani-classici-per-di.html){:target="_blank"}**
 
 
 
