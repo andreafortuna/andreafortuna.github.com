@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #31"
 description: "My Weekly Digest #31 - What can not be missed this week? "
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/spacex-explosion.jpg"
+thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/reddit.jpg"
 category: WeeklyRoundup
 tags: 
 - Roundup
