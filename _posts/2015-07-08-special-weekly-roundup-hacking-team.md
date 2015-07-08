@@ -90,6 +90,9 @@ The attack
 The leak
 ---
 
+![HT Leak](https://pbs.twimg.com/media/CJOw8RqUsAEJvDm.png)
+
+
 [Hacking Team Leak Online Archive (MIRROR 1)](http://hacking.technology/Hacked%20Team/){:target="_blank"}
 
 [Hacking Team Leak Online Archive (MIRROR 2)](http://ht.transparencytoolkit.org/){:target="_blank"}
@@ -179,6 +182,8 @@ The 0-Day Vulnerabilities
 
 The smoking guns
 ---
+
+![HT SG](https://pbs.twimg.com/media/CJOLfnyVAAEm2yU.png)
 
 >Documents obtained by hackers from the Italian spyware manufacturer Hacking Team confirm that the company sells its powerful surveillance technology to countries with dubious human rights records.
 
