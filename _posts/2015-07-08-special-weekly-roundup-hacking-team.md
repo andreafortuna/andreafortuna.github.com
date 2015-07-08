@@ -17,6 +17,11 @@ tags:
 - Apple
 - Sudan
 - FBI
+- Vulnerabilities
+- Open Font Type
+- Windows
+- iOS
+- OSX
 
 
 ---
@@ -26,7 +31,7 @@ Some articles that i read in the last days about the "Hacking Team breach" (in c
 ![HackedTeam](http://www.andreafortuna.org/weeklyroundup/images/hackedteam.jpg)
 <!-- more -->
 
-*Last update: July 8, 2015 - 17:00*
+*Last update: July 8, 2015 - 17:44*
 
 
 General response to Hacking Team hack
@@ -150,6 +155,15 @@ The 0-Day Vulnerabilities
 
 *Reading the HT coverage when suddenly a flash 0 day that works on Chrome appears*
 [![0Day Flash](http://www.reactiongifs.com/wp-content/gallery/wtf/wait_wha.gif)](http://securityreactions.tumblr.com/post/123475682932/reading-the-ht-coverage-when-suddenly-a-flash-0){:target="_blank"}
+
+
+
+>The vulnerability‘s root cause is simple. When the application calls for some GDI API (e.g., GDI32!NamedEscape), it can specify which font driver can be used in the font processing. ATMFD.dll is one of the font drivers. While the module processes the font data, there exists a buffer underflow, which is caused by a signed number extending.
+
+[A Look at the Open Type Font Manager Vulnerability from the Hacking Team Leak](http://blog.trendmicro.com/trendlabs-security-intelligence/a-look-at-the-open-type-font-manager-vulnerability-from-the-hacking-team-leak/){:target="_blank"}
+
+
+<blockquote class="twitter-tweet" lang="it"><p lang="en" dir="ltr">Privilege escalation on Win 8+ and Ubuntu by <a href="https://twitter.com/hashtag/HackingTeam?src=hash">#HackingTeam</a> &#10;Tested and confirmed! <a href="http://t.co/9UkP1KDYv9">pic.twitter.com/9UkP1KDYv9</a></p>&mdash; Candan BÖLÜKBAŞ (@candanbolukbas) <a href="https://twitter.com/candanbolukbas/status/618771298731323392">8 Luglio 2015</a></blockquote>
 
 
 >It's the worst-case scenario of the Hacking Team hack: the as-yet-unpatched Flash vulnerability revealed in the trove of source code leaked from the surveillance-ware company is being exploited in the wild.

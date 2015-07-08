@@ -53,8 +53,17 @@ Practically equal to the original theme: for obvious limitations of extension, I
 
 *Var. 1*
 ![Var. 1](/ukulele/images/SorOp9_var_1.PNG)
-Also in this case the theme remains unchanged. Some low notes removed or moved one octave up to keep the yield harmonic nearest the original.
+Also in this case the theme remains unchanged. Some low notes removed or moved one octave up to keep the  harmonic skeleton nearest the original.
 
+In the measure 58:
+
+![Out of freatboard](/ukulele/images/SorOp9_var_1_out_fret.PNG)
+
+i have fighted with the limited extension of the fretboard of the soprano ukulele.
+
+Despite the transposition of the melody a fifth below, I found myself having to play a B on the fourteenth fret of the first string.
+
+Usually a soprano ukulele has only 12 frets, so I used the final part of the keyboard to 'simulate' the fourteenth fret, with unexpectedly good results.
 
 *Var. 2*
 ![Var. 2](/ukulele/images/SorOp9_var_2.PNG)
