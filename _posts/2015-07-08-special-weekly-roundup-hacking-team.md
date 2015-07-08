@@ -16,6 +16,7 @@ tags:
 - Galileo
 - Apple
 - Sudan
+- FBI
 
 
 ---
@@ -202,6 +203,12 @@ The smoking guns
 ---
 
 ![HT SG](https://pbs.twimg.com/media/CJOLfnyVAAEm2yU.png)
+
+
+>THE FBI IS one of the clients who bought hacking software from the private Italian spying agency Hacking Team, which was itself the victim of a recent hack.
+
+[The FBI Spent $775K on Hacking Team’s Spy Tools Since 2011](http://www.wired.com/2015/07/fbi-spent-775k-hacking-teams-spy-tools-since-2011/){:target="_blank"}
+
 
 >Documents obtained by hackers from the Italian spyware manufacturer Hacking Team confirm that the company sells its powerful surveillance technology to countries with dubious human rights records.
 
