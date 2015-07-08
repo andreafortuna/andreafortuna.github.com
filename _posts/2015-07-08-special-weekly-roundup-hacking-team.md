@@ -25,12 +25,17 @@ Some articles that i read in the last days about the "Hacking Team breach" (in c
 ![HackedTeam](http://www.andreafortuna.org/weeklyroundup/images/hackedteam.jpg)
 <!-- more -->
 
-*General response to Hacking Team hack*
+General response to Hacking Team hack
+---
 [![HT Hack](http://i.imgur.com/OnA6OIw.jpg)](http://securityreactions.tumblr.com/post/123475671617/general-response-to-hacking-team-hack){:target="_blank"}
 
+<hr/>
 
 The company
 --
+
+![HT](http://d.ibtimes.co.uk/en/full/1447494/hacking-team-malware-exploit-kits.png)
+
 
 >Here in HackingTeam we believe that fighting crime should be easy: we provide effective, easy-to-use offensive technology to the worldwide law enforcement and intelligence communities. Technology must empower, not hinder.
 
@@ -41,6 +46,11 @@ The company
 >On July 7, Marietje Schaake submitted the following Parliamentary Written Questions to the European Commission concerning the Italian company Hacking Team’s potential violations of EU sanctions.
 
 [Written Questions on the Italian company Hacking Team’s potential violations of EU sanctions](http://www.marietjeschaake.eu/2015/07/written-questions-on-the-italian-company-hacking-teams-potential-violations-of-eu-sanctions/){:target="_blank"}
+
+
+[A Global Campaign to Monitor the "Digital Weapons" Trade](http://techpresident.com/news/wegov/24901/curtailing-international-surveillance-tech-trade){:target="_blank"}
+
+
 
 <hr/>
 
@@ -80,7 +90,10 @@ The attack
 The leak
 ---
 
-[Hacking Team Leak Online Archive](http://hacking.technology/Hacked%20Team/){:target="_blank"}
+[Hacking Team Leak Online Archive (MIRROR 1)](http://hacking.technology/Hacked%20Team/){:target="_blank"}
+
+[Hacking Team Leak Online Archive (MIRROR 2)](http://ht.transparencytoolkit.org/){:target="_blank"}
+
 
 <blockquote class="twitter-tweet" lang="it"><p lang="en" dir="ltr">Just from Torrent File listing, Hacking Team&#39;s customers includes South Korea, Kazakhstan, Saudi Arabia, Oman, Lebanon, and Mongolia.</p>&mdash; Christopher Soghoian (@csoghoian) <a href="https://twitter.com/csoghoian/status/617862879405064192">6 Luglio 2015</a></blockquote>
 
@@ -90,6 +103,10 @@ The leak
 
 The day after...
 ---
+
+>In un colloquio con La Stampa, l’azienda respinge le accuse, chiarisce alcune sue azioni, non risponde sul Sudan, il giorno dopo l’attacco che l’ha travolta
+
+[Hacking Team: “Non è la nostra fine”](http://www.lastampa.it/2015/07/07/tecnologia/hacking-team-non-la-nostra-fine-cl65tNOz4vRkaPdcVxrlLN/pagina.html){:target="_blank"}
 
 >Not one person has been fired at Hacking Team as a result of the significant breach of its servers on Sunday, according to Eric Rabe, a company spokesman.
 
@@ -126,6 +143,11 @@ The 0-Day Vulnerabilities
 >Many companies have best practices and the Hacking Team, the “computer security experts” who sold hacking tools to various federal and state agencies around the world, are no exception. Their database of information includes a number of interesting hacking tips, including mention of a 0-day, unpatched hole in Adobe Flash that the company is currently closing.
 
 [Adobe Is Patching A Hole The Hacking Team Used To Exploit Flash](http://techcrunch.com/2015/07/08/adobe-is-patching-a-hole-the-hacking-team-used-to-exploit-flash/?ncid=rss){:target="_blank"}
+
+
+>È importante aggiornare Flash appena possibile, se lo usate, e magari disattivare la sua esecuzione automatica: oggi è una giornata ad alto rischio.
+
+[Anche se non v’importa di Hacking Team, i suoi trucchi sono già in mano ai criminali: meglio impostare bene Flash](http://attivissimo.blogspot.ch/2015/07/anche-se-non-vimporta-di-hacking-team-i.html){:target="_blank"}
 
 
 <blockquote class="twitter-tweet" lang="it"><p lang="en" dir="ltr">Flash 0day from <a href="https://twitter.com/hashtag/HackingTeam?src=hash">#HackingTeam</a> with a nice readme. Works very well on Chrome etc. <a href="http://t.co/nfqck54YhT">http://t.co/nfqck54YhT</a> <a href="http://t.co/8uAQuUIXGV">pic.twitter.com/8uAQuUIXGV</a></p>&mdash; webDEViL (@w3bd3vil) <a href="https://twitter.com/w3bd3vil/status/618168863708962816">6 Luglio 2015</a></blockquote>
@@ -172,10 +194,11 @@ The smoking guns
 
 <blockquote class="twitter-tweet" lang="it"><p lang="en" dir="ltr">WTF? Why does the Hackingteam have this reference to child porn in their code?&#10;<a href="https://t.co/b32K3liM5y">https://t.co/b32K3liM5y</a></p>&mdash; Kevin Mitnick (@kevinmitnick) <a href="https://twitter.com/kevinmitnick/status/618113248554913793">6 Luglio 2015</a></blockquote>
 
+Realtime
+--
+<a class="twitter-timeline" href="https://twitter.com/hashtag/HackingTeam" data-widget-id="618700842338787328">Tweet riguardo #HackingTeam</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 
 
-
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
