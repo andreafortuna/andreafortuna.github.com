@@ -78,6 +78,18 @@ The attack
 [Hacking Team company at receiving end of hacks](http://www.marietjeschaake.eu/2015/07/blog-hacking-team-company-at-receiving-end-of-hacks/){:target="_blank"}
 
 
+>Widely shared online, the stolen data includes a list of the countries that have bought Hacking Team's main surveillance tool, Da Vinci, and emails suggesting intelligence agencies use it to spy on activists and journalists.
+
+[Hackers steal data from surveillance company](http://www.bbc.com/news/technology-33409594){:target="_blank"}
+
+
+>A leading cybersecurity firm was humiliated yesterday when its client database was stolen and published online by hackers.
+
+[Hackers expose secrets of cyber security experts: Leading firm is left humiliated after database is stolen and published on Twitter](http://www.dailymail.co.uk/news/article-3151680/Hackers-expose-secrets-cyber-security-experts-Leading-firm-left-humiliated-database-stolen-published-Twitter.html){:target="_blank"}
+
+
+
+
 
 > At the end of last month, Hacking Team seemed untouchable. The company occupied a controversial niche in the security space, contracting out surveillance software to law enforcement agencies around the world.
 
@@ -134,6 +146,12 @@ The 0-Day Vulnerabilities
 
 *Reading the HT coverage when suddenly a flash 0 day that works on Chrome appears*
 [![0Day Flash](http://www.reactiongifs.com/wp-content/gallery/wtf/wait_wha.gif)](http://securityreactions.tumblr.com/post/123475682932/reading-the-ht-coverage-when-suddenly-a-flash-0){:target="_blank"}
+
+
+>It's the worst-case scenario of the Hacking Team hack: the as-yet-unpatched Flash vulnerability revealed in the trove of source code leaked from the surveillance-ware company is being exploited in the wild.
+
+[Hacking Team-derived Flash exploit is now in the wild hijacking PCs](http://www.theregister.co.uk/2015/07/08/hacking_teamderived_0day_is_now_in_the_wild/?mt=1436346232526){:target="_blank"}
+
 
 >Researchers sifting through the confidential material stolen from spyware developer Hacking Team have already uncovered a weaponized exploit for a currently unpatched vulnerability in Adobe Flash, and they also may have uncovered attack code targeting Microsoft Windows and a hardened Linux module known as SELinux.
 
