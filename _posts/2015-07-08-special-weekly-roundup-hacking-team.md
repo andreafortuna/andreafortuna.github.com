@@ -210,6 +210,12 @@ The smoking guns
 [The FBI Spent $775K on Hacking Team’s Spy Tools Since 2011](http://www.wired.com/2015/07/fbi-spent-775k-hacking-teams-spy-tools-since-2011/){:target="_blank"}
 
 
+>"Ci sono aziende che hanno abbandonato la Ue per non rispettare i vincoli sulla sicurezza. Noi siamo rimasti. Abbiamo subìto un furto e finiamo sotto accusa, incredibile"
+
+[Hacking Team: "I clienti che abusano del nostro software vengono cancellati"](http://www.repubblica.it/tecnologia/sicurezza/2015/07/08/news/il_portavoce_di_hacking_team-118585787/){:target="_blank"}
+
+
+
 >Documents obtained by hackers from the Italian spyware manufacturer Hacking Team confirm that the company sells its powerful surveillance technology to countries with dubious human rights records.
 
 [A DETAILED LOOK AT HACKING TEAM’S EMAILS ABOUT ITS REPRESSIVE CLIENTS](https://firstlook.org/theintercept/2015/07/07/leaked-documents-confirm-hacking-team-sells-spyware-repressive-countries/){:target="_blank"}
