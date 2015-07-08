@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weekly Roundup special edition: all about Hacking Team"
+title: "Weekly Roundup Special Edition: all about Hacking Team!"
 description: "Some articles that i read in the last days about the 'Hacking Team breach' (in constant update)"
 thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/hackedteam.jpg"
 category: Security
