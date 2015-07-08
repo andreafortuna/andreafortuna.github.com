@@ -26,6 +26,9 @@ Some articles that i read in the last days about the "Hacking Team breach" (in c
 ![HackedTeam](http://www.andreafortuna.org/weeklyroundup/images/hackedteam.jpg)
 <!-- more -->
 
+*Last update: July 8, 2015 - 17:00*
+
+
 General response to Hacking Team hack
 ---
 [![HT Hack](http://i.imgur.com/OnA6OIw.jpg)](http://securityreactions.tumblr.com/post/123475671617/general-response-to-hacking-team-hack){:target="_blank"}
@@ -152,6 +155,11 @@ The 0-Day Vulnerabilities
 >It's the worst-case scenario of the Hacking Team hack: the as-yet-unpatched Flash vulnerability revealed in the trove of source code leaked from the surveillance-ware company is being exploited in the wild.
 
 [Hacking Team-derived Flash exploit is now in the wild hijacking PCs](http://www.theregister.co.uk/2015/07/08/hacking_teamderived_0day_is_now_in_the_wild/?mt=1436346232526){:target="_blank"}
+
+>Hacking Team is, indeed, into hacking – controversially, as it happens, because its main line of business is selling hacking and interception capabilities at a country level.
+
+[Flash zero-day leaks out from "Hacking Team" hack, patch expected Real Soon Now](https://nakedsecurity.sophos.com/2015/07/08/flash-zero-day-leaks-out-from-hacking-team-hack-patch-expected-real-soon-now/){:target="_blank"}
+
 
 
 >Researchers sifting through the confidential material stolen from spyware developer Hacking Team have already uncovered a weaponized exploit for a currently unpatched vulnerability in Adobe Flash, and they also may have uncovered attack code targeting Microsoft Windows and a hardened Linux module known as SELinux.
