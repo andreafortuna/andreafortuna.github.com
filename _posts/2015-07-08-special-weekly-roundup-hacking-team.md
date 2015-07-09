@@ -56,7 +56,7 @@ The company
 
 [Written Questions on the Italian company Hacking Team’s potential violations of EU sanctions - marietjeschaake.eu](http://www.marietjeschaake.eu/2015/07/written-questions-on-the-italian-company-hacking-teams-potential-violations-of-eu-sanctions/){:target="_blank"}
 
-![Mapping HT Spyware](https://citizenlab.org/wp-content/uploads/2014/02/SUN_NOON_WORLD1.jpg])
+![Mapping HT Spyware](https://citizenlab.org/wp-content/uploads/2014/02/SUN_NOON_WORLD1.jpg)
 [Mapping Hacking Team’s “Untraceable” Spyware - citizenlab.org](https://citizenlab.org/2014/02/mapping-hacking-teams-untraceable-spyware/){:target="_blank"}
 
 
