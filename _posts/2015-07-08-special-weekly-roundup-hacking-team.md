@@ -3,6 +3,7 @@ layout: post
 title: "Weekly Roundup Special Edition: all about Hacking Team!"
 description: "Some articles that i read in the last days about the 'Hacking Team breach' (in constant update)"
 thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/hackedteam.jpg"
+keywords: Hacking Team, Security, Adobe, Exploits, 0Day, Galileo, Da Vinci, Malware, Windows, iOS, Android, Sudan, FBI
 category: Security
 tags: 
 - Roundup
@@ -291,6 +292,10 @@ The smoking guns
 >These revelations, which Privacy International’s Deputy Director Eric King has called “the equivalents of the Edward Snowden leaks for the surveillance industry,” have clear geopolitical significance, and it’s likely the story will continue to unfold as journalists and researchers around the world begin to unpack the trove of documents and emails contained within the leak and put them in context.
 
 [Hacking Team Leaks Reveal Spyware Industry's Growth, Negligence of Human Rights - eff.org](https://www.eff.org/deeplinks/2015/07/hacking-team-leaks-reveal-spyware-industrys-growth){:target="_blank"}
+
+
+>E' il malware punta di diamante dei prodotti della società milanese: è in grado di infiltrarsi in tutti i sistemi ed è invisibile per gli antivirus. Intercetta anche le conversazioni su Skype: i pirati in possesso dei file sottratti possono così entrare nei device già sotto sorveglianza
+[Hacking Team, cos’è il virus Da Vinci: spia email, sms e web su qualsiasi dispositivo](http://www.ilfattoquotidiano.it/2015/07/09/hacking-team-ecco-cose-il-virus-da-vinci-spia-email-sms-e-web-su-qualsiasi-dispositivo/1859162/){:target="_blank"}
 
 
 

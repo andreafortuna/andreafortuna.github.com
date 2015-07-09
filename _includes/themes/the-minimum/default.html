@@ -8,6 +8,12 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<title>{{ page.title }} | {{ site.title }}</title>
 	
+	
+	{% if page.keywords %}
+ 	<meta name="keywords" content="{{ page.keywords }}" />
+ 	{% else %}
+	<meta name="keywords" content="technolog, running, ukulele, music, security, programming, hacking, humor, veganism" />
+	{% endif %}
 
 	<meta content="{{ page.title }}"  property="og:title"/>
 	<meta content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}" property="og:description" />
@@ -15,6 +21,9 @@
 	<meta content="https://www.facebook.com/andreafortuna"  property="article:author" />
 	<meta content="http://www.andreafortuna.org{{ page.url | replace:'index.html','' }}/" property="og:url" />
 	<meta content="{{ site.title }}" property="og:site_name" />
+
+
+
 	{% if page.date %}
 	<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time" >
 	{% endif %}
