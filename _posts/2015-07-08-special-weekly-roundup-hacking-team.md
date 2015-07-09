@@ -31,7 +31,7 @@ Some articles that i read in the last days about the "Hacking Team breach" (in c
 ![HackedTeam](http://www.andreafortuna.org/weeklyroundup/images/hackedteam.jpg)
 <!-- more -->
 
-*Last update: July 9, 2015 - 9:24 AM*
+*Last update: July 9, 2015 - 9:36 AM*
 
 
 General response to Hacking Team hack
@@ -66,6 +66,12 @@ The company
 The attack
 --
 <blockquote class="twitter-tweet" lang="it"><p lang="en" dir="ltr">I&#39;ll writeup how hacking team got hacked once they&#39;ve had some time to fail at figuring out what happened and go out of business</p>&mdash; Phineas Fisher (@GammaGroupPR) <a href="https://twitter.com/GammaGroupPR/status/618250515198181376">7 Luglio 2015</a></blockquote>
+
+
+>While the Italian surveillance company sells government agencies high-end zero-day proof-of-concept exploits, it secures root systems with the password 'P4ssword.' What's vulnerability commoditization got to do with it?
+
+[Hacking Team Zero-Day Shows Wide-Spread Dangers Of All Offense, No Defense - darkreading.com](http://www.darkreading.com/attacks-breaches/hacking-team-zero-day-shows-wide-spread-dangers-of-all-offense-no-defense/d/d-id/1321224){:target="_blank"}
+
 
 >Yes, sometimes even the Hackers get Hacked.
 >Hacking Team, one of the most controversial spyware and malware providers to governments and law enforcement agencies all around the world, allegedly been hacked, with some 500 gigabytes of internal data leaked over the Internet.
@@ -108,23 +114,6 @@ The attack
 
 <hr/>
 
-The leak
----
-
-![HT Leak](https://pbs.twimg.com/media/CJOw8RqUsAEJvDm.png)
-
-
-[Hacking Team Leak Online Archive (MIRROR 1)](http://hacking.technology/Hacked%20Team/){:target="_blank"}
-
-[Hacking Team Leak Online Archive (MIRROR 2)](http://ht.transparencytoolkit.org/){:target="_blank"}
-
-
-<blockquote class="twitter-tweet" lang="it"><p lang="en" dir="ltr">Just from Torrent File listing, Hacking Team&#39;s customers includes South Korea, Kazakhstan, Saudi Arabia, Oman, Lebanon, and Mongolia.</p>&mdash; Christopher Soghoian (@csoghoian) <a href="https://twitter.com/csoghoian/status/617862879405064192">6 Luglio 2015</a></blockquote>
-
-<blockquote class="twitter-tweet" lang="it"><p lang="en" dir="ltr">Holy smokes, the HT dump includes an .xls spreadsheet listing every government client, when they first bought HT, and revenue to date.</p>&mdash; Christopher Soghoian (@csoghoian) <a href="https://twitter.com/csoghoian/status/617889755393617920">6 Luglio 2015</a></blockquote>
-
-<hr/>
-
 The day after...
 ---
 
@@ -132,6 +121,9 @@ The day after...
 
 [More on Hacking Team - Schneier on Security](https://www.schneier.com/blog/archives/2015/07/more_on_hacking_1.html){:target="_blank"}
 
+>So the Internet has been blowing up for the last few days about an Italian information security company called Hacking Team getting pwned – they were already pretty famous for their software RCS (Remote Control Software) also known as Galileo.
+
+[Hacking Team Hacked – What You Need To Know - Darknet.org.uk](http://www.darknet.org.uk/2015/07/hacking-team-hacked-what-you-need-to-know/){:target="_blank"}
 
 >In un colloquio con La Stampa, l’azienda respinge le accuse, chiarisce alcune sue azioni, non risponde sul Sudan, il giorno dopo l’attacco che l’ha travolta
 
@@ -162,6 +154,25 @@ The day after...
 
 
 <hr/>
+
+
+The leak
+---
+
+![HT Leak](https://pbs.twimg.com/media/CJOw8RqUsAEJvDm.png)
+
+
+[Hacking Team Leak Online Archive (MIRROR 1)](http://hacking.technology/Hacked%20Team/){:target="_blank"}
+
+[Hacking Team Leak Online Archive (MIRROR 2)](http://ht.transparencytoolkit.org/){:target="_blank"}
+
+
+<blockquote class="twitter-tweet" lang="it"><p lang="en" dir="ltr">Just from Torrent File listing, Hacking Team&#39;s customers includes South Korea, Kazakhstan, Saudi Arabia, Oman, Lebanon, and Mongolia.</p>&mdash; Christopher Soghoian (@csoghoian) <a href="https://twitter.com/csoghoian/status/617862879405064192">6 Luglio 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="it"><p lang="en" dir="ltr">Holy smokes, the HT dump includes an .xls spreadsheet listing every government client, when they first bought HT, and revenue to date.</p>&mdash; Christopher Soghoian (@csoghoian) <a href="https://twitter.com/csoghoian/status/617889755393617920">6 Luglio 2015</a></blockquote>
+
+<hr/>
+
 
 The 0-Day Vulnerabilities
 --
