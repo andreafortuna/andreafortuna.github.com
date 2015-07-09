@@ -31,7 +31,7 @@ Some articles that i read in the last days about the "Hacking Team breach" (in c
 ![HackedTeam](http://www.andreafortuna.org/weeklyroundup/images/hackedteam.jpg)
 <!-- more -->
 
-*Last update: July 9, 2015 - 11:21 AM*
+*Last update: July 9, 2015 - 3:48 PM*
 
 
 General response to Hacking Team hack
@@ -119,6 +119,21 @@ The attack
 
 The day after...
 ---
+
+*Hacking Team’s reaction after getting hacked*
+[![HT Reaction](http://38.media.tumblr.com/ca6d5ef072c1f72114b13f9343d79abe/tumblr_inline_nr70n2XVUF1raprkq_500.gif)](http://devopsreactions.tumblr.com/post/123627195957/hacking-teams-reaction-after-getting-hacked){:target="_blank"}
+
+
+
+>The digital security community has been reacting this week to leaked documents from italian surveillance company Hacking Team. The documents, which include lists of contracts and sales pitches to some of the worst authoritarian regimes and countries with weak democracies, show a global industry of sales to states of software that can invade and spy on personal computers and mobile devices almost without limit.
+
+[In Light of Hacking Team Leaks, EFF and Latin American Civil Society Groups Call for Greater Oversight of Surveillance Technology - eff.org](https://www.eff.org/deeplinks/2015/07/eff-join-latin-american-civil-society-calls-greater-oversight-surveillance){:target="_blank"}
+
+
+>"Terroristi, estorsori ed altri possono implementare a volontà la nostra tecnologia", spiega l'azienda milanese, che il 6 luglio è stata "derubata" di dati e documenti riservati. Il direttore del Dis, chiamato a riferire al Copasir sul caso, spiega che il rischio è infatti che dati della nostra intelligence siano stati hackerati. Prime conferme sull'utilizzo dei suoi software da parte dell'Aise, il nostro servizio per la sicurezza esterna
+
+[Hacking Team, servizi segreti: “Possibile impatto su software e dati della nostra intelligence” - ilfattoquotidiano.it](http://www.ilfattoquotidiano.it/2015/07/09/hacking-team-allarme-della-societa-attaccata-ora-siamo-fuori-controllo/1858280/){:target="_blank"}
+
 
 >It's one thing to have dissatisfied customers. It's another to have dissatisfied customers with death squads. I don't think the company is going to survive this.
 
@@ -269,6 +284,13 @@ The smoking guns
 >"Ci sono aziende che hanno abbandonato la Ue per non rispettare i vincoli sulla sicurezza. Noi siamo rimasti. Abbiamo subìto un furto e finiamo sotto accusa, incredibile"
 
 [Hacking Team: "I clienti che abusano del nostro software vengono cancellati" - repubblica.it](http://www.repubblica.it/tecnologia/sicurezza/2015/07/08/news/il_portavoce_di_hacking_team-118585787/){:target="_blank"}
+
+
+![Hacking Team and FinSpy Clients](https://www.eff.org/files/2015/07/08/clients_revised_copy_0.png)
+
+>These revelations, which Privacy International’s Deputy Director Eric King has called “the equivalents of the Edward Snowden leaks for the surveillance industry,” have clear geopolitical significance, and it’s likely the story will continue to unfold as journalists and researchers around the world begin to unpack the trove of documents and emails contained within the leak and put them in context.
+
+[Hacking Team Leaks Reveal Spyware Industry's Growth, Negligence of Human Rights - eff.org](https://www.eff.org/deeplinks/2015/07/hacking-team-leaks-reveal-spyware-industrys-growth){:target="_blank"}
 
 
 
