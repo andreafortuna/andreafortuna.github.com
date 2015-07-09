@@ -31,7 +31,7 @@ Some articles that i read in the last days about the "Hacking Team breach" (in c
 ![HackedTeam](http://www.andreafortuna.org/weeklyroundup/images/hackedteam.jpg)
 <!-- more -->
 
-*Last update: July 9, 2015 - 9:36 AM*
+*Last update: July 9, 2015 - 11:21 AM*
 
 
 General response to Hacking Team hack
@@ -55,6 +55,10 @@ The company
 >On July 7, Marietje Schaake submitted the following Parliamentary Written Questions to the European Commission concerning the Italian company Hacking Team’s potential violations of EU sanctions.
 
 [Written Questions on the Italian company Hacking Team’s potential violations of EU sanctions - marietjeschaake.eu](http://www.marietjeschaake.eu/2015/07/written-questions-on-the-italian-company-hacking-teams-potential-violations-of-eu-sanctions/){:target="_blank"}
+
+!(Mapping HT Spyware)[https://citizenlab.org/wp-content/uploads/2014/02/SUN_NOON_WORLD1.jpg]
+
+[Mapping Hacking Team’s “Untraceable” Spyware - citizenlab.org](https://citizenlab.org/2014/02/mapping-hacking-teams-untraceable-spyware/){:target="_blank"}
 
 
 [A Global Campaign to Monitor the "Digital Weapons" Trade - techpresident.com](http://techpresident.com/news/wegov/24901/curtailing-international-surveillance-tech-trade){:target="_blank"}
@@ -120,6 +124,12 @@ The day after...
 >It's one thing to have dissatisfied customers. It's another to have dissatisfied customers with death squads. I don't think the company is going to survive this.
 
 [More on Hacking Team - Schneier on Security](https://www.schneier.com/blog/archives/2015/07/more_on_hacking_1.html){:target="_blank"}
+
+
+>In capo a 24/48 ore gli antivirus inizieranno a rilevare RCS/Galileo come Virus e a notificarlo ai soggetti che ne hanno una copia installata. Il che significa che non solo in 24/48 ore tali soggetti saranno in grado di rimuovere le sonde e quindi non più sotto il controllo dell’organismo di intercettazione, ma anche e soprattutto che una volta individuato il trojan avranno la matematica certezza di essere stati attenzionati dalle Forze dell’Ordine e quindi saranno perfettamente in grado di prendere contromisure e di provvedere a proteggersi in modo più efficiente.
+
+[HackingTeam: di cosa dovete DAVVERO aver paura - mgpf.it](http://mgpf.it/2015/07/09/hackingteam-di-cosa-dovete-davvero-aver-paura.html){:target="_blank"}
+
 
 >So the Internet has been blowing up for the last few days about an Italian information security company called Hacking Team getting pwned – they were already pretty famous for their software RCS (Remote Control Software) also known as Galileo.
 
