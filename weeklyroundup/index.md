@@ -1,9 +1,10 @@
 ---
 layout: page
 title: My Weekly Roundup
-description: "Ukulele transcriptions, tutorials, videos"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/ukulele2.jpg"
-tagline: Ukulele
+description: "My weekly report of best news on the net about technology, programming, security, running, music, ukulele, movies and geekness"
+thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/roundup.png"
+keywords: technology, security, programming, music, movie, geekness, ukulele
+tagline: WeeklyRoundup
 ---
 {% include JB/setup %}
 «That's the press, baby. The press! And there's nothing you can do about it. Nothing!»

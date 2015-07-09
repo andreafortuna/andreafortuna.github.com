@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Technology articles
+description: "My articles about technology, programming, hacking, security and geekness"
+thumbnail: "http://www.andreafortuna.org/technology/images/technology.png"
+keywords: technology, hacking, programming, security, geekness, privacy
 tagline: Technology
 ---
 {% include JB/setup %}

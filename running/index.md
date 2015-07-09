@@ -1,6 +1,9 @@
 ---
 layout: page
 title: My Running Chronicles
+description: "My articles about barefoot running and raw vegan lifestyle"
+thumbnail: "http://www.andreafortuna.org/images/homer.png"
+keywords: running, barefoot, vegan, lifestyle
 tagline: Running
 ---
 {% include JB/setup %}
