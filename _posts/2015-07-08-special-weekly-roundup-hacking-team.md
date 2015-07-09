@@ -31,7 +31,7 @@ Some articles that i read in the last days about the "Hacking Team breach" (in c
 ![HackedTeam](http://www.andreafortuna.org/weeklyroundup/images/hackedteam.jpg)
 <!-- more -->
 
-*Last update: July 8, 2015 - 17:54*
+*Last update: July 9, 2015 - 9:24 AM*
 
 
 General response to Hacking Team hack
@@ -127,6 +127,11 @@ The leak
 
 The day after...
 ---
+
+>It's one thing to have dissatisfied customers. It's another to have dissatisfied customers with death squads. I don't think the company is going to survive this.
+
+[More on Hacking Team - Schneier on Security](https://www.schneier.com/blog/archives/2015/07/more_on_hacking_1.html){:target="_blank"}
+
 
 >In un colloquio con La Stampa, l’azienda respinge le accuse, chiarisce alcune sue azioni, non risponde sul Sudan, il giorno dopo l’attacco che l’ha travolta
 
