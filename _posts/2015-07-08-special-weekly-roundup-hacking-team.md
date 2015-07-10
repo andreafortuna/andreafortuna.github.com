@@ -3,7 +3,7 @@ layout: post
 title: "Weekly Roundup Special Edition: all about Hacking Team!"
 description: "Some articles that i read in the last days about the 'Hacking Team breach' (in constant update)"
 thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/hackedteam.jpg"
-keywords: Hacking Team, Security, Adobe, Exploits, 0Day, Galileo, Da Vinci, Malware, Windows, iOS, Android, Sudan, FBI
+keywords: Hacking Team, Security, Adobe, Exploits, 0Day, Galileo, Da Vinci, Malware, Windows, iOS, Android, Sudan, FBI, Wikileaks
 category: Security
 tags: 
 - Roundup
@@ -23,6 +23,7 @@ tags:
 - Windows
 - iOS
 - OSX
+- Wikileaks
 
 
 ---
@@ -32,7 +33,7 @@ Some articles that i read in the last days about the "Hacking Team breach" (in c
 ![HackedTeam](http://www.andreafortuna.org/weeklyroundup/images/hackedteam.jpg)
 <!-- more -->
 
-*Last update: July 9, 2015 - 3:48 PM*
+*Last update: July 10, 2015 - 11:00 AM*
 
 
 General response to Hacking Team hack
@@ -124,7 +125,9 @@ The day after...
 *Hacking Team’s reaction after getting hacked*
 [![HT Reaction](http://38.media.tumblr.com/ca6d5ef072c1f72114b13f9343d79abe/tumblr_inline_nr70n2XVUF1raprkq_500.gif)](http://devopsreactions.tumblr.com/post/123627195957/hacking-teams-reaction-after-getting-hacked){:target="_blank"}
 
+>[...]  ci siamo trovati perplessi di fronte alla presenza, fra i file trafugati a uno degli amministratori di sistema di Hacking Team, di un file di testo contenente un elenco di link a video pornografici [...]
 
+[Hacking Team e quei link a YouPorn: una possibile spiegazione non comica - attivissimo.blogspot.it](http://attivissimo.blogspot.it/2015/07/hacking-team-e-quei-link-youporn-una.html){:target="_blank"}
 
 >The digital security community has been reacting this week to leaked documents from italian surveillance company Hacking Team. The documents, which include lists of contracts and sales pitches to some of the worst authoritarian regimes and countries with weak democracies, show a global industry of sales to states of software that can invade and spy on personal computers and mobile devices almost without limit.
 
@@ -186,6 +189,13 @@ The leak
 
 ![HT Leak](https://pbs.twimg.com/media/CJOw8RqUsAEJvDm.png)
 
+>Today WikiLeaks releases more than 1 million searchable emails from the Italian surveillance malware vendor Hacking Team, which first came under international scrutiny after WikiLeaks publication of the SpyFiles. These internal emails show the inner workings of the controversial global surveillance industry.
+
+[Hacking Team - wikileaks.org](https://wikileaks.org/hackingteam/emails/){:target="_blank"}
+
+>Wikileaks ha messo online un archivio cercabile contenente oltre un milione di mail provenienti dalla fuga di dati che ha colpito Hacking Team.
+
+[È finita: WikiLeaks pubblica un milione di mail di Hacking Team. Con pratica funzione di ricerca](http://attivissimo.blogspot.it/2015/07/e-finita-wikileaks-pubblica-un-milione.html){:target="_blank"}
 
 [Hacking Team Leak Online Archive (MIRROR 1)](http://hacking.technology/Hacked%20Team/){:target="_blank"}
 
@@ -211,6 +221,12 @@ The 0-Day Vulnerabilities
 >The vulnerability‘s root cause is simple. When the application calls for some GDI API (e.g., GDI32!NamedEscape), it can specify which font driver can be used in the font processing. ATMFD.dll is one of the font drivers. While the module processes the font data, there exists a buffer underflow, which is caused by a signed number extending.
 
 [A Look at the Open Type Font Manager Vulnerability from the Hacking Team Leak - trendmicro.com](http://blog.trendmicro.com/trendlabs-security-intelligence/a-look-at-the-open-type-font-manager-vulnerability-from-the-hacking-team-leak/){:target="_blank"}
+
+
+>È importante non saltare a conclusioni affrettate, ma questa mail di Hacking Team del 20 marzo scorso sembra parlare dell'esistenza recente di malware dentro l'App Store, capace di catturare “audio e screenshot a distanza”, senza richiedere jailbreak. Il malware sarebbe realizzato da un'azienda italiana. Se quest'apparenza venisse confermata, sarebbe uno smacco notevole per il modello di sicurezza di Apple.
+
+[Perché Hacking Team discuteva di malware dentro l’App Store di Apple? - attivissimo.blogspot.it](http://attivissimo.blogspot.it/2015/07/perche-hacking-team-discuteva-di.html){:target="_blank"}
+
 
 
 <blockquote class="twitter-tweet" lang="it"><p lang="en" dir="ltr">Privilege escalation on Win 8+ and Ubuntu by <a href="https://twitter.com/hashtag/HackingTeam?src=hash">#HackingTeam</a> &#10;Tested and confirmed! <a href="http://t.co/9UkP1KDYv9">pic.twitter.com/9UkP1KDYv9</a></p>&mdash; Candan BÖLÜKBAŞ (@candanbolukbas) <a href="https://twitter.com/candanbolukbas/status/618771298731323392">8 Luglio 2015</a></blockquote>
