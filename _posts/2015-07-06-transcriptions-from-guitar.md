@@ -3,6 +3,7 @@ layout: post
 title: "Transcribing classical guitar pieces on ukulele"
 thumbnail: "http://www.andreafortuna.org/ukulele/images/transcriptions.jpg"
 description: "Often some musicians approach the ukulele after studying for years a more 'conventional' instrument. So It's natural try to play songs you already know, a sort of 'comfort music' that helps to get familiar with the new instrument."
+keywords: ukulele, transcriptions, transcription, Matteo Carcassi, Ruggero Chiesa, music, fingerstyle
 category: Ukulele
 tags: 
 - Ukulele
