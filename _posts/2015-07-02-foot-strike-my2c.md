@@ -3,6 +3,7 @@ layout: post
 title: "Barefoot running: my2c about foot-strike and running style"
 thumbnail: "http://www.andreafortuna.org/running/images/pose.png"
 description: "Random thoughts and considerations about natural running, and footstrike techniques."
+keywords: running, barefoot running, barefoot, footstrike
 category: Running
 tags: 
 - Running
