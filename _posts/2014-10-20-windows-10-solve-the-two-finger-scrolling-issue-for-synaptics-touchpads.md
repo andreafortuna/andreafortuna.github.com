@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Windows 10: fix 'two-finger scrolling' issue for Synaptics touchpads"
-description: ""
+description: "Windows 10: fix 'two-finger scrolling' issue for Synaptics touchpads"
 category: Microsoft
+keywords: Windows 10, Microsoft, Synaptics
 tags: 
 - Windows 10
 - Touchpad
