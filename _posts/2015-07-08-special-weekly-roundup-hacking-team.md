@@ -301,7 +301,6 @@ The smoking guns
 
 [Hacking Team, il software Rcs che può truccare il computer con false prove: dubbi sull’uso nelle inchieste - ilfattoquotidiano.it](http://www.ilfattoquotidiano.it/2015/07/10/hacking-team-il-software-rcs-che-puo-truccare-il-computer-con-false-prove-dubbi-sulluso-nelle-inchieste/1862318/){:target="_blank"}
 
-
 >"Ci sono aziende che hanno abbandonato la Ue per non rispettare i vincoli sulla sicurezza. Noi siamo rimasti. Abbiamo subìto un furto e finiamo sotto accusa, incredibile"
 
 [Hacking Team: "I clienti che abusano del nostro software vengono cancellati" - repubblica.it](http://www.repubblica.it/tecnologia/sicurezza/2015/07/08/news/il_portavoce_di_hacking_team-118585787/){:target="_blank"}
@@ -315,6 +314,7 @@ The smoking guns
 
 
 >E' il malware punta di diamante dei prodotti della società milanese: è in grado di infiltrarsi in tutti i sistemi ed è invisibile per gli antivirus. Intercetta anche le conversazioni su Skype: i pirati in possesso dei file sottratti possono così entrare nei device già sotto sorveglianza
+
 [Hacking Team, cos’è il virus Da Vinci: spia email, sms e web su qualsiasi dispositivo](http://www.ilfattoquotidiano.it/2015/07/09/hacking-team-ecco-cose-il-virus-da-vinci-spia-email-sms-e-web-su-qualsiasi-dispositivo/1859162/){:target="_blank"}
 
 
