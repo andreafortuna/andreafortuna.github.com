@@ -9,6 +9,11 @@ tags:
 - Synaptics
 ---
 {% include JB/setup %}
+
+*UPDATE: With the latest builds of Windows 10 you can install the updated Synaptics drivers  through Windows Update , which no longer requires this procedure.* 
+
+<hr/>
+
 I'm testing the **Windows 10** *Technical preview*: i find some problems, but the new microsoft's OS is light and stable.
 
 However, on my *Lenovo* notebook with *Synaptics* touchpad the "two-finger scroll" (osx-like, very useful) seems not work.
