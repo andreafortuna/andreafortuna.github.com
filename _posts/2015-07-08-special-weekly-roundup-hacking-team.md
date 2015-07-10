@@ -125,11 +125,6 @@ The day after...
 *Hacking Team’s reaction after getting hacked*
 [![HT Reaction](http://38.media.tumblr.com/ca6d5ef072c1f72114b13f9343d79abe/tumblr_inline_nr70n2XVUF1raprkq_500.gif)](http://devopsreactions.tumblr.com/post/123627195957/hacking-teams-reaction-after-getting-hacked){:target="_blank"}
 
-
->Un potere quasi assoluto. Non solo di controllo e di intrusione, ma anche di manipolazione e creazione della realtà, attraverso l’alterazione a distanza delle memorie dei computer. Un delitto perfetto, reso possibile dalle potenzialità offensive del software della società milanese Hacking Team, usato dalle polizie e dai governi di tutto il mondo, il Remote control system (Rcs).
-
-[Hacking Team, il software Rcs che può truccare il computer con false prove: dubbi sull’uso nelle inchieste - ilfattoquotidiano.it](http://www.ilfattoquotidiano.it/2015/07/10/hacking-team-il-software-rcs-che-puo-truccare-il-computer-con-false-prove-dubbi-sulluso-nelle-inchieste/1862318/){:target="_blank"}
-
 >[...]  ci siamo trovati perplessi di fronte alla presenza, fra i file trafugati a uno degli amministratori di sistema di Hacking Team, di un file di testo contenente un elenco di link a video pornografici [...]
 
 [Hacking Team e quei link a YouPorn: una possibile spiegazione non comica - attivissimo.blogspot.it](http://attivissimo.blogspot.it/2015/07/hacking-team-e-quei-link-youporn-una.html){:target="_blank"}
@@ -301,6 +296,10 @@ The smoking guns
 >THE FBI IS one of the clients who bought hacking software from the private Italian spying agency Hacking Team, which was itself the victim of a recent hack.
 
 [The FBI Spent $775K on Hacking Team’s Spy Tools Since 2011 - wired.com](http://www.wired.com/2015/07/fbi-spent-775k-hacking-teams-spy-tools-since-2011/){:target="_blank"}
+
+>Un potere quasi assoluto. Non solo di controllo e di intrusione, ma anche di manipolazione e creazione della realtà, attraverso l’alterazione a distanza delle memorie dei computer. Un delitto perfetto, reso possibile dalle potenzialità offensive del software della società milanese Hacking Team, usato dalle polizie e dai governi di tutto il mondo, il Remote control system (Rcs).
+
+[Hacking Team, il software Rcs che può truccare il computer con false prove: dubbi sull’uso nelle inchieste - ilfattoquotidiano.it](http://www.ilfattoquotidiano.it/2015/07/10/hacking-team-il-software-rcs-che-puo-truccare-il-computer-con-false-prove-dubbi-sulluso-nelle-inchieste/1862318/){:target="_blank"}
 
 
 >"Ci sono aziende che hanno abbandonato la Ue per non rispettare i vincoli sulla sicurezza. Noi siamo rimasti. Abbiamo subìto un furto e finiamo sotto accusa, incredibile"
