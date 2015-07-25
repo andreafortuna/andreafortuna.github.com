@@ -96,5 +96,7 @@ And finally, this is my execution:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/oaiJPxOzb0Y" frameborder="0" allowfullscreen></iframe>
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Matteo_Carcassi_Andantino_in_C.pdf)
+<hr/>
+Download from LULU.COM:
 
+<a href="http://www.lulu.com/commerce/index.php?fBuyContent=17020427"><img src="http://static.lulu.com/images/services/buy_now_buttons/it/book.gif?20150714081123" border="0" alt="Support independent publishing: Buy this e-book on Lulu."></a>
