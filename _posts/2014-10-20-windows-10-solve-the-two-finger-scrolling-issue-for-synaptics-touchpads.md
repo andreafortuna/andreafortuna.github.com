@@ -33,6 +33,7 @@ After a quick search on support forums, i have found a very simple solution:
 That's all!
 
 <hr/>
-Other posts about Windows 10 problems:
+*Other posts about Windows 10 problems:*
 
-. [Windows 10: missing MIDI wavetable?](/technology/2015/07/30/windows-10-missing-midi-wavetable/)
+- [Windows 10: missing MIDI wavetable?](/technology/2015/07/30/windows-10-missing-midi-wavetable/)
+<hr/>

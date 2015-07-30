@@ -4,7 +4,7 @@ title: "Windows 10: missing MIDI wavetable?"
 description: "After upgrading to Windows 10, I discovered that the softwares I use to write music (musescore, for example), are no longer able to carry out the reproduction of the music scores using the GS Wavetable Windows virtual midi interface"
 thumbnail: "http://www.andreafortuna.org/technology/images/VirtualMIDISynth.png"
 keywords: Windows 10, MIDI, Microsoft, VirtualMIDISynth, Musescore
-category: Technology
+category: Microsoft
 tags: 
 - Microsoft
 - Windows 10
