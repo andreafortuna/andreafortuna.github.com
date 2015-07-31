@@ -46,4 +46,5 @@ That's all!
 *Other posts about Windows 10 issues:*
 
 - [Windows 10: missing MIDI wavetable?](/microsoft/2015/07/30/windows-10-missing-midi-wavetable/)
+- [Windows 10: how to fix the 0x803F700X error on Store](/microsoft/2015/07/31/windows-10-error-0x803F7000/)
 <hr/>
