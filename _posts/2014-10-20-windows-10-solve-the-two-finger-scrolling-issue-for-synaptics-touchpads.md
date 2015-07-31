@@ -11,6 +11,16 @@ tags:
 ---
 {% include JB/setup %}
 
+*UPDATE  July 31, 2015*
+
+A good solution for users who have upgraded from Windows 8 / 8.1 is suggested in the [comments by *Tobias Shen*](http://www.andreafortuna.org/microsoft/2014/10/20/windows-10-solve-the-two-finger-scrolling-issue-for-synaptics-touchpads/#comment-2166219123):
+
+>The final solution was I uninstalled my Lenovo Pointing Device driver [device manager, mouse and other pointing devices], went to their website and downloaded the windows 10 mouse driver. 
+
+After a reboot, just start checking for updates from WIndows Update to start the download and installation of the updated driver.
+
+<hr/>
+
 *UPDATE: With the latest builds of Windows 10 you can install the updated Synaptics drivers  through Windows Update , which no longer requires this procedure.* 
 
 <hr/>
