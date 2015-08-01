@@ -40,7 +40,7 @@ When transcribing the variations on ukulele I felt like (let me the IT metaphor)
 
 The starting point was the very first edition of Op.9, published in London in 1821 ([here a PDF](http://imslp.org/wiki/Special:ReverseLookup/112346)).
 
-The original was in *E major*, but to a better usage of the ukulele tuning I preferred transpose a fifth lower , so rewriting everything in *A major*.
+The original was in *E major*, but for a better usage of the ukulele tuning I preferred transpose a fifth lower , so rewriting everything in *A major*.
 
 
 Let's analyze the adaptations that I run on individual movements:
@@ -94,9 +94,7 @@ In the 'coda' I had to adapt the ascending scales that bring to the final.
 
 And finally, this is my execution:
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/oaiJPxOzb0Y" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/WIA3DZkj1H0" frameborder="0" allowfullscreen></iframe>
 
-<hr/>
-Download from LULU.COM:
+[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/SOR_Op9.pdf)
 
-<a href="http://www.lulu.com/commerce/index.php?fBuyContent=17020427"><img src="http://static.lulu.com/images/services/buy_now_buttons/it/book.gif?20150714081123" border="0" alt="Support independent publishing: Buy this e-book on Lulu."></a>
