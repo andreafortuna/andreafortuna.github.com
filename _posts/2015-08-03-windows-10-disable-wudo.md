@@ -14,7 +14,7 @@ tags:
 {% include JB/setup %}
 
 
-Windows 10 introduced a new feature, called *Windows Update Delivery Optimization* (WUDO), initially designed to help users get faster software updates.
+*Windows 10* introduced a new feature, called *Windows Update Delivery Optimization* (WUDO), initially designed to help users get faster software updates.
 
 ![WUDO](/technology/images/WUDO_detail.png)
 <!-- more -->
@@ -23,7 +23,7 @@ Windows 10 introduced a new feature, called *Windows Update Delivery Optimizatio
 
 Each computer distributes a part of the files across multiple systems and helps everyone to download updates more faster.
 
-However, this peer-to-peer method uses your bandwidth, and the feature is enabled by default in Windows 10.
+However, this *peer-to-peer* method uses your bandwidth, and the feature is enabled by default in Windows 10.
 
 Here the steps to disable this feature:
 
