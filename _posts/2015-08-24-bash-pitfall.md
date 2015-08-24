@@ -2,7 +2,7 @@
 layout: post
 title: "Bash pitfall: old but gold!"
 description: "When writing bash scripts often we make errors difficult to detect and correct."
-thumbnail: "http://www.andreafortuna.org/technology/images/pitfall.png"
+thumbnail: "http://www.andreafortuna.org/technology/images/pitfall.jpg"
 keywords: bash, pitfall, common errors, programming
 category: Microsoft
 tags: 
@@ -15,7 +15,7 @@ tags:
 
 When writing bash scripts often we make errors difficult to detect and correct.
 
-![Pitfall](/technology/images/pitfall.png)
+![Pitfall](/technology/images/pitfall.jpg)
 <!-- more -->
 
 "Bash pitfall" can help us:
