@@ -12,7 +12,6 @@ tags:
 - Matteo Carcassi
 - Allegretto
 
-
 ---
 {% include JB/setup %}
 Another simple e short piece of Matteo Carcassi: today an "Allegretto in C"
