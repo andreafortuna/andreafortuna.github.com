@@ -11,7 +11,6 @@ tags:
 - Christian Petzold
 - Minuet
 
-
 ---
 {% include JB/setup %}
 A famous and simple 32-measure piece in the key of G major: until 1970 it was attributed to *Johann Sebastian Bach* (BWV Anh 114), but it is now universally attributed to *Christian Petzold*.
