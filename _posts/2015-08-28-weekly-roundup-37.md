@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Weekly #Roundup #37 - #AshleyMadison #Windows10 #PayPal #FacebookM"
-description: "My Weekly Digest #36 - #AshleyMadison #Windows10 #PayPal #FacebookM #Ukulele #Music #Security #Programming #Barefoot #Running"
+description: "My Weekly Digest #37 - #AshleyMadison #Windows10 #PayPal #FacebookM #Ukulele #Music #Security #Programming #Barefoot #Running"
 thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/ashley-madison.jpg"
 keywords: Ashley Madison, Microsoft, windows 10, Geek, Security, Programming, Running, Barefoot, Bill Hoffman, Music, ukulele, Epiphone, Matteo Carcassi, transcription, wordpress, Apple Watch
 category: WeeklyRoundup
