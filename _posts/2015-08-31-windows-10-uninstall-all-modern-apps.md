@@ -30,4 +30,4 @@ and
 
 Some apps cannot be uninstalled: Store, Edge, Windows Feedback, Settings,Contact Support, Cortana, Photos.
 
-That's all! 
+That's all!
