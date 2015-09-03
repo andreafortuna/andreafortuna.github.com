@@ -44,9 +44,15 @@ That's all!
 
 <hr/>
 *Other posts about Windows 10 issues:*
+
 - [Windows 10/8/7: remove all spyware telemetry updates](/microsoft/2015/09/03/remove-spyware-windows-updates/)
+
 - [Windows 10: enable right click with two fingers tap on Synaptics touchpad](/microsoft/2015/08/05/windows-10-right-click-two-fingers-tap/)
+
 - [Windows 10: missing MIDI wavetable?](/microsoft/2015/07/30/windows-10-missing-midi-wavetable/)
+
 - [Windows 10: how to fix the 0x803F700X error on Store](/microsoft/2015/07/31/windows-10-error-0x803F7000/)
+
 - [Windows 10: how to disable Windows Update Delivery Optimization (WUDO)](http://www.andreafortuna.org/microsoft/2015/08/03/windows-10-disable-wudo/)
+
 <hr/>
