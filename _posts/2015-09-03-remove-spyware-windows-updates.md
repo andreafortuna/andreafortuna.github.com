@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to remove All Windows Telemetry Updates?"
+title: "How to remove all Windows Telemetry Updates?"
 description: "Windows 10 terms and conditions clearly say 'we will access, disclose and preserve personal data.'"
 thumbnail: "http://www.andreafortuna.org/technology/images/Windows-privacy.jpg"
 keywords: Microsoft, Windows, privacy, KB3075249, KB3080149
