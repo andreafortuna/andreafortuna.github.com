@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Facebook Fitness Report: a small update"
-description: "Accessing opengraph fitness data through facebook API"
+description: "A very small update of my 'runner-oriented' webapp Facebook Fitness Report"
 category: Programming
 tags: 
 - Running

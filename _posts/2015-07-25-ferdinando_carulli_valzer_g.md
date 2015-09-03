@@ -2,7 +2,7 @@
 layout: post
 title: "Ferdinando Carulli, Valzer in G: my ukulele transcription (video and tabs)"
 thumbnail: "http://www.andreafortuna.org/ukulele/images/carulli_valzer_g_detail.png"
-description: "Often some musicians approach the ukulele after studying for years a more 'conventional' instrument. So It's natural try to play songs you already know, a sort of 'comfort music' that helps to get familiar with the new instrument."
+description: "Today I propose a transcript of a short didactical piece of Ferdinando Carulli"
 keywords: ukulele, transcriptions, transcription, Ferdinando Carulli, Valzer, music, fingerstyle
 category: Ukulele
 tags: 

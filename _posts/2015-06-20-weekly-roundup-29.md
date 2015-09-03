@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Weekly #Roundup #29"
-description: "My Weekly Digest #28 - What can not be missed this week? "
+description: "My Weekly Digest #29 - What can not be missed this week? "
 thumbnail: "http://www.andreafortuna.org/images/jon-snow.jpg"
 category: WeeklyRoundup
 tags: 
