@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #38 - #Windows #Privacy #PayPal #AdobeFlash"
 description: "My Weekly Digest #38 - #Windows #Privacy #PayPal #AdobeFlash #Ukulele #Music #Security #Programming #Barefoot #Running"
-thumbnail: "http://www.andreafortuna.org/technology/images/Windows-privacy.jpg"
+thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/windows-10-privacy.jpg"
 keywords: Microsoft, Windows 10, Privacy, Geek, Security, Adobe Flash, Programming, Running, Barefoot, Music, ukulele, transcription, wordpress, Spyware, Google OnHub, Google Chrome, Javascript, Node.js
 category: WeeklyRoundup
 tags: 
@@ -33,7 +33,7 @@ tags:
 {% include JB/setup %}
 What can not be missed this week? 
 
-![Windows Privacy](/technology/images/Windows-privacy.jpg)
+![Windows Privacy](/weeklyroundup/images/windows-10-privacy.jpg)
 <!-- more -->
 
 Security & Privacy
