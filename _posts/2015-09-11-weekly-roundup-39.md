@@ -31,13 +31,13 @@ Security & Privacy
 
 - [Analyzing Popular Layer 7 Application DDoS Attacks](https://blog.sucuri.net/2015/09/analyzing-popular-layer-7-application-ddos-attacks.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Has Twitter traced escaped Mexican drug baron 'El Chapo' to Costa Rica?](https://nakedsecurity.sophos.com/2015/09/08/has-twitter-traced-escaped-mexican-drug-baron-el-chapo-to-costa-rica/?utm_source=Naked%2520Security%2520-%2520Feed&utm_medium=feed&utm_content=rss2&utm_campaign=Feed){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Files on Seagate wireless disks can be poisoned, purloined – thanks to hidden login](http://www.theregister.co.uk/2015/09/07/files_on_seagate_wireless_disks_can_be_poisoned_purloined/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [TSA Master Keys](https://www.schneier.com/blog/archives/2015/09/tsa_master_keys.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Turn Off Windows 10 Keylogger Now](http://thehackernews.com/2015/09/windows10-keylogger-security.html){:target="_blank"}
 
 - [](){:target="_blank"}
 
