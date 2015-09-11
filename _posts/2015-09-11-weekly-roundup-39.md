@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "My Weekly #Roundup #39 - #TAGS"
-description: "My Weekly Digest #39 - #MORETAGS"
+title: "My Weekly #Roundup #39 - #WWDC #Apple #Ipad #iPhone"
+description: "My Weekly Digest #39 - #Apple #iPadPro #Ukulele #Running #Windows10 #Security #Programming"
 thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/ipadpro.png"
-keywords: Apple, Ipad, iPhone 6s, iPad Pro, H264ify, Android, WIndows 10, seagate, raspberry, Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription
+keywords: Apple, Ipad, iPhone 6s, iPad Pro, WWDC, H264ify, Android, WIndows 10, seagate, raspberry, Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription
 category: WeeklyRoundup
 tags: 
 - Roundup
@@ -15,7 +15,7 @@ tags:
 - Apple
 - iPhone
 - iPad
-- WIndows 10
+- Windows 10
 - Running
 - Barefoot
 - Ukulele
@@ -58,7 +58,9 @@ Geekness
 
 - [Chrome Is Finally Improving Its Memory Management](http://lifehacker.com/chrome-updates-with-speed-improvements-and-better-memor-1728577172){:target="_blank"}
 
-- [A comic predicted Apple's iPad Pro keyboard 3 years ago](http://www.engadget.com/2015/09/09/comic-predicted-ipad-pro-keyboard/){:target="_blank"}
+- [Here's why the iPhone 6s has a smaller battery](http://www.engadget.com/2015/09/10/iphone-6s-smaller-battery/){:target="_blank"}
+
+- [A comic predicted Apple's iPad Pro keyboard 3 years ago](http://www.andreafortuna.org/technology/2015/09/10/ipadpro-prediction/){:target="_blank"}
 ![IpadPro2012](http://4.bp.blogspot.com/-A_38HYfAgQQ/VfE6Bso-BtI/AAAAAAAAcvc/t9L-bI0myEc/s1600/Screen%2BShot%2B2015-09-10%2Bat%2B09.59.49.jpg)
 
 - [FINALLY, AN OFFICIAL DISPLAY FOR THE RASPBERRY PI](http://hackaday.com/2015/09/08/finally-an-official-display-for-the-raspberry-pi/){:target="_blank"}
@@ -86,9 +88,9 @@ Programming
 
 - [How to Safely Implement Cryptography Features in Any Application](https://paragonie.com/blog/2015/09/how-to-safely-implement-cryptography-in-any-application){:target="_blank"}
 
-- [](){:target="_blank"}
-
 - [How to mess with your project manager](http://www.commitstrip.com/en/2015/09/08/how-to-mess-with-your-project-manager/){:target="_blank"}
+
+- [Cross-browser SQL-like relational database for web apps from Google](https://google.github.io/lovefield/){:target="_blank"}
 
 ![How to mess with your project manager](http://www.commitstrip.com/wp-content/uploads/2015/09/Strip-Back-end-VS-Front-end-english.jpg)
 
@@ -101,32 +103,23 @@ Ukulele & Music
 
 - [Ohana SK-10s vs Lanikai LU-21 vs Kala KA-S - REVIEW](http://www.gotaukulele.com/2015/09/soprano-ukulele-shootout-ohana-sk-10-vs.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [How to Play Ukulele: 4 Fingerpicking Patterns for Ukes](http://takelessons.com/blog/how-to-play-ukulele-fingerpicking-z10){:target="_blank"}
 
-- [](){:target="_blank"}
+- [The Jazz Resource: Basic Music Theory](http://www.thejazzresource.com/basic_music_theory.html){:target="_blank"}
 
-- [](){:target="_blank"}
-
-- [](){:target="_blank"}
-
-- [](){:target="_blank"}
-
+<iframe width="640" height="360" src="https://www.youtube.com/embed/EJnllbSSKIY" frameborder="0" allowfullscreen></iframe>
 
 
 Running
 --
 
-![image](http://runninghumor.com/wp-content/blogs.dir/3/files/2013/07/hows-diet-going.jpg)
+![image](/running/images/Runrunrun.jpg)
 
 - [Running saved my life](http://www.theguardian.com/lifeandstyle/2015/aug/24/running-saved-my-life-depression-doctors-pills-therapy-did-nothing?CMP=fb_gu){:target="_blank"}
 
 - [8 ways to be a more positive runner](http://www.runnersworld.co.uk/training/8-ways-to-be-a-more-positive-runner/13990.html){:target="_blank"}
 
-- [](){:target="_blank"}
-
 - [6 mistakes runners make (and how to fix them)](http://www.runnersworld.co.uk/training/6-mistakes-runners-make-and-how-to-fix-them/13987.html){:target="_blank"}
-
-- [](){:target="_blank"}
 
 - [Why guys need to worry about bone health](http://www.runnersworld.co.uk/health/why-guys-need-to-worry-about-bone-health/13995.html){:target="_blank"}
 
