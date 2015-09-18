@@ -22,7 +22,7 @@ What can not be missed this week?
 
 ![image](/weeklyroundup/images/image.jpg)
 <!-- more -->
-
+<hr/>
 Security & Privacy
 --
 ![image](http://imgs.xkcd.com/comics/porn_folder.png)
@@ -42,7 +42,7 @@ Security & Privacy
 - [](){:target="_blank"}
 
 
-
+<hr/>
 Geekness
 --
 
@@ -63,7 +63,7 @@ Geekness
 - [](){:target="_blank"}
 
 
-
+<hr/>
 Programming
 --
 ![image](http://www.commitstrip.com/wp-content/uploads/2015/09/Strip-Discussion-de-codeur-650-finalenglish2.jpg)
@@ -83,7 +83,7 @@ Programming
 - [](){:target="_blank"}
 
 
-
+<hr/>
 Ukulele & Music
 --
 
@@ -104,7 +104,7 @@ Ukulele & Music
 - [](){:target="_blank"}
 
 
-
+<hr/>
 Running
 --
 
