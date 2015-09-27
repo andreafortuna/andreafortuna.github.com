@@ -27,7 +27,7 @@ In my free time i play guitar and [ukulele](/ukulele/) and [develop applications
 <li><i class="fa fa-facebook"></i>&nbsp;<a href="https://www.facebook.com/andreafortuna" target="_blank">facebook.com/andreafortuna</a></li>
 <li><i class="fa fa-twitter"></i>&nbsp;<a href="https://twitter.com/AndyF" target="_blank">@AndyF</a></li>
 <li><i class="fa fa-linkedin"></i>&nbsp;<a href="http://it.linkedin.com/in/andreafortuna/" target="_blank">it.linkedin.com/in/andreafortuna/</a></li>
-<li><i class="fa fa-youtube"></i>&nbsp;<a href="https://www.youtube.com/c/AndreaFortuna" rel="me">youtube.com/c/AndreaFortuna</a></li>
+<li><i class="fa fa-youtube"></i>&nbsp;<a href="https://www.youtube.com/user/andreafortuna" rel="me">youtube.com/user/andreafortuna</a></li>
 <li><i class="fa fa-soundcloud"></i>&nbsp;<a href="https://soundcloud.com/andreafortuna" rel="me">soundcloud.com/andreafortuna</a></li>
 <li><i class="fa fa-instagram"></i>&nbsp;<a href="http://instagram.com/andrea_fortuna" target="_blank">instagram.com/andrea_fortuna</a></li>
 <li><i class="fa fa-github"></i>&nbsp;<a href="https://github.com/andreafortuna">https://github.com/andreafortuna</a></li>
