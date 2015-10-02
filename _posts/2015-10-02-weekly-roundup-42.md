@@ -34,7 +34,7 @@ What can not be missed this week?
 <hr/>
 Security & Privacy
 --
-![image](http://imgs.xkcd.com/comics/porn_folder.png)
+![Windows](http://img0.joyreactor.com/pics/post/funny-pictures-auto-550943.jpeg)
 
 - [Window 7 updates have NOT been hacked after all!](https://nakedsecurity.sophos.com/2015/10/01/window-7-updates-have-not-been-hacked-after-all/?utm_source=Naked%2520Security%2520-%2520Feed&utm_medium=feed&utm_content=rss2&utm_campaign=Feed){:target="_blank"}
 
