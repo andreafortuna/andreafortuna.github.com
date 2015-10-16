@@ -18,7 +18,7 @@ tags:
 
 ---
 {% include JB/setup %}
-What can not be missed this week? 
+Interesting things that i read in the last week!
 
 ![image](/weeklyroundup/images/image.jpg)
 <!-- more -->
