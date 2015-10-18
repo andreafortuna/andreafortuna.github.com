@@ -100,5 +100,5 @@ if (isset($_POST['image'])) {
 
 In this version of the script, the image is posted to the form as base64 array, and needs to be decoded when it arrives on server.
 
-The [updated source](http://git.andreafortuna.org/html5-mobile-upload/src) is available on my [GIT repository](http://git.andreafortuna.org/).
+The [updated source](https://bitbucket.org/andreafortuna/html5-mobile-upload/src) is available on my [GIT repository](https://bitbucket.org/andreafortuna/).
 
