@@ -35,7 +35,7 @@ Security & Privacy
 
 - [This Malware Can Delete and Replace Your Entire Chrome Browser with a lookalike](http://thehackernews.com/2015/10/malware-chome.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [The first rule of zero-days is no one talks about zero-days](http://arstechnica.com/security/2015/10/the-rise-of-the-zero-day-market/){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -76,9 +76,9 @@ Programming
 
 - [FlatMapper: a library to import and export data from and to plain text files](http://www.codeproject.com/Articles/1041237/Flatmapper){:target="_blank"}
 
-- [](){:target="_blank"}
+- [GRIDLE{.SCSS}: simple, really customizable and powerful grid system.](http://gridle.org/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Node.js for the Real World](http://www.technology-ebay.de/the-teams/mobile-de/blog/nodejs-real-world){:target="_blank"}
 
 - [](){:target="_blank"}
 
