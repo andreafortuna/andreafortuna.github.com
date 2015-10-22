@@ -37,7 +37,7 @@ Security & Privacy
 
 - [The first rule of zero-days is no one talks about zero-days](http://arstechnica.com/security/2015/10/the-rise-of-the-zero-day-market/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Let's Encrypt Free SSL/TLS Certificate Now Trusted by Major Web Browsers](http://thehackernews.com/2015/10/lets-encrypt-free-ssl-certificate.html){:target="_blank"}
 
 - [](){:target="_blank"}
 

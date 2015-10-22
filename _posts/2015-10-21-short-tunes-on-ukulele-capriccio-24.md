@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Short tunes on #Ukulele: Niccolò Paganini, Caprice n. 24"
+title: "Short tunes on #Ukulele: Niccolò Paganini, Caprice No. 24"
 thumbnail: "http://www.andreafortuna.org/ukulele/images/Capriccio24_theme.png"
 description: "Caprice No. 24 in A minor is the final caprice of Niccolò Paganini's 24 Caprices."
-keywords: Niccolò Paganini, Ukulele, Caprices, Capricci, Capriccio n.24, Caprice n. 24
+keywords: Niccolò Paganini, Ukulele, Caprices, Capricci, Capriccio n.24, Caprice No. 24
 category: Ukulele
 tags: 
 - Ukulele
