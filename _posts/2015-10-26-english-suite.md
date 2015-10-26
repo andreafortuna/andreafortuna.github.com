@@ -2,7 +2,7 @@
 layout: post
 title: "John William Duarte - English Suite, Op. 31 - Prelude: my ukulele transcription (video and tabs)"
 thumbnail: "http://www.andreafortuna.org/ukulele/images/englishsuite.PNG"
-description: "My ukulele transcription  of Prelude from *English Suite, Op. 31* by *John William Duarte*."
+description: "My ukulele transcription  of Prelude from English Suite, Op. 31 by John William Duarte."
 keywords: ukulele, transcriptions, transcription, prelude, english suite, john william duarte, music, fingerstyle
 category: Ukulele
 tags: 
