@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Halloween Ukulele: The Addams Family Theme"
+title: "#halloween #ukulele: The Addams Family Theme"
 thumbnail: "http://www.andreafortuna.org/ukulele/images/addamsfamily.jpg"
-description: "Trick or treat? Instead of candy and sweets, I offer my own transcription on ukulele of the theme of the old and beloved TV series 'The Addams Family'!"
-keywords: ukulele, transcriptions, transcription, The Addams Family, Vic Mizzy, Charles Addams, music, fingerstyle
+description: "Trick or treat? Instead of candy and sweets, I offer my own transcription on #ukulele of the theme of the old and beloved TV series 'The Addams Family'!"
+keywords: ukulele, transcriptions, transcription, The Addams Family, Vic Mizzy, Charles Addams, music, fingerstyle, Halloween
 category: Ukulele
 tags: 
 - Ukulele
 - Transcription
 - The Addams Family
 - TV Themes
+- Halloween
 
 ---
 {% include JB/setup %}
