@@ -36,7 +36,7 @@ And here my ukulele arrangement:
 
 <hr/>
 
-Ukulele score&tablature (with my fingering notes), could be downloaded clicking the link below:
+Ukulele score&tablature could be downloaded clicking the link below:
 
 [![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/the_addams_family_theme.pdf)
 

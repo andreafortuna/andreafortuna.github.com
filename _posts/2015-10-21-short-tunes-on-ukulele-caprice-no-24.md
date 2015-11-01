@@ -36,6 +36,6 @@ The original is in the key of A minor, but for adapt the piece to the limited ra
 ![Caprice 24](/ukulele/images/caprice_24_detail.png)
 <hr/>
 
-For ukulele score&tablature (with my fingering notes), click the link below.
+Ukulele score&tablature could be downloaded clicking the link below:
 
 [![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Capriccio_n_24_-_Theme.pdf)

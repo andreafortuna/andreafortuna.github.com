@@ -31,6 +31,6 @@ In addition to the Beverly Hills Cop soundtrack, the song also appears on Falter
 <hr/>
 ![AxelF!](/ukulele/images/axelfscore.PNG)
 <hr/>
-For ukulele score&tablature (with my fingering notes), click the link below.
+Ukulele score&tablature could be downloaded clicking the link below:
 
 [![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/axelf.pdf)
