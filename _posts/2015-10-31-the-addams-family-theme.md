@@ -40,3 +40,5 @@ Ukulele score&tablature could be downloaded clicking the link below:
 
 [![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/the_addams_family_theme.pdf)
 
+<hr/>
+<iframe width="100%" height="394" src="https://musescore.com/user/3227656/scores/1365086/embed" frameborder="0"></iframe><span><a href="https://musescore.com/user/3227656/scores/1365086">The Addams Family Theme, Ukulele arrangement</a> by <a href="https://musescore.com/user/3227656">Andrea Fortuna</a></span> 
