@@ -2,7 +2,7 @@
 layout: post
 title: "Short covers on #Ukulele: The Cure - Lullaby"
 thumbnail: "http://www.andreafortuna.org/ukulele/images/Lullaby.jpg"
-description: "#15secondscovers"
+description: "#15secondscovers on #ukulele: The Cure - Lullaby"
 keywords: The Cure, Ukulele, Cover
 category: Ukulele
 tags: 
@@ -14,6 +14,7 @@ tags:
 ---
 {% include JB/setup %}
 
+From 1989 with fury!
 
 ![Lullaby](/ukulele/images/Lullaby.jpg)
 <!-- more -->
