@@ -17,7 +17,7 @@ tags:
 ---
 {% include JB/setup %}
 
-I am a hacker in the ancestral sense of the term, I like taking things apart, modify them and (when I can) improve them.
+I am a hacker in the original sense of the term, I like taking things apart, modify them and (when I can) improve them.
 
 So, whenever I find myself in your hands a new smartphone (especially *Android*) i feel like a child in which was given a new toy :-)
 
