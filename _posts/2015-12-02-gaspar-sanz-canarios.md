@@ -35,7 +35,7 @@ From ([Wikipedia](https://en.wikipedia.org/wiki/Gaspar_Sanz){:target="_blank"}):
 >In 1674 he wrote his now famous Instrucción de Música sobre la Guitarra Española, published in Saragossa and dedicated to Don Juan.
 A second book entitled Libro Segundo de cifras sobre la guitarra española was printed in Saragossa in 1675. 
 A third book, Libro tercero de mùsica de cifras sobre la guitarra española, was added to the first and second books, and all three were published together under the title of the first book in 1697, eventually being published in eight editions. 
-The ninety works in this masterpiece are his only known contribution to the repertory of the guitar[4] and include compositions in both punteado ("plucked") style and rasqueado ("strummed") style.
+The ninety works in this masterpiece are his only known contribution to the repertory of the guitar and include compositions in both punteado ("plucked") style and rasqueado ("strummed") style.
 
 >In addition to his musical skills, Gaspar Sanz was noted in his day for his literary works as a poet and writer, and was the author of some poems and two books now largely forgotten.
 
