@@ -126,7 +126,7 @@ Running
 
 - [How a running app helps a blind runner train solo](http://www.runnersworld.co.uk/community/how-a-running-app-helps-a-blind-runner-train-solo/14280.html){:target="_blank"}
 
-- [What I Eat to Fuel an Ultramarathon | Day Before Pong Yaeng Trail](What I Eat to Fuel an Ultramarathon | Day Before Pong Yaeng Trail){:target="_blank"}
+- [What I Eat to Fuel an Ultramarathon](https://www.youtube.com/watch?v=zKBLtrb8NX4){:target="_blank"}
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/zKBLtrb8NX4" frameborder="0" allowfullscreen></iframe>
 
