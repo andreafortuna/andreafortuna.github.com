@@ -42,7 +42,7 @@ The original was in *G minor*, but for a better usage of the ukulele tuning I pr
 
 Here my ukulele version:
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/Tl7_lEKnULI" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Tl7_lEKnULI" frameborder="0" allowfullscreen></iframe>
 
 <hr/>
 
