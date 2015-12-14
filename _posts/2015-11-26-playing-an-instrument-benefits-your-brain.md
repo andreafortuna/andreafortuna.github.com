@@ -21,4 +21,6 @@ An interesting TED Lesson by [Anita Collins](http://www.anitacollinsmusic.com/fi
 
 <hr/>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/R0JKCYZ8hng" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/R0JKCYZ8hng" frameborder="0" allowfullscreen></iframe>
+</div>

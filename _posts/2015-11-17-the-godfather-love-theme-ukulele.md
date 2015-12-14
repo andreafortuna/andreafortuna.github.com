@@ -26,9 +26,9 @@ As usual, some infos about the song from [Wikipedia](https://en.wikipedia.org/wi
 >Rota had used a more comedic version of the song for the 1958 film Fortunella. When this was discovered, Rota's score for The Godfather was disqualified from consideration at the 1973 Academy Awards; it had been nominated for Best Original Score.[1] However, Rota's score for The Godfather Part II won the 1974 Academy Award for Best Score, despite containing the same piece.
 
 <hr/>
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/jkmbLNXay1E" frameborder="0" allowfullscreen></iframe>
-
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/jkmbLNXay1E" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <hr/>
 

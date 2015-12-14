@@ -57,7 +57,9 @@ The original was in *D major*, but for a better usage of the ukulele tuning I pr
 
 And here my *disrespectful* ukulele version:
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/JC1e897GMLQ" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/JC1e897GMLQ" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <hr/>
 

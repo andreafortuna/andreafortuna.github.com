@@ -41,8 +41,9 @@ My arrangement
 The original was in *G minor*, but for a better usage of the ukulele tuning I preferred transpose in *A minor*.
 
 Here my ukulele version:
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Tl7_lEKnULI" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/Tl7_lEKnULI" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <hr/>
 
