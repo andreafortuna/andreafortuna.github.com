@@ -33,10 +33,6 @@ The original is in the key of D minor, but for adapt the piece to the limited ra
 
 <hr/>
 
-<iframe width="100%" height="394" src="https://musescore.com/user/3227656/scores/1376881/s/90cc03/embed" frameborder="0"></iframe><span><a href="https://musescore.com/user/3227656/scores/1376881/s/90cc03">The Cure - Lullaby (intro) - Ukulele Arrangement</a> by <a href="https://musescore.com/user/3227656">Andrea Fortuna</a></span> 
-
-<hr/>
-
 Ukulele score&tablature could be downloaded clicking the link below:
 
 [![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/The_Cure_Lullaby.pdf)

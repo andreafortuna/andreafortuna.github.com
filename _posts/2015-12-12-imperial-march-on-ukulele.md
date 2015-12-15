@@ -50,7 +50,3 @@ Here my ukulele version:
 Ukulele score&tablature could be downloaded clicking the link below:
 
 [![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Imperial_March.pdf)
-
-<hr/>
-
-<iframe width="100%" height="394" src="https://musescore.com/user/3227656/scores/1494896/embed" frameborder="0"></iframe><span><a href="https://musescore.com/user/3227656/scores/1494896">The Imperial March (Darth Vader's Theme) on ukulele</a> by <a href="https://musescore.com/user/3227656">Andrea Fortuna</a></span> 

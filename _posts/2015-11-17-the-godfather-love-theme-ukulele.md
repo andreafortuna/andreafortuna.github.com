@@ -35,7 +35,3 @@ As usual, some infos about the song from [Wikipedia](https://en.wikipedia.org/wi
 Ukulele score&tablature could be downloaded clicking the link below:
 
 [![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/The_Godfather_Theme.pdf)
-
-<hr/>
-
-<iframe width="100%" height="394" src="https://musescore.com/user/3227656/scores/1413471/embed" frameborder="0"></iframe><span><a href="https://musescore.com/user/3227656/scores/1413471">Nino Rota - The Godfather Love Theme: ukulele arrangement</a> by <a href="https://musescore.com/user/3227656">Andrea Fortuna</a></span> 
