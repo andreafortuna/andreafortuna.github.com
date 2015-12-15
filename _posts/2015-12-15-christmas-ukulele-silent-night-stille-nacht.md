@@ -2,7 +2,7 @@
 layout: post
 title: "Christmas Ukulele: Stille Nacht (Silent Night)"
 thumbnail: "http://www.andreafortuna.org/ukulele/images/silentnight.jpg"
-description: "My #ukulele transcription of Silent Night"
+description: "My #ukulele version of Silent Night"
 keywords: ukulele, transcriptions, transcription, Stille Nacht, Silent Night, music, fingerstyle
 category: Ukulele
 tags: 
