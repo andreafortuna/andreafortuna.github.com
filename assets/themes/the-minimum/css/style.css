@@ -87,6 +87,30 @@ h4, .h4 {
   margin-top: 26px;
   margin-bottom: 26px;
 }
+
+/* Responsive fixes */
+@media only screen and (max-width: 767px) {
+    h1 { font-size: 2em; }
+    h2 { font-size: 1.5em; }
+    .h2 { 
+      font-size: 1.5em; 
+      line-height: 1.5em;
+    }
+    h3 { font-size: 1.17em; }
+    h4 { font-size: 1.12em; }
+    h5 { font-size: .83em; }
+    h6 { font-size: .75em; }
+    .the-footer ul {
+        padding-left: 0em;
+        width: 250px;
+    }
+    .the-header .nav-global {
+      text-align: center;
+    }
+}
+
+
+
 p,
 ul,
 ol,
