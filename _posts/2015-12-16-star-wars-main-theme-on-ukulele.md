@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Star Wars Main Theme on Ukulele (video and tabs)"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/theforceawakens.jpg"
+thumbnail: "http://www.andreafortuna.org/ukulele/images/starwarsmaintheme.png"
 description: "John (Williams), forgive me! My #ukulele transcription of Star Wars Main Theme"
 keywords: ukulele, transcriptions, transcription, John Williams, Main Theme, Luke Skywalker Theme, music, fingerstyle
 category: Ukulele
