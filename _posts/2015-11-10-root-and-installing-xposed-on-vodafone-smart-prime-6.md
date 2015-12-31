@@ -96,7 +96,7 @@ Installing *Xposed Framework*
 
 Finally, we start to install the *Xposed framework*.
 
-First, go to the [Official XDA Thread](http://forum.xda-developers.com/showthread.php?t=3034811){:target="_blank"}, download the *XposedInstaller_3.0_alpha4.apk* and the *xposed-v75-sdk21-arm.zip*, and copy them in phone storage.
+First, go to the [Official XDA Thread](http://forum.xda-developers.com/showthread.php?t=3034811){:target="_blank"}, download the *XposedInstaller_3.0_alpha4.apk* and the latest *xposed-vXX-sdk21-arm.zip*, and copy them in phone storage.
 
 From phone, open any file manager app, head over to the folder where you have saved the *Xposed installer*, and select it to confirm  installation.
 
