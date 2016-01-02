@@ -22,16 +22,39 @@ Recently, I had a "love at first sight" for the ukulele: a musical instrument th
 
 In this section I am going to publish my thoughts, my exercises and my transcriptions.
 <hr/>
-<p style="text-align: right;float:right;margin-top:10px;margin-left:20px;"><a href="rss.xml"><i class="fa fa-rss fa-4x" >&nbsp;</i></a></p>
-<div class="blog-index">
 
-{% for post in site.posts %}
+Transcriptions archive
+--
+
+- [Classical pieces](/ukulele/transcriptions.html#classicalpieces){:target="_blank"}
+- [Traditionals](/ukulele/transcriptions.html#traditionals){:target="_blank"}
+- [TV, Movies and Videogames Themes](/ukulele/transcriptions.html#soundtracks){:target="_blank"}
+- [Pop songs and riffs](/ukulele/transcriptions.html#pop){:target="_blank"}
+
+<hr>
+
+Latest posts
+--
+
+<p style="text-align: right;float:right;margin-top:10px;margin-left:20px;"><a href="rss.xml"><i class="fa fa-rss fa-2x" >&nbsp;</i></a></p>
+  
+{% for post in site.posts limit:10 %}
     {% if post.categories contains 'ukulele' %}
-        {% assign content = post.content %}
-        {% include post_detail.html %}
+ 
+ <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+ 
     {% endif %}
 {% endfor %}
 
+<p style="text-align: right;font-size:1.5em;"> <a href="./archive.html">All posts...</a> </p>
+
+
+Latest videos
+--
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/?listType=user_uploads&list=andreafortuna" frameborder="0" allowfullscreen></iframe>
 </div>
+
 
 
