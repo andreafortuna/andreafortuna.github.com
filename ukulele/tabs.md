@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Ukulele transcriptions
-description: "Ukulele transcriptions"
+description: "Ukulele tabs and arrangements"
 thumbnail: "http://www.andreafortuna.org/ukulele/images/ukulele2.jpg"
-keywords: ukulele, transcriptions, fingerstyle, music, tabs
+keywords: ukulele, tabs, arrangements, transcriptions, fingerstyle, music
 tagline: Ukulele
 ---
 {% include JB/setup %}
@@ -14,6 +14,10 @@ Classical pieces
 --
 
 ![Transcriptions](/ukulele/images/transcriptions.jpg)
+
+- [Gaspar Sanz - Canarios](http://www.andreafortuna.org/ukulele/2015/12/02/gaspar-sanz-canarios/){:target="_blank"}
+
+- [John William Duarte - English Suite, Op. 31 - Prelude](http://www.andreafortuna.org/ukulele/2015/10/26/john-duarte-english-suite/){:target="_blank"}
 
 - [Niccolò Paganini, Ghiribizzo No. 4](http://www.andreafortuna.org/ukulele/2015/05/25/paganini-ghiribizzo-no-4/){:target="_blank"}
 
@@ -37,9 +41,8 @@ Classical pieces
 
 - [Niccolò Paganini, Caprice No. 24](http://www.andreafortuna.org/ukulele/2015/10/21/short-tunes-on-ukulele-caprice-no-24){:target="_blank"}
 
-- [John William Duarte - English Suite, Op. 31 - Prelude](http://www.andreafortuna.org/ukulele/2015/10/26/john-duarte-english-suite/){:target="_blank"}
 
-- [Gaspar Sanz - Canarios](http://www.andreafortuna.org/ukulele/2015/12/02/gaspar-sanz-canarios/){:target="_blank"}
+
 
 <hr> 
 
@@ -50,13 +53,13 @@ Traditionals
 
 ![White Christmas](/ukulele/images/whitechristmascover.jpg)
 
-- [Happy Birthday To You](http://www.andreafortuna.org/ukulele/2015/09/14/happy-birthday/){:target="_blank"}
-
 - [Stille Nacht (Silent Night)](http://www.andreafortuna.org/ukulele/2015/12/15/christmas-ukulele-silent-night-stille-nacht/){:target="_blank"}
 
 - [Jingle Bells](http://www.andreafortuna.org/ukulele/2015/12/24/christmas-ukulele-jingle-bells/){:target="_blank"}
 
 - [White Christmas](http://www.andreafortuna.org/ukulele/2015/12/26/christmas-ukulele-white-christmas/){:target="_blank"}
+
+- [Happy Birthday To You](http://www.andreafortuna.org/ukulele/2015/09/14/happy-birthday/){:target="_blank"}
 
 <hr>
 
@@ -67,6 +70,9 @@ TV, Movies and Videogames Themes
 
 ![UkeAtAt](/ukulele/images/imperialmarch.jpg)
 
+- [Star Wars - The Imperial March (Darth Vader's Theme)](http://www.andreafortuna.org/ukulele/2015/12/12/imperial-march-on-ukulele/){:target="_blank"}
+
+- [Star Wars Main Theme](http://www.andreafortuna.org/ukulele/2015/12/16/star-wars-main-theme-on-ukulele/){:target="_blank"}
 
 - [Family Guy, Theme song](http://www.andreafortuna.org/ukulele/2015/05/21/familyguy-theme-song-ukulele-cover/){:target="_blank"}
 
@@ -78,9 +84,6 @@ TV, Movies and Videogames Themes
 
 - [Nino Rota, The Godfather Theme (Speak Softly, Love)](http://www.andreafortuna.org/ukulele/2015/11/17/the-godfather-love-theme-ukulele/){:target="_blank"}
 
-- [Star Wars - The Imperial March (Darth Vader's Theme)](http://www.andreafortuna.org/ukulele/2015/12/12/imperial-march-on-ukulele/){:target="_blank"}
-
-- [Star Wars Main Theme](http://www.andreafortuna.org/ukulele/2015/12/16/star-wars-main-theme-on-ukulele/){:target="_blank"}
 
 <hr>
 

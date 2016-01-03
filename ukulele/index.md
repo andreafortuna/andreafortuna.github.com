@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Ukulele transcriptions and arrangements
-description: "Ukulele transcriptions and arrangements, tutorials, videos"
+title: Ukulele tabs and arrangements
+description: "Ukulele tabs and arrangements, tutorials, videos"
 thumbnail: "http://www.andreafortuna.org/ukulele/images/ukulele2.jpg"
-keywords: ukulele, transcriptions, arrangements,fingerstyle, music, tabs
+keywords: ukulele, tabs, transcriptions, arrangements, fingerstyle, music, tabs
 tagline: Ukulele
 ---
 {% include JB/setup %}
@@ -23,13 +23,13 @@ Recently, I had a "love at first sight" for the ukulele: a musical instrument th
 In this section I am going to publish my thoughts, my exercises and my transcriptions.
 <hr/>
 
-Transcriptions archive
+<a href="/ukulele/tabs.html">Tabs and arrangements archive</a>
 --
 
-- [Classical pieces](/ukulele/transcriptions.html#classicalpieces){:target="_blank"}
-- [Traditionals](/ukulele/transcriptions.html#traditionals){:target="_blank"}
-- [TV, Movies and Videogames Themes](/ukulele/transcriptions.html#soundtracks){:target="_blank"}
-- [Pop songs and riffs](/ukulele/transcriptions.html#pop){:target="_blank"}
+- [Classical pieces](/ukulele/tabs.html#classicalpieces)
+- [Traditionals](/ukulele/tabs.html#traditionals)
+- [TV, Movies and Videogames Themes](/ukulele/tabs.html#soundtracks)
+- [Pop songs and riffs](/ukulele/tabs.html#pop)
 
 <hr>
 

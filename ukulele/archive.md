@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Ukulele transcriptions, tutorials, videos
-description: "Ukulele transcriptions, tutorials, videos"
+title: Ukulele tabs, tutorials, videos
+description: "Ukulele tabs, tutorials, videos"
 thumbnail: "http://www.andreafortuna.org/ukulele/images/ukulele2.jpg"
-keywords: ukulele, transcriptions, fingerstyle, music, tabs
+keywords: ukulele, tabs, transcriptions, arrangements, fingerstyle, music, tabs
 tagline: Ukulele
 ---
 {% include JB/setup %}
