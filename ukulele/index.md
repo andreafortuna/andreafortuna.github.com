@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Ukulele transcriptions, tutorials, videos
-description: "Ukulele transcriptions, tutorials, videos"
+description: "Ukulele transcriptions and arrangements, tutorials, videos"
 thumbnail: "http://www.andreafortuna.org/ukulele/images/ukulele2.jpg"
-keywords: ukulele, transcriptions, paganini, carulli, carcassi, fingerstyle, music, tabs
+keywords: ukulele, transcriptions, arrangements,fingerstyle, music, tabs
 tagline: Ukulele
 ---
 {% include JB/setup %}
