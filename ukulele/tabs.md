@@ -15,6 +15,8 @@ Classical pieces
 
 ![Transcriptions](/ukulele/images/transcriptions.jpg)
 
+- [François Campion - Branle](http://www.andreafortuna.org/ukulele/2016/01/04/francois-campion-branle/){:target="_blank"}
+
 - [Gaspar Sanz - Canarios](http://www.andreafortuna.org/ukulele/2015/12/02/gaspar-sanz-canarios/){:target="_blank"}
 
 - [John William Duarte - English Suite, Op. 31 - Prelude](http://www.andreafortuna.org/ukulele/2015/10/26/john-duarte-english-suite/){:target="_blank"}
@@ -99,4 +101,21 @@ Pop songs and riffs
 - [The Cure - Lullaby](http://www.andreafortuna.org/ukulele/2015/11/09/short-covers-on-ukulele-the-cure-lullaby/){:target="_blank"}
 
 
+<hr>
 
+<a name="tips"></a>
+
+Tips and Exercises
+--
+
+![Tips](/ukulele/images/tima.png)
+
+- [Transcribing classical guitar pieces on ukulele](/ukulele/2015/07/06/transcriptions-from-guitar/){:target="_blank"}
+
+- [Ukulele exercises: Spider v2.0](/ukulele/2015/06/23/ukulele-spider-exercise-v2/){:target="_blank"}
+
+- [Ukulele Tips: chromatic exercise for both hands](/ukulele/2015/06/06/ukulele-chromatic-exercises/){:target="_blank"}
+
+- [Ukulele Tips: the 'spider' exercise](/ukulele/2015/05/19/ukulele-spider-pattern/){:target="_blank"}
+
+- [Ukulele Tips: my warmup method](/ukulele/2015/05/09/ukulele-warmup-patterns/){:target="_blank"}
