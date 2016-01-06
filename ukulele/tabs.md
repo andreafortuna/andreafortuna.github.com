@@ -15,7 +15,7 @@ Classical pieces
 
 ![Transcriptions](/ukulele/images/transcriptions.jpg)
 
-- [François Campion - Branle](http://www.andreafortuna.org/ukulele/2016/01/04/francois-campion-branle/){:target="_blank"}
+- [François Campion - Branle](http://www.andreafortuna.org/ukulele/2016/01/05/francois-campion-branle/){:target="_blank"}
 
 - [Gaspar Sanz - Canarios](http://www.andreafortuna.org/ukulele/2015/12/02/gaspar-sanz-canarios/){:target="_blank"}
 
