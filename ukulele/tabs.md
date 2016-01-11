@@ -15,6 +15,8 @@ Classical pieces
 
 ![Transcriptions](/ukulele/images/transcriptions.jpg)
 
+- [Robert de Visée - Minuet](http://www.andreafortuna.org/ukulele/2016/01/11/robert-de-visee-menuet/){:target="_blank"}
+
 - [François Campion - Branle](http://www.andreafortuna.org/ukulele/2016/01/05/francois-campion-branle/){:target="_blank"}
 
 - [Gaspar Sanz - Canarios](http://www.andreafortuna.org/ukulele/2015/12/02/gaspar-sanz-canarios/){:target="_blank"}
@@ -110,6 +112,8 @@ Tips and Exercises
 
 ![Tips](/ukulele/images/tima.png)
 
+- [Major and Minor scales on Ukulele, simple patterns](http://www.andreafortuna.org/ukulele/2015/12/10/major-minor-scales-patterns/){:target="_blank"}
+ 
 - [Transcribing classical guitar pieces on ukulele](/ukulele/2015/07/06/transcriptions-from-guitar/){:target="_blank"}
 
 - [Ukulele exercises: Spider v2.0](/ukulele/2015/06/23/ukulele-spider-exercise-v2/){:target="_blank"}
