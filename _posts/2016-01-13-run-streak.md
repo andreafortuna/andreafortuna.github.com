@@ -1,0 +1,36 @@
+---
+layout: post
+title: "My 'run streak' of 2015"
+thumbnail: "http://www.andreafortuna.org/running/images/zuck.jpg"
+description: "My streak run report for year 2015"
+keywords: running, barefoot, barefoot running, streak run, 2015
+category: Running
+tags: 
+- Running
+- Mark Zuckemberg
+- Streak
+
+---
+{% include JB/setup %}
+
+Some days ago, i've read [this](https://www.facebook.com/photo.php?fbid=10102579344275191&set=a.529237706231.2034669.4){:target="_blank"} post from *Mark Zuckerberg's Facebook Page*:
+
+>I have a physical challenge for 2016 as well.
+I'm going to run 365 miles and I'd love for as many people in this community to join me as possible.
+
+![Zuckemberg](/running/images/zuck.jpg)
+
+<!-- more -->
+
+<div class="fb-post" data-href="https://www.facebook.com/zuck/posts/10102579357179331" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/zuck/posts/10102579357179331"><p>I have a physical challenge for 2016 as well.I&#039;m going to run 365 miles and I&#039;d love for as many people in this...</p>Posted by <a href="https://www.facebook.com/zuck">Mark Zuckerberg</a> on&nbsp;<a href="https://www.facebook.com/zuck/posts/10102579357179331">Lunedì 4 gennaio 2016</a></blockquote></div></div>
+
+<br><br>
+and i was curious to find out how many kilometers I have run during 2015.
+
+So i aggregate all the data registered with tracking apps that i usually use ([RunKeeper](https://runkeeper.com/){:target="_blank"}, [Runtastic](https://www.runtastic.com/){:target="_blank"} and [SportsTracker](http://www.sports-tracker.com/){:target="_blank"}) and I got this report:
+
+- Activities: *368*  (yes, sometimes i have made 2 workouts in a day)
+- Total distance: *4710 kilometers*
+- Average pace: *6:57/Km* (Yes, I'm a *TurtleRunner*!)
+
+It's official: *in 2015 my car has traveled less kilometers than me*!

@@ -25,7 +25,7 @@ Interesting things that i read in the last week!
 <hr/>
 Security & Privacy
 --
-![image](http://imgs.xkcd.com/comics/porn_folder.png)
+![image](http://xxx)
 
 - [](){:target="_blank"}
 
@@ -46,7 +46,7 @@ Security & Privacy
 Geekness
 --
 
-![image](http://www.commitstrip.com/wp-content/uploads/2015/08/Strip-Damnation-des-ordis-650-finalenglish3.jpg)
+![image](http://xxx)
 
 - [](){:target="_blank"}
 
@@ -61,12 +61,16 @@ Geekness
 - [](){:target="_blank"}
 
 - [](){:target="_blank"}
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/XXXXXX" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 <hr/>
 Programming
 --
-![image](http://www.commitstrip.com/wp-content/uploads/2015/09/Strip-Discussion-de-codeur-650-finalenglish2.jpg)
+![image](http://xxx)
 
 - [](){:target="_blank"}
 
@@ -87,7 +91,7 @@ Programming
 Ukulele & Music
 --
 
-![image](http://rlv.zcache.co.nz/ukulele_player_sticker-r168886474a7f4e76b354d4391e20eb78_v9wf3_8byvr_324.jpg)
+![image](http://xxx)
 
 - [](){:target="_blank"}
 
@@ -105,10 +109,10 @@ Ukulele & Music
 
 
 <hr/>
-Running
+Running & Wellness
 --
 
-![image](http://runninghumor.com/wp-content/blogs.dir/3/files/2013/07/hows-diet-going.jpg)
+![image](http://xxx)
 
 - [](){:target="_blank"}
 
