@@ -13,7 +13,7 @@ tags:
 
 Recently i have discovered the [fitness opengraph data](https://developers.facebook.com/docs/opengraph/guides/fitness) provided by Facebook: when i do a workout using a tracking app on my smartphone that publish activity on my facebook profile, all data are saved and can be accessed through facebook apis.
 
-![running](http://woodstok.io/public/images/running.jpg)
+![running](/images/homer.png)
 <!-- more -->
 
 Using the [Graph API Explorer](https://developers.facebook.com/tools/explorer/) i have extracted all my activities of 2014 and realized a very simple report.
