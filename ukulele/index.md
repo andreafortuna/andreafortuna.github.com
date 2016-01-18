@@ -30,7 +30,7 @@ In this section I am going to publish my thoughts, my exercises and my transcrip
 - [Traditionals](/ukulele/tabs.html#traditionals)
 - [TV, Movies and Videogames Themes](/ukulele/tabs.html#soundtracks)
 - [Pop songs and riffs](/ukulele/tabs.html#pop)
-- [Tips and Exercises](/ukulele/tabs.html#tips)
+- [Exercises and Music Theory](/ukulele/tabs.html#tips)
 <hr>
 
 Latest posts
