@@ -112,7 +112,7 @@ Exercises and Music Theory
 
 ![Tips](/ukulele/images/tima.png)
 
-- [Pentatonic scales on Ukulele, simple patterns](http://www.andreafortuna.orgo/ukulele/2016/01/18/pentatonic-scales-patterns/){:target="_blank"}
+- [Pentatonic scales on Ukulele, simple patterns](http://www.andreafortuna.org/ukulele/2016/01/18/pentatonic-scales-patterns/){:target="_blank"}
  
 - [Major and Minor scales on Ukulele, simple patterns](http://www.andreafortuna.org/ukulele/2015/12/10/major-minor-scales-patterns/){:target="_blank"}
  
