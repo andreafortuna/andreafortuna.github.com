@@ -26,7 +26,7 @@ Very interesting talk by *Christopher Soghoian* on a 2015 *TED Conference*, abou
 He is currently the principal technologist at the *American Civil Liberties Union*.
 
 
-Christopher is also one of the early proponents of the [*Do Not Track (DNT) HTTP header field*](https://en.wikipedia.org/wiki/Do_Not_Track){:target="_blank"}, that requests that a web application disable either its tracking of an individual user.Christopher is also one of the early proponents of the *Do Not Track (DNT) HTTP header field*, that asks a web application to stop tracking individual users.
+Christopher is also one of the early proponents of the *Do Not Track (DNT) HTTP header field*, that asks a web application to stop tracking individual users.
 
 <hr>
 
