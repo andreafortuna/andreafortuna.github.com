@@ -30,7 +30,7 @@ Christopher is also one of the early proponents of the [*Do Not Track (DNT) HTTP
 
 <hr>
 
-Here the talk:
+Here the [talk](https://www.ted.com/talks/christopher_soghoian_a_brief_history_of_phone_wiretapping_and_how_to_avoid_it){:target="_blank"}:
 
 <div class="video-container">
 <iframe src="https://embed-ssl.ted.com/talks/christopher_soghoian_a_brief_history_of_phone_wiretapping_and_how_to_avoid_it.html" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
