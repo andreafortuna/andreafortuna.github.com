@@ -27,6 +27,8 @@ Security & Privacy
 --
 ![image](http://xxx)
 
+- [Zero-Day Flaw Found in 'Linux Kernel' leaves Millions Vulnerable](http://thehackernews.com/2016/01/linux-kernel-hacker.html){:target="_blank"}
+
 - [RUSSIAN HACKERS SHUT DOWN UKRAINE’S POWER GRID](http://europe.newsweek.com/russian-hackers-shut-ukraine-power-grid-415751){:target="_blank"}
 
 - [Critical OpenSSH Flaw Leaks Private Crypto Keys to Hackers](http://thehackernews.com/2016/01/openssh-vulnerability-cryptokeys.html){:target="_blank"}
@@ -40,8 +42,6 @@ Security & Privacy
 - [Potato - Privilege Escalation on Windows 7,8,10, Server 2008, Server 2012](http://www.kitploit.com/2016/01/potato-privilege-escalation-on-windows.html){:target="_blank"}
 
 - [Facebook for Android adding Tor support](https://www.facebook.com/notes/facebook-over-tor/adding-tor-support-on-android/814612545312134){:target="_blank"}
-
-- [](){:target="_blank"}
 
 - [](){:target="_blank"}
 

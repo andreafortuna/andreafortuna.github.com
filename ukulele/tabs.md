@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ukulele transcriptions
+title: Ukulele tabs and arrangements
 description: "Ukulele tabs and arrangements"
 thumbnail: "http://www.andreafortuna.org/ukulele/images/ukulele2.jpg"
 keywords: ukulele, tabs, arrangements, transcriptions, fingerstyle, music
