@@ -72,9 +72,9 @@ Programming
 --
 ![image](http://xxx)
 
-- [](){:target="_blank"}
+- [Knuff:debug application for Apple Push Notification Service (APNs)](https://github.com/KnuffApp/Knuff){:target="_blank"}
 
-- [](){:target="_blank"}
+- [AWS launches tool that provides SSL and TLS certificates for free](http://venturebeat.com/2016/01/21/aws-launches-tool-that-provides-ssl-and-tls-certificates-for-free/){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -93,7 +93,7 @@ Ukulele & Music
 
 ![image](http://xxx)
 
-- [](){:target="_blank"}
+- [NAMM 2016 ‘Ukulele Highlights](http://liveukulele.com/namm-2016-ukulele-highlights/){:target="_blank"}
 
 - [](){:target="_blank"}
 

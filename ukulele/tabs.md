@@ -15,6 +15,8 @@ Classical pieces
 
 ![Transcriptions](/ukulele/images/transcriptions.jpg)
 
+- [Niccolò Paganini - theme from 'The Carnival of Venice' ('O mamma, mamma cara') ](http://www.andreafortuna.org/ukulele/2016/01/25/niccolo-paganini-the-carnival-of-venice/){:target="_blank"}
+
 - [Robert de Visée - Minuet](http://www.andreafortuna.org/ukulele/2016/01/11/robert-de-visee-menuet/){:target="_blank"}
 
 - [François Campion - Branle](http://www.andreafortuna.org/ukulele/2016/01/05/francois-campion-branle/){:target="_blank"}
@@ -23,27 +25,27 @@ Classical pieces
 
 - [John William Duarte - English Suite, Op. 31 - Prelude](http://www.andreafortuna.org/ukulele/2015/10/26/john-duarte-english-suite/){:target="_blank"}
 
-- [Niccolò Paganini, Ghiribizzo No. 4](http://www.andreafortuna.org/ukulele/2015/05/25/paganini-ghiribizzo-no-4/){:target="_blank"}
+- [Niccolò Paganini - Ghiribizzo No. 4](http://www.andreafortuna.org/ukulele/2015/05/25/paganini-ghiribizzo-no-4/){:target="_blank"}
 
-- [Niccolò Paganini, Ghiribizzo No. 1](http://www.andreafortuna.org/ukulele/2015/05/28/paganini-ghiribizzo-no-1/){:target="_blank"}
+- [Niccolò Paganini - Ghiribizzo No. 1](http://www.andreafortuna.org/ukulele/2015/05/28/paganini-ghiribizzo-no-1/){:target="_blank"}
 
-- [Niccolò Paganini, Ghiribizzo No. 20](http://www.andreafortuna.org/ukulele/2015/06/13/paganini-ghiribizzo-no-20/){:target="_blank"}
+- [Niccolò Paganini - Ghiribizzo No. 20](http://www.andreafortuna.org/ukulele/2015/06/13/paganini-ghiribizzo-no-20/){:target="_blank"}
 
-- [Niccolò Paganini, Ghiribizzo No. 17 'Le Streghe'](http://www.andreafortuna.org/ukulele/2015/06/30/paganini-ghiribizzo-no-17-le-streghe/){:target="_blank"}
+- [Niccolò Paganini - Ghiribizzo No. 17 'Le Streghe'](http://www.andreafortuna.org/ukulele/2015/06/30/paganini-ghiribizzo-no-17-le-streghe/){:target="_blank"}
 
-- [Ferdinando Carulli, Valzer in G](http://www.andreafortuna.org/ukulele/2015/07/25/ferdinando_carulli_valzer_g/){:target="_blank"}
+- [Ferdinando Carulli - Valzer in G](http://www.andreafortuna.org/ukulele/2015/07/25/ferdinando_carulli_valzer_g/){:target="_blank"}
 
-- [Fernando Sor, 'Introduction and Variations on a Theme by Mozart', Op. 9](http://www.andreafortuna.org/ukulele/2015/08/01/fernando-sor-op9/){:target="_blank"}
+- [Fernando Sor - 'Introduction and Variations on a Theme by Mozart', Op. 9](http://www.andreafortuna.org/ukulele/2015/08/01/fernando-sor-op9/){:target="_blank"}
 
-- [Joseph Küffner, Valzer in G](http://www.andreafortuna.org/ukulele/2015/08/06/joseph_kuffner_valzer_g/){:target="_blank"}
+- [Joseph Küffner - Valzer in G](http://www.andreafortuna.org/ukulele/2015/08/06/joseph_kuffner_valzer_g/){:target="_blank"}
 
-- [Matteo Carcassi, Allegretto in C](http://www.andreafortuna.org/ukulele/2015/08/26/matteo_carcassi_andantino_in_c/){:target="_blank"}
+- [Matteo Carcassi - Allegretto in C](http://www.andreafortuna.org/ukulele/2015/08/26/matteo_carcassi_andantino_in_c/){:target="_blank"}
 
 - [Romance - Jeux Interdits](http://www.andreafortuna.org/ukulele/2015/09/01/romance-jeux-interdits/){:target="_blank"}
 
-- [Christian Petzold, Minuet in G](http://www.andreafortuna.org/ukulele/2015/09/28/christian_petzold_minuet_in_g/){:target="_blank"}
+- [Christian Petzold - Minuet in G](http://www.andreafortuna.org/ukulele/2015/09/28/christian_petzold_minuet_in_g/){:target="_blank"}
 
-- [Niccolò Paganini, Caprice No. 24](http://www.andreafortuna.org/ukulele/2015/10/21/short-tunes-on-ukulele-caprice-no-24){:target="_blank"}
+- [Niccolò Paganini - Caprice No. 24](http://www.andreafortuna.org/ukulele/2015/10/21/short-tunes-on-ukulele-caprice-no-24){:target="_blank"}
 
 
 
