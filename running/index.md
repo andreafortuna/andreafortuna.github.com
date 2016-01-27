@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Running Chronicles
+title: Running and Wellness
 description: "My articles about barefoot running and raw vegan lifestyle"
 thumbnail: "http://www.andreafortuna.org/images/homer.png"
 keywords: running, barefoot, vegan, lifestyle
@@ -25,7 +25,7 @@ I wore the first pair of sneakers that I found in the house, I went out to run a
 <div class="blog-index">
 
 {% for post in site.posts %}
-    {% if post.categories contains 'running' %}
+    {% if post.categories contains 'running' or post.categories contains 'wellness' %}
         {% assign content = post.content %}
         {% include post_detail.html %}
     {% endif %}

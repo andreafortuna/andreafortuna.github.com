@@ -14,7 +14,7 @@ tags:
 
 Very interesting talk by *Christopher Soghoian* on a 2015 *TED Conference*, about *phone wiretapping and privacy*.
 
-![SMartPrime6](/technology/images/PhoneWiretapping.jpg)
+![PhoneWiretapping](/technology/images/PhoneWiretapping.jpg)
 
 <!-- more -->
 

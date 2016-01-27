@@ -50,15 +50,19 @@ Geekness
 
 - [Google to Speed Up Chrome for Fast Internet Browsing](http://thehackernews.com/2016/01/speed-up-chrome-compression.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Atari Console Games Officially Come To PC](http://www.geeksaresexy.net/2016/01/25/atari-console-games-come-to-pc/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Doctor Who gets lengthy sabbatical as showrunner Steven Moffat quits](http://arstechnica.com/the-multiverse/2016/01/doctor-who-gets-lengthy-sabbatical-as-showrunner-steven-moffat-quits/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Crash test video pits 2009 Chevy Malibu against 1959 Chevrolet Bel Air – guess who wins?](http://bgr.com/2016/01/26/car-crash-test-viral-video/){:target="_blank"}
 
-- [](){:target="_blank"}
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/fPF4fBGNK0U" frameborder="0" allowfullscreen></iframe>
+</div>
 
-- [](){:target="_blank"}
+- [Raspberry Pi Zero Cluster](http://www.cnx-software.com/2016/01/22/this-is-what-a-16-raspberry-pi-zero-cluster-board-looks-like/){:target="_blank"}
+
+- [Marvin Minsky, Pioneer in Artificial Intelligence, Dies at 88](http://www.nytimes.com/2016/01/26/business/marvin-minsky-pioneer-in-artificial-intelligence-dies-at-88.html){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -76,7 +80,7 @@ Programming
 
 - [AWS launches tool that provides SSL and TLS certificates for free](http://venturebeat.com/2016/01/21/aws-launches-tool-that-provides-ssl-and-tls-certificates-for-free/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [60 Free Calligraphy Fonts to Bring Charm to Your Designs](https://designschool.canva.com/blog/calligraphy-fonts/){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -114,7 +118,7 @@ Running & Wellness
 
 ![image](http://xxx)
 
-- [](){:target="_blank"}
+- [Dog accidentally runs half-marathon and finishes in seventh place](http://www.telegraph.co.uk/news/12121265/Dog-accidentally-runs-half-marathon-and-finishes-in-seventh-place.html){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -126,7 +130,11 @@ Running & Wellness
 
 - [](){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Is the obesity crisis hiding a bigger problem?](https://www.ted.com/talks/peter_attia_what_if_we_re_wrong_about_diabetes?language=en){:target="_blank"}
+
+<div class="video-container">
+<iframe src="https://embed-ssl.ted.com/talks/peter_attia_what_if_we_re_wrong_about_diabetes.html"  frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
 
 
 
