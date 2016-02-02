@@ -17,7 +17,7 @@ Raw Vegan, i love animals, [running](/running/), good food, travels, good books,
 
 I started working in the ICT industry as an analyst/programmer in a small software house and currently i'm an IT Architect in a big (red) company.
 
-In my free time i play guitar and [ukulele](/ukulele/) and [develop applications](portfolio.html) for mobile devices (iOS, Android and Windows Phone).
+In my free time i play guitar and [ukulele](/ukulele/) and [develop applications](/portfolio/) for mobile devices (iOS, Android and Windows Phone).
 
 
 #Contacts

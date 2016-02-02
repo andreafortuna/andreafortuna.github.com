@@ -18,7 +18,7 @@ title : RSS Feed
         {% if post.categories contains 'Running' or post.categories contains 'Wellness' %}
      <item>
                 <title>{{ post.title }}</title>
-                <description>{{ post.output | xml_escape }}</description>
+                <description>{{ post.description }}</description>
                 <link>{{ site.production_url }}{{ post.url }}</link>
                 <guid>{{ site.production_url }}{{ post.id }}</guid>
                 <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>

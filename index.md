@@ -13,8 +13,8 @@ description: "Technology, Running and Ukulele"
 {% include post_detail.html %}
 {% endfor %}
 </div>
-<br>
-<a href="archive.html" style="float:right;">All posts...</a>
+<br><br>
+<a href="/archive/" style="float:right;">All posts...</a>
 <br>
 
 
