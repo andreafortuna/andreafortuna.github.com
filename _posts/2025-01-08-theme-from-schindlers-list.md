@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Theme from 'Schindler's List' - Arranged for Ukulele"
+title: 'Theme from "Schindler`s List" - Arranged for Ukulele'
 thumbnail: "http://www.andreafortuna.org/ukulele/images/schindlerslist.jpg"
-description: "My #ukulele version of the Theme from 'Schindler's List' by John Williams"
+description: 'My #ukulele version of the Theme from "Schindler`s List" by John Williams'
 keywords: ukulele, transcription, arrangement, John Williams, Schindler's List, Soundtrack, fingerstyle
 category: Ukulele
 tags: 
