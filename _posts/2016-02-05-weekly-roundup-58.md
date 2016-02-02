@@ -17,7 +17,6 @@ tags:
 - OpenSSL
 - Android
 
-
 ---
 {% include JB/setup %}
 Interesting things that i read in the last week!
