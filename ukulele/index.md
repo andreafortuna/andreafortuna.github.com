@@ -38,7 +38,7 @@ Latest posts
 
 <p style="text-align: right;float:right;margin-top:10px;margin-left:20px;"><a href="rss.xml"><i class="fa fa-rss fa-2x" >&nbsp;</i></a></p>
 
-{% for post in site.categories['ukulele'] limit:10%}
+{% for post in site.categories['Ukulele'] limit:10%}
 
  <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
 
