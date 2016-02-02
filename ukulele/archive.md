@@ -16,7 +16,6 @@ tagline: Ukulele
 {% for post in site.categories['Ukulele'] }
         {% assign content = post.content %}
         {% include post_detail.html %}
-
 {% endfor %}
 
 </div>
