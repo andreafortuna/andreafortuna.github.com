@@ -31,8 +31,6 @@ It was also nominated for a *Golden Globe Award*.
 My arrangement
 --
 
-
-
 Here a video of my ukulele arrangement:
 
 <div class="video-container">
@@ -40,7 +38,6 @@ Here a video of my ukulele arrangement:
 </div>
 
 <hr/>
-
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
