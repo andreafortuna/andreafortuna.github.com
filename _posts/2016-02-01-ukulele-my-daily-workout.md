@@ -73,8 +73,9 @@ And now we begin to study the [repertoire](http://www.andreafortuna.org/ukulele/
 
 <hr>
 *UPDATE - 2016-02-02*
+
 In the comments and via email many people have asked me a video. 
-I recorded a "ugly & dirty" version this morning, I hope will be helpful.
+I recorded a raw version this morning, I hope will be helpful:
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/Jxx4n2XC2SE" frameborder="0" allowfullscreen></iframe>
