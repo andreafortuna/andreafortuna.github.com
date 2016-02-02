@@ -37,13 +37,11 @@ Latest posts
 --
 
 <p style="text-align: right;float:right;margin-top:10px;margin-left:20px;"><a href="rss.xml"><i class="fa fa-rss fa-2x" >&nbsp;</i></a></p>
-  
-{% for post in site.posts limit:10 %}
-    {% if post.categories contains 'ukulele' %}
- 
+
+{% for post in site.categories['ukulele'] limit:10%}
+
  <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
- 
-    {% endif %}
+
 {% endfor %}
 
 <p style="text-align: right;font-size:1.5em;"> <a href="./archive.html">All posts...</a> </p>
