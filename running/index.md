@@ -25,7 +25,7 @@ I wore the first pair of sneakers that I found in the house, I went out to run a
 <div class="blog-index">
 
 {% for post in site.posts %}
-    {% if post.categories contains 'running' or post.categories contains 'wellness' %}
+    {% if post.categories contains 'Running' or post.categories contains 'Wellness' %}
         {% assign content = post.content %}
         {% include post_detail.html %}
     {% endif %}

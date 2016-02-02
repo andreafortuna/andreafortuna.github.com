@@ -18,9 +18,17 @@ tagline: Technology
 <p style="text-align: right;float:right;margin-top:10px;margin-left:20px;"><a href="rss.xml"><i class="fa fa-rss fa-4x" >&nbsp;</i></a></p>
 <div class="blog-index">
 {% for post in site.posts %}
-    {% unless post.categories contains 'ukulele' or post.categories contains 'running' or post.categories contains 'weeklyroundup' or  post.categories == empty %}
+    {% unless post.categories contains 'Ukulele' or post.categories contains 'Running' or post.categories contains 'WeeklyRoundup' or post.categories contains 'Wellness' or  post.categories == empty %}
+     
         {% assign content = post.content %}
         {% include post_detail.html %}
+
+       
+       
+       
+       
+       
+       
     {% endunless  %}
 {% endfor %}
 </div>

@@ -18,7 +18,7 @@ tagline: WeeklyRoundup
 <div class="blog-index">
 
 {% for post in site.posts %}
-    {% if post.categories contains 'weeklyroundup' %}
+    {% if post.categories contains 'WeeklyRoundup' %}
         {% assign content = post.content %}
         {% include post_detail.html %}
     {% endif %}
