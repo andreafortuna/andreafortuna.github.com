@@ -10,14 +10,13 @@ tagline: Ukulele
 
 ![My Ukulele](/ukulele/images/ukulele2.jpg)
 
-<p style="text-align: right;float:right;margin-top:10px;margin-left:20px;"><a href="rss.xml"><i class="fa fa-rss fa-4x" >&nbsp;</i></a></p>
+<p style="text-align: right;float:right;margin-top:10px;margin-left:20px;"><a href="rss/"><i class="fa fa-rss fa-4x" >&nbsp;</i></a></p>
 <div class="blog-index">
 
-{% for post in site.posts %}
-    {% if post.categories contains 'ukulele' %}
+{% for post in site.categories['Ukulele'] }
         {% assign content = post.content %}
         {% include post_detail.html %}
-    {% endif %}
+
 {% endfor %}
 
 </div>
