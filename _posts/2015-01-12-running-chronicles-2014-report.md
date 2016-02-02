@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Running Chronicles: my 2014 report"
+thumbnail: "http://www.andreafortuna.org/images/homer.png"
 description: "My 2014 running report"
 category: Running
 tags: 
@@ -8,6 +9,7 @@ tags:
 - Running
 - Facebook
 - Opengraph
+
 ---
 {% include JB/setup %}
 

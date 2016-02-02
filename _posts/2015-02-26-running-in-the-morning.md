@@ -2,6 +2,7 @@
 layout: post
 title: "Running Chronicles: my 4 reasons to get up and run before sunrise"
 description: "Why i start everyday with a run?"
+thumbnail: "http://www.andreafortuna.org/images/runner_metamorphosys.jpg"
 category: Running
 tags: 
 - Personal
