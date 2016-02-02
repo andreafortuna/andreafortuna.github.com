@@ -69,7 +69,7 @@ and [pentatonic](http://www.andreafortuna.org/ukulele/2016/01/18/pentatonic-scal
 concludes the daily training.
 
 
-And now we begin to study the [repertoire](http://www.andreafortuna.org/ukulele/tabs.html)!
+And now we begin to study the [repertoire](http://www.andreafortuna.org/ukulele/tabs.html)...
 
 <hr>
 *UPDATE - 2016-02-02*
