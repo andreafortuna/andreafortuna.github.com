@@ -1,5 +1,6 @@
 _site/*
 _theme_packages/*
+.c9/*
 
 Thumbs.db
 .DS_Store
@@ -9,3 +10,4 @@ Thumbs.db
 .rbenv-version
 .rvmrc
 .c9
+_config.yml
