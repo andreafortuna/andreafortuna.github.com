@@ -36,7 +36,7 @@ In this section I am going to publish my thoughts, my exercises and my transcrip
 Latest posts
 --
 
-<p style="text-align: right;float:right;margin-top:10px;margin-left:20px;"><a href="rss.xml"><i class="fa fa-rss fa-2x" >&nbsp;</i></a></p>
+<p style="text-align: right;float:right;margin-top:10px;margin-left:20px;"><a href="rss/"><i class="fa fa-rss fa-2x" >&nbsp;</i></a></p>
 
 {% for post in site.categories['Ukulele'] limit:10%}
 
@@ -44,7 +44,7 @@ Latest posts
 
 {% endfor %}
 
-<p style="text-align: right;font-size:1.5em;"> <a href="./archive.html">All posts...</a> </p>
+<p style="text-align: right;font-size:1.5em;"> <a href="./archive/">All posts...</a> </p>
 
 
 Latest videos
