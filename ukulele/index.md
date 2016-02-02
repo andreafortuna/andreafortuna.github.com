@@ -26,11 +26,11 @@ In this section I am going to publish my thoughts, my exercises and my transcrip
 <a href="/ukulele/tabs.html">Tabs and arrangements archive</a>
 --
 
-- [Classical pieces](/ukulele/tabs.html#classicalpieces)
-- [Traditionals](/ukulele/tabs.html#traditionals)
-- [TV, Movies and Videogames Themes](/ukulele/tabs.html#soundtracks)
-- [Pop songs and riffs](/ukulele/tabs.html#pop)
-- [Exercises and Music Theory](/ukulele/tabs.html#tips)
+- [Classical pieces](/ukulele/tabs/#classicalpieces)
+- [Traditionals](/ukulele/tabs/#traditionals)
+- [TV, Movies and Videogames Themes](/ukulele/tabs/#soundtracks)
+- [Pop songs and riffs](/ukulele/tabs/#pop)
+- [Exercises and Music Theory](/ukulele/tabs/#tips)
 <hr>
 
 Latest posts
