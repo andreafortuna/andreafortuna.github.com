@@ -2,7 +2,7 @@
 layout: post
 title: "Ukulele Exercises: Arpeggios!"
 thumbnail: "http://www.andreafortuna.org/ukulele/images/arpeggios.png"
-description: "Playing an instrument is like playing a sport, muscles and joints need to be trained and kept moving."
+description: ""
 keywords: Music, Arpeggios, Ukulele, patterns, tabs, fingerstyle
 category: Ukulele
 tags: 
