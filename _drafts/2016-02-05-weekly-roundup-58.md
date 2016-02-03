@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Weekly #Roundup #58 - #OpenSSL #MediaTek"
-description: "My Weekly Digest #58 - #Android #MediaTek"
+description: "My Weekly Digest #58 - Interesting things that i read in the last week!"
 thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/image.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, Android, MediaTek, OpenSSL
 category: WeeklyRoundup
@@ -94,7 +94,7 @@ Ukulele & Music
 
 ![UkuleleDay](/ukulele/images/UkuleleDay.jpg)
 
-- [](){:target="_blank"}
+- [The Story of Pepe Romero ‘Ukuleles](http://liveukulele.com/the-story-of-pepe-romero-ukuleles/){:target="_blank"}
 
 - [](){:target="_blank"}
 
