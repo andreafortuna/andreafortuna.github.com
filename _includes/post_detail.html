@@ -1,7 +1,7 @@
 <h1 class="entry-title">
 <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
 </h1>
-<div style="float:right;margin:10px;border-radius: 25px;border: 2px solid #888;padding:10px;position: relative;top: 30px;left: -15px;background-color: white;">
+<div style="float:right;margin:10px;border-radius: 25px;border: 2px solid #888;padding:10px;background-color: white;">
 	<date class="date-pub" title="{{ post.date | date_to_xmlschema }}" datetime="{{ post.date | date_to_xmlschema }}" pubdate>
 	<span class="month"><abbr>{{ post.date | date: '%B' }}</abbr></span> 
 	<span class="day">{{ post.date | date: '%d' }}</span>,
