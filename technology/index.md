@@ -22,12 +22,6 @@ tagline: Technology
      
         {% assign content = post.content %}
         {% include post_detail.html %}
-
-       
-       
-       
-       
-       
        
     {% endunless  %}
 {% endfor %}
