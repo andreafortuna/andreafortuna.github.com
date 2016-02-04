@@ -7,7 +7,6 @@ keywords: Music, Music Theory, Scales, pentatonic scale, Ukulele, patterns, tabs
 category: Ukulele
 tags: 
 - Ukulele
-- Tips
 - Exercises
 
 ---
