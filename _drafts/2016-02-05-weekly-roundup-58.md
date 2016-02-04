@@ -59,7 +59,7 @@ Geekness
 
 - [Ant Simulator game cancelled because crowdfunded money was spent on liquor and strippers](http://thenextweb.com/insider/2016/02/01/ant-simulator-game-cancelled-because-crowdfunded-money-was-spent-on-liquor-and-strippers/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Latest Windows 10 May Have a Linux Subsystem Hidden Inside](http://thehackernews.com/2016/02/windows10-linux-subsystem.html){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -121,9 +121,9 @@ Running & Wellness
 
 - [RAW - The Documentary Final](https://chuffed.org/project/raw-the-documentary){:target="_blank"}
 
-- [](){:target="_blank"}
+- [FKT Up? Kilian Jornet's Insane New Sport](http://www.outsideonline.com/1927476/fkt-kilian-jornets-insane-new-sport){:target="_blank"}
 
-- [](){:target="_blank"}
+- [How To Overcome “Carbophobia”](http://triathlon.competitor.com/2016/02/nutrition/how-runners-can-overcome-carbophobia_127919){:target="_blank"}
 
 - [](){:target="_blank"}
 
