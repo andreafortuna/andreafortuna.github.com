@@ -1,0 +1,20 @@
+---
+layout: post
+title: 'PHP: 5 piccoli suggerimenti per gestire fino a 30000 utenti contemporanei'
+date: '2013-07-17T09:32:00.000+02:00'
+author: Andrea Fortuna
+tags:
+- Zend Framework
+- PHP
+- APC
+- Jonathan Block
+- ELB
+- Varnish
+- EC2
+modified_time: '2013-07-17T09:32:00.369+02:00'
+thumbnail: http://3.bp.blogspot.com/-n883t3vuE8A/UeT5D3DLCeI/AAAAAAAAFYE/jBuEg77L-Gk/s72-c/amazon.jpg
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-6367641436569014121
+blogger_orig_url: http://www.andreafortuna.org/2013/07/php-5-piccoli-suggerimenti-per-gestire.html
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-n883t3vuE8A/UeT5D3DLCeI/AAAAAAAAFYE/jBuEg77L-Gk/s1600/amazon.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="191" src="http://3.bp.blogspot.com/-n883t3vuE8A/UeT5D3DLCeI/AAAAAAAAFYE/jBuEg77L-Gk/s320/amazon.jpg" width="320" /></a></div><a href="https://coderwall.com/" target="_blank">Jonathan Block</a> ha scritto un bel post dove spiega come scalare un servizio su <a href="http://aws.amazon.com/ec2/" target="_blank">EC2</a>&nbsp;e arrivare a servire fino a 30000 utenti simultanei.<br /><br />La struttura iniziale del servizio e' la seguente:<br /><br /><ul><li><a href="http://framework.zend.com/" target="_blank">Zend Framework 2</a></li><li>Due instanze <a href="http://aws.amazon.com/ec2/instance-types/" target="_blank">m1.medium</a> per i server web</li><li><a href="http://aws.amazon.com/elasticloadbalancing/" target="_blank">ELB</a> per dividere il carico</li><li>Database MySQL master/slave</li><li>Prove di carico effettuate con <a href="http://www.joedog.org/siege-home/" target="_blank">Siege</a></li></ul><br /><br /><a name='more'></a><br /><br />E questi i consigli:<br /><br /><ul><li><b>Usare la funzione di <a href="http://php.net/manual/en/book.apc.php" target="_blank">APC</a></b> <b>di PHP:&nbsp;</b>la <i>opcode cache</i>&nbsp;di PHP e' un requisito fondamentale.</li><li><b>Mettere tutto ciò che non è una richiesta Php su un CDN:&nbsp;</b>Non servire i file statici dal vostro web server. Mettere tutto su <a href="http://aws.amazon.com/s3/" target="_blank">S3</a> e utilizzate <a href="http://aws.amazon.com/cloudfront/" target="_blank">CloudFront</a> come CDN.</li><li><b>Non effettuare connessioni ad altri server nel codice PHP:</b>&nbsp;I collegamenti ad altri server bloccano il server e rallentano l'elaborazione. Utilizzate il key/value storage di <b>APC </b>per la memorizzazione dei dati e <b>Varnish </b>per il caching di intere pagine.</li><li><b>Utilizzare <a href="https://www.varnish-cache.org/" target="_blank">Varnish</a></b>: Come sopra, varnish fa la differenza.</li><li><b>Utilizzare un c1.xlarge:</b>&nbsp;Il <b>c1.xlarge</b> ha 8 CPU, e sotto carico si nota la differenza con l'<b>m1.medium</b> che ha solo 1 CPU per elaborare le richieste.</li></ul><br />Per i dettagli, vi rimando all'<a href="https://coderwall.com/p/__z9ia" target="_blank">articolo originale.</a>

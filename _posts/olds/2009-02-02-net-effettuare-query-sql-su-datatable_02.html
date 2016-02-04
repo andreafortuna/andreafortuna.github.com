@@ -1,0 +1,18 @@
+---
+layout: post
+title: '.NET: effettuare query SQL su DataTable in memoria'
+date: '2009-02-02T09:50:00.001+01:00'
+author: Andrea Fortuna
+tags:
+- DataTable
+- VB.NET
+- Programmazione
+- DataSet
+- SQL
+- SQL_Engine
+modified_time: '2012-04-26T14:20:32.744+02:00'
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-4595019941900594515
+blogger_orig_url: http://www.andreafortuna.org/2009/02/net-effettuare-query-sql-su-datatable_02.html
+---
+
+<em>Scenario:</em> realizzazione di un sistema di 'aggregazione dati' in grado di caricare in memoria dati da fonti diverse (Db SQLServer/Oracle/MySQL, files Excel, Db Access) ed utilizzarli per realizzare semplici 'reports'.<br/><br/>Riempire di dati le DataTables e' <a href="http://andreafortuna.wordpress.com/2008/03/31/vbnet-importare-un-file-csv-in-un-dataset/">cosa da poco</a>, aggregarle all'interno di un DataSet e' ancora piu' semplice, comincia a saltar fuori qualche difficolta' quando arriva il momento di permettere agli utenti di  'interrogare' il DataSet utilizzando una sintassi 'SQL-Like': soluzione ottima per l'utente finale con una minima infarinatura di Structured Query Language, difficile da realizzare senza scomodare LINQ e il Framework 3.5.<br/><br/>Per fortuna ci viene incontro <a href="http://www.emmet-gray.com/AboutMe.htm">Emmet Gray</a>, ottimo programmatore che ha realizzato una classe che implementa un engine SQL minimale utilizzabile sui DataSet: <a href="http://www.emmet-gray.com/Articles/SQL_Engine.htm">SQL_Engine</a>.<br/><br/>L'utilizzo di tale classe e' straordinariamente semplice: una volta riempito il nostro DataSet con le tabelle contenenti i dati da interrogare, basta instanziare l'oggetto passando al constructor il dataset<br/><br/>[sourcecode language='vb']<br/><br/>Dim sc As New SQL_Engine.SelectCommand(ds)<br/><br/>[/sourcecode]<br/>e richiamare il metodo 'Execute' (passando come parametro la query da eseguire) , che si occupera di restituire una DataTable contenente i risultati<br/><br/>[sourcecode language='vb']<br/><br/>Dim dt As DataTable = sc.Execute(query)<br/><br/>[/sourcecode]

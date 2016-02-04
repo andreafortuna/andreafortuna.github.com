@@ -1,0 +1,14 @@
+---
+layout: post
+title: Morfik, ambiente di sviluppo RAD per web application AJAX
+date: '2007-04-29T23:49:00.001+02:00'
+author: Andrea Fortuna
+tags:
+- AJAX
+- Programmazione
+modified_time: '2012-04-26T14:22:18.783+02:00'
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-2763671283102886490
+blogger_orig_url: http://www.andreafortuna.org/2007/04/morfik-ambiente-di-sviluppo-rad-per-web_29.html
+---
+
+Ho scoperto casualmente <a href="http://www.morfik.com/">Morfik</a>, un ambiente di sviluppo per applicazioni web interessante e a mio avviso rivoluzionario:<br/><blockquote>WebOS AppsBuilder brings extreme simplicity to the design of sophisticated AJAX applications without compromising their functionality. You don't need to write any HTML, XHTML, XML, JavaScript or CSS. It has never been easier to create highly interactive web sites and applications - and you don't even have to learn a new language or new technologies to do it!</blockquote><br/>Si tratta di un ambiente RAD (la pagina si disegna trascinando i controlli a colpi di mouse) e i linguaggi di scripting utilizzabili sono svariati (Java, C#, Basic, Pascal).<br/>Ma la vera particolarità è data dal metodo di distribuzione delle applicazioni: un volta compilato il progetto ci si ritrova con un singolo file binario (compilabile al momento per Windows e Linux) contenente le nostre pagine, i nostri script, il webserver (apache) e il database (Firebird).<br/>Una volta avviato il file vengono avviati i server e viene aperta una pagina del browser con l'applicazione, che da questo momento risulta fruibile anche da altri PC presenti sulla rete locale.<br/><br/>Che dire? L'ambiente di sviluppo è ben fatto, con integrati il designer per i form, un buon debugger e un discreto designer per il database.<br/>Purtroppo, tutto l'ambiente soffre di un  problema che a  mio avviso è estremamente  penalizzante:  è LEEENTO!<br/>La compilazione  di un progetto semplicissimo (singolo form, 2 componenti) richiede ben 90 secondi, tempi che quasi si raddoppiano nel caso di una applicazione 'reale'.<br/>Inoltre,  nonostante sia possibile crosscompilare il progetto anche per linux (e in futuro per MacOsX e FreeBsd) l'ambiente di sviluppo viene rilasciato escluivamente per windows.<br/><br/>In ogni caso il progetto deve ancora crescere, i presupposti però sono ottimi!

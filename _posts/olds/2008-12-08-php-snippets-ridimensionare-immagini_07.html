@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'PHP Snippets: ridimensionare immagini jpeg ed estrarne il thumbnail exif'
+date: '2008-12-08T08:00:00.001+01:00'
+author: Andrea Fortuna
+tags:
+- Exif
+- PHP
+- Programmazione
+- Thumbnails
+modified_time: '2012-04-26T14:20:32.816+02:00'
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-8894556430880338348
+blogger_orig_url: http://www.andreafortuna.org/2008/12/php-snippets-ridimensionare-immagini_07.html
+---
+
+FileName: thumb.php<br/><br/>[sourcecode language='php']<br/><br/>< ?php <br/><br/>$im      = $_GET['im'];<br/>$maxsize = $_GET['maxsize'];<br/><br/>if ($maxsize == '') {<br/>    $image = exif_thumbnail($im, $width, $height, $type);<br/><br/>    if ($image) {<br/>        header('Content-type: ' .image_type_to_mime_type($type));<br/>        print $image;<br/>    }<br/>    else {<br/>        print 'No thumbnail available';<br/>    }    <br/><br/>} else {<br/><br/>$filename = $im;<br/><br/>$width  = $maxsize;<br/>$height = $maxsize;<br/><br/>header('Content-type: image/jpeg');<br/><br/>list($width_orig, $height_orig) = getimagesize($filename);<br/><br/>if ($width && ($width_orig < $height_orig)) {<br/>    $width = ($height / $height_orig) * $width_orig;<br/>} else {<br/>    $height = ($width / $width_orig) * $height_orig;<br/>}<br/><br/>$image_p = imagecreatetruecolor($width, $height);<br/>$image   = imagecreatefromjpeg($filename);<br/>imagecopyresampled($image_p, $image, 0, 0, 0, 0, $width, $height, $width_orig, $height_orig);<br/><br/>imagejpeg($image_p);<br/>imagedestroy($image);<br/>imageDestroy($image_p);<br/>}<br/>?><br/><br/>[/sourcecode]<br/><br/>utilizzo:<br/><blockquote>thumb.php?im=uploads/immagine.jpg&amp;maxsize=100</blockquote><br/>ridimensiona l'immagine con il lato maggiore non superiore a 100 pixels.<br/><br/>Se non viene specificata la dimensione massima, viene estratto (se disponibile) il thumbnail Exif contenuto nel file Jpeg (metodo molto più veloce nel caso di immagini di un certo peso).

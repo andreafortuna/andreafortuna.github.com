@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'Gestione degli eventi in javascript: una soluzione "cross browser"'
+date: '2013-05-23T10:55:00.000+02:00'
+author: Andrea Fortuna
+tags:
+- JavaScript
+- Programmazione
+- jQuery
+modified_time: '2013-05-24T23:25:01.349+02:00'
+thumbnail: http://4.bp.blogspot.com/-aRcVnxJiFJg/UZ3XubIOcZI/AAAAAAAAFHw/VBI5FmK0V54/s72-c/images.jpg
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-6491649550483146165
+blogger_orig_url: http://www.andreafortuna.org/2013/05/gestione-degli-eventi-in-javascript-una.html
+---
+
+<a href="http://4.bp.blogspot.com/-aRcVnxJiFJg/UZ3XubIOcZI/AAAAAAAAFHw/VBI5FmK0V54/s1600/images.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="http://4.bp.blogspot.com/-aRcVnxJiFJg/UZ3XubIOcZI/AAAAAAAAFHw/VBI5FmK0V54/s1600/images.jpg" /></a>Quando si realizza una applicazione web basandosi su <a href="http://www.andreafortuna.org/search/label/jQuery" target="_blank">JQuery</a>, gli eventi vengono gestiti utilizzando i metodi <b>bind()</b>, <b>unbind()</b>, <b>on()</b> e <b>off()</b>, che permettono di collegarli e scollegarli agevolmente dagli elementi del <i>DOM</i>.<br />In quei rari casi in cui non si può/vuole utilizzare <a href="http://www.andreafortuna.org/search/label/jQuery" target="_blank">JQuery </a>nasce la necessità di gestire gli eventi con del codice <i>hand-made</i>.<br /><br />A questo punto sorgono problemi riguardanti la compatibilità: mentre la maggior parte dei browsers utilizza per collegare gli eventi i metodi <a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget.addEventListener" target="_blank">addEventListener()</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/API/EventTarget.removeEventListener" target="_blank">removeEventListener()</a>,&nbsp;<i>Internet Explorer 8</i> (ovviamente :-P) e successivi utilizzano invece <a href="http://msdn.microsoft.com/en-us/library/ie/ms536343(v=vs.85).aspx">attachEvent()</a>&nbsp;e&nbsp;<a href="http://msdn.microsoft.com/en-us/library/ie/ms536411(v=vs.85).aspx">detachEvent()</a>.<br /><br />La soluzione migliore è quindi scrivere un gestore degli eventi che permetta una compatibilità <i>cross-browser</i>:<br /><br /><a name='more'></a><br /><br /><br /><script src="https://gist.github.com/andreafortuna/f1c26ee0e126fc3f7192.js"></script> L'utilizzo è semplice: <i>EventHandler.bind(ELEMENTO, EVENTO, FUNZIONE)</i> per effettuare l'attach di un evento, <i>EventHandler.unbind(ELEMENTO, EVENTO, FUNZIONE)</i> per il detach e <i>EventHandler.stop(EVENTO)</i> per fermare la propagazione dell'evento.<br /><br /><span style="font-size: x-small;"><i>via&nbsp;<a href="http://www.anujgakhar.com/2013/05/22/cross-browser-event-handling-in-javascript/">Cross Browser Event Handling in JavaScript | Anuj Gakhar</a></i></span>

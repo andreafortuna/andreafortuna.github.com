@@ -1,0 +1,15 @@
+---
+layout: post
+title: Eseguire javascript da una pagina caricata con ajax
+date: '2007-08-12T11:35:00.001+02:00'
+author: Andrea Fortuna
+tags:
+- JavaScript
+- AJAX
+- Programmazione
+modified_time: '2012-04-26T14:21:52.673+02:00'
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-1763904449918286665
+blogger_orig_url: http://www.andreafortuna.org/2007/08/eseguire-javascript-da-una-pagina_12.html
+---
+
+A chi, come me, sviluppa utilizzando molto javascript e ajax sara' sicuramente capitato: caricate un pezzo di pagina con le vostre belle funzioni asincrone e il javascript contenuto nel segmento caricato non viene eseguito. :-)<br/><br/>La soluzione da me utilizzata e' un trucchetto che definirei 'zozzo e brutto', ma funzionante.<br/><br/>Creare una immagine da 1 pixel, inserirla nella pagina da caricare<br/><br/><code>&lt;img src="immagine.jpg" onload="Funzione();"&gt;</code><br/><br/>e richiamare, nell'evento OnLoad dell'immagine, la funzione javascript da eseguire.

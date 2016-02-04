@@ -1,0 +1,17 @@
+---
+layout: post
+title: 'Android Development: inviare SMS'
+date: '2012-02-10T10:29:00.001+01:00'
+author: Andrea Fortuna
+tags:
+- Java
+- Programmazione
+- code snippets
+- SMS
+- Android
+modified_time: '2013-04-22T16:00:11.913+02:00'
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-176211519476821728
+blogger_orig_url: http://www.andreafortuna.org/2012/02/android-development-inviare-sms_10.html
+---
+
+<a href="http://andreafortuna.files.wordpress.com/2012/02/android-sms-smaller.png"><img alt="" class="wp-image-1386 alignright" height="82" src="http://andreafortuna.files.wordpress.com/2012/02/android-sms-smaller.png?w=300" title="Android-SMS-smaller" width="126" /></a>Nel <a href="http://andreafortuna.wordpress.com/2012/02/02/android-intercettare-gli-sms-ricevuti/" title="Android Development: intercettare gli sms ricevuti">precedente articolo</a> abbiamo visto come intercettare gli SMS ricevuti dal terminale e leggerne il contenuto.<br /><br />Oggi vediamo il brevissimo frammento di codice che ci permette di inviarne:<br /><br /><pre class="brush: java"><br /><br /><br /><br />SmsManager sms = SmsManager.getDefault();<br /><br />sms.sendTextMessage(NUMERO_DESTINATARIO, null, "TESTO DA INVIARE", null,null);<br /><br /><br /><br /></pre><br /><br />Ovviamente, dobbiamo definire i permessi dell'app nell'AndroidManifest.xml:<br /><br /><pre class="brush: xml"><br /><br /><br /><br />&lt;uses-permission android:name="android.permission.SEND_SMS" /&gt;<br /><br /><br /><br /></pre>

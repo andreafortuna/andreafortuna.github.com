@@ -1,0 +1,14 @@
+---
+layout: post
+title: Windows 2003 e la mancata esecuzione di Session_OnEnd()
+date: '2007-07-31T23:24:00.001+02:00'
+author: Andrea Fortuna
+tags:
+- Windows
+- Microsoft
+modified_time: '2012-04-26T14:21:52.679+02:00'
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-1992215416917655648
+blogger_orig_url: http://www.andreafortuna.org/2007/07/windows-2003-e-la-mancata-esecuzione-di_31.html
+---
+
+Oggi sono stato impegnato nel rilascio di un aggiornamento del $MegaApplicativoGlobale, rilascio necessario ad aggiungere una funzionalità che era stata richiesta degli utenti.<br/><br/>Tale funzionalità tanto richiesta altro non era che  una specie di 'servizio di presenza' con annessa chat e piccola rubrica telefonica.<br/>In altre parole con l'aggiornamento in questione viene aggiunta la possibilità di visualizzare le persone che attualmente stanno utilizzando il programma, parlare con loro via chat e avere subito sotto mano l'interno del loro ufficio per dialogare a voce. (una cosettina carina e leggera, con un paio di divertenti easter-eggs piazzati dal sottoscritto).<br/><br/>Questa nuova funzionalità fa un uso intensivo e nevralgico delle funzioni di asp <i>Session_OnStart()</i> e  <i>Session_OnEnd()</i> , proprio per render possibile la visualizzazione di chi è online e chi no.<br/><br/>Beh...il tutto è stato sviluppato su un enviroment di test basato su Windows 2000, alcune funzionalità importanti (tra le quali proprio quella richiamata in chiusura di sessione)  sono state poi testate  su un Windows 2003 <b>SP1</b> (senza riscontrare alcun problema) e oggi è stato tutto implementato sull'ambiente di produzione (Windows 2003 <b>SP2</b>).<br/>Manco a farlo a posta, quanto richiamato in <i>Session_OnEnd() </i>non veniva eseguito nemmeno piangendo in aramaico antico.<br/><br/>Fortunatamente ZioGoogle corre in mio aiuto e mi traghetta drittodritto su <a href="http://blogs.aspitalia.com/cp/post2025/Windows-2003-SP2-ASP-Session_OnEnd.aspx">questa pagina</a>, dove scopro che <b>in seguito all'installazione del Service Pack 2 di Windows 2003 qualsiasi cosa venga richiamata da Session_OnEnd viene allegramente ignorata dal WebServer</b>.<br/><br/>La soluzione al problema si trova infine su <a href="http://support.microsoft.com/kb/934903">http://support.microsoft.com/kb/934903</a>: tuttavia, essendo una patch 'in test' che verrà probabilmente inclusa nel prossimo Service Pack non è possibile effettuarne il download.<br/><br/>Per averne una copia è necessario quindi contattare il CallCenter Microsoft: in meno di un'ora siamo riusciti a metter mano sulla '<i>pezza della pezza</i>' , installarla e vedere ricominciare a funzionare l' Orgiastica Valanga di Codice Caotico.  :-)<br/><br/>Per la serie: "<i>Il bravo SysAdm installa sempre gli aggiornamenti perchè <b>risolvono i problemi</b></i>" ! :-D

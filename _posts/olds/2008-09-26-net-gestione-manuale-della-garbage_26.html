@@ -1,0 +1,18 @@
+---
+layout: post
+title: '.NET: gestione manuale della Garbage Collection'
+date: '2008-09-26T23:30:00.001+02:00'
+author: Andrea Fortuna
+tags:
+- VB.NET
+- garbage collector
+- Programmazione
+- .net
+- ASP.NET
+- C#
+modified_time: '2012-04-26T14:20:32.678+02:00'
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-2252400325467730996
+blogger_orig_url: http://www.andreafortuna.org/2008/09/net-gestione-manuale-della-garbage_26.html
+---
+
+Per chi arriva da linguaggi di 'basso livello', il Garbage Collector è una scoperta allo stesso tempo meravigliosa e sconvolgente, che (cito Wikipedia) <em>porta ad un notevole cambio nello stile di programmazione dei linguaggi che lo implementano. Infatti non è più possibile richiedere esplicitamente di liberare la memoria utilizzata da un oggetto, ovvero terminare tale oggetto in modo deterministico, ma si lascia che il sistema esegua questa operazione automaticamente, nel momento in cui lo riterrà più opportuno per migliorare le prestazioni complessive (finalizzazione non deterministica).</em><br/><br/>Non quindi possibile, con un linguaggio ad 'alto livello', finalizzare un oggetto singolarmente ma è necessario porlo nella 'raccolta di rifiuti' e attendere che il sistema/compilatore si occupi di fare pulizia.<br/><br/>Può tuttavia essere necessario 'forzare' questa procedura di pulizia, anzichè lasciarla gestire automaticamente: un esempio potrebbe essere l'utilizzo di oggetti che incapsulano molte 'risorse non gestite' (ad esempio risorse del sistema operativo, quali file, finestre o connessioni di rete), quando l'applicazione non necessità più dell'oggetto, è certo che le risorse da esso utilizzate non saranno più necessarie. Ai fini delle prestazioni, può essere opportuno rilasciarle tutte insieme.<br/><br/>Per eseguire il 'collect' della GC, il Framework .NET fornisce, nella classe GC (Garbage Collection) il metodo GC.Collect, che (da notare bene) prima di eseguire una procedura di Garbage Collection sospende tutti i thread in esecuzione.<br/><br/>Tale funzionamento comporta infatti una riduzione delle prestazioni che può diventare problematica se si chiama GC.Collect più spesso del necessario. È opportuno non inserire codice che richiama GC.Collect in quei punti del programma a cui l'utente accede frequentemente. Tale pratica potrebbe infatti impedire al motore di ottimizzazione di determinare il momento migliore in cui eseguire una procedura di Garbage Collection, facendo decadere in maniera drastica le prestazioni dell'applicazione.

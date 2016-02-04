@@ -1,0 +1,14 @@
+---
+layout: post
+title: Shell History Stats
+date: '2008-04-10T22:29:00.001+02:00'
+author: Andrea Fortuna
+tags:
+- Unix
+- Apple
+modified_time: '2012-04-26T14:20:43.954+02:00'
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-8883289298618708027
+blogger_orig_url: http://www.andreafortuna.org/2008/04/shell-history-stats_10.html
+---
+
+Seguo un <a href="http://jimmac.musichall.cz/log/?p=427">meme</a> visto su <a href="http://www.zarrelli.org/blog/2008/04/10/shell-history-stats/">CrisIs</a>, e lo trasferisco sul mio Mac (che sempre Unix è):<br/><br/>[sourcecode language='xml']<br/><br/>mac-mini-di-andrea-fortuna:~ andreafortuna$ history|awk '{a[$2]++ } END{for(i in a){print a[i] " " i}}'|sort -rn|head<br/>60 cd<br/>50 ssh<br/>50 ls<br/>26 ping<br/>18 mongrel_rails<br/>16 ps<br/>13 export<br/>10 ruby<br/>10 rails<br/>8 kill<br/>mac-mini-di-andrea-fortuna:~ andreafortuna$<br/><br/>[/sourcecode]<br/><br/>Vediamo se qualcuno prosegue la catena :-)

@@ -1,0 +1,15 @@
+---
+layout: post
+title: 'ASP.NET: upload di foto con creazione di thumbnails'
+date: '2007-09-29T10:02:00.001+02:00'
+author: Andrea Fortuna
+tags:
+- VB.NET
+- Programmazione
+- ASP.NET
+modified_time: '2012-04-26T14:21:39.108+02:00'
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-4705620701944869589
+blogger_orig_url: http://www.andreafortuna.org/2007/09/aspnet-upload-di-foto-con-creazione-di_29.html
+---
+
+Oggi vi propongo un piccolo frammento di codice in vb.net che permette di effettuare da una pagina aspx l'upload di una foto e la creazione del relativo thumbnail.<br/><br/>Per prima cosa, inseriamo sulla pagina un controllo FileUpload e un pulsante che darà il via al processo di upload:<br/><br/><code>&lt;asp:FileUpload ID=”FileUpload1″ runat=”server” /&gt;<br/>&lt;asp:Button ID=”Button1″ runat=”server” Text=”Carica Immagine” /&gt;<br/></code><br/><br/>in seguito nel CodeBehind relativo al click sul pulsante realizziamo l'upload e la creazione del ThumbNail:<br/><br/>[sourcecode language='vb']<br/><br/>Protected Sub Button1_Click(ByVal sender As Object, ByVal e As System.EventArgs) Handles Button1.Click<br/>If Not FileUpload1.PostedFile Is Nothing And FileUpload1.PostedFile.ContentLength &gt; 0 Then<br/>Dim unixtime As String<br/>unixtime = (DateTime.UtcNow - New DateTime(1970, 1, 1, 0, 0, 0)).TotalSeconds<br/>unixtime = unixtime.Replace(",", "")<br/>'Dim fn As String = System.IO.Path.GetFileName(FileUpload1.PostedFile.FileName)<br/>Dim fn As String = unixtime &amp;amp; "-" &amp;amp; System.IO.Path.GetFileName(FileUpload1.PostedFile.FileName)<br/>Dim SaveLocation As String = Server.MapPath("foto") &amp;amp;  "\\\\" &amp;amp;  fn<br/><br/>Try<br/>FileUpload1.PostedFile.SaveAs(SaveLocation)<br/>'Creazione Miniatura<br/>Dim img As System.Drawing.Bitmap<br/>Dim imgNew As System.Drawing.Image<br/>Dim inp As New IntPtr()<br/><br/>img = img.FromFile(SaveLocation)<br/>imgNew = img.GetThumbnailImage(100, 62, Nothing, inp)<br/>imgNew.Save(Server.MapPath("foto") &amp;amp; "\\\\thumbs\\\\" &amp;amp; fn, System.Drawing.Imaging.ImageFormat.Jpeg)<br/><br/>'Codice per eventuale insert in database<br/><br/>Catch Exc As Exception<br/>Response.Write("Error: " &amp;amp; Exc.Message)<br/>End Try<br/>Else<br/>Response.Write("Please select a file to upload.")<br/>End If<br/>End Sub<br/><br/>[/sourcecode]<br/><br/>Finito! La foto originale verrà caricata nella drectory 'foto', mentre la miniatura realizzata utilizzando il metodo GetThumbnailImage (grazie a <a href="http://www.cicoira.it">Gianpiero</a> per l'<a href="http://www.cicoira.it/2007/07/25/creare-miniature-di-immagini-contenute-in-una-cartella/">esaustivo tutorial</a> sull'utilizzo) verrà creata in 'foto/thumbs'.

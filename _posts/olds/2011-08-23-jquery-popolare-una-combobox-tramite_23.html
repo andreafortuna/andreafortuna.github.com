@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'jQuery: popolare una ComboBox tramite json'
+date: '2011-08-23T09:31:00.001+02:00'
+author: Andrea Fortuna
+tags:
+- PHP
+- phonegap
+- jquery mobile
+- jQuery
+modified_time: '2013-05-27T10:57:12.699+02:00'
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-3800923688352232143
+blogger_orig_url: http://www.andreafortuna.org/2011/08/jquery-popolare-una-combobox-tramite_23.html
+---
+
+Piccolo snippet, mi è stato utile nello sviluppo di una applicazione <a href="http://www.phonegap.com/">PhoneGap</a> realizzata con <a href="http://jquerymobile.com/" target="_blank">jQuery Mobile</a>.<br /><br />Per caricare i dati di una combobox partendo da un array json (jsonp, nel nostro caso) abbiamo bisogno di codice lato client:<br /><br /><pre class="brush: java">function caricaCombo() {<br /> $.getJSON("http://www.tuosito.com/api/get.php?callback=?", function(result) {<br />   $.each(result, function() {<br />    $("#IDComboDaPopolare").append($("&lt;option /&gt;").val(this.id).text(this.valore));<br />   });<br /> });<br />}</pre><br /><br />e di un semplice script lato server (get.php) che si occupi di 'pescare' dati dal database e serializzare i risultati in json:<br /><br /><pre class="brush: php">&lt;?php<br />$query = "SELECT id, descrizione from Dati";<br />$result = mysql_query($query);<br />$dati= array();<br />while ($row=mysql_fetch_array($result)) {<br /> if ($row[1] != $row[2]) {<br />  $tempAr = array("id" =&gt; $row[0], "valore"=&gt;$row[1]);<br />  $dati[]= $tempAr;<br /> }<br />}<br />echo $_GET['callback'] . '(' . json_encode($dati) . ')';<br />?&gt;</pre>

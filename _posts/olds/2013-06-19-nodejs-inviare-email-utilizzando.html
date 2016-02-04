@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'Node.js: inviare email utilizzando Postmark'
+date: '2013-06-19T10:00:00.000+02:00'
+author: Andrea Fortuna
+tags:
+- Postamark
+- Email
+- Node.js
+modified_time: '2013-06-19T10:00:11.690+02:00'
+thumbnail: http://4.bp.blogspot.com/-Kv-LAmKS6wU/UbSzesineyI/AAAAAAAAFQY/DrMydFfQq44/s72-c/Nodejs_logo_light.png
+blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-8232903828217706112
+blogger_orig_url: http://www.andreafortuna.org/2013/06/nodejs-inviare-email-utilizzando.html
+---
+
+<div class="separator" style="clear: both; text-align: center;"><a href="http://4.bp.blogspot.com/-Kv-LAmKS6wU/UbSzesineyI/AAAAAAAAFQY/DrMydFfQq44/s1600/Nodejs_logo_light.png" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="68" src="http://4.bp.blogspot.com/-Kv-LAmKS6wU/UbSzesineyI/AAAAAAAAFQY/DrMydFfQq44/s200/Nodejs_logo_light.png" width="200" /></a></div><a href="https://postmarkapp.com/" target="_blank">Postmarkapp</a> è un servizio online che permette l'invio di grandi quantità di email. Il costo del servizio parte da 1,50 $ per 1000 email inviate.<br />Alla sottoscrizione del servizio si riceve un pacchetto di 10000 invii gratuiti.<br /><br />Vengono fornite anche delle <a href="http://developer.postmarkapp.com/developer-build.html" target="_blank">API</a> per accedere al servizio dalle proprie app, vediamo come utilizzarlo con Node.js.<br /><br /><a name='more'></a>Per prima cosa, posizioniamoci nella directory contenente il progetto Node.js e installiamo il modulo per l'accesso alle API di Postmark:<br /><br /><pre class="brush:xml">npm install postmark<br /></pre><br />A questo punto possiamo utilizzare questo semplice snippet: <br /><br /><script src="https://gist.github.com/andreafortuna/e47e04ffed91e018804f.js"></script>
