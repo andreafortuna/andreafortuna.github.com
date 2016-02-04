@@ -74,3 +74,15 @@ The guide can be read at [this address](https://dzone.com/refcardz/getting-start
 <div class="video-container">
 <embed src="/technology/files/apache_hadoop.pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
 </div>
+
+<hr>
+
+A great video introduction from Stanford University
+--
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/d2xeNpfzsYI" frameborder="0" allowfullscreen></iframe>
+</div>
+
+>Amr Awadallah introduces Apache Hadoop and asserts that it is the data operating system of the future. 
+He explains many of the data problems faced by modern data systems while highlighting the benefits and features of Hadoop. 
