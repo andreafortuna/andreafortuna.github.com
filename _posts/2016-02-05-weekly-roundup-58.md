@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #58 - #OpenSSL #MediaTek #Android #NSA #SpaceX"
 description: "My Weekly Digest #58 - Interesting things that i read in the last week, about OpenSSL and Android Bugs, NSA, SpaceX, various Geekness, Running, Yoga, Swimming and Ukulele exercises! "
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/image.jpg"
+thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/https.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription,Miitomo, Android, MediaTek, OpenSSL
 category: WeeklyRoundup
 tags: 
