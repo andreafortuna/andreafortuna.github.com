@@ -8,17 +8,19 @@ tagline: Old Stuff
 ---
 {% include JB/setup %}
 
+![OldStuff](/images/oldstuff.jpg)
+
+
+
 Old stuff and articles from previous versions of this blog
 
 <hr/>
 <div class="blog-index">
-
 {% for post in site.posts %}
     {% if post.categories == empty %}
-        {% assign content = post.content %}
-        {% include post_detail.html %}
+             <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
 {% endfor %}
 </div>
-
+<br>
 
