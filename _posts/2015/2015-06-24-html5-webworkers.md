@@ -24,24 +24,15 @@ A simple WebWorker
 
 Let's see how to start a simple thread:
 
-{% highlight JavaScript %}
-
-  var myWorker = new Worker('/path/operazioniDaEseguire.js');
-    myWorker.onmessage = function(event) {
-        console.log('Fatto, ecco i dati!', event.data);
-    };
-    
-{% endhighlight %}    
+<script src="https://gist.github.com/andreafortuna/c11f197cb2f1e357ee87.js"></script>
 
 Nothing complicated: the code in the file stepsToBeMade.js are executed and the return data are written in a log.
 The data are sent back to the parent process (stepsToBeMade.js) by using the *postMessage* function:
 
-{% highlight JavaScript %}
 
-//stepsToBeMade.js
-postMessage("So long, and thanks for all the fish.");
 
-{% endhighlight %}    
+<script src="https://gist.github.com/andreafortuna/77c7a429117ed756156e.js"></script>
+
 
 All on one page?
 --
@@ -51,33 +42,12 @@ We can choose not to use an external file to define the code of our webworker, p
 Then we declare a *script* element containing the code to be executed (a simple counter):
 
 
-{% highlight JavaScript %}
-
-<script id="myWorker">
-    var i = 0;
-    setInterval(function() {
-        i++;
-        postMessage(i);
-    }, 1000);
-</script>
-
-{% endhighlight %}    
+<script src="https://gist.github.com/andreafortuna/9b0a88dd65eca9156ee9.js"></script> 
 
 
 and then we create and start the WebWorker from a blob filled with the contents of the *script* tag:
 
-{% highlight JavaScript %}
-
-Blob([document.getElementById('myWorker').textContent], {
-    type: "text/javascript"
-});
-
-myWorker = new Worker(window.URL.createObjectURL(workerData));
-    myWorker.onmessage = function (e) {
-        console.log('Counting...', event.data);
-    };
-
-{% endhighlight %}  
+<script src="https://gist.github.com/andreafortuna/7fd6733382114d523339.js"></script> 
 
 Putting it all together
 --

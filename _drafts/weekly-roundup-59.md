@@ -70,7 +70,7 @@ Geekness
 <hr/>
 Programming
 --
-![image](http://xxx)
+![Time](https://okpanico.files.wordpress.com/2016/02/vrf9b47.jpg)
 
 - [Some of the Apollo 11 source code](http://www.ibiblio.org/apollo/listings/Luminary099/MAIN.agc.html){:target="_blank"}
 
