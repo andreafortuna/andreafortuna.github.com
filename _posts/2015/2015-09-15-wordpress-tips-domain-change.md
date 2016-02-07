@@ -21,15 +21,7 @@ When you change domain for an existing wordpress blog, it may be difficult to up
 
 In [this post](http://kevindees.cc/2011/08/updating-wordpress-permalinks-and-image-paths/){:target="_blank"} Kevin Dees presents a quick and easy solution, with 3 SQL commands:
 
-{% highlight SQL %}
-
-UPDATE wp_posts SET post_content = REPLACE(post_content, 'olddomain.com', 'newdomain.com');
-
-UPDATE wp_postmeta SET meta_value = REPLACE(meta_value, 'olddomain.com', 'newdomain.com');
-
-UPDATE wp_options SET option_value = REPLACE(option_value, 'olddomain.com', 'newdomain.com');
-
-{% endhighlight %}
+<script src="https://gist.github.com/andreafortuna/874618774e729dbb9635.js"></script>
 
 Warning: read the notes in the post before launching random SQL commands:
 

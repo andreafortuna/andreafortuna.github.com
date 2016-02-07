@@ -20,14 +20,4 @@ How to disable the update messages without using a [special plug-in](https://wor
 
 With a simple snippet! Paste this code in ***function.php*** of the active theme:
 
-{% highlight PHP %}
-
-function remove_core_updates(){
-   global $wp_version;
-   return(object) array('last_checked'=> time(),'version_checked'=> $wp_version,);
-}
-add_filter('pre_site_transient_update_core','remove_core_updates');
-add_filter('pre_site_transient_update_plugins','remove_core_updates');
-add_filter('pre_site_transient_update_themes','remove_core_updates');
-
-{% endhighlight %}
+<script src="https://gist.github.com/andreafortuna/4f370a94c20861947c24.js"></script>

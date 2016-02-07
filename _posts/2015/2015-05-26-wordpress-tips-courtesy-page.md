@@ -21,12 +21,6 @@ Let's see how to make a courtesy page for anonymous users without using any plug
 It is enough to add on top of the file ***header.php*** of the active theme the following code snippet:
 
 
-{% highlight PHP %}
-
- if(!is_user_logged_in()){
-     wp_die('<h1 style="color:red">WebSite Coming Soon!</h1>');
- }
-
-{% endhighlight %}
+<script src="https://gist.github.com/andreafortuna/c731ae213c04b068d81b.js"></script>
 
 In this way the anonymous users will see only a courtesy message, while the logged users will display all pages of the site.

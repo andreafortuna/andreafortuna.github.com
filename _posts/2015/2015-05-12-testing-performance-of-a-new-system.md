@@ -25,17 +25,5 @@ Place the code in a common section, that is repeated in all site pages (es. foot
 
 You can use a simple javascript code, like this snippet:
 
-{% highlight JavaScript %}
-
-<script>
-    var url = window.location.toString();
-    url = url.replace("www.site.com","dev.site.com")
-    var ifrm = document.createElement('iframe');
-    ifrm.setAttribute('src', url);
-    ifrm.setAttribute('width', "1px");
-    ifrm.setAttribute('height', "1px");
-    document.body.appendChild(ifrm); 
-</script>
-
-{% endhighlight %}
+<script src="https://gist.github.com/andreafortuna/d5eedbcc2fbc05c7e3dd.js"></script>
 
