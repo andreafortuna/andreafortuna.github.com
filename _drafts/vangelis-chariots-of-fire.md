@@ -2,8 +2,8 @@
 layout: post
 title: "Vangelis: Chariots of Fire - My ukulele arrangement"
 thumbnail: "http://www.andreafortuna.org/ukulele/images/chariotsoffire.jpg"
-description: "My #ukulele version of 'Chariots of Fire' main Theme by Vangelis"
-keywords: ukulele, transcription, arrangement, vanngelis, chariots of fire,  fingerstyle, 
+description: "My #ukulele version of 'Chariots of Fire' main theme by Vangelis"
+keywords: ukulele, transcription, arrangement, vangelis, chariots of fire,  fingerstyle, 
 category: Ukulele
 tags: 
 - Ukulele
@@ -59,9 +59,9 @@ Here a video of my ukulele arrangement:
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/the_carnival_of_venice.pdf)
+[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Chariots_of_fire.pdf)
 
 <hr/>
 <div class="video-container">
-<embed src="/ukulele/files/the_carnival_of_venice.pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+<embed src="/ukulele/files/Chariots_of_fire.pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
 </div>
