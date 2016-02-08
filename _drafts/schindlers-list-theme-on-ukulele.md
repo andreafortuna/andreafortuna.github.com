@@ -19,7 +19,7 @@ The soundtrack's main theme of the 1993 film *Schindler's List* starring *Liam N
 ![Schindler's List Main Theme](/ukulele/images/schindlerslist.jpg)
 <!-- more -->
 
-The original score and songs were composed by [*John Williams*](/tags.html#John Williams-ref), and features violin player *Itzhak Perlman*.
+The original score and songs were composed by [*John Williams*](/tags/#John Williams-ref), and features violin player *Itzhak Perlman*.
 
 The album won the *Academy Award* and the *BAFTA Award* for "Best Original Score" and the *Grammy Award* for "Best Score Soundtrack for Visual Media". 
 
@@ -44,9 +44,9 @@ Here a video of my ukulele arrangement:
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/the_carnival_of_venice.pdf)
+[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/schindlerslist_main_theme.pdf)
 
 <hr/>
 <div class="video-container">
-<embed src="/ukulele/files/the_carnival_of_venice.pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+<embed src="/ukulele/files/schindlerslist_main_theme.pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
 </div>
