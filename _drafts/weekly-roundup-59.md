@@ -133,7 +133,7 @@ Ukulele & Music
 Running & Wellness
 --
 
-![image](http://xxx)
+![Slow!](https://pbs.twimg.com/media/Cagzs_SWwAAWE0s.jpg)
 
 - [McDonald’s kale salad has more fat and calories than a double Big Mac](http://arstechnica.com/science/2016/02/mcdonalds-kale-salad-has-more-fat-and-calories-than-a-double-big-mac/){:target="_blank"}
 
