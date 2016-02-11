@@ -20,7 +20,8 @@ I started working in the ICT industry as an analyst/programmer in a small softwa
 In my free time i play guitar and [ukulele](/ukulele/) and [develop applications](/portfolio/) for mobile devices (iOS, Android and Windows Phone).
 
 
-#Contacts
+Contacts
+--
 
 <ul  style="list-style-type: none;">
 <li><i class="fa fa-facebook"></i>&nbsp;<a href="https://www.facebook.com/andreafortuna" target="_blank">facebook.com/andreafortuna</a></li>

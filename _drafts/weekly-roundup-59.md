@@ -138,7 +138,11 @@ Running & Wellness
 
 - [Warm-up, Cool-down and Injury Treatment](http://naturalrunningcenter.com/2016/02/09/warm-up-cool-down-injury-treatment/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Yoga Practice for Runners](https://www.youtube.com/watch?v=of2spyCtUkw){:target="_blank"}
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/of2spyCtUkw" frameborder="0" allowfullscreen></iframe>
+</div>
 
 - [](){:target="_blank"}
 
