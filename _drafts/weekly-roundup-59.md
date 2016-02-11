@@ -27,6 +27,8 @@ Security & Privacy
 --
 ![image](http://xxx)
 
+- [Windows 10 Sends Your Data 5500 Times Every Day Even After Tweaking Privacy Settings](http://thehackernews.com/2016/02/microsoft-windows10-privacy.html){:target="_blank"}
+
 - [Mysterious spike in WordPress hacks silently delivers ransomware to visitors](http://arstechnica.com/security/2016/02/mysterious-spike-in-wordpress-hacks-silently-delivers-ransomware-to-visitors/){:target="_blank"}
 
 - [AndroL4b - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis](http://www.kitploit.com/2016/02/androl4b-virtual-machine-for-assessing.html){:target="_blank"}
@@ -46,7 +48,7 @@ Security & Privacy
 Geekness
 --
 
-![image](http://xxx)
+![Backslashes](http://imgs.xkcd.com/comics/backslashes.png)
 
 - [UN group says Assange should be allowed to walk free](http://www.engadget.com/2016/02/05/united-nations-assange-decision/){:target="_blank"}
 
@@ -81,16 +83,19 @@ Programming
 
 - [Holistic Configuration Management at Facebook](http://muratbuffalo.blogspot.it/2016/02/holistic-configuration-management-at.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Related posts on Jekyll, a custom solution](http://www.andreafortuna.org/programming/2016/02/10/jekyll-related-posts/){:target="_blank"}
+
+- [CloudKit Adds Support for Server-to-Server API Access](http://www.programmableweb.com/news/cloudkit-adds-support-server-to-server-api-access/2016/02/09){:target="_blank"}
+
+- [Microservices, the Unix philosophy, and the Richardson Maturity Model](https://medium.com/@chrstphrhrt/microservices-the-unix-philosophy-and-the-richardson-maturity-model-425abed44826#.bhgopo9zg){:target="_blank"}
 
 - [](){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Julian Storer: Obsessive Coding Disorder](https://www.youtube.com/watch?v=SIAAvv1O7Gg){:target="_blank"}
 
-- [](){:target="_blank"}
-
-- [](){:target="_blank"}
-
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/SIAAvv1O7Gg" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <hr/>
 Ukulele & Music
