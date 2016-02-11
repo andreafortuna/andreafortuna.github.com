@@ -68,11 +68,16 @@ Geekness
 <iframe src="https://www.youtube.com/embed/-QbFvDIyy1k" frameborder="0" allowfullscreen></iframe>
 </div>
 
-- [](){:target="_blank"}
+- [You can run over 1,000 Windows 3.1 programs in your browser](http://www.engadget.com/2016/02/11/internet-archive-windows-3-1/){:target="_blank"}
 
 - [](){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Impressive LEGO Paper Plane Folding Machine ](https://www.youtube.com/watch?v=yueP7V6Wddc){:target="_blank"}
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/yueP7V6Wddc" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 <hr/>
 Programming
@@ -89,7 +94,7 @@ Programming
 
 - [Microservices, the Unix philosophy, and the Richardson Maturity Model](https://medium.com/@chrstphrhrt/microservices-the-unix-philosophy-and-the-richardson-maturity-model-425abed44826#.bhgopo9zg){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Hardware Hacking With JavaScript](https://www.smashingmagazine.com/2016/02/hardware-hacking-with-javascript-internet-of-things/){:target="_blank"}
 
 - [Julian Storer: Obsessive Coding Disorder](https://www.youtube.com/watch?v=SIAAvv1O7Gg){:target="_blank"}
 
