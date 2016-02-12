@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "My Weekly #Roundup #59 - #TAGS"
-description: "My Weekly Digest #59 - #MORETAGS"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/image.jpg"
-keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription
+title: "My Weekly #Roundup #59 - #Einstein #GravitationalWaves #Security #Music #Geekness #Ukulele #Science"
+description: "This week a lot of things have happened, not only gravitational waves discovery!"
+thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/Gravitational-Waves.jpg"
+keywords: Geek, Security,Programming, Windows 10, Running, Barefoot, Music, ukulele, transcription, einstein, wordpress, gravitational waves, science, IoT, ransomware
 category: WeeklyRoundup
 tags: 
 - Roundup
@@ -14,18 +14,26 @@ tags:
 - Barefoot
 - Ukulele
 - Music
+- Science
+- Wordpress
+- Windows 10
+- Java
+- Jekyll
+- Julian Assange
+- Ransomware
+- IoT
 
 
 ---
 {% include JB/setup %}
-Interesting things that i read in the last week!
+Interesting things that i read this week! (not only gravitational waves!)
 
-![image](/weeklyroundup/images/image.jpg)
-<!-- more -->
+![Gravitational Waves](/weeklyroundup/images/Gravitational-Waves.jpg)
+
 <hr/>
 Security & Privacy
 --
-![image](http://xxx)
+![Privacy](https://pbs.twimg.com/media/Bl0f7MJIAAAhJR9.jpg)
 
 - [Windows 10 Sends Your Data 5500 Times Every Day Even After Tweaking Privacy Settings](http://thehackernews.com/2016/02/microsoft-windows10-privacy.html){:target="_blank"}
 
@@ -44,13 +52,25 @@ Security & Privacy
 - [New Java bug leads to "complete compromise" of PC, warns Oracle](http://www.itpro.co.uk/security/25904/new-java-bug-leads-to-complete-compromise-of-pc-warns-oracle){:target="_blank"}
 
 
+
+<hr/>
+Science
+--
+![GravitationaWaves](https://pbs.twimg.com/media/Ca8lfZ5UsAA3xWv.jpg)
+
+- [Science confirms that gravitational waves exist](http://www.engadget.com/2016/02/11/science-confirms-that-gravitational-waves-exist/){:target="_blank"}
+
+- [Scientists have finally proven Einstein’s century-old theory about gravitational waves](http://www.theverge.com/2016/2/11/10965312/einstein-gravitational-waves-discovered-announced-video){:target="_blank"}
+
+- [Einstein was right: Scientists detect gravitational waves for the first time](http://mashable.com/2016/02/11/einstein-gravitational-waves-detection/){:target="_blank"}
+
+- [Gravitational Waves: 6 Cosmic Questions They Can Tackle](http://www.scientificamerican.com/article/gravitational-waves-6-cosmic-questions-they-can-tackle/){:target="_blank"}
+
 <hr/>
 Geekness
 --
 
 ![Backslashes](http://imgs.xkcd.com/comics/backslashes.png)
-
-- [UN group says Assange should be allowed to walk free](http://www.engadget.com/2016/02/05/united-nations-assange-decision/){:target="_blank"}
 
 - [UN Rules in Favor of Julian Assange Though He is Still Not a Free Man](http://freedomhacker.net/un-rules-in-favor-julian-assange-though-still-not-free-man-5040/){:target="_blank"}
 
@@ -69,8 +89,6 @@ Geekness
 </div>
 
 - [You can run over 1,000 Windows 3.1 programs in your browser](http://www.engadget.com/2016/02/11/internet-archive-windows-3-1/){:target="_blank"}
-
-- [](){:target="_blank"}
 
 - [Impressive LEGO Paper Plane Folding Machine ](https://www.youtube.com/watch?v=yueP7V6Wddc){:target="_blank"}
 
@@ -106,19 +124,15 @@ Programming
 Ukulele & Music
 --
 
-![image](http://xxx)
+![TheForce](https://pbs.twimg.com/media/CWjeAX2UsAASLLT.jpg)
 
-- [](){:target="_blank"}
+- [Looking for cover ideas for Valentines Day](https://www.reddit.com/r/ukulele/comments/44ykn0/looking_for_cover_ideas_for_valentines_day/){:target="_blank"}
 
 - [Experiments in making Luthier Spool Clamps](http://theukuleleblog.blogspot.com/2016/02/experiments-in-making-luthier-spool.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Question about changing tuning pegs](https://www.reddit.com/r/ukulele/comments/458z5c/question_about_changing_tuning_pegs/){:target="_blank"}
 
-- [](){:target="_blank"}
-
-- [](){:target="_blank"}
-
-- [](){:target="_blank"}
+- [Overcoming Stage Fright](https://rockclass101.com/overcoming-stage-fright/){:target="_blank"}
 
 - [Theme from 'Schindler's List' - Arranged for Ukulele](http://www.andreafortuna.org/ukulele/2016/02/08/schindlers-list-theme-on-ukulele/){:target="_blank"}
 
@@ -139,7 +153,7 @@ Running & Wellness
 
 - [5 running goals that have nothing to do with racing](http://www.runnersworld.co.uk/training/5-running-goals-that-have-nothing-to-do-with-racing/14525.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Footwear Considerations for Runners](http://rawaussieathlete.com/2016/02/09/footwear-considerations-for-runners/){:target="_blank"}
 
 - [Warm-up, Cool-down and Injury Treatment](http://naturalrunningcenter.com/2016/02/09/warm-up-cool-down-injury-treatment/){:target="_blank"}
 
@@ -148,8 +162,6 @@ Running & Wellness
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/of2spyCtUkw" frameborder="0" allowfullscreen></iframe>
 </div>
-
-- [](){:target="_blank"}
 
 - [Why Diet Matters More than Exercise For Weight Loss](https://www.youtube.com/watch?v=ztiHRiFXtoc){:target="_blank"}
 
