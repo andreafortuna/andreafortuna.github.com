@@ -23,7 +23,7 @@ Recently, I had a "love at first sight" for the ukulele: a musical instrument th
 In this section I am going to publish my thoughts, my exercises and my transcriptions.
 <hr/>
 
-<a href="/ukulele/tabs.html">Tabs and arrangements archive</a>
+<a href="/ukulele/tabs/">Tabs and arrangements archive</a>
 --
 
 - [Classical pieces](/ukulele/tabs/#classicalpieces)
