@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #60 - #TAGS"
 description: "My Weekly Digest #60 - #MORETAGS"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/MazarBOT.png"
+thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/image.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription
 category: WeeklyRoundup
 tags: 
@@ -23,7 +23,7 @@ tags:
 {% include JB/setup %}
 Interesting things that i read in the last week!
 
-![image](/weeklyroundup/images/image.png)
+![image](/weeklyroundup/images/image.jpg)
 <!-- more -->
 <hr/>
 Security & Privacy
