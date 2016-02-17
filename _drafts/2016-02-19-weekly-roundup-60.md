@@ -87,7 +87,7 @@ Programming
 
 - [Your Application Probably Doesn't Need a Database](https://dzone.com/articles/does-your-application-really-need-a-database){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Hacking devices with barcodes](http://hackaday.com/2016/02/17/barcodes-that-hack-devices/){:target="_blank"}
 
 - [NULL is the Worst Mistake in Computer Science](https://dzone.com/articles/the-worst-mistake-of-computer-science-1){:target="_blank"}
 
