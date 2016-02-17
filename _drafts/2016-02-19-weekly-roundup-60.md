@@ -28,13 +28,13 @@ Interesting things that i read in the last week!
 <hr/>
 Security & Privacy
 --
-![image](http://xxx)
+![Humanerror](/weeklyroundup/images/humanerror.jpg)
 
 - [Determining Physical Location on the Internet](https://www.schneier.com/blog/archives/2016/02/determining_phy.html){:target="_blank"}
 
 - [Mazar BOT: new Android malware that can root and erase your device](http://www.andreafortuna.org/security/2016/02/16/mazar-bot-root-and-erase-android-devices/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [CVE-2015-7547: a new buffer overflow in glibc affect all Linux machines](http://www.andreafortuna.org/security/2016/02/17/CVE-2015-7547-glibc-buffer-overflow/){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -55,9 +55,9 @@ Geekness
 
 - [A visual history of first-person shooters](http://arstechnica.com/gaming/2016/02/headshot-a-visual-history-of-first-person-shooters/){:target="_blank"}
 
-- [](){:target="_blank"}
+- ['5D' discs can store data until well after the sun burns out](http://www.engadget.com/2016/02/16/5d-discs-can-store-data-until-well-after-the-sun-burns-out/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Polish codebreakers 'cracked Enigma before Alan Turing'](http://www.telegraph.co.uk/history/world-war-two/12158055/Polish-codebreakers-cracked-Enigma-before-Alan-Turing.html){:target="_blank"}
 
 - [RIP: Adblock Plus](http://www.engadget.com/2016/02/12/rip-adblock-plus/){:target="_blank"}
 
@@ -75,7 +75,7 @@ Geekness
 <hr/>
 Programming
 --
-![image](http://xxx)
+![WomenCOdingBetter](http://www.commitstrip.com/wp-content/uploads/2016/02/Strip-Les-codeuses-meilleures-650-finalenglish.jpg)
 
 - [Women write better code, study suggests](http://www.bbc.com/news/technology-35559439){:target="_blank"}
 
@@ -85,11 +85,12 @@ Programming
 
 - [Wrap Your Web Application into an Executable with nativefier in a Single Command](http://www.codeproject.com/Articles/1078080/Wrap-Your-Web-Application-into-an-Executable-with){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Your Application Probably Doesn't Need a Database](https://dzone.com/articles/does-your-application-really-need-a-database){:target="_blank"}
 
 - [](){:target="_blank"}
 
-- [](){:target="_blank"}
+- [NULL is the Worst Mistake in Computer Science](https://dzone.com/articles/the-worst-mistake-of-computer-science-1){:target="_blank"}
+
 
 
 <hr/>
@@ -98,7 +99,7 @@ Ukulele & Music
 
 ![image](http://xxx)
 
-- [](){:target="_blank"}
+- [Sound Better Live! 6 PA Tips](http://liveukulele.com/sound-better-live-6-pa-tips/){:target="_blank"}
 
 - [Spool Clamp Inferno!](http://theukuleleblog.blogspot.com/2016/02/spool-clamp-inferno.html){:target="_blank"}
 
@@ -129,7 +130,7 @@ Running & Wellness
 
 - [Why We Get Running Injuries (and How to Prevent Them)](http://well.blogs.nytimes.com/2016/02/10/why-we-get-running-injuries-and-how-to-prevent-them/?_r=0){:target="_blank"}
 
-- [](){:target="_blank"}
+- [A Hidden Cost to Giving Kids Their Vegetables](http://www.nytimes.com/2016/02/16/opinion/why-poor-children-cant-be-picky-eaters.html){:target="_blank"}
 
 - [](){:target="_blank"}
 
