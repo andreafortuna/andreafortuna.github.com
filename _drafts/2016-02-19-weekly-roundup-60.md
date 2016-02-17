@@ -30,15 +30,15 @@ Security & Privacy
 --
 ![image](http://xxx)
 
-- [Mazar BOT: the Android Malware That Can Erase Your Phone](https://heimdalsecurity.com/blog/security-alert-mazar-bot-active-attacks-android-malware/){:target="_blank"}
-
 - [Determining Physical Location on the Internet](https://www.schneier.com/blog/archives/2016/02/determining_phy.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Mazar BOT: new Android malware that can root and erase your device](http://www.andreafortuna.org/security/2016/02/16/mazar-bot-root-and-erase-android-devices/){:target="_blank"}
 
 - [](){:target="_blank"}
 
 - [](){:target="_blank"}
+
+- [Teacher’s sex tape stolen from hacked Dropbox, posted on school site](https://nakedsecurity.sophos.com/2016/02/16/gay-teachers-sex-tape-stolen-from-hacked-dropbox-posted-on-school-site/){:target="_blank"}
 
 - [The darkness online - Cryptopolitik and the Darknet](http://www.tandfonline.com/doi/abs/10.1080/00396338.2016.1142085){:target="_blank"}
 
