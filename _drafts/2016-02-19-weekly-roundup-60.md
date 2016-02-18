@@ -3,7 +3,7 @@ layout: post
 title: "My Weekly #Roundup #60 - #TAGS"
 description: "My Weekly Digest #60 - #MORETAGS"
 thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/image.jpg"
-keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription
+keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, apple, terrorism, tim cook, FBI, android MazarBot, Glibc
 category: WeeklyRoundup
 tags: 
 - Roundup
@@ -16,7 +16,8 @@ tags:
 - Music
 - Jenn Shelton
 - Windows 10
-- 
+- Apple
+
 
 
 ---
@@ -30,13 +31,21 @@ Security & Privacy
 --
 ![Humanerror](/weeklyroundup/images/humanerror.jpg)
 
+- [Apple, the FBI, and the San Bernadino iPhone](https://freedom-to-tinker.com/blog/dwallach/apple-the-fbi-and-the-san-bernadino-iphone/){:target="_blank"}
+
+- [Apple says NO to iPhone backdoor in terror case](http://nakedsecurity.sophos.com/2016/02/17/apple-says-no-to-iphone-backdoor-in-terror-case/){:target="_blank"}
+
+- [No, A Judge Did Not Just Order Apple To Break Encryption On San Bernardino Shooter's iPhone, But To Create A New Backdoor](https://www.techdirt.com/articles/20160216/17393733617/no-judge-did-not-just-order-apple-to-break-encryption-san-bernardino-shooters-iphone-to-create-new-backdoor.shtml){:target="_blank"}
+
+- [Why You Should Care About Apple’s Fight With the FBI](http://gizmodo.com/why-you-should-care-about-apple-s-fight-with-the-fbi-1759639200){:target="_blank"}
+
+- [Google’s CEO just sided with Apple in the encryption debate](http://www.theverge.com/2016/2/17/11040266/google-ceo-sundar-pichai-sides-with-apple-encryption){:target="_blank"}
+
 - [Determining Physical Location on the Internet](https://www.schneier.com/blog/archives/2016/02/determining_phy.html){:target="_blank"}
 
 - [Mazar BOT: new Android malware that can root and erase your device](http://www.andreafortuna.org/security/2016/02/16/mazar-bot-root-and-erase-android-devices/){:target="_blank"}
 
 - [CVE-2015-7547: a new buffer overflow in glibc affect all Linux machines](http://www.andreafortuna.org/security/2016/02/17/CVE-2015-7547-glibc-buffer-overflow/){:target="_blank"}
-
-- [](){:target="_blank"}
 
 - [Teacher’s sex tape stolen from hacked Dropbox, posted on school site](https://nakedsecurity.sophos.com/2016/02/16/gay-teachers-sex-tape-stolen-from-hacked-dropbox-posted-on-school-site/){:target="_blank"}
 
@@ -103,7 +112,7 @@ Ukulele & Music
 
 - [Spool Clamp Inferno!](http://theukuleleblog.blogspot.com/2016/02/spool-clamp-inferno.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Kittens, Cats, Felines and Their Pet Ukuleles: Photos](http://www.ukulelemag.com/home/kittens-cats-felines-and-their-pet-ukuleles-photos){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -132,7 +141,7 @@ Running & Wellness
 
 - [A Hidden Cost to Giving Kids Their Vegetables](http://www.nytimes.com/2016/02/16/opinion/why-poor-children-cant-be-picky-eaters.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [The pros of running softly](http://www.runnersworld.co.uk/training/the-pros-of-running-softly/14570.html){:target="_blank"}
 
 - [](){:target="_blank"}
 
