@@ -10,6 +10,7 @@ tags:
 - Arrangement
 - Transcription
 - Édith Piaf
+- Louis Guglielmi
 
 ---
 {% include JB/setup %}
@@ -42,7 +43,7 @@ Since her premature death in 1963 and with the aid of several biographies and fi
 
 The Piece
 --
-The lyrics and melody of the song were written by Édith Piaf herself, but the melody was said officially to have been composed and registered by Louis Guglielmi only, since at the time, due to the stringent registration requirements of the "Société des auteurs, compositeurs et éditeurs de musique", Piaf did not have the necessary qualifications to be able to copyright her work with it.
+The lyrics and melody of the song were written by *Édith Piaf* herself, but the melody was said officially to have been composed and registered by *Louis Guglielmi* only, since at the time, due to the stringent registration requirements of the "Société des auteurs, compositeurs et éditeurs de musique", Piaf did not have the necessary qualifications to be able to copyright her work with it.
 
 <hr/>
 
