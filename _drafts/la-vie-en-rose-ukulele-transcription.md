@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La Vie en rose: simple Ukulele fingerstyle arrangement"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/lavieenrose.png"
+thumbnail: "http://www.andreafortuna.org/ukulele/images/lavieenrose.jpg"
 description: My #ukulele version of 'La Vie en rose' by Édith Piaf"
 keywords: Music, Ukulele, patterns, tabs, fingerstyle
 category: Ukulele
@@ -17,7 +17,7 @@ tags:
 
 "Quand il me prend dans ses bras, il me parle tout bas,je vois la vie en rose"
 
-![La Vie en Rose](/ukulele/images/lavieenrose.png)
+![La Vie en Rose](/ukulele/images/lavieenrose.jpg)
 
 "La Vie en rose" is a song of French popular singer *Édith Piaf*, written in 1945 and released as a single in 1947.
 

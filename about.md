@@ -13,12 +13,11 @@ description: ""
 
 <a href="http://4.bp.blogspot.com/-Gcum7xipqJI/USoINw-e-kI/AAAAAAAAEaI/PtjVufUBil8/s1600/AndyF2_small.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img src="http://4.bp.blogspot.com/-Gcum7xipqJI/USoINw-e-kI/AAAAAAAAEaI/PtjVufUBil8/s200/AndyF2_small.jpg" border="0" height="200" width="150"></a>
 
-Raw Vegan, i love animals, [running](/running/), good food, travels, good books, good music and good movies.
+Raw Vegan, i love animals, [running](/running/), good food, travels, good books, [good music](/ukulele/) and good movies.
 
-I started working in the ICT industry as an analyst/programmer in a small software house and currently i'm an IT Architect in a big (red) company.
+I started my career as a programmer, then i moved to other experiences such as the help desk, system administration, IT security and now I work as IT Architect for a large company.
 
-In my free time i play guitar and [ukulele](/ukulele/) and [develop applications](/portfolio/) for mobile devices (iOS, Android and Windows Phone).
-
+My free time is splitted between guitars, [ukuleles](/ukulele/), [mobile application development](/portfolio/) and [running](/running/).
 
 Contacts
 --

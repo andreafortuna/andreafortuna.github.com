@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "My Weekly #Roundup #60 - #TAGS"
-description: "My Weekly Digest #60 - #MORETAGS"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/image.jpg"
-keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, apple, terrorism, tim cook, FBI, android MazarBot, Glibc
+title: "My Weekly #Roundup #60 - #Apple #FBI #Kittens #Vangelis"
+description: "My Weekly Digest #60 - Interesting things that i read in this week conveniently encrypted in iCloud,away from FBI eyes!#Apple #FBI #Kittens #Vangelis #Privacy #JennShelton"
+thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/applefbi.jpg"
+keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, apple, terrorism, tim cook, FBI, android MazarBot, Glibc, Jenn Shelton, Vangelis
 category: WeeklyRoundup
 tags: 
 - Roundup
@@ -17,15 +17,16 @@ tags:
 - Jenn Shelton
 - Windows 10
 - Apple
+- FBI
 
 
 
 ---
 {% include JB/setup %}
-Interesting things that i read in the last week!
+Interesting things that i read in this week conveniently encrypted in iCloud,away from FBI eyes!
 
-![image](/weeklyroundup/images/image.jpg)
-<!-- more -->
+![image](/weeklyroundup/images/applefbi.jpg)
+
 <hr/>
 Security & Privacy
 --
@@ -47,9 +48,9 @@ Security & Privacy
 
 - [CVE-2015-7547: a new buffer overflow in glibc affect all Linux machines](http://www.andreafortuna.org/security/2016/02/17/CVE-2015-7547-glibc-buffer-overflow/){:target="_blank"}
 
-- [Teacher’s sex tape stolen from hacked Dropbox, posted on school site](https://nakedsecurity.sophos.com/2016/02/16/gay-teachers-sex-tape-stolen-from-hacked-dropbox-posted-on-school-site/){:target="_blank"}
+- [Cisco ASA VPN Portal Cross Site Scripting](http://www.andreafortuna.org/security/2016/02/18/cisco-asa-vpn-portal-xss/){:target="_blank"}
 
-- [The darkness online - Cryptopolitik and the Darknet](http://www.tandfonline.com/doi/abs/10.1080/00396338.2016.1142085){:target="_blank"}
+- [Cisco ASA Software IKEv1 and IKEv2 Buffer Overflow Vulnerability](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160210-asa-ike){:target="_blank"}
 
 - [Installing Windows 10](http://english.bouletcorp.com/2016/02/07/installing-windows-10/){:target="_blank"}
 
