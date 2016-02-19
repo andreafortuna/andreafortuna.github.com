@@ -32,7 +32,7 @@ Security & Privacy
 --
 ![Humanerror](/weeklyroundup/images/humanerror.jpg)
 
-A lot of posts about Apple vs. FBI request to decrypt iPhones owned by terrorists 
+*A lot of posts about Apple vs. FBI request to decrypt iPhones owned by terrorists* 
 
 - [Apple, the FBI, and the San Bernadino iPhone](https://freedom-to-tinker.com/blog/dwallach/apple-the-fbi-and-the-san-bernadino-iphone/){:target="_blank"}
 
@@ -65,7 +65,7 @@ Geekness
 
 ![StopTheGifs](http://www.commitstrip.com/wp-content/uploads/2016/02/Strip-Le-Gif-a-la-belle-vie-650-finalenglish.jpg)
 
-Some geek-cinema news, and a new storage media
+*Some geek-cinema news, and a new storage media*
 
 - [A visual history of first-person shooters](http://arstechnica.com/gaming/2016/02/headshot-a-visual-history-of-first-person-shooters/){:target="_blank"}
 
@@ -91,7 +91,7 @@ Programming
 --
 ![WomenCOdingBetter](http://www.commitstrip.com/wp-content/uploads/2016/02/Strip-Les-codeuses-meilleures-650-finalenglish.jpg)
 
-Yes, woman do it better, pay attention to the barcodes and a brief history of NULL
+*Yes, womens do it better, pay attention to the barcodes and a brief history of NULL*
 
 - [Women write better code, study suggests](http://www.bbc.com/news/technology-35559439){:target="_blank"}
 
@@ -115,7 +115,7 @@ Ukulele & Music
 
 ![Ukulele Kitten](http://img-9gag-fun.9cache.com/photo/aD3e89K_700b.jpg)
 
-My weekly transcription and other various stuff
+*My weekly transcription and other various stuff*
 
 - [Kittens, Cats, Felines and Their Pet Ukuleles: Photos](http://www.ukulelemag.com/home/kittens-cats-felines-and-their-pet-ukuleles-photos){:target="_blank"}
 
@@ -144,7 +144,7 @@ Running & Wellness
 
 ![Paramedics](http://img-9gag-fun.9cache.com/photo/aDoD15x_700b.jpg)
 
-A film about Jenn Shelton, running and marriage, some info about injuries and how to avoid it
+*A film about Jenn Shelton, running and marriage, some info about injuries and how to avoid it*
 
 - [A passion for running has put many a couple on the road to marriage](http://www.runnersworld.co.uk/community/from-sole-to-soul-mates/14555.html){:target="_blank"}
 
