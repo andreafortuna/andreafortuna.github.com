@@ -32,6 +32,8 @@ Security & Privacy
 --
 ![Humanerror](/weeklyroundup/images/humanerror.jpg)
 
+A lot of posts about Apple vs. FBI request to decrypt iPhones owned by terrorists 
+
 - [Apple, the FBI, and the San Bernadino iPhone](https://freedom-to-tinker.com/blog/dwallach/apple-the-fbi-and-the-san-bernadino-iphone/){:target="_blank"}
 
 - [Apple says NO to iPhone backdoor in terror case](http://nakedsecurity.sophos.com/2016/02/17/apple-says-no-to-iphone-backdoor-in-terror-case/){:target="_blank"}
@@ -61,7 +63,9 @@ Security & Privacy
 Geekness
 --
 
-![image](http://xxx)
+![StopTheGifs](http://www.commitstrip.com/wp-content/uploads/2016/02/Strip-Le-Gif-a-la-belle-vie-650-finalenglish.jpg)
+
+Some geek-cinema news, and a new storage media
 
 - [A visual history of first-person shooters](http://arstechnica.com/gaming/2016/02/headshot-a-visual-history-of-first-person-shooters/){:target="_blank"}
 
@@ -71,9 +75,9 @@ Geekness
 
 - [RIP: Adblock Plus](http://www.engadget.com/2016/02/12/rip-adblock-plus/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Turn any old, slow computer into a speedy Chromebook with this free software](http://bgr.com/2016/02/18/turn-a-pc-mac-into-a-chromebook/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Watch the version of 'Star Wars' that George Lucas hates](http://www.engadget.com/2016/02/18/star-wars-silver-screen-despecialized/){:target="_blank"}
 
 - [Marvel's Daredevil - Season 2 - Official Trailer](https://www.youtube.com/watch?v=m5_A0Wx0jU4){:target="_blank"}
 
@@ -86,6 +90,8 @@ Geekness
 Programming
 --
 ![WomenCOdingBetter](http://www.commitstrip.com/wp-content/uploads/2016/02/Strip-Les-codeuses-meilleures-650-finalenglish.jpg)
+
+Yes, woman do it better, pay attention to the barcodes and a brief history of NULL
 
 - [Women write better code, study suggests](http://www.bbc.com/news/technology-35559439){:target="_blank"}
 
@@ -107,19 +113,23 @@ Programming
 Ukulele & Music
 --
 
-![image](http://xxx)
+![Ukulele Kitten](http://img-9gag-fun.9cache.com/photo/aD3e89K_700b.jpg)
+
+My weekly transcription and other various stuff
+
+- [Kittens, Cats, Felines and Their Pet Ukuleles: Photos](http://www.ukulelemag.com/home/kittens-cats-felines-and-their-pet-ukuleles-photos){:target="_blank"}
+
+- [UKULELE Chord/Melody improvisation lesson](http://allthingsukulele.com/2016/02/17/ukulele-chordmelody-improvisation-lesson-by-ukulele-mike-lynch/){:target="_blank"}
+
+- [100 Rock Riffs Go Ukulele!](https://www.youtube.com/watch?v=LiSwzdinpfY){:target="_blank"}
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/LiSwzdinpfY" frameborder="0" allowfullscreen></iframe>
+</div>
 
 - [Sound Better Live! 6 PA Tips](http://liveukulele.com/sound-better-live-6-pa-tips/){:target="_blank"}
 
 - [Spool Clamp Inferno!](http://theukuleleblog.blogspot.com/2016/02/spool-clamp-inferno.html){:target="_blank"}
-
-- [Kittens, Cats, Felines and Their Pet Ukuleles: Photos](http://www.ukulelemag.com/home/kittens-cats-felines-and-their-pet-ukuleles-photos){:target="_blank"}
-
-- [](){:target="_blank"}
-
-- [](){:target="_blank"}
-
-- [](){:target="_blank"}
 
 - [Vangelis: Chariots of Fire on Ukulele](http://www.andreafortuna.org/ukulele/2016/02/15/vangelis-chariots-of-fire/){:target="_blank"}
 
@@ -132,7 +142,9 @@ Ukulele & Music
 Running & Wellness
 --
 
-![image](http://xxx)
+![Paramedics](http://img-9gag-fun.9cache.com/photo/aDoD15x_700b.jpg)
+
+A film about Jenn Shelton, running and marriage, some info about injuries and how to avoid it
 
 - [A passion for running has put many a couple on the road to marriage](http://www.runnersworld.co.uk/community/from-sole-to-soul-mates/14555.html){:target="_blank"}
 
@@ -144,9 +156,7 @@ Running & Wellness
 
 - [The pros of running softly](http://www.runnersworld.co.uk/training/the-pros-of-running-softly/14570.html){:target="_blank"}
 
-- [](){:target="_blank"}
-
-- [](){:target="_blank"}
+- [6 days moving along an ancient Mediterranean footpath](https://www.facebook.com/media/set/?set=a.606380449383465.1073741827.107154492639399&type=1){:target="_blank"}
 
 
 
