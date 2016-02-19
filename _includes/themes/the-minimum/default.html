@@ -40,8 +40,8 @@
 	<meta name="author" content="{{ site.author.name }}">
 	<meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}" />
 	<meta name="google-site-verification" content="DecfzkGZRRNdC0sC_2oYaK94hP7W4nEtg1k6Oefxiw4" />
-	<link href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' rel='stylesheet' async defer/>
-	<link href='{{ ASSET_PATH }}/css/style.css' rel="stylesheet" media="all" async defer>
+	<link href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' rel='stylesheet' media="none" onload="if(media!='all')media='all'" />
+	<link href='{{ ASSET_PATH }}/css/style.css' rel="stylesheet" media="none" onload="if(media!='all')media='all'">
 	<link href="//feeds.feedburner.com/{{ site.author.feedburner }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
 </head>
 <body>
@@ -121,7 +121,7 @@
   </div>
 </form>
 
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" async></script>
 
 						
 						
@@ -151,7 +151,7 @@
  
  
 <!-- cookies warning -->
-<script src="{{ ASSET_PATH }}scripts/cookiechoices.js"></script>
+<script src="{{ ASSET_PATH }}scripts/cookiechoices.js" async></script>
 <script>
   document.addEventListener('DOMContentLoaded', function(event) {
     cookieChoices.showCookieConsentBar('We use cookies to improve your browsing experience. By continuing to use our website you agree to our use of such cookies.',
