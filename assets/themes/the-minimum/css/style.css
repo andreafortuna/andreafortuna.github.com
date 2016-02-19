@@ -932,8 +932,9 @@ figcaption {
 
 .frontImage {
   border-radius: 5px;
-  
-  
-  
-  
+}
+
+
+nav li {
+    margin-bottom: 5px;
 }
