@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VMWare AirWatch MDM Agent on rooted Android Devices: how to force the enrollment"
-thumbnail: ""
+thumbnail: "http://www.andreafortuna.org/technology/images/airwatch.png"
 description: "A short and simple procedure to force the enrollment of rooted Android devices on AirWatch MDM."
 keywords: Security, VMWare, AirWatch, Android, BOYD, Xposed, unWatch
 category: Technology
