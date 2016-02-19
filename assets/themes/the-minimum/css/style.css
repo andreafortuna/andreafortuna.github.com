@@ -251,6 +251,7 @@ pre {
 .the-header .logo {
   font-family: "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
   margin: 0;
+  margin-bottom: 5px;
 }
 .the-header .logo a:visited {
   color: #2d2d2d;
