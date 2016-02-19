@@ -15,7 +15,7 @@ tags:
 ---
 {% include JB/setup %}
 
-"Quand il me prend dans ses bras, il me parle tout bas,je vois la vie en rose"
+>"Quand il me prend dans ses bras, il me parle tout bas,je vois la vie en rose"
 
 ![La Vie en Rose](/ukulele/images/lavieenrose.jpg)
 

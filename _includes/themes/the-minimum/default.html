@@ -49,16 +49,6 @@
 
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4de95b4a2d2c8982" async="async"></script>
 
-<!-- cookies warning -->
-<script src="{{ ASSET_PATH }}/scripts/cookiechoices.js"></script>
-<script>
-  document.addEventListener('DOMContentLoaded', function(event) {
-    cookieChoices.showCookieConsentBar('We use cookies to improve your browsing experience. By continuing to use our website you agree to our use of such cookies.',
-      'Accept', 'Find out more', '/privacy.html');
-  });
-</script>
-<!-- cookies warning end -->
-
 <div id="page" class="hentry">
 	<header class="the-header">
 		<div class="unit-head">
@@ -160,6 +150,16 @@
   {% include JB/analytics %}
  
  
+<!-- cookies warning -->
+<script src="{{ ASSET_PATH }}scripts/cookiechoices.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    cookieChoices.showCookieConsentBar('We use cookies to improve your browsing experience. By continuing to use our website you agree to our use of such cookies.',
+      'Accept', 'Find out more', '/privacy.html');
+  });
+</script>
+<!-- cookies warning end -->
+
 
 </body>
 </html>
