@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Weekly #Roundup #60 - #Apple #FBI #Kittens #Vangelis"
-description: "My Weekly Digest #60 - Interesting things that i read in this week conveniently encrypted in iCloud,away from FBI eyes!#Apple #FBI #Kittens #Vangelis #Privacy #JennShelton"
+description: "My Weekly Digest #60 - Interesting things that i read in this week conveniently encrypted in iCloud,away from FBI eyes! #Apple #FBI #Kittens #Vangelis #Privacy #JennShelton"
 thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/applefbi.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, apple, terrorism, tim cook, FBI, android MazarBot, Glibc, Jenn Shelton, Vangelis
 category: WeeklyRoundup
