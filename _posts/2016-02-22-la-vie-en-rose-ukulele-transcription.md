@@ -51,11 +51,17 @@ My transcription
 --
 It is a transcription of medium/low difficulty level, where the only point of attention may be constituted by the need to maintain the sound clean in the high sections of the fretboard.
 
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/QXMQIs5YqQk" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<hr/>
+
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/XXX.pdf)
+[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/LaVieEnRose.pdf)
 
 <hr/>
 <div class="video-container">
-<embed src="/ukulele/files/xxx.pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+<embed src="/ukulele/files/LaVieEnRose.pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
 </div>
