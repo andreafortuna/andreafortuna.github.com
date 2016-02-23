@@ -8,11 +8,12 @@ tagline: Ukulele
 ---
 {% include JB/setup %}
 
+
+![My Ukulele](/ukulele/images/ukulele2.jpg)
+
 «If everyone played the ukulele, the world would be a better place.»
 --
 <p style="text-align: right;font-style: italic;"><strong>Jake Shimabukuro</strong></p>
-
-![My Ukulele](/ukulele/images/ukulele2.jpg)
 
 <hr/>
 
@@ -32,6 +33,8 @@ In this section I am going to publish my thoughts, my exercises and my transcrip
 - [Pop songs and riffs](/ukulele/tabs/#pop)
 - [Exercises and Music Theory](/ukulele/tabs/#tips)
 <hr>
+
+
 
 Latest posts
 --

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Technology, Running and Ukulele!
-tagline: Technology, Running and Ukulele!
-description: "Technology, Running and Ukulele"
+title: Technology, Running and Music!
+tagline: Technology, Running and Music!
+description: "Technology, Running and Music!"
 ---
 {% include JB/setup %}
 
