@@ -8,7 +8,7 @@ tagline: Guitar
 ---
 {% include JB/setup %}
 
-![Guitar](/guitar/images/classical_guitar.jpg)
+[![Guitar](/music/images/guitar_cover.jpg)](/guitar/)
 
 «I had only one teacher, myself, and only one student, myself.»
 --

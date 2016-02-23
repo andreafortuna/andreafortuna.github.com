@@ -9,7 +9,7 @@ tagline: Ukulele
 {% include JB/setup %}
 
 
-![My Ukulele](/ukulele/images/ukulele2.jpg)
+[![Ukulele](/music/images/ukulele_cover.jpg)](/ukulele/)
 
 «If everyone played the ukulele, the world would be a better place.»
 --

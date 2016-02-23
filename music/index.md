@@ -2,13 +2,13 @@
 layout: page
 title: "My music: research, experiments, opinions and compositions" 
 description: "My music: research, experiments, opinions and compositions"
-thumbnail: "http://www.andreafortuna.org/music/images/cover.jpg"
+thumbnail: "http://www.andreafortuna.org/music/images/music_cover.jpg"
 keywords: Music, tabs, transcriptions, arrangements
 tagline: Music
 ---
 {% include JB/setup %}
 
-![Music](/music/images/cover.jpg)
+![Music](/music/images/music_cover.jpg)
 
 
 «Lesser artists borrow, great artists steal.»  
