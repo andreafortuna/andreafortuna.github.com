@@ -2,7 +2,7 @@
 layout: post
 title: "La Vie en rose: simple Ukulele fingerstyle arrangement"
 thumbnail: "http://www.andreafortuna.org/ukulele/images/lavieenrose.jpg"
-description: My #ukulele version of 'La Vie en rose' by Édith Piaf"
+description: "My #ukulele version of 'La Vie en rose' by Édith Piaf"
 keywords: Music, Ukulele, patterns, tabs, fingerstyle
 category: Ukulele
 tags: 
