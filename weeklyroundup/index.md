@@ -7,11 +7,13 @@ keywords: technology, security, programming, music, movie, geekness, ukulele
 tagline: WeeklyRoundup
 ---
 {% include JB/setup %}
+
+![Roundup](/weeklyroundup/images/roundup.png)
+
 «That's the press, baby. The press! And there's nothing you can do about it. Nothing!»
 --
 <p style="text-align: right;font-style: italic;"><strong>Ed Hutcheson</strong></p>
 
-![Roundup](/weeklyroundup/images/roundup.png)
 
 <hr/>
 <p style="text-align: right;float:right;margin-top:10px;margin-left:20px;"><a href="rss.xml"><i class="fa fa-rss fa-4x" >&nbsp;</i></a></p>
