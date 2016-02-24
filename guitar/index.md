@@ -10,7 +10,7 @@ tagline: Guitar
 
 ![Guitar](/music/images/guitar_cover.jpg)
 
-«I had only one teacher, myself, and only one student, myself.»
+«Guitarists spend half their time tuning and the other half playing out of tune.»
 --
 <p style="text-align: right;font-style: italic;"><strong>Andrés Segovia</strong></p>
 

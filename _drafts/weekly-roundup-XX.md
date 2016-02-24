@@ -88,7 +88,7 @@ Programming
 
 
 <hr/>
-Ukulele & Music
+Music
 --
 
 ![image](http://xxx)
@@ -109,7 +109,7 @@ Ukulele & Music
 
 
 <hr/>
-Running & Wellness
+Wellness & Running  
 --
 
 ![image](http://xxx)
