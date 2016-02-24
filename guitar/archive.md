@@ -8,7 +8,7 @@ tagline: Guitar
 ---
 {% include JB/setup %}
 
-![Guitar](/guitar/images/guitar.jpg)
+![Guitar](/music/images/guitar_cover.jpg)
 
 <p style="text-align: right;float:right;margin-top:10px;margin-left:20px;"><a href="/guitar/rss.xml"><i class="fa fa-rss fa-4x" >&nbsp;</i></a></p>
 <div class="blog-index">
