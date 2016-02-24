@@ -2,7 +2,7 @@
 layout: post
 title: "Windows Tips: Completely uninstall Metro Apps from Windows 8/8.1/10 with PowerShell"
 description: "Windows Tips: Completely Uninstall Metro Apps From Windows 8/8.1/10 with PowerShell"
-category: Windows
+category: Microsoft
 tags: 
   - Windows
   - Tips

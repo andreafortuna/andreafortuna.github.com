@@ -2,7 +2,7 @@
 layout: post
 title: "Nixie, a wearable drone for extreme selfies"
 description: ""
-category: Gadgets
+category: Geekness
 tags: 
 - Wearable
 - Drone

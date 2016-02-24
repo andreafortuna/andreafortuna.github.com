@@ -104,6 +104,8 @@ Pop songs and riffs
 
 ![Riffs](/ukulele/images/riffs.jpg)
 
+- [Édith Piaf - La Vie en rose](http://www.andreafortuna.org/ukulele/2016/02/22/la-vie-en-rose-ukulele-transcription/){:target="_blank"}
+
 - [Sweet Child o' Mine](http://www.andreafortuna.org/ukulele/2015/06/11/riffs-on-ukulele-sweet-child-o-mine/){:target="_blank"}
 
 - [The Cure - Lullaby](http://www.andreafortuna.org/ukulele/2015/11/09/short-covers-on-ukulele-the-cure-lullaby/){:target="_blank"}

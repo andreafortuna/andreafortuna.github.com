@@ -2,7 +2,7 @@
 layout: post
 title: "How to schedule a post in Jekyll?"
 description: ""
-category: Blogging
+category: Programming
 tags: 
 - Blogging
 - Jekyll
@@ -11,7 +11,7 @@ tags:
 {% include JB/setup %}
 Since i started blogging with jekyll i felt the lack of the ability to schedule posts, ignoring the fact that - with a small change to ``_config.yml`` - i can plan my posts even on blogs hosted by **GitHub**.
 
-![](http://girliemac.com/assets/images/articles/2013/12/jekyll.png)
+![Jekyll](http://girliemac.com/assets/images/articles/2013/12/jekyll.png)
 
 <!-- more -->
 The solution I found in a post written by [Mirosław Pragłowski](http://praglowski.com/2013/03/14/scheduling-a-future-posts-in-jekyll/):

@@ -2,7 +2,7 @@
 layout: post
 title: "Edit markdown files with Evernote using Marxi.co"
 description: ""
-category: blogging
+category: Programming
 tags: 
 - evernote
 - markdown

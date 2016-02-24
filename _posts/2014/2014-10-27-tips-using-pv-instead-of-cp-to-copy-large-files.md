@@ -2,7 +2,7 @@
 layout: post
 title: "Tips: using PV instead of CP to copy large files"
 description: ""
-category: Tips
+category: Programming
 tags: 
 - Bash
 - Linux

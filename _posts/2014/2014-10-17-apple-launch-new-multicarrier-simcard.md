@@ -2,7 +2,7 @@
 layout: post
 title: "Apple launched a new multi-carrier Sim Card"
 description: ""
-category: Apple
+category: Technology
 tags: 
 - iPad
 - AppleSIM

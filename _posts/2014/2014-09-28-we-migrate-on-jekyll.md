@@ -2,7 +2,7 @@
 layout: post
 title: "We migrate on Jekyll!"
 description: "After a few years on blogspot, I decided to migrate my blog on a more modern platform."
-category: blogging
+category: Geekness
 tags: 
 - blogging
 - jekyll
