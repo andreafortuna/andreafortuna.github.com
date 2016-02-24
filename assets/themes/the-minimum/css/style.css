@@ -396,6 +396,7 @@ pre {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 5px;
 }
 .unit-article img.left {
   margin-right: 16px;
