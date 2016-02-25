@@ -3,7 +3,7 @@ layout: post
 title: "My Weekly #Roundup #XX - #TAGS"
 description: "My Weekly Digest #38 - #MORETAGS"
 thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/image.jpg"
-keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription
+keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar
 category: WeeklyRoundup
 tags: 
 - Roundup
@@ -14,6 +14,7 @@ tags:
 - Barefoot
 - Ukulele
 - Music
+- Guitar
 
 
 ---

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "My Weekly #Roundup #61 - #TAGS"
-description: "My Weekly Digest #61 - #MORETAGS"
+title: "My Weekly #Roundup #61 - #LinuxMint #Apple #FBI #Petaloso"
+description: "My Weekly Digest #61 - I hope we have a #petaloso weekend, talking about Apple Vs. FBI (again!), Linux Mint Hacking, Facebook Reactions and some musical stuff!"
 thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/image.jpg"
-keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription
+keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele,guitar, transcription
 category: WeeklyRoundup
 tags: 
 - Roundup
@@ -14,6 +14,7 @@ tags:
 - Barefoot
 - Ukulele
 - Music
+- Guitar
 
 
 ---
@@ -25,7 +26,7 @@ Interesting things that i read in the last week!
 <hr/>
 Security & Privacy
 --
-![image](http://xxx)
+![TwitterBOT](http://imgs.xkcd.com/comics/twitter_bot.png)
 
 - [Bringing Innovation into Cyberdefense Technologies](https://www.infosecisland.com/blogview/24705-Bringing-Innovation-into-Cyberdefense-Technologies.html){:target="_blank"}
 
@@ -37,24 +38,24 @@ Security & Privacy
 
 - [Linux Mint Website Hacked and ISOs replaced with Backdoored Operating System](http://thehackernews.com/2016/02/linux-mint-hack.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Just One Device? No, Government wants Apple to Unlock 12 More iPhones](http://thehackernews.com/2016/02/apple-unlock-iphone.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Nissan Disables App After Remote Hack Demo](http://www.infosecurity-magazine.com/news/nissan-disables-app-after-remote/){:target="_blank"}
 
 
 <hr/>
 Geekness
 --
 
-![image](http://xxx)
+![Reactions](https://media.giphy.com/media/eu4VbWSkFOD1C/giphy.gif)
 
-- [](){:target="_blank"}
+- [The Academy of Italian congratulating a child for inventing the term "petaloso"](http://www.insidetheworld.org/2016/02/24/the-academy-of-italian-congratulating-a-child-for-inventing-the-term-petaloso/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [How an eight-year-old boy invented a new word](http://www.bbc.com/news/blogs-trending-35653871){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Facebook Reactions, the Totally Redesigned Like Button, Is Here](http://feeds.wired.com/c/35185/f/661370/s/4dd18753/sc/15/l/0L0Swired0N0C20A160C0A20Cfacebook0Ereactions0Etotally0Eredesigned0Elike0Ebutton0C/story01.htm){:target="_blank"}
 
-- [](){:target="_blank"}
+- [SpaceX’s booster will likely crash, but it’s trying a landing anyway](http://arstechnica.com/science/2016/02/watch-live-spacexs-flyback-booster-will-likely-crash-but-its-trying-anyway/){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -76,13 +77,13 @@ Programming
 
 - [Do Programmers Practice Computer Science?](http://www.daedtech.com/do-programmers-practice-computer-science/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [When Are 8 Bits More Than 32?](http://hackaday.com/2016/02/24/when-are-8-bits-more-than-32/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Some PDP-7 source code](http://www.tuhs.org/Archive/PDP-11/Distributions/research/McIlroy_v0/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Simple Augmented Reality With OpenCV, Three.js and WebSockets](https://www.smashingmagazine.com/2016/02/simple-augmented-reality-with-opencv-a-three-js/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Raspberry Pi Gets OpenGL Support](http://www.linuxjournal.com/content/raspberry-pi-gets-opengl-support){:target="_blank"}
 
 - [Falcor: the open-source, JS data access framework that powers Netflix](https://www.youtube.com/watch?v=aMAs7a_iWVQ){:target="_blank"}
 
@@ -108,18 +109,23 @@ Music
 
 - [Classical Guitar without fingernails? An opinion by Rob MacKillop](http://www.andreafortuna.org/guitar/2016/02/24/classical-guitar-fingernails/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [AC/DC- "Back in Black" Gayageum cover](https://www.youtube.com/watch?v=OEpVDafY6Z8){:target="_blank"}
 
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/OEpVDafY6Z8" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <hr/>
 Wellness & Running  
 --
 
-![image](http://xxx)
+![FamilyGui](https://media.giphy.com/media/3xz2Bu76X2laXkT636/giphy.gif)
 
 - [Why Are Morning Runners So Happy?](http://www.runnersworld.com/sports-psychology/why-are-morning-runners-so-happy){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Running prevents long-term cognitive decline](http://www.runnersworld.co.uk/health/running-prevents-long-term-cognitive-decline/14567.html){:target="_blank"}
+
+- [What you eat and when you eat determines your training results](https://www.runtastic.com/blog/en/nutrition/nutrition-and-training/){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -127,9 +133,7 @@ Wellness & Running
 
 - [](){:target="_blank"}
 
-- [](){:target="_blank"}
-
-- [](){:target="_blank"}
+- [How to talk to a runner about eating disorders](http://www.runnersworld.co.uk/health/how-to-talk-to-a-runner-about-eating-disorders/14588.html){:target="_blank"}
 
 
 
