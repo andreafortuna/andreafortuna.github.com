@@ -26,7 +26,7 @@ tags:
 I hope we have a *#petaloso* weekend, talking about *Apple Vs. FBI* (again!),*Linux Mint* Hacking, Facebook *Reactions* and some musical stuff!
 
 ![image](/weeklyroundup/images/facebook_reactions.png)
-<!-- more -->
+
 <hr/>
 Security & Privacy
 --
