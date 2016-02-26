@@ -46,4 +46,11 @@ Latest posts
 
 <p style="text-align: right;font-size:1.5em;"> <a href="./archive/">All posts...</a> </p>
 
+<hr/>
 
+Latest videos
+--
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/?listType=user_uploads&list=andreafortuna" frameborder="0" allowfullscreen></iframe>
+</div>

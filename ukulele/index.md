@@ -40,22 +40,20 @@ Latest posts
 --
 
 <p style="text-align: right;float:right;margin-top:10px;margin-left:20px;"><a href="rss.xml"><i class="fa fa-rss fa-2x" >&nbsp;</i></a></p>
-
+<div class="blog-index">
 {% for post in site.categories['Ukulele'] limit:10%}
 
- <li><span>{{ post.date | date: "%B %e, %Y" }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-
+     {% assign content = post.content %}
+     {% include post_detail.html %}
+        
 {% endfor %}
+
+</div>
+
 
 <p style="text-align: right;font-size:1.5em;"> <a href="./archive/">All posts...</a> </p>
 
 
-Latest videos
---
-
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/?listType=user_uploads&list=andreafortuna" frameborder="0" allowfullscreen></iframe>
-</div>
 
 
 
