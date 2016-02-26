@@ -1,0 +1,102 @@
+<article class="unit-article layout-post">
+	<div class="unit-inner unit-article-inner">
+		<div class="content">
+			<header>
+				<div class="unit-head">
+					<div class="unit-inner unit-head-inner">
+						<h1 class="h2 entry-title">{{ page.title }}</h1>
+					</div><!-- unit-inner -->
+				</div><!-- unit-head -->
+			</header>
+<hr>
+
+			<div class="bd">
+				<div class="entry-content">
+					
+					<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- andreafortuna_org_responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3112565434711919"
+     data-ad-slot="5338785700"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+<br/>
+					
+					{{ content }}
+					
+					
+						<center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- andreafortuna_org_responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3112565434711919"
+     data-ad-slot="5338785700"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
+<br/>
+					
+					<div class="meta">
+						<p class="date-publish">
+							Published: 
+							<date class="date-pub" title="{{ page.date | date_to_xmlschema }}" datetime="{{ page.date | date_to_xmlschema }}" pubdate>
+							<span class="month"><abbr>{{ page.date | date: '%B' }}</abbr></span>
+							<span class="day">{{ page.date | date: '%d' }}</span>
+							<span class="year">{{ page.date | date: '%Y' }}</span>
+							</date>
+						</p>
+						<ul class="list-category list-linear">
+							<li class="list-head">category:&nbsp;</li>
+							{% assign categories_list = page.categories %}
+							{% include JB/categories_list %}
+						</ul>
+						<ul class="list-tag list-linear">
+							<li class="list-head">tags: &nbsp;</li>
+							{% assign tags_list = page.tags %}
+							{% include JB/tags_list %}
+						</ul>
+					</div><!-- meta -->
+				</div><!-- entry-content -->
+				<div class="misc-content">
+					
+					
+					You may receive the WeeklyRoundUp in form of newsletters by filling this form:
+
+					<form style="padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=andreafortuna/newsletter', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="andreafortuna/newsletter" name="uri"/><input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /></form>
+					
+					<hr/>
+										
+				
+					<div class="addthis_sharing_toolbox"></div>
+					
+					{% include JB/comments %}
+					
+					<hr/>
+					
+					{% include JB/related %}
+					
+
+				</div><!-- misc-content -->
+				
+			</div><!-- bd -->
+			<footer class="unit-foot">
+				<div class="unit-inner unit-foot-inner">
+				
+					<p class="gotop">
+						<a href="#page">Back to Top</a>
+					</p>
+				</div>
+			</footer>
+
+		</div><!-- content -->
+	</div><!-- unit-inner -->
+</article>
+
