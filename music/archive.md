@@ -22,7 +22,6 @@ tagline: Music
     {% endif %}
 {% endfor %}
 
-
 </div>
 
 
