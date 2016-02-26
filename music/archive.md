@@ -8,7 +8,7 @@ tagline: Music
 ---
 {% include JB/setup %}
 
-![Music](/music/images/cover.jpg)
+![Music](/music/images/music_cover.jpg)
 
 <p style="text-align: right;float:right;margin-top:10px;margin-left:20px;"><a href="/ukulele/rss.xml"><i class="fa fa-rss fa-4x" >&nbsp;</i></a></p>
 <div class="blog-index">
