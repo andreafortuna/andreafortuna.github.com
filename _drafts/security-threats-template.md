@@ -10,10 +10,7 @@ tags:
 - Threats
 - Vulnerability
 
-
 ---
-{% include JB/setup %}
-
 XXXX
 
 ![XXX](/xxx)
