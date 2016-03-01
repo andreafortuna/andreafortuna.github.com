@@ -33,7 +33,7 @@ While many security experts suggest the removal of *SSLv2* support from browser 
 Who is vulnerable?
 --
 
-*Websites*, *mail servers*, and other *TLS-dependent services* are at risk for the DROWN attack.
+*Websites*, *mail servers*, and other *TLS-dependent services* are at risk for the *DROWN* attack.
 
 
 From [ArsTechnica](http://arstechnica.com/security/2016/03/more-than-13-million-https-websites-imperiled-by-new-decryption-attack/){:target="_blank"}:
