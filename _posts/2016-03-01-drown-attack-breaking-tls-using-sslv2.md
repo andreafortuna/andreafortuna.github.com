@@ -30,6 +30,12 @@ While many security experts suggest the removal of *SSLv2* support from browser 
 
 <hr/>
 
+Who is vulnerable?
+--
+
+*Websites*, *mail servers*, and other *TLS-dependent services* are at risk for the DROWN attack.
+
+
 From [ArsTechnica](http://arstechnica.com/security/2016/03/more-than-13-million-https-websites-imperiled-by-new-decryption-attack/){:target="_blank"}:
 
 >Recent scans of the Internet at large show that more than 5.9 million Web servers, comprising 17 percent of all HTTPS-protected machines, directly support SSLv2. 

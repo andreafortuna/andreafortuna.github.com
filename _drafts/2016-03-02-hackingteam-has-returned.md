@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Undetected Mac malware sighted online: HackingTeam has returned? "
+title: "Undetected Mac malware sighted online: HackingTeam has returned?"
 thumbnail: "http://www.andreafortuna.org/security/images/HackingTeam.png"
 description: "Researchers have uncovered a malicious tool that appears to be a newly developed Mac malware from HackingTeam, the first since the hack of last July that leaked gigabytes of the group's private e-mail and source code."
 keywords: Security, Threat, Mac, Apple, HackingTeam, 2ee9e9d9a0cd3cee6519e7b950821d5c90af03da665879615e52fd093dd8e947
@@ -40,8 +40,9 @@ Another very good technical analysis was published by [Patrick Wardle](https://o
 
 *Wardle* suggest also a fast method to check if your system has been infected:
 
-To check if you are infected, simply look for the following directory: ```~/Library/Preferences/8pHbqThW/``` containing ```_9g4cBUb.psr``` and/or ```Bs-V7qIU.cYL```. 
-To disinfect yourself, delete that entire directory, and remove the ```~/Library/LaunchAgents/com.apple.FinderExtAvt.plist``` file. 
+To *check if you are infected*, simply look for the following directory: ```~/Library/Preferences/8pHbqThW/``` containing ```_9g4cBUb.psr``` and/or ```Bs-V7qIU.cYL```. 
+
+To *disinfect yourself*, delete that entire directory, and remove the ```~/Library/LaunchAgents/com.apple.FinderExtAvt.plist``` file. 
 Of course if you really are infected - throw out your computer and get a new one! 
 
 
