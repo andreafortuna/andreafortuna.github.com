@@ -35,6 +35,7 @@ Who is vulnerable?
 
 *Websites*, *mail servers*, and other *TLS-dependent services* are at risk for the *DROWN* attack.
 
+![who is vulnerable](https://www.drownattack.com/media/img/DROWN_diagram.jpg)
 
 From [ArsTechnica](http://arstechnica.com/security/2016/03/more-than-13-million-https-websites-imperiled-by-new-decryption-attack/){:target="_blank"}:
 
