@@ -15,7 +15,7 @@ tags:
 - TLS
 
 ---
-A new attack allows an attacker to decrypt an intercepted *TLS-protected* communications that rely on the *RSA* cryptosystem when the key is exposed even indirectly through *SSLv2*, a TLS precursor that was retired almost two decades ago for structural weaknesses. 
+A new attack allows an attacker to decrypt an intercepted *TLS-protected* communications that rely on the *RSA* cryptosystem when the key is exposed even indirectly through *SSLv2*, a *TLS* precursor that was retired almost two decades ago for structural weaknesses. 
 
 <hr/>
 
@@ -24,7 +24,7 @@ How it works?
 
 ![DROWN](http://cdn.arstechnica.net/wp-content/uploads/2016/03/drown-explainer-640x438.jpg)
 
-The vulnerability allows an attacker to decrypt an intercepted TLS connection by repeatedly using SSLv2 to make connections to a server.
+The vulnerability allows an attacker to decrypt an intercepted *TLS* connection by repeatedly using *SSLv2* to make connections to a server.
 
 While many security experts suggest the removal of *SSLv2* support from browser and e-mail clients prevented abuse of the legacy protocol, some misconfigured *TLS* implementations still tacitly support the legacy protocol when an end-user computer specifically requests its use.
 
