@@ -41,7 +41,7 @@ Security & Privacy
 
 - [Undetected Mac malware sighted online: HackingTeam has returned?](http://www.andreafortuna.org/security/2016/03/02/hackingteam-has-returned/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [The DROWN security hole – what you need to know](https://nakedsecurity.sophos.com/2016/03/02/the-drown-security-hole-what-you-need-to-know/){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -56,7 +56,7 @@ Geekness
 
 - [Italians Compare the Arrival of Starbucks to the Apocalypse](http://feeds.wired.com/c/35185/f/661370/s/4df0b14c/sc/13/l/0L0Swired0N0C20A160C0A20Citalians0Ecompare0Earrival0Estarbucks0Eapocalypse0C/story01.htm){:target="_blank"}
 
-- [](){:target="_blank"}
+- [2015's 'Nobel Prize of computing' honors encryption pioneers](http://www.engadget.com/2016/03/01/2015-turing-award-diffie-hellman-protocol/){:target="_blank"}
 
 - [HTTP Status Cats](https://www.flickr.com/photos/girliemac/albums/72157628409467125){:target="_blank"}
 
@@ -92,9 +92,9 @@ Programming
 
 - [Lessons Learned from 30 Years of MINIX](http://m.cacm.acm.org/magazines/2016/3/198874-lessons-learned-from-30-years-of-minix/fulltext){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Making a Simple Site Work Offline with ServiceWorker](https://ponyfoo.com/articles/simple-offline-site-serviceworker){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Creating Cool Charts in PHP](https://dzone.com/articles/creating-cool-charts-in-php){:target="_blank"}
 
 
 <hr/>
@@ -105,7 +105,7 @@ Music
 
 - [](){:target="_blank"}
 
-- [](){:target="_blank"}
+- [The Musician's Paradise Workspace](http://lifehacker.com/the-musicians-paradise-workspace-1761351292){:target="_blank"}
 
 - [Classical Guitar and fingernails: the Scott Tennant's point of view](http://www.andreafortuna.org/guitar/2016/02/29/classical-guitar-fingernails-scott-tennant/){:target="_blank"}
 
@@ -133,7 +133,7 @@ Wellness & Running
 
 - [Detox and Cleansing – What Truth Is There to the Myth?](https://www.runtastic.com/blog/en/weight-loss-calories/detox-and-cleansing-what-truth-is-there-to-the-myth/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Runner finds a creative way to propose using a fitness app](http://mashable.com/2016/03/02/fitness-app-proposal/){:target="_blank"}
 
 - [It All Depends on Your Diet: Tips for Building Muscles](https://www.runtastic.com/blog/en/sports-fitness/it-all-depends-on-your-diet-tips-for-building-muscles/){:target="_blank"}
 
