@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ransomware written in PHP attacks blogs and CMS?"
-thumbnail: ""
+thumbnail: "http://www.andreafortuna.org/security/images/aids-ransomware.png"
 description: "Interesting article that i read on Naked Security Blog by Sophos, about a specific type of ransomware written in PHP attacking blogs and CMS"
 keywords: Security, Threat, ransomware, PHP, AIDS Information Trojan, Windows
 category: Security
