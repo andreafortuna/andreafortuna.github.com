@@ -14,7 +14,7 @@ tags:
 - Barefoot
 - Ukulele
 - Music
-- Hacking Team
+- HackingTeam
 - Hardrock 100
 - Scott Jurek
 - Kilian Jornet

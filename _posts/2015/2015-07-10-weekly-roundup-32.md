@@ -14,7 +14,7 @@ tags:
 - Barefoot
 - Ukulele
 - Music
-- Hacking Team
+- HackingTeam
 - Android
 - OSX
 - OpenSSL
