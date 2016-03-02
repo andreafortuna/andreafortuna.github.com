@@ -2,8 +2,8 @@
 layout: post
 title: "My Weekly #Roundup #XX - #TAGS"
 description: "My Weekly Digest #38 - #MORETAGS"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/image.jpg"
-keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar, Hadoop, Apple, Jekyll
+thumbnail: "http://www.andreafortuna.org/security/images/DROWNAttack.PNG"
+keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele,Starbucks, transcription, guitar, Ennio Morricone, Hadoop, Apple, Jekyll, DROWN, HackingTeam
 category: WeeklyRoundup
 tags: 
 - Roundup
@@ -18,24 +18,28 @@ tags:
 - Hadoop
 - Apple
 - Jekyll
+- DROWN
+- HackingTeam
+- Ennio Morricone
 
 ---
-Interesting things that i read in the last week!
+Interesting week! A new TLS/SSL attack, signs of life from *HackingTeam*, some LOL-HTTP-Cats pictures
 
-![image](/weeklyroundup/images/image.jpg)
-<!-- more -->
+![DROWN](http://www.andreafortuna.org/security/images/DROWNAttack.PNG)
+
+
 <hr/>
 Security & Privacy
 --
 ![image](http://xxx)
 
-- [](){:target="_blank"}
+- [DROWN attack breaking TLS using SSLv2: more than 13 million sites at risk](http://www.andreafortuna.org/security/2016/03/01/drown-attack-breaking-tls-using-sslv2/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Many sites block visitors that use Tor](https://stallman.org/archives/2016-jan-apr.html#29_February_2016_%28Many_sites_block_visitors_that_use_Tor%29){:target="_blank"}
 
 - [Apple's iPhone Already Has a Backdoor](http://apple.slashdot.org/story/16/02/22/1518202/apples-iphone-already-has-a-backdoor){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Undetected Mac malware sighted online: HackingTeam has returned?](http://www.andreafortuna.org/security/2016/03/02/hackingteam-has-returned/){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -48,9 +52,9 @@ Security & Privacy
 Geekness
 --
 
-![image](http://xxx)
+![HTTP2](https://pbs.twimg.com/media/CaK1u9jVAAAAKMi.jpg)
 
-- [](){:target="_blank"}
+- [Italians Compare the Arrival of Starbucks to the Apocalypse](http://feeds.wired.com/c/35185/f/661370/s/4df0b14c/sc/13/l/0L0Swired0N0C20A160C0A20Citalians0Ecompare0Earrival0Estarbucks0Eapocalypse0C/story01.htm){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -62,7 +66,7 @@ Geekness
 
 - [Everything You Need to Know About Jessica Jones](http://www.purecostumes.com/blog/everything-you-need-to-know-about-jessica-jones/){:target="_blank"}
 
-![Jessina Jones Infragraphic](http://www.purecostumes.com/mm5/graphics/infographic/Info-Jessica-Jones.jpg)
+![Jessina Jones Infographic](http://www.purecostumes.com/mm5/graphics/infographic/Info-Jessica-Jones.jpg)
 
 - [](){:target="_blank"}
 
@@ -86,7 +90,7 @@ Programming
 
 - [Command-line tools can be 235x faster than your Hadoop cluster](http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Lessons Learned from 30 Years of MINIX](http://m.cacm.acm.org/magazines/2016/3/198874-lessons-learned-from-30-years-of-minix/fulltext){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -111,7 +115,12 @@ Music
 
 - [](){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Watch Ukulele Orchestra of Great Britain Perform ‘The Good, the Bad and the Ugly’](http://www.ukulelemag.com/home/ennio-morricone-first-oscar-watch-ukulele-orchestra-of-great-britain-perform-the-good-the-bad-and-the-ugly){:target="_blank"}
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/pLgJ7pk0X-s" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 
 <hr/>
