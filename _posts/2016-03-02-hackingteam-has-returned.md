@@ -9,7 +9,7 @@ tags:
 - Security
 - Threats
 - Vulnerability
-- Hacking Team
+- HackingTeam
 - Malware
 - Apple
 

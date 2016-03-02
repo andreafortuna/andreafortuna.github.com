@@ -7,7 +7,7 @@ keywords: Hacking Team, Security, Adobe, Exploits, 0Day, Galileo, Da Vinci, Malw
 category: Security
 tags: 
 - Roundup
-- Hacking Team
+- HackingTeam
 - Security
 - Adobe
 - 0Day
