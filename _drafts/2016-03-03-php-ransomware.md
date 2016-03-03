@@ -51,6 +51,8 @@ Once the encryption process is completed, anyone visiting the page will see a wa
 How can I prevent it?
 --
 
+[Naked Security](https://nakedsecurity.sophos.com/2016/03/02/php-ransomware-attacks-blogs-websites-content-managers-and-more/){:target="_blank"} suggests:
+
 - Pick a *proper password* for your web server, content management system or blog. 
 - Consider using *two-factor* authentication. 
 - Review all your server access permissions. 
