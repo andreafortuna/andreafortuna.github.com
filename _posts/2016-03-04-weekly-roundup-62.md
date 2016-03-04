@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My Weekly #Roundup #XX - #TAGS"
-description: "My Weekly Digest #38 - #MORETAGS"
+title: "My Weekly #Roundup #62 - #SSLv2 #HackingTeam #Oscar"
+description: "Interesting week! A new #TLS #SSL attack, signs of life from #HackingTeam, some #LOL-HTTP-Cats pictures, #Academy #Award to Di Caprio and #Morricone!"
 thumbnail: "http://www.andreafortuna.org/security/images/DROWNAttack.PNG"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele,Starbucks, transcription, guitar, Ennio Morricone, Hadoop, Apple, Jekyll, DROWN, HackingTeam
 category: WeeklyRoundup
@@ -23,7 +23,7 @@ tags:
 - Ennio Morricone
 
 ---
-Interesting week! A new TLS/SSL attack, signs of life from *HackingTeam*, some LOL-HTTP-Cats pictures
+Interesting week! A new *TLS/SSL* attack, signs of life from *HackingTeam*, some *LOL-HTTP-Cats* pictures, Academy Award to Di Caprio and Morricone!
 
 ![DROWN](http://www.andreafortuna.org/security/images/DROWNAttack.PNG)
 
@@ -31,7 +31,7 @@ Interesting week! A new TLS/SSL attack, signs of life from *HackingTeam*, some L
 <hr/>
 Security & Privacy
 --
-![image](http://xxx)
+![privacy](https://pbs.twimg.com/media/BU-Pj1oCYAAAbzm.png)
 
 - [DROWN attack breaking TLS using SSLv2: more than 13 million sites at risk](http://www.andreafortuna.org/security/2016/03/01/drown-attack-breaking-tls-using-sslv2/){:target="_blank"}
 
@@ -43,10 +43,11 @@ Security & Privacy
 
 - [The DROWN security hole – what you need to know](https://nakedsecurity.sophos.com/2016/03/02/the-drown-security-hole-what-you-need-to-know/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Got ransomware? What are your options?](http://nakedsecurity.sophos.com/2016/03/03/got-ransomware-what-are-your-options){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Juniper Backdoor Password Goes Public](https://threatpost.com/juniper-backdoor-password-goes-public/115685/){:target="_blank"}
 
+- [Malice or Stupidity or Inattention? Using Code Reviews to Find Backdoors](http://highscalability.com/blog/2016/3/2/malice-or-stupidity-or-inattention-using-code-reviews-to-fin.html){:target="_blank"}
 
 <hr/>
 Geekness
@@ -62,18 +63,18 @@ Geekness
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/girliemac/albums/72157628409467125" title="HTTP Status Cats"><img src="https://farm8.staticflickr.com/7167/6540479079_16e97a624a_z.jpg" width="640" height="512" alt="HTTP Status Cats"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-- [](){:target="_blank"}
+- [Oculus Rift will support Macs 'when Apple makes a good computer'](http://www.theverge.com/2016/3/4/11159700/oculus-rift-mac-support-apple){:target="_blank"}
 
 - [Everything You Need to Know About Jessica Jones](http://www.purecostumes.com/blog/everything-you-need-to-know-about-jessica-jones/){:target="_blank"}
 
 ![Jessina Jones Infographic](http://www.purecostumes.com/mm5/graphics/infographic/Info-Jessica-Jones.jpg)
 
-- [](){:target="_blank"}
+- [Make Your Own Maze With Lego Labyrinth](https://www.geeksaresexy.net/2016/03/03/make-your-own-maze-with-lego-labyrinth/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [What Happens When You Put Marshmallows in a Vacuum](http://sploid.gizmodo.com/what-happens-when-you-put-marshmallows-in-a-vacuum-1762754206){:target="_blank"}
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/XXXXXX" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/GNbxpRpF5z8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
@@ -88,6 +89,8 @@ Programming
 
 - [Content Modeling With Jekyll](https://www.smashingmagazine.com/2016/02/content-modeling-with-jekyll/){:target="_blank"}
 
+- [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing){:target="_blank"}
+
 - [Command-line tools can be 235x faster than your Hadoop cluster](http://aadrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html){:target="_blank"}
 
 - [Lessons Learned from 30 Years of MINIX](http://m.cacm.acm.org/magazines/2016/3/198874-lessons-learned-from-30-years-of-minix/fulltext){:target="_blank"}
@@ -96,14 +99,13 @@ Programming
 
 - [Creating Cool Charts in PHP](https://dzone.com/articles/creating-cool-charts-in-php){:target="_blank"}
 
-
 <hr/>
 Music
 --
 
-![image](http://xxx)
+![sarcasm](https://pbs.twimg.com/media/CcFFJAOXIAAee2Z.jpg)
 
-- [](){:target="_blank"}
+- [Ennio Morricone wins Best Original Score for The Hateful Eight](http://www.theverge.com/2016/2/28/11131644/ennio-morricone-best-original-score-academy-awards-2016){:target="_blank"}
 
 - [The Musician's Paradise Workspace](http://lifehacker.com/the-musicians-paradise-workspace-1761351292){:target="_blank"}
 
@@ -115,9 +117,7 @@ Music
 <iframe src="https://www.youtube.com/embed/IvUU8joBb1Q" frameborder="0" allowfullscreen></iframe>
 </div>
 
-- [](){:target="_blank"}
-
-- [](){:target="_blank"}
+- [Ennio Morricone’s Thank You Cam Speech](http://oscar.go.com/video/oscars-music-moments-2016/ennio-morricones-thank-you-cam-speech){:target="_blank"}
 
 - [Watch Ukulele Orchestra of Great Britain Perform ‘The Good, the Bad and the Ugly’](http://www.ukulelemag.com/home/ennio-morricone-first-oscar-watch-ukulele-orchestra-of-great-britain-perform-the-good-the-bad-and-the-ugly){:target="_blank"}
 
@@ -131,7 +131,7 @@ Music
 Wellness & Running  
 --
 
-![image](http://xxx)
+![Turtle](https://pbs.twimg.com/media/CYApnDyU0AA-ydi.jpg)
 
 - [When Amateur Ironmen Pay for the Elite Treatment](http://www.nytimes.com/2016/02/14/your-money/when-amateur-ironmen-pay-for-the-elite-treatment.html){:target="_blank"}
 
@@ -141,12 +141,5 @@ Wellness & Running
 
 - [It All Depends on Your Diet: Tips for Building Muscles](https://www.runtastic.com/blog/en/sports-fitness/it-all-depends-on-your-diet-tips-for-building-muscles/){:target="_blank"}
 
-- [](){:target="_blank"}
-
-- [](){:target="_blank"}
-
-- [](){:target="_blank"}
-
-
-
+- [Nike LunarEpic exclusive first look](http://www.runnersworld.co.uk/gear/shoe-review-nike-lunarepic-exclusive-first-look/14610.html){:target="_blank"}
 
