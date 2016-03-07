@@ -26,9 +26,9 @@ Security & Privacy
 --
 ![image](http://xxx)
 
-- [](){:target="_blank"}
+- [KeRanger, the first OSX ransomware comes bundled into Transmission installer](http://www.andreafortuna.org/security/2016/03/07/osx-ransomware/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [7 tips for securing the Internet of Things](https://nakedsecurity.sophos.com/2016/03/07/7-tips-for-securing-the-internet-of-things/){:target="_blank"}
 
 - [How to Steal Secret Encryption Keys from Android and iOS SmartPhones](http://thehackernews.com/2016/03/encryption-keys-android.html){:target="_blank"}
 

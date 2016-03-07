@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Capture network traffic of a VirtualBox VM"
+title: "Capture network traffic on a VirtualBox VM"
 thumbnail: "http://www.andreafortuna.org/technology/images/VirtualBox.png"
 description: "Simple tip to dump all network traffic of a VirtualBox VM without using other tools."
 keywords: Technology, Security, VirtualBox, WireShark, pcap, traffic dump
@@ -12,7 +12,7 @@ tags:
 
 ---
 
-Simple tip to dump all network traffic of a VirtualBox VM without using other tools (like WireShark), using the built-in capability of VirtualBox to create pcap files.
+Simple tip to dump all network traffic of a *VirtualBox VM* without using other tools (like *WireShark*), using the built-in capability of *VirtualBox* to create *pcap* files.
 
 ![Virtualbox](http://www.andreafortuna.org/technology/images/VirtualBox.png)
 
@@ -22,7 +22,7 @@ To enable network tracing do the following:
 
 and start the VM.
 
-For example
+For example:
 
 ```# VBoxManage modifyvm "ubuntu" --nictrace1 on --nictracefile1 capture.pcap```
 
