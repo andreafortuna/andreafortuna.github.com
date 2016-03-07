@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A440 or A432 tuning?"
-thumbnail: ""
+thumbnail: "http://www.andreafortuna.org/music/images/432.jpeg"
 description: "Most of the world uses 440 Hz as the standard pitch tuning. However, this has been a relatively recent standard, and 432 Hz is making a comeback."
 keywords: Music, Music Theory, Tuning
 category: Music
@@ -14,6 +14,8 @@ tags:
 Recently I have discussed with some friends about the tunings, and emerged a theory concerning the possibility of tune instruments using the A to 432 Hz instead of 440 Hz.
 
 So, i've started search some informations online, and i've found two interesting articles, on [ask.audio](https://ask.audio/articles/music-theory-exploring-the-432hz-tuning-debate){:target="_blank"} and on [The Mind Unleashed](http://themindunleashed.org/2015/09/the-a432-hz-frequency-dna-tuning-and-the-bastardization-of-music.html){:target="_blank"}.
+
+![432](http://www.andreafortuna.org/music/images/432.jpeg)
 
 <hr/>
 
