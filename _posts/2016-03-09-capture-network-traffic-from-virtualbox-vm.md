@@ -20,13 +20,13 @@ To enable network tracing do the following:
 
 ```# VBoxManage modifyvm [your-vm] --nictrace[adapter-number] on --nictracefile[adapter-number] file.pcap```
 
-and start the VM.
+and start the *VM*.
 
 For example:
 
 ```# VBoxManage modifyvm "ubuntu" --nictrace1 on --nictracefile1 capture.pcap```
 
-All network traffic of VM will be dumped into *capture.pcap*.
+All network traffic of *VM* will be dumped into *capture.pcap*.
 
 *Warning*: in case of intensive network traffic, the pcap file will grow a lot, so when the debugging session is closed, remember to disable the tracing:
 

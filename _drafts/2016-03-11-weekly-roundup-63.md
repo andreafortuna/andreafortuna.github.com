@@ -71,7 +71,7 @@ Programming
 --
 ![Code](http://i.imgur.com/WRuJV6r.png)
 
-- [](){:target="_blank"}
+- [Microsoft Will Bring Its SQL Database Software to Linux](http://www.wired.com/2016/03/microsoft-will-bring-sql-database-software-linux/){:target="_blank"}
 
 - [](){:target="_blank"}
 
