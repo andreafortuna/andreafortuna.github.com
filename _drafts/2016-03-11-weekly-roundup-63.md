@@ -32,9 +32,9 @@ Security & Privacy
 
 - [How to Steal Secret Encryption Keys from Android and iOS SmartPhones](http://thehackernews.com/2016/03/encryption-keys-android.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [You Can Unlock Fingerprint-Protected Phones with a Regular Inkjet Printer](http://news.softpedia.com/news/you-can-unlock-fingerprint-protected-phones-with-a-regular-inkjet-printer-501392.shtml){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Steve Wozniak Calls FBI’s Demands of Apple ‘Just Wrong’](http://recode.net/2016/03/08/steve-wozniak-calls-fbis-demands-of-apple-just-wrong){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -75,9 +75,9 @@ Programming
 
 - [Building an Application With a JavaScript-only Stack](https://dzone.com/articles/building-an-application-with-a-javascript-only-sta-1){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Performance Tuning Apache Storm at Keen IO](http://highscalability.com/blog/2016/3/8/performance-tuning-apache-storm-at-keen-io.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Announcing SQL Server on Linux](https://blogs.microsoft.com/blog/2016/03/07/announcing-sql-server-on-linux/){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -98,11 +98,11 @@ Music
 
 - [](){:target="_blank"}
 
-- [](){:target="_blank"}
+- [A440 or A432 tuning?](http://www.andreafortuna.org/music/2016/03/08/a440-or-a432-tuning/){:target="_blank"}
 
 - [](){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Outdoor Ukulele Tenor Review](http://ukulelego.com/gear/outdoor-ukulele-tenor-review/){:target="_blank"}
 
 - [](){:target="_blank"}
 
