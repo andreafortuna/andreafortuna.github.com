@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My Weekly #Roundup #XX - #TAGS"
-description: "My Weekly Digest #38 - #MORETAGS"
+title: "My Weekly #Roundup #63 - #RayTomlinson #linux #sqlserver"
+description: "My Weekly Digest #63 - Goodbye Ray Tomlinson, wellcome SQLServer on Linux!"
 thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/ray.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription,Ray Tomlinson, guitar, linux, sqlserver, f35, keranger, WAF, 
 category: WeeklyRoundup
