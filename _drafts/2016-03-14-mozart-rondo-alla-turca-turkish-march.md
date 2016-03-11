@@ -85,7 +85,7 @@ My arrangement
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Mozart_Turkish_March_K331.pdf)
+[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://cloud.andreafortuna.org/index.php/s/vLPpDxtOA0qy9fx/download)
 
 <hr/>
 
