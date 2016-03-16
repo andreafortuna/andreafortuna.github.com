@@ -2,7 +2,7 @@
 layout: post
 title: "Wordpress Tips: hide a particular account from User List"
 thumbnail: "http://www.andreafortuna.org/programming/images/wpusers.png"
-description: "For a lot of reasons you may need to hide the presence of a user in the user list of a wordpress blog"
+description: "For a lot of reasons you may need to hide the presence of a user in the user list of a wordpress blog."
 keywords: Programming, Wordpress, PHP
 category: Programming
 tags: 
