@@ -26,9 +26,9 @@ Security & Privacy
 --
 ![image](http://xxx)
 
-- [](){:target="_blank"}
+- [OnionCat - An Anonymous VPN-Adapter (P2P layer 3 VPN based on Tor or I2P)](http://www.kitploit.com/2016/03/onioncat-anonymous-vpn-adapter-p2p.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Security vs convenience: The story of ransomware spread by spam email](http://nakedsecurity.sophos.com/2016/03/14/security-vs-convenience-the-story-of-ransomware-spread-by-spam-email){:target="_blank"}
 
 - [](){:target="_blank"}
 
