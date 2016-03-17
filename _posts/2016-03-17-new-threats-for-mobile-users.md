@@ -40,7 +40,7 @@ We discovered this particular vulnerability, which is described as a logic bug w
 
 A node is deleted twice before it is freed. 
 
-This causes an information leakage and a Use After Free issue in Android. 
+This causes an information leakage and a *Use After Free* issue in Android. 
 
 
 *CVE-2016-0805*
