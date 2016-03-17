@@ -59,10 +59,10 @@ Geekness
 
 - [In Robert Kirkman's Outcast, demons aren't the only enemy](http://www.theverge.com/2016/3/15/11241990/outcast-robert-kirkman-cinemax-sxsw-review){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Remember the late Nintendo CEO Satoru Iwata with this touching animated tribute](http://thenextweb.com/insider/2016/03/17/watch-touching-animated-tribute-nintendo-ceo-satoru-iwata/){:target="_blank"}
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/XXXXXX" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/9YG9INjO91Y" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
@@ -100,7 +100,7 @@ Music
 
 - [The Boije collection: over 1600 free works for classical guitar](http://www.andreafortuna.org/guitar/2016/03/15/the-boijes-collection/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Type "Metronome" Into Google to Get a Working, Adjustable Metronome](http://lifehacker.com/type-metronome-into-google-to-get-a-working-adjustab-1765443092){:target="_blank"}
 
 - [Wolfgang Amadeus Mozart: Simple ukulele arrangement of Rondò alla Turca (Turkish March) from Piano Sonata No. 11 (K 331)](http://www.andreafortuna.org/ukulele/2016/03/14/mozart-rondo-alla-turca-turkish-march/){:target="_blank"}
 

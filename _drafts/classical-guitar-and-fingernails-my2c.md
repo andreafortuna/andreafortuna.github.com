@@ -11,19 +11,34 @@ tags:
 
 ---
 
-From "Mauro Storti - L'Arte della mano destra":
+From "**Mauro Storti - L'Arte della mano destra**":
 
 ![Mauro Storti L'Arte della mano destra](http://www.andreafortuna.org/guitar/images/Mauro_storti_arte_mano_destra.png)
 
+>It should be noted that the finger pad is useful only for stopping the string, **which should definitely get in touch with the fingernail from the first moment**. 
+>For this purpose the fingernail must be left grow for its entire length so as to form the contact edge indicated by the arrow. 
+>In the absence of that edge, in fact, it would produced two clicks on the string due to its initial sliding on finger and subsequent collision with the nail, resulting a bad sound.
+>So even for the thumb, with the difference, due to its different position, that the contact point is located at the center of the edge."
+
+
 ![Mauro Storti L'Arte della mano destra Dettaglio](http://www.andreafortuna.org/guitar/images/Mauro_storti_arte_mano_destra_2.png)
 
-From "Scott Tennant - Pumping Nylon":
+From "**Scott Tennant - Pumping Nylon**":
 
 ![Pumping Nylon](http://www.andreafortuna.org/guitar/images/tennant_nails.png)
 
-From "Angelo Gilardino - NUovo trattato di tecnica chitarristica":
+>In order to achieve a full, or "fat" tone, we must give special attention to the angle of the fingertips to the string. **Note that when the fingers are initially placed on the strings, only the flesh makes contact. The nail makes its contact when pressure is applied**.   
+
+From "**Angelo Gilardino - Nuovo trattato di tecnica chitarristica**":
 
 ![Angelo Gilardino - Nuovo trattato di tecnica chitarristica](http://www.andreafortuna.org/guitar/images/Angelo_Gilardino_nuovo_trattato_tecnica_chitarristica.png)
+
+>The space between the contact point and the junction point must be backed from the nail, which has the following functions: A) **Attack to the string immediately after that  is stabilized by contact with fingertip.** B) Bend the string. C) Supplying to string, when the release begins, a sliding route  that avoid the risk of an instantaneous release.
+
+From "**Ruggero Chiesa - Guitar Gradus**":
+
+![Ruggero Chiesa - Guitar Gradus](http://www.andreafortuna.org/guitar/images/Ruggero_Chiesa_Guitar_Gradus.png)
+
 
 From [Rob MacKillop Website](http://rmclassicalguitar.com/technique/):
 
