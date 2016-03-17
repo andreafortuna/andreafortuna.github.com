@@ -40,6 +40,8 @@ Security & Privacy
 
 - [Hactivist Group Anonymous Declares ‘Total War’ on Donald Trump](http://recode.net/2016/03/15/hactivist-group-anonymous-declares-total-war-on-donald-trump/){:target="_blank"}
 
+- [Two new threats for mobile users](http://www.andreafortuna.org/security/2016/03/17/new-threats-for-mobile-users/){:target="_blank"}
+
 
 <hr/>
 Geekness
@@ -47,7 +49,7 @@ Geekness
 
 ![image](http://xxx)
 
-- [](){:target="_blank"}
+- [PlayStation VR launch lineup has five slick Sony-made games](http://arstechnica.com/gaming/2016/03/playstation-vr-launch-lineup/){:target="_blank"}
 
 - [Google’s Go Victim Says Humanity Not Beaten](https://www.geeksaresexy.net/2016/03/15/googles-go-victim-says-humanity-not-beaten/){:target="_blank"}
 
@@ -94,7 +96,7 @@ Music
 
 - [Rob MacKillop's nail-less guitar technique](http://rmclassicalguitar.com/technique/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [How To Easily Change Between Ukulele Chords](http://ukulelego.com/lessons/easily-change-ukulele-chords/){:target="_blank"}
 
 - [The Boije collection: over 1600 free works for classical guitar](http://www.andreafortuna.org/guitar/2016/03/15/the-boijes-collection/){:target="_blank"}
 
@@ -111,7 +113,7 @@ Music
 Wellness & Running  
 --
 
-![image](http://xxx)
+![Running](http://i.kinja-img.com/gawker-media/image/upload/s---p5n8FOM--/c_scale,fl_progressive,q_80,w_800/gcjtupdyutwogfauml7p.gif)
 
 - [Avoid Morning Drama With 5 Kid-Friendly Yoga Poses](http://yogadork.com/2016/03/13/avoid-morning-drama-with-5-kid-friendly-yoga-poses/){:target="_blank"}
 
@@ -121,7 +123,7 @@ Wellness & Running
 
 - [Christopher McDougall: running hero](http://www.radionz.co.nz/national/programmes/saturday/audio/201792953/christopher-mcdougall-running-hero){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Anyone Can Be A Good Runner](http://adequateman.deadspin.com/anyone-can-be-a-good-runner-1763633063){:target="_blank"}
 
 - [](){:target="_blank"}
 
