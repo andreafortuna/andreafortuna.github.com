@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "My Weekly #Roundup #64 - #TAGS"
-description: "My Weekly Digest #64 - #MORETAGS"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/image.jpg"
-keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar
+title: "My Weekly #Roundup #64 - #AceDeceiver #Staminus"
+description: "My Weekly Digest #64 - Some #threats afflicts smartphones, #Staminus was hacked and some other programming/music/welness related links!"
+thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/staminus.jpg"
+keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar, lute, TOR, Java, Christopher McDougall, yoga
 category: WeeklyRoundup
 tags: 
 - Roundup
@@ -15,16 +15,20 @@ tags:
 - Ukulele
 - Music
 - Guitar
+- Lute
+- Mozart
+- Staminux
+- Threats
 
 ---
 Interesting things that i read in the last week!
 
-![image](/weeklyroundup/images/image.jpg)
+![Staminus](http://www.andreafortuna.org/weeklyroundup/images/staminus.jpg)
 <!-- more -->
 <hr/>
 Security & Privacy
 --
-![image](http://xxx)
+![privacy](https://pbs.twimg.com/media/BU-Pj1oCYAAAbzm.png)
 
 - [OnionCat - An Anonymous VPN-Adapter (P2P layer 3 VPN based on Tor or I2P)](http://www.kitploit.com/2016/03/onioncat-anonymous-vpn-adapter-p2p.html){:target="_blank"}
 
@@ -47,7 +51,7 @@ Security & Privacy
 Geekness
 --
 
-![image](http://xxx)
+![VI vs EMACS](https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/1914711_1261308080549234_6807434724891152675_n.jpg?oh=7cc3e0007044b90fdf9575ee2dc9213b&oe=5757BEFC)
 
 - [PlayStation VR launch lineup has five slick Sony-made games](http://arstechnica.com/gaming/2016/03/playstation-vr-launch-lineup/){:target="_blank"}
 
@@ -69,7 +73,7 @@ Geekness
 <hr/>
 Programming
 --
-![image](http://xxx)
+![Debug](https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/12717965_1252484258098283_978610956804236416_n.png?oh=3b4aaf3819aedcd72302ef98677dcc8e&oe=57917B8C)
 
 - [List of Portable ASP.NET Servers](http://www.codeproject.com/Reference/1085768/List-of-Portable-ASP-NET-Server){:target="_blank"}
 
@@ -92,7 +96,7 @@ Programming
 Music
 --
 
-![image](http://xxx)
+![Vibrato](https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xtl1/v/t1.0-9/12801627_1086385914716464_3336925396795832339_n.jpg?oh=3580cdf39b380c968a191d01cb9d1017&oe=574AF4AE)
 
 - [Rob MacKillop's nail-less guitar technique](http://rmclassicalguitar.com/technique/){:target="_blank"}
 
@@ -104,7 +108,12 @@ Music
 
 - [Wolfgang Amadeus Mozart: Simple ukulele arrangement of Rondò alla Turca (Turkish March) from Piano Sonata No. 11 (K 331)](http://www.andreafortuna.org/ukulele/2016/03/14/mozart-rondo-alla-turca-turkish-march/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Nigel North Plays Dowland on Lute](https://www.youtube.com/watch?v=lhKqxSq4usM){:target="_blank"}
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/lhKqxSq4usM" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 - [Take It Slow: Jake Shimabukuro Shares the Secrets of Effective Practicing](http://www.ukulelemag.com/home/take-it-slow-jake-shimabukuro-shares-the-secrets-of-effective-practicing){:target="_blank"}
 
@@ -124,11 +133,5 @@ Wellness & Running
 - [Christopher McDougall: running hero](http://www.radionz.co.nz/national/programmes/saturday/audio/201792953/christopher-mcdougall-running-hero){:target="_blank"}
 
 - [Anyone Can Be A Good Runner](http://adequateman.deadspin.com/anyone-can-be-a-good-runner-1763633063){:target="_blank"}
-
-- [](){:target="_blank"}
-
-- [](){:target="_blank"}
-
-
 
 

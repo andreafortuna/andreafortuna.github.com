@@ -39,6 +39,7 @@ From "**Ruggero Chiesa - Guitar Gradus**":
 
 ![Ruggero Chiesa - Guitar Gradus](http://www.andreafortuna.org/guitar/images/Ruggero_Chiesa_Guitar_Gradus.png)
 
+>Pluck the string with the fingertip **immediately next to the fingernail, which comes into action with a fast, short pulse**. The finger is brought inside, and immediately returns to the starting position.
 
 From [Rob MacKillop Website](http://rmclassicalguitar.com/technique/):
 
