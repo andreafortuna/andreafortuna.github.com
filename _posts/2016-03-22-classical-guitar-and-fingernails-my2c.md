@@ -3,21 +3,24 @@ layout: post
 title: "Classical Guitar and fingernails: My2C"
 thumbnail: "http://www.andreafortuna.org/guitar/images/peterfingernails.jpg"
 description: "In the world of classical guitar, the use of fingernails has become a standard. But as I have already discussed in a previous article, there are also excellent musicians who have chosen not to use fingernails."
-keywords: Music, Guitar, fingerstyle, fingernails, Rob MacKillop, Scott Tennant
+keywords: Music, Guitar, fingerstyle, fingernails, Rob MacKillop, Scott Tennant, Mauro Storti, Ruggero Chiesa, Angelo Gilardino
 category: Guitar
 tags: 
 - Guitar
-
+- Fingernails
+- Technique
 
 ---
 
 In the world of classical guitar, the use of fingernails has become a standard.
 
+![Peter Fingernails](http://www.andreafortuna.org/guitar/images/peterfingernails.jpg)
+
 But as I have already discussed in a [previous article](http://www.andreafortuna.org/guitar/2016/02/24/classical-guitar-fingernails/), there are also excellent musicians who have chosen not to use fingernails.
 
 One above all is **Rob MacKillop**, who based his technique on an approach similar to the lute, without using fingernails, with extremely fascinating results.
 
-Unfortunately, the approach 'full flesh' which I believe can offer very stimulating stylistic possibilities  is hardly ever treated by  'official' teaching.
+Unfortunately, the approach '*full flesh*' which I believe can offer very stimulating stylistic possibilities  is hardly ever treated by  'official' teaching.
 
 And also, in the mentioned teaching literature, there are often conflicting approaches regarding the use of fingernails.
 
