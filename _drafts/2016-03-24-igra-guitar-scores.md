@@ -3,10 +3,11 @@ layout: post
 title: "International Guitar Research Archives: more then 1100 scores for classical guitar"
 thumbnail: "http://www.andreafortuna.org/guitar/images/giuliani.PNG"
 description: "The International Guitar Research Archives scores database features over one thousand public domain works from composers and arrangers across the globe."
-keywords: Music, Guitar, fingerstyle
+keywords: Music, Guitar, fingerstyle, Scores, Archive, IGRA, International Guitar Research Archives, ukulele, banjo, mandolin
 category: Guitar
 tags: 
 - Guitar
+- Ukulele
 
 
 ---
