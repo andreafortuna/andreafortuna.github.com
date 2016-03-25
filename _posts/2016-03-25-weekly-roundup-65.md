@@ -139,7 +139,6 @@ Wellness & Running
  
 - [Incredibly Long-Lasting ‘Brain’ Benefits Of ‘Running” Revealed: New Study](http://www.inquisitr.com/2917103/incredibly-long-lasting-brain-benefits-of-running-revealed-new-study/){:target="_blank"}
 
-- [](){:target="_blank"}
 
 
 
