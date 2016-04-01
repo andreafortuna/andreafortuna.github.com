@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "My Weekly #Roundup #66 - #TAGS"
-description: "My Weekly Digest #38 - #MORETAGS"
+title: "My Weekly #Roundup #66 - #Apple #FBI #Ransomware #JohnWilliams"
+description: "My Weekly Digest #66 - Yes, #FBI was unlocked an #iPhone without #Apple!"
 thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/iPhoneFBI.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar
 category: WeeklyRoundup
@@ -17,7 +17,7 @@ tags:
 - Guitar
 
 ---
-Interesting things that i read in the last week!
+Yes, FBI was unlocked an iPhone without Apple, and no, today no **April Fools** prank (I hope!)
 
 ![iPhoneFBI](http://www.andreafortuna.org/weeklyroundup/images/iPhoneFBI.jpg)
 
@@ -27,11 +27,7 @@ Security & Privacy
 --
 ![FBI vs. iPhone](http://media.townhall.com/Townhall/Car/b/sk032916dAPR20160329084520.jpg)
 
-- [FBI Breaks into iPhone. We Have Some Questions.](https://www.eff.org/deeplinks/2016/03/fbi-breaks-iphone-and-we-have-some-questions?utm_content=buffer04a65&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer){:target="_blank"}
-
-- [FBI Has Successfully Unlocked Terrorist's iPhone Without Apple's Help](http://thehackernews.com/2016/03/fbi-iphone-unlock_28.html){:target="_blank"}
-
-- [FBI Breaks into Terrorist’s Encrypted iPhone](http://threatpost.com/fbi-breaks-into-terrorists-encrypted-iphone/117043/){:target="_blank"}
+- [FBI has successfully unlocked terrorist's iPhone without Apple's help? We assess the situation.](http://www.andreafortuna.org/security/2016/03/31/fbi-unlock-iphone-without-apple-help/){:target="_blank"}
 
 - [‘Privacy’ creates single-use virtual credit cards for safer online shopping](http://thenextweb.com/insider/2016/03/24/privacy-creates-single-use-virtual-credit-cards-for-safer-online-shopping/){:target="_blank"}
 
@@ -54,7 +50,7 @@ Geekness
 ![GoT](https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xtf1/v/t1.0-9/fr/cp0/e15/q65/10649822_1312332802117324_5127175894301175762_n.png.jpg?efg=eyJpIjoidCJ9&oh=7b8b01ce8dc7e884ff7392af4e58bd76&oe=577D520F)
 
 - [Household Wiki on Raspberry Pi](http://mattgemmell.com/household-wiki-on-raspberry-pi/){:target="_blank"}
-- 
+
 - [TaskPaper 3](http://mattgemmell.com/taskpaper-3/){:target="_blank"}
 
 - [VNC Roulette](http://vncroulette.com/){:target="_blank"}
@@ -97,7 +93,7 @@ Programming
 
 - [Docker for Windows Beta announced](http://www.hanselman.com/blog/DockerForWindowsBetaAnnounced.aspx){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Node Hero - Getting Started With Node.js](https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/){:target="_blank"}
 
 
 <hr/>
@@ -106,7 +102,7 @@ Music
 
 ![Donald](https://k46.kn3.net/2/5/F/7/5/8/A20.gif)
 
-- [](){:target="_blank"}
+- [Meet The 660 Guitars AV27](http://iheartguitarblog.com/2016/03/660-guitars-av27.html){:target="_blank"}
 
 - [So…What’s So Special About Carbon Strings?](https://allstringsnylon.com/asn/whats-special-about-carbon-strings/){:target="_blank"}
 
@@ -128,6 +124,9 @@ Music
 <iframe src="https://www.youtube.com/embed/AN_FVcaNz0c" frameborder="0" allowfullscreen></iframe>
 </div>
 
+- [International Guitar Research Archives: more then 1100 scores for classical guitar](http://www.andreafortuna.org/guitar/2016/03/29/igra-guitar-scores/){:target="_blank"}
+
+
 <hr/>
 Wellness & Running  
 --
@@ -136,14 +135,10 @@ Wellness & Running
 
 - [Fix those foot cramps](http://www.runnersworld.co.uk/health/fix-those-foot-cramps/14678.html){:target="_blank"}
 
-- [](){:target="_blank"}
-
 - [TomTom Spark GPS Watch Review](http://runeatrepeat.com/2016/03/29/tom-tom-spark-gps-watch-review/){:target="_blank"}
 
 - [How can I run well on windy days?](http://www.runnersworld.co.uk/training/how-can-i-run-well-on-windy-days/14684.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [You’ll save a LOT of money buying running shoes online](https://www.washingtonpost.com/news/to-your-health/wp/2016/03/31/youll-save-a-lot-of-money-buying-running-shoes-online/){:target="_blank"}
 
-- [](){:target="_blank"}
-
-- [](){:target="_blank"}
+- [Why supplements aren't as good as foods](http://www.runnersworld.co.uk/health/why-supplements-arent-as-good-as-foods/14682.html){:target="_blank"}
