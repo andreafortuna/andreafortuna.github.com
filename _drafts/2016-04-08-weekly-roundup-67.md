@@ -36,7 +36,7 @@ Security & Privacy
 
 - [CEH Site Caught Spreading Crypto Ransomware](https://packetstormsecurity.com/news/view/26460/CEH-Site-Caught-Spreading-Crypto-Ransomware.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Here's the Exploit to Bypass Apple Security Feature that Fits in a Tweet](http://thehackernews.com/2016/03/sip-exploit-code.html){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -47,11 +47,11 @@ Geekness
 
 ![image](http://xxx)
 
-- [](){:target="_blank"}
+- [Google Realizes It's Not Okay to Prank 900 Million People](http://gizmodo.com/google-grovels-after-gmail-mic-drop-april-fool-prank-ba-1768412978){:target="_blank"}
 
 - [](){:target="_blank"}
 
-- [](){:target="_blank"}
+- [First look at Simplenote for Windows](http://www.ghacks.net/2016/04/01/simplenote-for-windows/){:target="_blank"}
 
 - [Linux and POWER8 microprocessors](https://seravo.fi/2016/linux-and-power8-microprocessors){:target="_blank"}
 
@@ -71,11 +71,11 @@ Programming
 --
 ![image](http://xxx)
 
-- [](){:target="_blank"}
+- [Git - The Missing Guide](https://www.reddit.com/r/programming/comments/4cvcon/git_the_missing_guide/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Microsoft Launches Bot Framework, Cognitive Services, and Skype Bots](http://www.programmableweb.com/news/microsoft-launches-bot-framework-cognitive-services-and-skype-bots/brief/2016/03/31){:target="_blank"}
 
-- [](){:target="_blank"}
+- [6 Tips for Getting Started as a JavaScript Developer](http://blog.debugme.eu/getting-started-as-a-javascript-developer/){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -118,7 +118,9 @@ Wellness & Running
 
 - [](){:target="_blank"}
 
-- [](){:target="_blank"}
+- [5 reasons you can't run faster](http://www.runnersworld.co.uk/training/5-reasons-you-cant-run-faster/14687.html){:target="_blank"}
+
+- [A 96 year record? 623 miles? Read on….](http://focusedperformance.co.uk/371-2/){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -126,9 +128,7 @@ Wellness & Running
 
 - [](){:target="_blank"}
 
-- [](){:target="_blank"}
-
-- [](){:target="_blank"}
+- [43 signs you love running a bit too much](http://www.runnersworld.co.uk/community/43-signs-you-love-running-a-bit-too-much/14703.html){:target="_blank"}
 
 
 
