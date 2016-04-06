@@ -3,7 +3,7 @@ layout: post
 title: "WhatsApp (finally!) enables End-To-End encryption by default"
 thumbnail: "http://www.andreafortuna.org/security/images/e2ee.jpg"
 description: "WhatsApp has enabled end-to-end encryption across all versions of its app, according to the announcement on the company's blog."
-keywords: Security, Whatsapp, E2E Encryption
+keywords: Security, Whatsapp, E2E Encryption, Hacker News, Arstechnica, The Guardian, Slashdot, Wired, SecurityWeek, Naked Security
 category: Security
 tags: 
 - Security
@@ -101,3 +101,20 @@ From [SecurityWeek](http://www.securityweek.com/whatsapp-toughens-encryption-aft
 From [The Hacker News](http://thehackernews.com/2016/04/whatsapp-end-to-end-encryption.html):
 
 >**Important Note —** However, there is one point to be noted that if several users are sending texts in a group chat and one of the users is running an older version of WhatsApp that doesn’t support encrypted messages, all the conversation going through that group chat will remain unencrypted.
+
+<hr/>
+
+A discordant voice, [Naked Security](https://nakedsecurity.sophos.com/2016/04/06/whatsapp-encrypts-messages-end-to-end-why-you-should-care/)
+
+It’s not really end-to-end at all
+--
+
+When I send a email or an IM to you, it isn’t really end-to-end at all, and (in the strictest sense) it probably isn’t really sent to you.
+
+Loosely speaking, I connect to a server and upload the message, where it sits around until you connect to the server and download it.
+
+That may happen as good as instantaneously, but my computer never actually has a network connection open that transmits data packets directly from my network card to yours.
+
+And when I say “a server,” I may very well mean “a service consisting of a vast collection of global server farms, in dozens of countries, that can deal reliably and redundantly with billions of messages a day from hundreds of millions of users, but which I access by a single, easy-to-remember name as if the whole thing consisted of just one server.”
+
+Such as **WhatsApp**.

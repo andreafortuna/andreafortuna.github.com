@@ -38,7 +38,8 @@ Security & Privacy
 
 - [Here's the Exploit to Bypass Apple Security Feature that Fits in a Tweet](http://thehackernews.com/2016/03/sip-exploit-code.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Hacked Websites Redirect to Porn from PDF / DOC Links](https://blog.sucuri.net/2016/03/pdf-doc-urls-redirect-to-porn.html){:target="_blank"}
+
 
 
 <hr/>
@@ -77,9 +78,9 @@ Programming
 
 - [6 Tips for Getting Started as a JavaScript Developer](http://blog.debugme.eu/getting-started-as-a-javascript-developer/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [10 Must Have Web Development Tools](http://codecondo.com/10-must-have-web-development-tools/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Native bash is coming to Windows.](http://www.theverge.com/2016/3/30/11331014/microsoft-windows-linux-ubuntu-bash){:target="_blank"}
 
 - [](){:target="_blank"}
 
@@ -122,9 +123,9 @@ Wellness & Running
 
 - [A 96 year record? 623 miles? Read on….](http://focusedperformance.co.uk/371-2/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Your Healthy Lifestyle Won’t Necessarily Make You Healthier](http://feeds.wired.com/c/35185/f/661370/s/4ebb5260/sc/28/l/0L0Swired0N0C20A160C0A40Chealthy0Elifestyle0Ewont0Enecessarily0Emake0Ehealthier0C/story01.htm){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Exercise and meditation combined may combat depression](http://www.runnersworld.co.uk/health/exercise-and-meditation-combined-may-combat-depression/14702.html){:target="_blank"}
 
 - [](){:target="_blank"}
 
