@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "WhatsAp (finally!) enables End-To-End encryption by default"
+title: "WhatsApp (finally!) enables End-To-End encryption by default"
 thumbnail: "http://www.andreafortuna.org/security/images/e2ee.jpg"
 description: "WhatsApp has enabled end-to-end encryption across all versions of its app, according to the announcement on the company's blog."
 keywords: Security, Whatsapp, E2E Encryption
