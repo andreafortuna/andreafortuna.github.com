@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Four exercises to develop a good tremolo technique"
-thumbnail: ""
+title: "The tremolo technique: how to improve it?"
+thumbnail: "http://www.andreafortuna.org/guitar/images/tremolo-technique/recuerdos_de_la_alhambra.jpg"
 description: "The tremolo is a beautiful techniques of the classical guitar: it gives the impression of flow of notes, a continuous thread of sound. "
 keywords: Music, Guitar, fingerstyle
 category: Guitar
 tags: 
 - Guitar
-
 
 ---
 
@@ -79,7 +78,7 @@ Definitely more balanced in my opinion the performance of **Julian Bream**:
 And about the speed?
 --
 
-I quote again Julian Bream:
+I quote again **Julian Bream**:
 
 >[this technique] is developed to emulate the sustained, singing tone of a violin on an instrument with limited sustain.
 
@@ -96,6 +95,23 @@ For example, another version of **Recuerdos de la Alhambra** played by Narciso Y
 So, which exercises can help me developing a good tremolo?
 --
 
-http://www.guitarramagazine.com/goodtremolo
+First: your best ally in the tremolo study is the metronome!
 
-http://douglasniedt.com/techtiphowtomasterthetremolo.html
+The steady pace and run cleaning are basic: it is true that the notes in the tremolo must be perceived as a continuous stream, but it is also true that each note must have its own identity and be able to be heard clearly.
+
+**Jesùs Silva** suggest to his students to play a scale using the tremolo technique:
+
+[TREMOLO SCALE]
+
+<hr/>
+
+One of my personal exercises is to perform a chromatic scale by applying the tremolo technique, straight and 'inverted':
+
+[TREMOLO CHROMATIC]
+
+<hr/>
+
+Finally, I suggest you apply the pattern used in Giuliani's arpeggios to the tremolo:
+
+[TREMOLO ARPEGGIOS]
+
