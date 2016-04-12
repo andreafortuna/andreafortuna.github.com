@@ -15,7 +15,7 @@ tags:
 
 Never ask a group of classical guitarists if you can play even without the nails of the right hand!
 
-![Fingernails](/guitar/images/fingernails.jpg)
+![Fingernails](http://www.andreafortuna.org/guitar/images/fingernails.jpg)
 
 You risk being insulted brutally....and absolutely do not mention Tárrega!
 

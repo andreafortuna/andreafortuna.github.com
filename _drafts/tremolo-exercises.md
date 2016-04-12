@@ -2,7 +2,7 @@
 layout: post
 title: "Four exercises to develop a good tremolo technique"
 thumbnail: ""
-description: ""
+description: "The tremolo is a beautiful techniques of the classical guitar: it gives the impression of flow of notes, a continuous thread of sound. "
 keywords: Music, Guitar, fingerstyle
 category: Guitar
 tags: 
@@ -11,18 +11,15 @@ tags:
 
 ---
 
+The **tremolo** is a beautiful techniques of the classical guitar: it gives the impression of flow of notes, a continuous thread of sound. 
 
-http://www.guitarramagazine.com/goodtremolo
+Basically it's made playing a bass note with the thumb followed by three repeated higher notes, traditionally plucked with the *ring (a)*, *middle (m)*, and *index (i)* fingers. play the higher notes. 
 
-http://douglasniedt.com/techtiphowtomasterthetremolo.html
+*When played rapidly, this technique creates the illusion of a sustained melodic line with a bass accompaniment.* 
 
+![Recuerdos de la Alhambra](http://www.andreafortuna.org/guitar/images/tremolo-technique/recuerdos_de_la_alhambra.jpg)
 
-The tremolo is a beautiful techniques of the classical guitar: it gives the impression of flow of notes, a continuous thread of sound. 
-
-Basically it's made playing a bass note with the thumb followed by three repeated higher notes, traditionally plucked with the ring (a), middle (m), and index (i) fingers. play the higher notes. 
-
-When played rapidly, this technique creates the illusion of a sustained melodic line with a bass accompaniment. 
-
+Many important composers for the guitar, including **Francisco Tárrega**, **Manuel Ponce**, **Mario Castelnuovo-Tedesco**, **Federico Moreno Torroba**, **Joaquín Rodrigo**, **Alexandre Tansman**, and **Agustín Barrios** have utilized the tremolo in their works.
 
 In his article *How to Write For the Guitar*, **Julian Bream** describes the tremolo as a 
 
@@ -36,23 +33,69 @@ and
 Fingernail: with or without?
 --
 
+![My Right Hand](http://www.andreafortuna.org/guitar/images/myrighthand.jpg)
+
+Using or not fingernails is a very subjective matter.
+
+Recently [i started to renovate my technique](http://www.andreafortuna.org/guitar/2016/03/22/classical-guitar-and-fingernails-my2c/) basing it on a touch without fingernails.
+
+However, the performer and teacher **Jesús Silva**, said this:
+
+> It is important for the right hand fingers to be "on" the strings, caressing the strings, and not "flying" or with an exaggerated motion. 
+
+> The tremolo needs to be smooth, fluid like water, like a little stream. 
+
+> The creation of a mellow tone must be  emphasized by using more flesh than nail; for this reason, the nails should not be too long.
+
 
 Keep the thumb quiet
 --
 
-Although a few exceptions can be found, in most tremolo passages in the repertoire, the fingers carry the melody and the thumb plays the accompaniment. Therefore, when practicing any of the tremolo exercises in this article, it is important to train the thumb to play quietly. As the speed of an exercise is increased, the thumb naturally will tend to play louder. It becomes more difficult to curb this tendency at fast speeds. For this reason, when practicing these exercises at the recommended slow starting speeds, the thumb should play pianissimo or pianississimo. Then, as you reach tremolo speeds of MM=144+ the balance between thumb and fingers will be correct. Proper balance of volume between the thumb and fingers is an essential element of a good tremolo.
+![Fingernails](http://www.andreafortuna.org/guitar/images/fingernails.jpg)
+
+In most tremolo passages in the repertoire, the fingers carry the melody and the thumb plays the accompaniment. 
+
+Proper balance of volume between the thumb and fingers is an essential element of a good tremolo, therefore it is important to train the thumb to play quietly, and it's more difficult at fast speeds. 
+
+For example, an experienced musician as Pepe Romero can playing **Recuerdos de la Alhambra** with a accompanying line more marked than the melody:
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/QlAzXWoQDlg" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+Definitely more balanced in my opinion the performance of **Julian Bream**:
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/PqfkMgVaOeY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+>"The famous Recuerdos de la Alhambra is a piece disigned primarily to develop technical proficincy according to Tarrega's new-found principles, but musically it is undoubtedly a fine repetoire piece." 
+
+(J. Bream 1983)
+
 
 
 And about the speed?
 --
 
+I quote again Julian Bream:
 
-![tremolo](/guitar/images/fingernails.jpg)
+>[this technique] is developed to emulate the sustained, singing tone of a violin on an instrument with limited sustain.
 
-[](){:target="_blank"} 
+So, an adequate speed of execution is, in my opinion, essential for proper rendering of the effect. 
+
+For example, another version of **Recuerdos de la Alhambra** played by Narciso Yepes, places a particular emphasis on execution speed, with results that have generated conflicting opinions in the community of guitarists (like all performance Yepes, however), but which I think perfectly reproduces the the sound idea behind this technique.
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/ZC7tSW1s9tM" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/EQGBbLBShzk" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <hr/>
+
+So, which exercises can help me developing a good tremolo?
+--
+
+http://www.guitarramagazine.com/goodtremolo
+
+http://douglasniedt.com/techtiphowtomasterthetremolo.html
