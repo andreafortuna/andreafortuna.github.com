@@ -85,3 +85,9 @@ Over a year ago, an anonymous source contacted the *Süddeutsche Zeitung* and su
 [Panama Papers: Everything you need to know about the Panama Papers leak](http://www.ibtimes.co.uk/panama-papers-everything-you-need-know-about-panama-papers-leak-1552986){:target="_blank"}:
 
 >Russian President Vladimir Putin is not directly mentioned but a money trail worth up to $2bn points to a suspected billion-dollar money laundering scheme that was run by a Russian bank and involved some of Putin's closed allies.
+
+From Twitter
+--
+
+<a class="twitter-timeline" href="https://twitter.com/hashtag/panamapapers" data-widget-id="719829202594361345">Tweet riguardo #panamapapers</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
