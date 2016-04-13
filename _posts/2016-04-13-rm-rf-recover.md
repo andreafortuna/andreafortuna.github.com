@@ -33,7 +33,7 @@ A good lesson for all.
 
 The solution?
 --
-![safe-rm](http://www.andreafortuna.org/technology/images/sudo-rm-rf/sudo-rm-rf-cover.jpg)
+![safe-rm](http://www.andreafortuna.org/technology/images/sudo-rm-rf/safe-rm.png)
 
 Keep backups (really) offsite, and use **[Safe-rm](https://launchpad.net/safe-rm){:target="_blank"}**:
 
