@@ -20,7 +20,7 @@ Basically it's made playing a bass note with the thumb followed by three repeate
 
 Many important composers for the guitar, including **Francisco Tárrega**, **Manuel Ponce**, **Mario Castelnuovo-Tedesco**, **Federico Moreno Torroba**, **Joaquín Rodrigo**, **Alexandre Tansman**, and **Agustín Barrios** have utilized the tremolo in their works.
 
-In his article *How to Write For the Guitar*, **Julian Bream** describes the tremolo as a 
+In his article "*How to Write For the Guitar*", **Julian Bream** describes the tremolo as a 
 
 >delightful technique on the guitar... This effect should be used very sparingly, and I would advise composers to limit their use of it to extended compositions such as a sonata, suite, or concerto, where it can effectively be used to give textural variety, when all the other 'stops' have been pulled!"
 

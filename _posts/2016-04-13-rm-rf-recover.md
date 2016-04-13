@@ -3,7 +3,7 @@ layout: post
 title: "Recovering from a 'rm -rf /'?"
 thumbnail: "http://www.andreafortuna.org/technology/images/sudo-rm-rf/sudo-rm-rf-cover.jpg"
 description: ""
-keywords: Technology, Humor, CentOS
+keywords: Technology, Humor, CentOS, Linux, Safe-rm, Serverfault
 category: Technology
 tags: 
 - Technology
@@ -33,5 +33,9 @@ A good lesson for all.
 
 The solution?
 --
+![safe-rm](http://www.andreafortuna.org/technology/images/sudo-rm-rf/sudo-rm-rf-cover.jpg)
 
-Keep backups (really) offsite. :-)
+Keep backups (really) offsite, and use **[Safe-rm](https://launchpad.net/safe-rm){:target="_blank"}**:
+
+> Safe-rm is a safety tool intended to prevent the accidental deletion of important files by replacing /bin/rm with a wrapper, which checks the given arguments against a configurable blacklist of files and directories that should never be removed.
+
