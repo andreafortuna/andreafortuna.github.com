@@ -3,7 +3,7 @@ layout: post
 title: "The tremolo technique: how to improve it?"
 thumbnail: "http://www.andreafortuna.org/guitar/images/tremolo-technique/recuerdos_de_la_alhambra.jpg"
 description: "The tremolo is a beautiful techniques of the classical guitar: it gives the impression of flow of notes, a continuous thread of sound. "
-keywords: Music, Guitar, fingerstyle, tremolo, exercises, julian bream, narciso yepes, pepe romero, Francisco Tárrega, recuerdos de la alhambra
+keywords: Music, Guitar, fingerstyle, tremolo, exercises, Jesùs Silva, julian bream, narciso yepes, pepe romero, Francisco Tárrega, recuerdos de la alhambra
 category: Guitar
 tags: 
 - Guitar
