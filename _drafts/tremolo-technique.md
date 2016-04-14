@@ -101,17 +101,26 @@ The steady pace and run cleaning are basic: it is true that the notes in the tre
 
 **Jesùs Silva** suggest to his students to play a scale using the tremolo technique:
 
-[TREMOLO SCALE]
+![Tremolo Major Scale](http://www.andreafortuna.org/guitar/images/tremolo-technique/tremolo_major_scale.png)
+
 
 <hr/>
 
 One of my personal exercises is to perform a chromatic scale by applying the tremolo technique, straight and 'inverted':
 
-[TREMOLO CHROMATIC]
+![Tremolo Chromatic Scale](http://www.andreafortuna.org/guitar/images/tremolo-technique/tremolo_chromatic_scale.png)
 
 <hr/>
 
-Finally, I suggest you apply the pattern used in Giuliani's arpeggios to the tremolo:
+Personally, I suggest you apply the pattern used in Giuliani's arpeggios to the tremolo:
 
 [TREMOLO ARPEGGIOS]
+
+<hr/>
+
+And finally, old but gold, let's study ["Recuerdos de la Alhambra"](http://imslp.org/wiki/Recuerdos_de_la_Alhambra_(T%C3%A1rrega,_Francisco))!
+
+<div class="video-container">
+<embed src="http://javanese.imslp.info/files/imglnks/usimg/1/1e/IMSLP24052-PMLP33377-Tarrega_-_Recuerdos_de_la_Alhambra_guitar.pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+</div>
 
