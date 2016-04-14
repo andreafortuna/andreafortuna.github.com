@@ -114,7 +114,8 @@ One of my personal exercises is to perform a chromatic scale by applying the tre
 
 Personally, I suggest you apply the pattern used in Giuliani's arpeggios to the tremolo:
 
-[TREMOLO ARPEGGIOS]
+![Tremolo Arpeggios](http://www.andreafortuna.org/guitar/images/tremolo-technique/tremolo_arpeggios.png)
+
 
 <hr/>
 
