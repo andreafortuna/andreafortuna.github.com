@@ -125,3 +125,8 @@ And finally, old but gold, let's study ["Recuerdos de la Alhambra"](http://imslp
 <embed src="http://javanese.imslp.info/files/imglnks/usimg/1/1e/IMSLP24052-PMLP33377-Tarrega_-_Recuerdos_de_la_Alhambra_guitar.pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
 </div>
 
+<hr/>
+
+Download all exercises clicking the link below:
+
+[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/guitar/files/tremolo_exercises.pdf)
