@@ -144,8 +144,6 @@ Wellness & Running
 
 - [Everything You Need to Build Your Own Bodyweight Workout](http://vitals.lifehacker.com/everything-you-need-to-build-your-own-bodyweight-workou-1770226539){:target="_blank"}
 
-- [](){:target="_blank"}
-
 
 
 
