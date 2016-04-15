@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "My Weekly #Roundup #68 - #TAGS"
-description: "My Weekly Digest #68 - #MORETAGS"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/image.jpg"
-keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar
+layout: post_roundup
+title: "My Weekly #Roundup #68 - #IJF16 #SpaceX #HackingTeam"
+description: "My Weekly Digest #68 - #IJF16 #SpaceX #FBI #Guitar #HackingTeam"
+thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/teslaspacex.jpg"
+keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar, hackingteam, tremolo, spacex, ijf16, ijf16bot, fbi, apple, ransomware
 category: WeeklyRoundup
 tags: 
 - Roundup
@@ -17,14 +17,16 @@ tags:
 - Guitar
 
 ---
-Interesting things that i read in the last week!
+Interesting things that i read in the last week! Nothing about #Badlock: shortly I will write a dedicated post! 
 
-![image](/weeklyroundup/images/image.jpg)
+![TeslaSpaceX](http://www.andreafortuna.org/weeklyroundup/images/teslaspacex.jpg)
 <!-- more -->
 <hr/>
 Security & Privacy
 --
-![image](http://xxx)
+![saferm](https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/12991067_1284172414929467_4241545843380307416_n.jpg?oh=ab9145a4f32121ea5fdb351774ebbce4&oe=5777ED8A)
+
+- [Frederike Kaltheuner @ #IJF16: understanding predictive privacy harms](http://www.andreafortuna.org/security/2016/04/11/understanding-predictive-privacy-harms/){:target="_blank"}
 
 - [New Ransomware KimcilWare Targets Magento Websites](http://threatpost.com/new-ransomware-kimcilware-targets-magento-websites/117124/){:target="_blank"}
 
@@ -49,7 +51,7 @@ Security & Privacy
 Geekness
 --
 
-![image](http://xxx)
+![touring test](http://www.commitstrip.com/wp-content/uploads/2016/04/Strip-Test-Turing-inverse-650-finalenglish.jpg)
 
 - [Like a boss: Falcon soars into space and lands in the ocean](http://arstechnica.com/science/2016/04/like-a-boss-falcon-soars-into-space-and-lands-in-the-ocean/){:target="_blank"}
 
@@ -61,20 +63,22 @@ Geekness
 
 - [OpenBazaar is Open for Business](https://blog.openbazaar.org/openbazaar-is-open-for-business/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [20 Things You Didn’t Know About Star Wars: The Force Awakens’ BB-8](http://feeds.wired.com/c/35185/f/661370/s/4eeb6f26/sc/28/l/0L0Swired0N0C20A160C0A40Cbb0E80Edata0Eattack0C/story01.htm){:target="_blank"}
 
-- [](){:target="_blank"}
+- [SUICIDE SQUAD Official Trailer #3](https://www.geeksaresexy.net/2016/04/10/suicide-squad-official-trailer-3-video/){:target="_blank"}
 
 <div class="video-container">
-<iframe src="https://www.youtube.com/embed/XXXXXX" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/HWvzhfI4SuM" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
 <hr/>
 Programming
 --
-![image](http://xxx)
+![Algorithms](http://imgs.xkcd.com/comics/algorithms.png)
 
+- [IJFbot goes Open Source #ijf16 — Medium](https://medium.com/@journalismfest/ijfbot-goes-open-source-ijf16-8f2783f70a43){:target="_blank"}
+ 
 - [Should Apple Build their Own Cloud?](http://highscalability.com/blog/2016/3/30/should-apple-build-their-own-cloud.html){:target="_blank"}
 
 - [GetDataReport - Script to collect information to the client side](http://www.kitploit.com/2016/04/getdatareport-script-to-collect.html){:target="_blank"}
@@ -95,7 +99,7 @@ Programming
 Music
 --
 
-![Threadmill](http://media.giphy.com/media/dHNLqWgiRADuM/giphy.gif)
+![MusicKong](https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xal1/v/t1.0-9/12512722_1111144445573944_7542108318655524856_n.jpg?oh=a0a83250e195d50ec71d237e11f17689&oe=57BE99DE)
 
 - [Six Simple Tips to Better Guitar Playing](http://www.guitarworld.com/six-tips-better-guitar-playing/25475){:target="_blank"}
 
@@ -103,11 +107,16 @@ Music
 
 - [Aria Pro II ST-1504FL Super Twin guitar/fretless bass doubleneck from 1982](http://guitarz.blogspot.com/2016/04/aria-pro-ii-st-1504fl-super-twin.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [How to Build a Pro Multi-Genre Guitar Rig](http://www.guitarworld.com/gear-amplifiers-effects/how-build-pro-multi-genre-guitar-rig/28983){:target="_blank"}
 
-- [](){:target="_blank"}
+- [A Metal Tribute to iPhone Ringtones](https://www.youtube.com/watch?v=QW2TfV20FXY){:target="_blank"}
 
-- [](){:target="_blank"}
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/QW2TfV20FXY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+- [The tremolo technique: how to improve it?](http://www.andreafortuna.org/guitar/2016/04/14/tremolo-technique/){:target="_blank"}
 
 - [Julian Bream and John Williams Live Recital](http://www.classical-guitar-music.com/ensemble/guitar-duo/video-julian-bream-john-williams-live-recital/){:target="_blank"}																									
 
@@ -125,13 +134,15 @@ Wellness & Running
 
 - [Swim. Bike. Cheat?](http://mobile.nytimes.com/2016/04/10/sports/julie-miller-ironman-triathlon-cheat.html){:target="_blank"}
 
+- [MuscleWiki Helps You Discover New Exercises for Specific Muscle Groups](http://vitals.lifehacker.com/musclewiki-helps-you-discover-new-exercises-for-specifi-1766022441){:target="_blank"}
+
+- [Why does my vision get blurry when I run?](http://www.runnersworld.co.uk/health/why-does-my-vision-get-blurry-when-i-run/14719.html){:target="_blank"}
+
 - [Vlad Ixel – Vegan Ultrarunning Champion](http://borntokickarse.com/podcast/vlad-ixel-vegan-ultrarunning-champion/){:target="_blank"}
 
 - [Should I do my long run or race during training?](http://www.runnersworld.co.uk/training/should-i-do-my-long-run-or-race-during-training/14732.html){:target="_blank"}
 
-- [](){:target="_blank"}
-
-- [](){:target="_blank"}
+- [Everything You Need to Build Your Own Bodyweight Workout](http://vitals.lifehacker.com/everything-you-need-to-build-your-own-bodyweight-workou-1770226539){:target="_blank"}
 
 - [](){:target="_blank"}
 
