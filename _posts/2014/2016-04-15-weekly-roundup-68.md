@@ -77,7 +77,7 @@ Programming
 --
 ![Algorithms](http://imgs.xkcd.com/comics/algorithms.png)
 
-- [IJFbot goes Open Source #ijf16 — Medium](https://medium.com/@journalismfest/ijfbot-goes-open-source-ijf16-8f2783f70a43){:target="_blank"}
+- [IJFbot goes Open Source #ijf16](https://medium.com/@journalismfest/ijfbot-goes-open-source-ijf16-8f2783f70a43){:target="_blank"}
  
 - [Should Apple Build their Own Cloud?](http://highscalability.com/blog/2016/3/30/should-apple-build-their-own-cloud.html){:target="_blank"}
 
