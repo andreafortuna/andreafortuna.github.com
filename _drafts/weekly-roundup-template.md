@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_roundup
 title: "My Weekly #Roundup #XX - #TAGS"
 description: "My Weekly Digest #38 - #MORETAGS"
 thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/image.jpg"
