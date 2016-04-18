@@ -11,6 +11,15 @@ tags:
 
 ---
 
+UPDATE
+--
+It was a hoax: [That man who ‘deleted his entire company’ with a line of code? It was a hoax](http://www.pcworld.com/article/3057235/data-center-cloud/that-man-who-deleted-his-entire-company-with-a-line-of-code-it-was-a-hoax.html){:target="_blank"}
+
+![hoax](http://core0.staticworld.net/images/article/2016/04/troll-100656387-medium.jpg)
+
+
+<hr/>
+
 Recently i read this ask on [Serverfault](http://serverfault.com/q/769357){:target="_blank"}:
 
 >I run a small hosting provider with more or less **1535** customers and I use Ansible to automate some operations to be run on all servers. Last night I accidentally ran, on all servers, a Bash script with a ```rm -rf {foo}/{bar}``` with those variables undefined due to a bug in the code above this line.
