@@ -19,7 +19,7 @@ tags:
 
 The announcement was given by [Heimdal Security on his blog](https://heimdalsecurity.com/blog/security-alert-new-android-malware-post-denmark/):
 
-> This new campaign aims to spread the Mazar BOT malware that sprawled across Europe and beyond earlier this year, in February 2016. The change is that, this time, the code is obfuscated and it’s a lot more difficult to analyze. The cyber criminals who created Mazar BOT must have learnt from previous campaigns and wanted to make it even more challenging for law enforcement and cyber security specialists to dissect the malicious code.
+> This new campaign aims to spread the Mazar BOT malware that sprawled across **Europe** and beyond earlier this year, in February 2016. The change is that, this time, the code is obfuscated and it’s a lot more difficult to analyze. The cyber criminals who created Mazar BOT must have learnt from previous campaigns and wanted to make it even more challenging for law enforcement and cyber security specialists to dissect the malicious code.
 
 > So far, this new Mazar BOT campaign has infected almost 400 Android devices in **Denmark** and 1500 in **Italy**.
 
