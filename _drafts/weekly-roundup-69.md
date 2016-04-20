@@ -125,7 +125,7 @@ Music
 Wellness & Running  
 --
 
-![image](http://xxx)
+![Running](https://media.giphy.com/media/lPdn5MOabkgCY/giphy.gif)
 
 - [](){:target="_blank"}
 
