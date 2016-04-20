@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mazar BOT spoofing campaign in Denmark and Italy"
+title: "Mazar BOT campaign in Denmark and Italy"
 thumbnail: "http://www.andreafortuna.org/technology/images/MazarBOT.png"
 description: "A new Mazar BOT campaign is currently targeting Android users in Denmark and Italy. Attackers are spoofing trustworthy organizations to infected Android smartphones."
 keywords: Security, Threat, Android, MazarBOT, PEBKAC, TOR, SMS, Heimdal Security, Italy, Denmark
