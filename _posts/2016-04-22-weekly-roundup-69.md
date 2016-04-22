@@ -122,7 +122,6 @@ Music
 
 - [Ask Ukulele Underground: 2 Helpful Tips for Strumming & Singing at the Same Time](http://ukuleleunderground.com/2016/04/ask-ukulele-underground-2-helpful-tips-for-strumming-and-singing-at-the-same-time/){:target="_blank"}
 
-- [](){:target="_blank"}
 
 
 <hr/>
