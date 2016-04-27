@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "TOR in a Company Network: how to detect and blocking it?"
-thumbnail: ""
-description: ""
+thumbnail: "http://www.andreafortuna.org/security/images/TOR/tor_cover.png"
+description: "TOR is an important tool. It has its benefits and it could be the perfect way for end users to cover their tracks, but the use of this tool in a corporate network can open up organizations to some risks."
 keywords: Security, Threat
 category: Security
 tags: 
 - Security
-- Threats
-- Vulnerability
+- Privacy
+- TOR
 
 ---
 
@@ -21,6 +21,8 @@ It has its benefits and it could be the perfect way for end users to cover their
 What is TOR?
 --
 
+![What is TOR](http://www.makeuseof.com/wp-content/uploads/2015/06/Wat_is_Tor_The_onion_routing--640x312.png)
+
 Tor is a software that allows users to browse the Web anonymously. 
 
 Tor stands for "The Onion Router" and it is called so because it uses the "Onion routing protocol" to hide information about user activity, location and usage from anyone that conducts network surveillance or traffic analysis. 
@@ -30,6 +32,13 @@ It’s often used by journalists, political dissidents and criminals to keep the
 The development of the "onion routing protocol" was sponsored by the **U.S. Naval Research Laboratory** in the 1990s, and Tor was developed by the Navy and independent researchers in 2002. 
 
 Currently the protocol is still being worked on and supported under the **[Tor Project](https://www.torproject.org)**, a nonprofit organization.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/JWII85UlzKw" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+<hr>
 
 
 How it works?
@@ -43,10 +52,17 @@ The Tor network hides your identity by moving your (encrypted) traffic across di
 
 Instead of taking a direct route from source to destination, the data packet sent on the Tor network takes a random pathway through several servers: no one will ever know the complete path that a data packet has taken (in effect no one at any single node can tell where the data originally came from and where is the final destination).
 
+
+
 <hr/>
 
 It can be a risk?
 --
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/HjejYd_9Oik" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 While it is true that Tor can be used with the legitimate goal of anonymity on the internet, it can represent a gigantic problem for a company, for example:
 
@@ -66,7 +82,14 @@ While it is true that Tor can be used with the legitimate goal of anonymity on t
 How to block Tor inside a company network?
 --
 
-Detecting and blocking Tor in a corporate network is not an easy thing. 
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/GwMr8Xl7JMQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+>**Iran** blocked Tor handshakes using Deep Packet Inspection (DPI) in January 2011 and September 2011. Bluecoat tested out a Tor handshake filter in **Syria** in June 2011. **China** has been harvesting and blocking IP addresses for both public Tor relays and private Tor bridges for years.
+
+
+Detecting and blocking **Tor** in a corporate network is not an easy thing. 
 
 Sysadmins should consider the deployment of more than one solution to enhance the chance of preventing the use of **Tor** in their network.
 
@@ -82,9 +105,3 @@ So, block the use of TOR in a corporate network in my view it's not possible, bu
  The blacklist can be build using online resources, like [https://www.dan.me.uk/tornodes](https://www.dan.me.uk/tornodes).
 
 - **Block all traffic using self-signed digital certificates**: Tor uses self-generated SSL certificates to encrypt traffic between nodes and servers. Blocking all the outbound SSL traffic that uses self signed SSL certificates across your network (using Proxy services and Web Application Firewall) can contribute to prevent the use of Tor.
-
-
-
-http://www.netresec.com/?page=Blog&month=2013-04&post=Detecting-TOR-Communication-in-Network-Traffic
-
-http://www.abovesecurity.com/blog/risks-associated-to-using-tor-inside-a-business-network/
