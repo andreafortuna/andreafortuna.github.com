@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TOR in a Company Network: how to detect and blocking it?"
+title: "Tor in a company network: how to detect and block it?"
 thumbnail: "http://www.andreafortuna.org/security/images/TOR/tor_cover.png"
 description: "TOR is an important tool. It has its benefits and it could be the perfect way for end users to cover their tracks, but the use of this tool in a corporate network can open up organizations to some risks."
 keywords: Security, Threat
@@ -8,7 +8,7 @@ category: Security
 tags: 
 - Security
 - Privacy
-- TOR
+- Tor
 
 ---
 
