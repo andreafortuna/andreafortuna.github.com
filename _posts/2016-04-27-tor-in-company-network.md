@@ -82,11 +82,17 @@ While it is true that Tor can be used with the legitimate goal of anonymity on t
 How to block Tor inside a company network?
 --
 
+The censors governments have developed various methods to block Tor traffic.
+
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/GwMr8Xl7JMQ" frameborder="0" allowfullscreen></iframe>
 </div>
 
 >**Iran** blocked Tor handshakes using Deep Packet Inspection (DPI) in January 2011 and September 2011. Bluecoat tested out a Tor handshake filter in **Syria** in June 2011. **China** has been harvesting and blocking IP addresses for both public Tor relays and private Tor bridges for years.
+
+<div class="video-container">
+<embed src="http://www.andreafortuna.org/security/files/TOR/slides-28c3.pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+</div>
 
 
 Detecting and blocking **Tor** in a corporate network is not an easy thing. 
