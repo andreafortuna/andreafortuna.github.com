@@ -16,14 +16,14 @@ tags:
 
 The Artist
 --
-Yngwie Johan Malmsteen, born Lars Johan Yngve Lannerbäck on 30 June 1963, is a Swedish guitarist.
-He was heavily influenced by classical music, particularly 19th century violinist composer Niccolò Paganini, and in the modern ambit, his most important influence is Ritchie Blackmore. 
+**Yngwie Johan Malmsteen**, born Lars **Johan Yngve Lannerbäck** on 30 June 1963, is a Swedish guitarist.
+He was heavily influenced by classical music, particularly 19th century violinist composer *Niccolò Paganini*, and in the modern ambit, his most important influence is *Ritchie Blackmore*. 
 
 <hr>
 
 The Album
 --
-Rising Force is the first studio album of Yngwie Malmsteen, released on 5 March 1984.
+Rising Force is the first studio album of Yngwie Malmsteen, released on **5 March 1984**.
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Rising_Force){:target="_blank"} :
 
