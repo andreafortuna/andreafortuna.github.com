@@ -27,6 +27,8 @@ Simply follow this steps, from [http://linuxdaddy.com/](http://linuxdaddy.com/bl
 ```$ wget kernel.ubuntu.com/~kernel-ppa/mainline/v4.4.8-wily/linux-image-4.4.8-040408-generic_4.4.8-040408.201604200335_amd64.deb```
 ```$ sudo dpkg -i linux-headers-4.4*.deb linux-image-4.4*.deb```
 
+And reboot!
+
 That's it! :-)
 
 
