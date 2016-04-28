@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yngwie J. Malmsteen, Black Star Intro: my transcription"
-thumbnail: ""
+thumbnail: "http://www.andreafortuna.org/guitar/images/blackstar/yngwie.jpg"
 description: "Yngwie J. Malmsteen, Black Star Intro: my transcription"
 keywords: Music, Guitar, fingerstyle
 category: Guitar
@@ -10,7 +10,7 @@ tags:
 
 ---
 
-![]()
+![Yngwie](http://www.andreafortuna.org/guitar/images/blackstar/yngwie.jpg)
 
 "Black Star" is the first track from **Yngwie Malmsteen**'s album **Rising Force**
 
