@@ -1,9 +1,9 @@
 ---
 layout: post_roundup
-title: "My Weekly #Roundup #XX - #TAGS"
-description: "My Weekly Digest #38 - #MORETAGS"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/image.jpg"
-keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar
+title: "My Weekly #Roundup #70 - #HackingTeam #StarWars #Prince #GameOfThrones"
+description: "My Weekly Digest #70 - #HackingTeam #StarWars #Prince #GameOfThrones"
+thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/70/cover.jpg"
+keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar, GameOfThrones, hackingteam, ransomware
 category: WeeklyRoundup
 tags: 
 - Roundup
@@ -17,9 +17,9 @@ tags:
 - Guitar
 
 ---
-Interesting things that i read in the last week!
+Interesting things that i read in the #GameOFThrones week!
 
-![image](/weeklyroundup/images/image.jpg)
+![hardreset](http://www.andreafortuna.org/weeklyroundup/images/70/cover.jpg)
 <!-- more -->
 <hr/>
 Security & Privacy
@@ -103,7 +103,7 @@ Programming
 Music
 --
 
-![image](http://xxx)
+![contrabass](https://media.giphy.com/media/AC1S1bSxG7p1m/giphy.gif)
 
 - [Classical and Fingerstyle Ukulele World Tour](http://ukulelelanguages.com/ukulele-world-tour/classical-and-fingerstyle-ukulele-world-tour/){:target="_blank"}
 
@@ -117,11 +117,15 @@ Music
 
 - [Ukulele Festival of Northern California Celebrates Polynesian Culture and 100 Years of Kamaka](http://www.ukulelemag.com/stories/news/ukulele-festival-of-northern-california-celebrates-polynesian-culture-and-100-years-of-kamaka){:target="_blank"}
 
-- [](){:target="_blank"}
+- [How A Strap Might Help Your Ukulele Play—And Sound—Better](http://www.ukulelemag.com/gear-reviews/how-a-strap-might-help-your-ukulele-play-and-sound-better){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Pachelbel’s Canon in D for Guitar (Free PDF)](http://www.thisisclassicalguitar.com/pachelbels-canon-in-d-for-guitar-free-pdf/){:target="_blank"}
 
-- [](){:target="_blank"}
+- [How to be a Classical Musician](https://www.youtube.com/watch?v=qi4V6gY8Wf8){:target="_blank"}
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/qi4V6gY8Wf8" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 <hr/>
@@ -132,18 +136,21 @@ Wellness & Running
 
 - [These Infographics Show the Problems With Calorie Counting](http://vitals.lifehacker.com/these-infographics-show-the-problems-with-calorie-count-1771540530){:target="_blank"}
 
-- [Exploring the Myth of the Scientific vs. Artistic Mind](http://lifehacker.com/exploring-the-myth-of-the-scientific-vs-artistic-mind-1772317368){:target="_blank"}
-
 - [6 things you can learn from an 84-year-old marathoner](http://www.runnersworld.co.uk/community/6-things-you-can-learn-from-an-84yearold-marathoner/14827.html){:target="_blank"}
 
 - [The Mountain From “Game Of Thrones” Revealed His Diet Plan And It’s Insane](https://www.buzzfeed.com/andyneuenschwander/the-mountain-from-game-of-thrones-revealed-his-diet-plan-and){:target="_blank"}
 
 - [Astronaut Tim Peake sets Guinness World Record for fastest marathon in space](http://www.runnersworld.co.uk/events/astronaut-tim-peake-sets-guinness-world-record-for-fastest-marathon-in-space/14853.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Does overuse really cause injuries?](http://www.runnersworld.co.uk/health/does-overuse-really-cause-injuries/14849.html){:target="_blank"}
 
-- [](){:target="_blank"}
+- [Exploring the Myth of the Scientific vs. Artistic Mind](http://lifehacker.com/exploring-the-myth-of-the-scientific-vs-artistic-mind-1772317368){:target="_blank"}
 
+- [How To Run: DOs & DON'Ts](https://www.youtube.com/watch?v=8XiwtiDTlYU){:target="_blank"}
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/8XiwtiDTlYU" frameborder="0" allowfullscreen></iframe>
+</div>
 
 
 
