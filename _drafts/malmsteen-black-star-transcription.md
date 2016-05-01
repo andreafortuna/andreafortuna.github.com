@@ -46,6 +46,10 @@ Malmsteen plays "Black Star" intro in fingerstyle, on nylon strings. Few and sim
 
 My transcription
 --
-
-
+<div class="video-container">
+<video controls>
+  <source src="http://www.andreafortuna.org/guitar/video/blackstar/blackstar.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
 <hr/>
