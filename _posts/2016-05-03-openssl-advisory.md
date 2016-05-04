@@ -48,6 +48,22 @@ But it no longer checked that there was enough data to have both the MAC and pad
 This issue was reported to **OpenSSL** on 13th of April 2016 by **Juraj Somorovsky** using TLS-Attacker. The fix was developed by **Kurt Roeckx**
 of the OpenSSL development team.
 
+References
+--
+
+- [https://www.openssl.org/news/secadv/20160503.txt](https://www.openssl.org/news/secadv/20160503.txt){:target="_blank"}
+
+- [CVE-2016-2107](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-2107){:target="_blank"}
+
+- [CVE-2016-2108](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2016-2108){:target="_blank"}
+
+- [OpenSSL Patches Two High-Severity Vulnerabilities](https://threatpost.com/openssl-patches-two-high-severity-vulnerabilities/117792/){:target="_blank"}
+
+- [Non-Security OpenSSL Bugs Lead to Serious Vulnerability](http://www.securityweek.com/non-security-openssl-bugs-lead-serious-vulnerability){:target="_blank"}
+
+- [Yay! It's International Patch Your Scary OpenSSL Bugs Day!](http://www.theregister.co.uk/2016/05/03/openssl_patches/){:target="_blank"}
+
+<hr/>
 
 Patch! Patch! Patch! :-)
 ---
