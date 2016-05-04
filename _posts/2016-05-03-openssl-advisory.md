@@ -3,7 +3,7 @@ layout: post
 title: "OpenSSL Security Advisory, 3rd May 2016: Patch, Patch ASAP!"
 thumbnail: "http://www.andreafortuna.org/security/images/openssl/openssl.png"
 description: "Memory corruption in the ASN.1 encoder (CVE-2016-2108) and Padding oracle in AES-NI CBC MAC check (CVE-2016-2107)"
-keywords: Security, Threat, OpenSSL, CVE-2016-2108, CVE-2016-2107
+keywords: Security, Threat, OpenSSL, CVE-2016-2108, CVE-2016-2107, Juraj Somorovsky, Kurt Roeckx
 category: Security
 tags: 
 - Security
