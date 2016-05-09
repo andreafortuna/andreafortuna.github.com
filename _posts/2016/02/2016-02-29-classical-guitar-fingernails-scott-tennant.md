@@ -16,7 +16,7 @@ In the previous article we report the [opinions of Rob MacKillop](http://www.and
 
 Today we face a traditional point of view: the famous book **[Pumping Nylon](http://www.amazon.it/gp/product/0739071580/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=3370&creative=23322&creativeASIN=0739071580&linkCode=as2&tag=t0601-21){:target="_blank"}** by *Scott Tennant*.
 
-![Pumping Nylon](http://www.andreafortuna.org/guitar/images/pumpingnylon.png)
+![Pumping Nylon](/guitar/images/pumpingnylon.png)
 
 
 <hr/>
@@ -34,7 +34,7 @@ A bad fingernail shape can also create resistance between string and nail and ca
 Nail lenght
 --
 
-![Nails Lenght](http://www.andreafortuna.org/guitar/images/nails_lenght.jpg)
+![Nails Lenght](/guitar/images/nails_lenght.jpg)
 
 To gauge the length of your fingernail, hold your finger out horizontally and then place a surface against the fingertip at the right angle.
 
