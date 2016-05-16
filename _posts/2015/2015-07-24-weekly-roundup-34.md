@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #34"
 description: "My Weekly Digest #34 - What can not be missed this week? "
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/kepler452b.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/kepler452b.jpg"
 keywords: Geek, Security, Programming, Running, Barefoot, Music, ukulele, Hacking Team, nodejs, javascript, Tarahumara, Pantera, Apple, OSX, Commodore, Amiga,Kepler452b
 category: WeeklyRoundup
 tags: 
@@ -31,7 +31,7 @@ tags:
 {% include JB/setup %}
 What can not be missed this week? 
 
-![Kepler 452b](http://www.andreafortuna.org/weeklyroundup/images/kepler452b.jpg)
+![Kepler 452b](http://oldsite.andreafortuna.org/weeklyroundup/images/kepler452b.jpg)
 <!-- more -->
 
 Security & Privacy

@@ -88,7 +88,7 @@ Running
 
 ![Running](http://bolsinger.blogs.com/weblog/images/2007/09/22/running_comic.gif)
 
-- [Facebook Fitness Report: a small update](http://www.andreafortuna.org/programming/2015/03/26/facebook-fitness-report-a-small-update/)
+- [Facebook Fitness Report: a small update](http://oldsite.andreafortuna.org/programming/2015/03/26/facebook-fitness-report-a-small-update/)
 
 - [570-POUND MAN RUNS 5K: “IF I CAN … ANYONE CAN”](http://runhaven.com/2015/03/19/570-pound-man-runs-5k-if-i-can-anyone-can/)
 

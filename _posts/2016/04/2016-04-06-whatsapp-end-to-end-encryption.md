@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WhatsApp (finally!) enables End-To-End encryption by default"
-thumbnail: "http://www.andreafortuna.org/security/images/e2ee.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/security/images/e2ee.jpg"
 description: "WhatsApp has enabled end-to-end encryption across all versions of its app, according to the announcement on the company's blog."
 keywords: Security, Whatsapp, E2E Encryption, Hacker News, Arstechnica, The Guardian, Slashdot, Wired, SecurityWeek, Naked Security
 category: Security
@@ -18,7 +18,7 @@ WhatsApp has enabled *end-to-end encryption* across all versions of its app, acc
 WhatsApp has also published a technical paper that can be downloaded at [this link](https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf):
 
 <div class="video-container">
-<embed src="http://www.andreafortuna.org/security/files/WhatsApp-Security-Whitepaper.pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+<embed src="http://oldsite.andreafortuna.org/security/files/WhatsApp-Security-Whitepaper.pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
 </div>
 
 Given that **WhatsApp** is already in use by over 1 billion people worldwide, as users upgrade to the latest version, it will become the **most widely used end-to-end crypto tool**.

@@ -21,7 +21,7 @@ tags:
 {% include JB/setup %}
 What can not be missed this week? 
 
-![Eclipse](http://www.andreafortuna.org/images/eclipse.jpg)
+![Eclipse](http://oldsite.andreafortuna.org/images/eclipse.jpg)
 <!-- more -->
 
 Security & Privacy

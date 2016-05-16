@@ -2,7 +2,7 @@
 layout: post_roundup
 title: "My Weekly #Roundup #71 - #Slack #GameOfThrones #SteveVai #AndyMcKee"
 description: "My Weekly Digest #71 - #Slack #GameOfThrones #SteveVai #AndyMcKee"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/71/cover.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/71/cover.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar, sòack, tesla, Siri, game of thrones, Steve Vai, andy mckee, Frank Zappa
 category: WeeklyRoundup
 tags: 
@@ -19,7 +19,7 @@ tags:
 ---
 Interesting things that i read in the last week!
 
-![image](http://www.andreafortuna.org/weeklyroundup/images/71/cover.jpg)
+![image](http://oldsite.andreafortuna.org/weeklyroundup/images/71/cover.jpg)
 
 <!-- more -->
 <hr/>

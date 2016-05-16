@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How playing an instrument benefits your brain"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/musicbrain.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/musicbrain.jpg"
 description: "An interesting TED Lesson by Anita Collins: i like to share it with my readers!"
 keywords: Music, Anita Collins, Brain
 category: Ukulele

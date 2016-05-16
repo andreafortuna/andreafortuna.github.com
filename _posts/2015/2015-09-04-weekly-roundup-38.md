@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #38 - #Windows #Privacy #PayPal #AdobeFlash"
 description: "My Weekly Digest #38 - #Windows #Privacy #PayPal #AdobeFlash #Ukulele #Music #Security #Programming #Barefoot #Running"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/windows-10-privacy.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/windows-10-privacy.jpg"
 keywords: Microsoft, Windows 10, Privacy, Geek, Security, Adobe Flash, Programming, Running, Barefoot, Music, ukulele, transcription, wordpress, Spyware, Google OnHub, Google Chrome, Javascript, Node.js
 category: WeeklyRoundup
 tags: 
@@ -44,7 +44,7 @@ Security & Privacy
 
 - [It’s not just Windows 10, Windows 7 and 8 are also tracking you – here’s how to stop them](http://bgr.com/2015/08/28/windows-10-features-spying-windows-7-8/){:target="_blank"}
 
-- [How to remove all Windows Telemetry Updates?](http://www.andreafortuna.org/microsoft/2015/09/03/remove-spyware-windows-updates){:target="_blank"}
+- [How to remove all Windows Telemetry Updates?](http://oldsite.andreafortuna.org/microsoft/2015/09/03/remove-spyware-windows-updates){:target="_blank"}
 
 - [Latest Windows 7/8/8.1 Updates Spy on you like Windows 10](https://freedomhacker.net/latest-windows-7-8-81-update-spy-windows-10-4568/){:target="_blank"}
 
@@ -109,7 +109,7 @@ Ukulele & Music
 
 - [How To Write Ukulele Songs? Key Card!](https://ukuguides.com/how-to/how-to-write-ukulele-songs-key-card/){:target="_blank"}
 
-- [Romance - Jeux Interdits: ukulele arrangement](http://www.andreafortuna.org/ukulele/2015/09/01/romance-jeux-interdits/){:target="_blank"}
+- [Romance - Jeux Interdits: ukulele arrangement](http://oldsite.andreafortuna.org/ukulele/2015/09/01/romance-jeux-interdits/){:target="_blank"}
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/RDS_BUIiEhg" frameborder="0" allowfullscreen></iframe>
 
@@ -129,7 +129,7 @@ Running
 
 - [Run Softly, Naturally](http://www.runnersworld.com/injury-treatment/run-softly-naturally){:target="_blank"}
 
-- [Shut up and run!](http://www.andreafortuna.org/running/2015/09/02/shut-up-and-run/){:target="_blank"}
+- [Shut up and run!](http://oldsite.andreafortuna.org/running/2015/09/02/shut-up-and-run/){:target="_blank"}
 
 - [6 Skin Care Tips For Runners](http://www.runnersworld.com/health/6-skin-care-tips-for-runners){:target="_blank"}
 

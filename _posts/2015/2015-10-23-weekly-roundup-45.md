@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #45 - #BackToTheFuture #Android #OpenSSH"
 description: "My Weekly Digest #45 - #BackToTheFuture #Android #OpenSSH #Paganini #Marathon"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/backtothefuture.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/backtothefuture.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, Chrome, malware, OpenSSH, Back To The Future, Android, SQL, Paganini
 category: WeeklyRoundup
 tags: 
@@ -105,7 +105,7 @@ Ukulele & Music
 
 - [If You Say It You Can Play It](http://ukulelego.com/tips/say-can-play/){:target="_blank"}
 
-- [Short tunes on #Ukulele: Niccolò Paganini, Caprice No. 24](http://www.andreafortuna.org/ukulele/2015/10/21/short-tunes-on-ukulele-caprice-no-24/){:target="_blank"}
+- [Short tunes on #Ukulele: Niccolò Paganini, Caprice No. 24](http://oldsite.andreafortuna.org/ukulele/2015/10/21/short-tunes-on-ukulele-caprice-no-24/){:target="_blank"}
 
 <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="5" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/9GTGuhCuUU/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Niccolò #Paganini, Capriccio n. 24: theme on #ukulele</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">Un video pubblicato da Andrea Fortuna (@andrea_fortuna) in data: <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-10-21T11:44:27+00:00">21 Ott 2015 alle ore 04:44 PDT</time></p></div></blockquote>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>

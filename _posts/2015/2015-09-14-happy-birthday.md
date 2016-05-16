@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Short tunes on #Ukulele: 'Happy Birthday To You'"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/happybirthday.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/happybirthday.jpg"
 description: "Short and famous tunes, arranged to ukulele!"
 keywords: Happy Birthday, Arrangement, Ukulele, Patty Hill, Mildred J. Hill 
 category: Ukulele
@@ -30,4 +30,4 @@ From Wikipedia:
 <hr/>
 For ukulele score&tablature (with my fingering notes), click the link below.
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Happy_Birthday.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/Happy_Birthday.pdf)

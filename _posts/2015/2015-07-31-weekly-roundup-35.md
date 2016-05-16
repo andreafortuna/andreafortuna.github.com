@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #35"
 description: "My Weekly Digest #35 - What can not be missed this week? "
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/Windows10.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/Windows10.jpg"
 keywords: Microsoft, windows 10, Geek, Security, Programming, Running, Barefoot, Music, ukulele, Hacking Team, RCSAndroid, Motorola, Amiga, Atari, KITT, Stagefright, BlackBerry, JavaScript 
 category: WeeklyRoundup
 tags: 
@@ -113,7 +113,7 @@ Ukulele & Music
 
 - [Amplifying Your ‘Ukulele](http://liveukulele.com/gear/amplifying-your-ukulele/){:target="_blank"}
 
-- [Ferdinando Carulli, Valzer in G: ukulele transcription (video and tabs)](http://www.andreafortuna.org/ukulele/2015/07/25/ferdinando_carulli_valzer_g/){:target="_blank"}
+- [Ferdinando Carulli, Valzer in G: ukulele transcription (video and tabs)](http://oldsite.andreafortuna.org/ukulele/2015/07/25/ferdinando_carulli_valzer_g/){:target="_blank"}
 
 - [Build Your Own Ukulele](http://www.pinolguitars.com/product/build-your-own-ukulele){:target="_blank"}
 

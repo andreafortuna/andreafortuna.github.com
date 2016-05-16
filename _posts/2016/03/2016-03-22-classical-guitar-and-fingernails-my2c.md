@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Classical Guitar and fingernails: My2C"
-thumbnail: "http://www.andreafortuna.org/guitar/images/peterfingernails.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/guitar/images/peterfingernails.jpg"
 description: "In the world of classical guitar, the use of fingernails has become a standard. But as I have already discussed in a previous article, there are also excellent musicians who have chosen not to use fingernails."
 keywords: Music, Guitar, fingerstyle, fingernails, Rob MacKillop, Scott Tennant, Mauro Storti, Ruggero Chiesa, Angelo Gilardino
 category: Guitar

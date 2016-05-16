@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ransomware written in PHP attacks blogs and CMS?"
-thumbnail: "http://www.andreafortuna.org/security/images/aids-ransomware.png"
+thumbnail: "http://oldsite.andreafortuna.org/security/images/aids-ransomware.png"
 description: "Interesting article that i read on Naked Security Blog by Sophos, about a specific type of ransomware written in PHP attacking blogs and CMS"
 keywords: Security, Threat, ransomware, PHP, AIDS Information Trojan, Windows
 category: Security
@@ -16,7 +16,7 @@ tags:
 
 The very first ransomware, more than *25 years ago*, was the [AIDS Information Trojan](https://en.wikipedia.org/wiki/AIDS_(Trojan_horse)){:target="_blank"}, that ran on old *MS-DOS*: a trojan horse that replaces the *AUTOEXEC.BAT* file which would be used to count the number of times the computer has booted. 
 
-![AIDS ransomware](http://www.andreafortuna.org/security/images/aids-ransomware.png)
+![AIDS ransomware](http://oldsite.andreafortuna.org/security/images/aids-ransomware.png)
 
 Once this boot count reaches 90, *AIDS* hides directories and encrypts the names of all files on drive *C:* and asks the user to **renew the license** and contact *PC Cyborg Corporation* for payment (which would involve sending *189 US$* to a post office box in *Panama*).
 

@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #30"
 description: "My Weekly Digest #30 - What can not be missed this week? "
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/spacex-explosion.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/spacex-explosion.jpg"
 category: WeeklyRoundup
 tags: 
 - Roundup
@@ -31,7 +31,7 @@ tags:
 {% include JB/setup %}
 What can not be missed this week? 
 
-![SpaceX Explosion](http://www.andreafortuna.org/weeklyroundup/images/spacex-explosion.jpg)
+![SpaceX Explosion](http://oldsite.andreafortuna.org/weeklyroundup/images/spacex-explosion.jpg)
 <!-- more -->
 
 Security & Privacy
@@ -101,7 +101,7 @@ Ukulele & Music
 
 - [Makala Waterman Soprano Ukulele REVIEW](http://www.gotaukulele.com/2015/06/makala-waterman-soprano-ukulele-review.html){:target="_blank"}
 
-- [Ukulele exercises: Spider v2.0](http://www.andreafortuna.org/ukulele/2015/06/23/ukulele-spider-exercise-v2/){:target="_blank"}
+- [Ukulele exercises: Spider v2.0](http://oldsite.andreafortuna.org/ukulele/2015/06/23/ukulele-spider-exercise-v2/){:target="_blank"}
 
 - [Tons of Wicked Cool Ukulele Stuff](http://ukenut.com/tons-of-wicked-cool-ukulele-stuff/){:target="_blank"}
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Matteo Carcassi, Allegretto in C: my ukulele transcription (video and tabs)"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/carcassi_allegretto_cover.PNG"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/carcassi_allegretto_cover.PNG"
 description: "Another simple e short piece of Matteo Carcassi: today an 'Allegretto in C'"
 keywords: ukulele, transcriptions, transcription, Matteo Carcassi, Allegretto, music, fingerstyle
 category: Ukulele
@@ -34,5 +34,5 @@ As other guitar transcriptions on my site, the original music sheet was taken fr
 
 For ukulele score&tablature (with my fingering notes), click the link below.
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Matteo_carcassi_Allegretto_in_C.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/Matteo_carcassi_Allegretto_in_C.pdf)
 

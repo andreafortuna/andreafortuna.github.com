@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #63 - #RayTomlinson #linux #sqlserver"
 description: "My Weekly Digest #63 - Goodbye Ray Tomlinson, wellcome SQLServer on Linux!"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/ray.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/ray.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription,Ray Tomlinson, guitar, linux, sqlserver, f35, keranger, WAF, 
 category: WeeklyRoundup
 tags: 
@@ -22,14 +22,14 @@ tags:
 ---
 Interesting things that i read in the last week!
 
-![SQLServer on Linux](http://www.andreafortuna.org/weeklyroundup/images/ray.jpg)
+![SQLServer on Linux](http://oldsite.andreafortuna.org/weeklyroundup/images/ray.jpg)
 <!-- more -->
 <hr/>
 Security & Privacy
 --
 ![security profs](https://pbs.twimg.com/media/AmNO1EtCEAEHHDh.png)
 
-- [KeRanger, the first OSX ransomware comes bundled into Transmission installer](http://www.andreafortuna.org/security/2016/03/07/osx-ransomware/){:target="_blank"}
+- [KeRanger, the first OSX ransomware comes bundled into Transmission installer](http://oldsite.andreafortuna.org/security/2016/03/07/osx-ransomware/){:target="_blank"}
 
 - [7 tips for securing the Internet of Things](https://nakedsecurity.sophos.com/2016/03/07/7-tips-for-securing-the-internet-of-things/){:target="_blank"}
 
@@ -61,7 +61,7 @@ Geekness
 
 - [The Library of Babel](https://libraryofbabel.info/){:target="_blank"}
 
-- [Capture network traffic on a VirtualBox VM](http://www.andreafortuna.org/technology/2016/03/09/capture-network-traffic-from-virtualbox-vm/){:target="_blank"}
+- [Capture network traffic on a VirtualBox VM](http://oldsite.andreafortuna.org/technology/2016/03/09/capture-network-traffic-from-virtualbox-vm/){:target="_blank"}
 
 - [Build a Retro Gaming Table on the Cheap with a $10 IKEA Lack and a Raspberry Pi](http://lifehacker.com/build-a-retro-gaming-table-on-the-cheap-with-a-10-ikea-1762899356){:target="_blank"}
 
@@ -100,13 +100,13 @@ Music
 
 ![Music Test](https://pbs.twimg.com/media/CdNAtItWwAA_P6O.jpg)
 
-- [A440 or A432 tuning?](http://www.andreafortuna.org/music/2016/03/08/a440-or-a432-tuning/){:target="_blank"}
+- [A440 or A432 tuning?](http://oldsite.andreafortuna.org/music/2016/03/08/a440-or-a432-tuning/){:target="_blank"}
 
 - [Hey, What's The Best Ukulele?](http://www.gotaukulele.com/2016/03/hey-whats-best-ukulele.html){:target="_blank"}
 
 - [Outdoor Ukulele Tenor Review](http://ukulelego.com/gear/outdoor-ukulele-tenor-review/){:target="_blank"}
 
-- [Over 1200 free guitar works from Danish Royal Library](http://www.andreafortuna.org/guitar/2016/03/10/free-guitar-works-from-danish-royal-library/){:target="_blank"}
+- [Over 1200 free guitar works from Danish Royal Library](http://oldsite.andreafortuna.org/guitar/2016/03/10/free-guitar-works-from-danish-royal-library/){:target="_blank"}
 
 - [Best Mic for Guitars](http://www.guitarsalon.com/blog/?p=16128){:target="_blank"}
 

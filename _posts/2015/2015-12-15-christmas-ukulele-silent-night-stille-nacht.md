@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Christmas Ukulele: Stille Nacht (Silent Night)"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/silentnight.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/silentnight.jpg"
 description: "My #ukulele version of Silent Night"
 keywords: ukulele, transcriptions, transcription, Stille Nacht, Silent Night, music, fingerstyle
 category: Ukulele
@@ -62,4 +62,4 @@ Here my ukulele version:
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Silent_night.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/Silent_night.pdf)

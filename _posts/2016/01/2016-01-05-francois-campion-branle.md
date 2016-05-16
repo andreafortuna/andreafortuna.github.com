@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "François Campion - Branle"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/branle.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/branle.jpg"
 description: "My #ukulele arrangement of a Branle by François Campion"
 keywords: ukulele, tabs, transcription, François Campion, branle, music, fingerstyle
 category: Ukulele
@@ -58,7 +58,7 @@ Here my ukulele version:
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/branle_campion.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/branle_campion.pdf)
 
 <hr/>
 <div class="video-container">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Governments don't understand cyber warfare. We need hackers"
-thumbnail: "http://www.andreafortuna.org/security/images/rodrigobijou.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/security/images/rodrigobijou.jpg"
 description: "A TED's talk by Rodrigo Bijou about conflict that is being waged online between non-state groups, activists and private corporations, and the digital landscape that is proving to be fertile ground for the recruitment and radicalization of terrorists."
 keywords: Security, Privacy, Terrorism, TED, Rodrigo Bijou, Anonymous, Los Zetas, Charlie Hebdo, Paris
 category: Security
@@ -12,7 +12,7 @@ tags:
 ---
 The security analyst **Rodrigo Bijou** talks about modern conflict that is being waged online between non-state groups, activists and private corporations, and the digital landscape that is proving to be fertile ground for the recruitment and radicalization of terrorists. 
 
-![Rodrigo Bijou](http://www.andreafortuna.org/security/images/rodrigobijou.jpg)
+![Rodrigo Bijou](http://oldsite.andreafortuna.org/security/images/rodrigobijou.jpg)
 
 Bijou also urges governments to end mass surveillance programs and shutdown all *"backdoors"*.
 

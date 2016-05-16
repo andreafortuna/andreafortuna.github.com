@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pentatonic scales on Ukulele, simple patterns
-thumbnail: "http://www.andreafortuna.org/ukulele/images/pentatonic_major_cover.png"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/pentatonic_major_cover.png"
 description: "Simple patterns to easily play pentatonic scales on ukulele"
 keywords: Music, Music Theory, Scales, pentatonic scale, Ukulele, patterns, tabs
 category: Ukulele
@@ -64,4 +64,4 @@ Adding to this scale the fourth degree increased (the blue note) you get the *bl
 
 Download all patterns from the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Pentatonic_Scales.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/Pentatonic_Scales.pdf)

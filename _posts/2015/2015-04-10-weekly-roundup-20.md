@@ -92,7 +92,7 @@ Running
 
 ![Running Shoes](http://i0.wp.com/www.fowllanguagecomics.com/wp-content/uploads/2014/09/running-shoes.jpg?fit=1024%2C1024)
 
-- [Running Chronicles: The first 100 workouts of 2015](http://www.andreafortuna.org/running/2015/04/09/first-100-workout-of-2015)
+- [Running Chronicles: The first 100 workouts of 2015](http://oldsite.andreafortuna.org/running/2015/04/09/first-100-workout-of-2015)
 
 - [How was your weekend running?](http://www.theguardian.com/lifeandstyle/the-running-blog/2015/apr/06/how-was-your-weekend-running)
 

@@ -2,7 +2,7 @@
 layout: roundup
 title: "My Weekly #Roundup #61 - #LinuxMint #Apple #FBI #Petaloso"
 description: "My Weekly Digest #61 - I hope we have a #petaloso weekend, talking about Apple Vs. FBI (again!), Linux Mint Hacking, Facebook Reactions and some musical stuff!"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/facebook_reactions.png"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/facebook_reactions.png"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele,guitar, netflix, transcription, gayageum, petaloso, loinux mint, hacking, nissan, apple, arduino, Angelo Gilardino
 category: WeeklyRoundup
 tags: 
@@ -39,13 +39,13 @@ Security & Privacy
 
 - [SQLMap - Automatic SQL Injection And Database Takeover Tool](http://www.kitploit.com/2016/02/sqlmap-automatic-sql-injection-and.html){:target="_blank"}
 
-- [Project Shield: a Google free service to protect sites from DDoS attacks](http://www.andreafortuna.org/security/2016/02/25/google-project-shield-anti-ddos-service/){:target="_blank"}
+- [Project Shield: a Google free service to protect sites from DDoS attacks](http://oldsite.andreafortuna.org/security/2016/02/25/google-project-shield-anti-ddos-service/){:target="_blank"}
 
 - [FBI must reveal the code it used to hack Dark Web pedophiles](http://www.engadget.com/2016/02/19/fbi-reveal-code-lawsuit-dark-web-pedophiles/){:target="_blank"}
 
 - [CRYPTO-RANSOMWARE MITIGATIONS (Italian)](http://www.devadmin.it/2016/02/15/crypto-ransomware-mitigations/){:target="_blank"}
 
-- [VMWare AirWatch MDM Agent on rooted Android Devices: how to force the enrollment](http://www.andreafortuna.org/technology/2016/02/19/airwatch-mdm-on-rooted-android-devices/){:target="_blank"}
+- [VMWare AirWatch MDM Agent on rooted Android Devices: how to force the enrollment](http://oldsite.andreafortuna.org/technology/2016/02/19/airwatch-mdm-on-rooted-android-devices/){:target="_blank"}
 
 - [Linux Mint Website Hacked and ISOs replaced with Backdoored Operating System](http://thehackernews.com/2016/02/linux-mint-hack.html){:target="_blank"}
 
@@ -122,13 +122,13 @@ Music
 
 - [Find Ukulele Chords That Sound Great Together](http://ukulelego.com/articles/find-ukulele-chords-that-sound-great-together/){:target="_blank"}
 
-- [Classical Guitar without fingernails?](http://www.andreafortuna.org/guitar/2016/02/24/classical-guitar-fingernails/){:target="_blank"}
+- [Classical Guitar without fingernails?](http://oldsite.andreafortuna.org/guitar/2016/02/24/classical-guitar-fingernails/){:target="_blank"}
 
-- [La Vie en rose: simple Ukulele fingerstyle arrangement](http://www.andreafortuna.org/ukulele/2016/02/22/la-vie-en-rose-ukulele-transcription/){:target="_blank"}
+- [La Vie en rose: simple Ukulele fingerstyle arrangement](http://oldsite.andreafortuna.org/ukulele/2016/02/22/la-vie-en-rose-ukulele-transcription/){:target="_blank"}
 
 - [Free download of three composition by Angelo Gilardino](http://angelogilardino.com/2016/02/22/tre-composizioni-gratuite-di-angelo-gilardino/){:target="_blank"}
 
-- [Classical Guitar without fingernails? An opinion by Rob MacKillop](http://www.andreafortuna.org/guitar/2016/02/24/classical-guitar-fingernails/){:target="_blank"}
+- [Classical Guitar without fingernails? An opinion by Rob MacKillop](http://oldsite.andreafortuna.org/guitar/2016/02/24/classical-guitar-fingernails/){:target="_blank"}
 
 - [AC/DC- "Back in Black" Gayageum cover](https://www.youtube.com/watch?v=OEpVDafY6Z8){:target="_blank"}
 

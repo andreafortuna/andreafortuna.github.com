@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ferdinando Carulli, Valzer in G: my ukulele transcription (video and tabs)"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/carulli_valzer_g_detail.png"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/carulli_valzer_g_detail.png"
 description: "Today I propose a transcript of a short didactical piece of Ferdinando Carulli"
 keywords: ukulele, transcriptions, transcription, Ferdinando Carulli, Valzer, music, fingerstyle
 category: Ukulele
@@ -32,5 +32,5 @@ The original key is *G major*, and this transcript on ukulele was not necessary 
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/usPD8cz3JMU" frameborder="0" allowfullscreen></iframe>
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Ferdinando_Carulli_Valzer_in_G.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/Ferdinando_Carulli_Valzer_in_G.pdf)
 

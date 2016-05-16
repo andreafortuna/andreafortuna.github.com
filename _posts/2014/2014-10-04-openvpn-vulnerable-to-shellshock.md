@@ -8,7 +8,7 @@ tags:
 - OpenVPN
 ---
 {% include JB/setup %}
-Fredrick Stromberg reported on [HackerNews](https://news.ycombinator.com/item?id=8385332) that [OpenVPN](https://openvpn.net/) is vulnerable to [Shellshock](http://www.andreafortuna.org/tags.html#Shellshock-ref) , the vulnerability in Bash present in most UNIX based systems.
+Fredrick Stromberg reported on [HackerNews](https://news.ycombinator.com/item?id=8385332) that [OpenVPN](https://openvpn.net/) is vulnerable to [Shellshock](http://oldsite.andreafortuna.org/tags.html#Shellshock-ref) , the vulnerability in Bash present in most UNIX based systems.
 
 ![OpenVPN Logo](http://oi61.tinypic.com/2n697uu.jpg)
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Super Mario Bros. Ground Theme: my ukulele cover (video and transcription)"
 description: "Super Mario Bros. Ground Theme: my ukulele cover (video and tab)"
-thumbnail: "http://www.andreafortuna.org/images/Super_Mario_Bros__Logo.png"
+thumbnail: "http://oldsite.andreafortuna.org/images/Super_Mario_Bros__Logo.png"
 category: Ukulele
 tags: 
 - Ukulele
@@ -16,7 +16,7 @@ tags:
 {% include JB/setup %}
 Why I started playing the ukulele? But it's obvious: to play the theme of *Super Mario Bros.*!
 
-![SuperMarioBros](http://www.andreafortuna.org/images/Super_Mario_Bros__Logo.png)
+![SuperMarioBros](http://oldsite.andreafortuna.org/images/Super_Mario_Bros__Logo.png)
 <!-- more -->
 
 One of most famous videogame soundtrack  (along with *Korobeiniki*, the theme of "Tetris"), includes a huge number of covers and remixes.

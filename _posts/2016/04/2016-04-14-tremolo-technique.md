@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The tremolo technique: how to improve it?"
-thumbnail: "http://www.andreafortuna.org/guitar/images/tremolo-technique/recuerdos_de_la_alhambra.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/guitar/images/tremolo-technique/recuerdos_de_la_alhambra.jpg"
 description: "The tremolo is a beautiful techniques of the classical guitar: it gives the impression of flow of notes, a continuous thread of sound. "
 keywords: Music, Guitar, fingerstyle, tremolo, exercises, Jesùs Silva, julian bream, narciso yepes, pepe romero, Francisco Tárrega, recuerdos de la alhambra
 category: Guitar
@@ -18,7 +18,7 @@ Basically it's made playing a bass note with the thumb followed by three repeate
 
 *When played rapidly, this technique creates the illusion of a sustained melodic line with a bass accompaniment.* 
 
-![Recuerdos de la Alhambra](http://www.andreafortuna.org/guitar/images/tremolo-technique/recuerdos_de_la_alhambra.jpg)
+![Recuerdos de la Alhambra](http://oldsite.andreafortuna.org/guitar/images/tremolo-technique/recuerdos_de_la_alhambra.jpg)
 
 Many important composers for the guitar, including **Francisco Tárrega**, **Manuel Ponce**, **Mario Castelnuovo-Tedesco**, **Federico Moreno Torroba**, **Joaquín Rodrigo**, **Alexandre Tansman**, and **Agustín Barrios** have utilized the tremolo in their works.
 
@@ -34,11 +34,11 @@ and
 Fingernail: with or without?
 --
 
-![My Right Hand](http://www.andreafortuna.org/guitar/images/myrighthand.jpg)
+![My Right Hand](http://oldsite.andreafortuna.org/guitar/images/myrighthand.jpg)
 
 Using or not fingernails is a very subjective matter.
 
-Recently [i started to renovate my technique](http://www.andreafortuna.org/guitar/2016/03/22/classical-guitar-and-fingernails-my2c/) basing it on a touch without fingernails.
+Recently [i started to renovate my technique](http://oldsite.andreafortuna.org/guitar/2016/03/22/classical-guitar-and-fingernails-my2c/) basing it on a touch without fingernails.
 
 However, the performer and teacher **Jesús Silva**, said this:
 
@@ -52,7 +52,7 @@ However, the performer and teacher **Jesús Silva**, said this:
 Keep the thumb quiet
 --
 
-![Fingernails](http://www.andreafortuna.org/guitar/images/fingernails.jpg)
+![Fingernails](http://oldsite.andreafortuna.org/guitar/images/fingernails.jpg)
 
 In most tremolo passages in the repertoire, the fingers carry the melody and the thumb plays the accompaniment. 
 
@@ -103,20 +103,20 @@ The steady pace and run cleaning are basic: it is true that the notes in the tre
 
 **Jesùs Silva** suggest to his students to play a scale using the tremolo technique:
 
-![Tremolo Major Scale](http://www.andreafortuna.org/guitar/images/tremolo-technique/tremolo_major_scale.png)
+![Tremolo Major Scale](http://oldsite.andreafortuna.org/guitar/images/tremolo-technique/tremolo_major_scale.png)
 
 
 <hr/>
 
 One of my personal exercises is to perform a chromatic scale by applying the tremolo technique, straight and 'inverted':
 
-![Tremolo Chromatic Scale](http://www.andreafortuna.org/guitar/images/tremolo-technique/tremolo_chromatic_scale.png)
+![Tremolo Chromatic Scale](http://oldsite.andreafortuna.org/guitar/images/tremolo-technique/tremolo_chromatic_scale.png)
 
 <hr/>
 
 Also I suggest you apply the pattern used in Giuliani's arpeggios to the tremolo:
 
-![Tremolo Arpeggios](http://www.andreafortuna.org/guitar/images/tremolo-technique/tremolo_arpeggios.png)
+![Tremolo Arpeggios](http://oldsite.andreafortuna.org/guitar/images/tremolo-technique/tremolo_arpeggios.png)
 
 
 <hr/>
@@ -131,4 +131,4 @@ And finally, old but gold, let's study ["Recuerdos de la Alhambra"](http://imslp
 
 Download all exercises clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/guitar/files/tremolo_exercises.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/guitar/files/tremolo_exercises.pdf)

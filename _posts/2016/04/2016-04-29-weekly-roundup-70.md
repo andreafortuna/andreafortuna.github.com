@@ -2,7 +2,7 @@
 layout: post_roundup
 title: "My Weekly #Roundup #70 - #HackingTeam #StarWars #Prince #GameOfThrones"
 description: "My Weekly Digest #70 - #HackingTeam #StarWars #Prince #GameOfThrones"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/70/cover.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/70/cover.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar, GameOfThrones, hackingteam, ransomware
 category: WeeklyRoundup
 tags: 
@@ -19,7 +19,7 @@ tags:
 ---
 Interesting things that i read in the #GameOFThrones week!
 
-![hardreset](http://www.andreafortuna.org/weeklyroundup/images/70/cover.jpg)
+![hardreset](http://oldsite.andreafortuna.org/weeklyroundup/images/70/cover.jpg)
 <!-- more -->
 <hr/>
 Security & Privacy

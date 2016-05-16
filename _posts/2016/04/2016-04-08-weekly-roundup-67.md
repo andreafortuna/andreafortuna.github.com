@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #67 - #WhatsApp #E2EE #Tesla"
 description: "My Weekly Digest #67 -  #WhatsApp implements #E2EE Finally!"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/whatsappe2ee.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/whatsappe2ee.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar
 category: WeeklyRoundup
 tags: 
@@ -19,14 +19,14 @@ tags:
 ---
 WhatsApp implements E2E Encryption? Finally!
 
-![WhatsAppe2ee](http://www.andreafortuna.org/weeklyroundup/images/whatsappe2ee.jpg)
+![WhatsAppe2ee](http://oldsite.andreafortuna.org/weeklyroundup/images/whatsappe2ee.jpg)
 <!-- more -->
 <hr/>
 Security & Privacy
 --
 ![nsa](https://pbs.twimg.com/media/CPYHtZwUwAApbN9.jpg)
 
-- [WhatsApp (finally!) enables End-To-End encryption by default](http://www.andreafortuna.org/security/2016/04/06/whatsapp-end-to-end-encryption){:target="_blank"}
+- [WhatsApp (finally!) enables End-To-End encryption by default](http://oldsite.andreafortuna.org/security/2016/04/06/whatsapp-end-to-end-encryption){:target="_blank"}
 
 - [What is SMTP STS? How It improves Email Security for StartTLS?](http://thehackernews.com/2016/03/smtp-sts-email-security.html){:target="_blank"}
 
@@ -99,7 +99,7 @@ Music
 
 - [The Advantages of Spruce Over Cedar](http://www.guitarsalon.com/blog/?p=16544){:target="_blank"}
 
-- [Michael Tilson Thomas: music and emotion through time](http://www.andreafortuna.org/music/2016/04/05/michael-tilson-tomas-music-and-emotion-through-time/){:target="_blank"}
+- [Michael Tilson Thomas: music and emotion through time](http://oldsite.andreafortuna.org/music/2016/04/05/michael-tilson-tomas-music-and-emotion-through-time/){:target="_blank"}
 
 - [Watching Dwayne ‘The Rock’ Johnson Play Ukulele Never Gets Old](http://www.ukulelemag.com/home/watching-dwayne-the-rock-johnson-play-ukulele-never-gets-old){:target="_blank"}
 

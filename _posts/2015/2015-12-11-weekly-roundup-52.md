@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #52 - #TOR #JessicaJones #Dropbox #Mailbox"
 description: "My Weekly Digest #52 -  #TOR #JessicaJones #Dropbox #Mailbox #DonaldTrump #DrWho #Bach #Gavotte #DaniloVignola"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/trump.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/trump.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, MongoDB, NodeJs, Music, Major Scales, Minor Scales, ukulele,Microsoft Edge,Benedict Cumberbatch, Ultramarathon, TOR, Jessica Jones, Dropbox, Mailbox, Carousel, Donald Trump, Dr Who, Bach, Gavotte, Danilo Vignola
 category: WeeklyRoundup
 tags: 
@@ -104,7 +104,7 @@ Ukulele & Music
 
 ![Ukulele Lessons](http://cdn.meme.am/instances/500x/32083531.jpg)
 
-- [Major and Minor scales on Ukulele, simple patterns](http://www.andreafortuna.org/ukulele/2015/12/10/major-minor-scales-patterns/){:target="_blank"}
+- [Major and Minor scales on Ukulele, simple patterns](http://oldsite.andreafortuna.org/ukulele/2015/12/10/major-minor-scales-patterns/){:target="_blank"}
 
 - [The Best (and Worst) of Ukuleles in 2015](http://ukulelehunt.com/2015/12/09/the-best-and-worst-of-ukuleles-in-2015/){:target="_blank"}
 

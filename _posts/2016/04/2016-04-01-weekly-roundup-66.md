@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #66 - #Apple #FBI #Ransomware #JohnWilliams"
 description: "My Weekly Digest #66 - Yes, #FBI was unlocked an #iPhone without #Apple!"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/iPhoneFBI.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/iPhoneFBI.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar
 category: WeeklyRoundup
 tags: 
@@ -19,7 +19,7 @@ tags:
 ---
 Yes, FBI was unlocked an iPhone without Apple, and no, today no **April Fools** prank (I hope!)
 
-![iPhoneFBI](http://www.andreafortuna.org/weeklyroundup/images/iPhoneFBI.jpg)
+![iPhoneFBI](http://oldsite.andreafortuna.org/weeklyroundup/images/iPhoneFBI.jpg)
 
 
 <hr/>
@@ -27,7 +27,7 @@ Security & Privacy
 --
 ![FBI vs. iPhone](http://media.townhall.com/Townhall/Car/b/sk032916dAPR20160329084520.jpg)
 
-- [FBI has successfully unlocked terrorist's iPhone without Apple's help? We assess the situation.](http://www.andreafortuna.org/security/2016/03/31/fbi-unlock-iphone-without-apple-help/){:target="_blank"}
+- [FBI has successfully unlocked terrorist's iPhone without Apple's help? We assess the situation.](http://oldsite.andreafortuna.org/security/2016/03/31/fbi-unlock-iphone-without-apple-help/){:target="_blank"}
 
 - [‘Privacy’ creates single-use virtual credit cards for safer online shopping](http://thenextweb.com/insider/2016/03/24/privacy-creates-single-use-virtual-credit-cards-for-safer-online-shopping/){:target="_blank"}
 
@@ -39,7 +39,7 @@ Security & Privacy
 
 - [Tor Project Promises to Stay Backdoor-Free](http://www.infosecurity-magazine.com/news/tor-project-promises-to-stay/){:target="_blank"}
 
-- [Governments don't understand cyber warfare. We need hackers](http://www.andreafortuna.org/security/2016/03/23/we-need-hackers){:target="_blank"}
+- [Governments don't understand cyber warfare. We need hackers](http://oldsite.andreafortuna.org/security/2016/03/23/we-need-hackers){:target="_blank"}
 
 - [Fishing for Hackers: Analysis of a Linux Server Attack](https://sysdig.com/blog/fishing-for-hackers/?nixCraft){:target="_blank"}
 
@@ -124,7 +124,7 @@ Music
 <iframe src="https://www.youtube.com/embed/AN_FVcaNz0c" frameborder="0" allowfullscreen></iframe>
 </div>
 
-- [International Guitar Research Archives: more then 1100 scores for classical guitar](http://www.andreafortuna.org/guitar/2016/03/29/igra-guitar-scores/){:target="_blank"}
+- [International Guitar Research Archives: more then 1100 scores for classical guitar](http://oldsite.andreafortuna.org/guitar/2016/03/29/igra-guitar-scores/){:target="_blank"}
 
 
 <hr/>

@@ -2,7 +2,7 @@
 layout: post
 title: "Android M vs. iOS 9: 'battery life' challenge?"
 description: "Android M and iOS 9 will introduce new features for battery saving: who will win?"
-thumbnail: "http://www.andreafortuna.org/technology/images/battery.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/battery.jpg"
 category: Technology
 tags: 
 - Battery
@@ -16,7 +16,7 @@ tags:
 {% include JB/setup %}
 Android M and iOS 9 will introduce new features for battery saving: who will win?
 
-![Battery](http://www.andreafortuna.org/technology/images/battery.jpg)
+![Battery](http://oldsite.andreafortuna.org/technology/images/battery.jpg)
 <!-- more -->
 
 The new release of Android, "M" includes some features for battery saving:

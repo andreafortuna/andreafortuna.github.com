@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Joseph Küffner, Valzer in G: my ukulele transcription (video and tabs)"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/kuffner_valzer_in_g_cover.PNG"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/kuffner_valzer_in_g_cover.PNG"
 description: "Today I propose a transcript of a very short and simple didactical piece written by Joseph Küffner."
 keywords: ukulele, transcriptions, transcription, Joseph Küffner, Valzer, music, fingerstyle
 category: Ukulele
@@ -35,5 +35,5 @@ The original key is *G major*, and this transcript on ukulele was not necessary 
 
 You can download the ukulele score&tablature (with my fingering notes) from the link below.
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Kuffner_Valzer_in_G.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/Kuffner_Valzer_in_G.pdf)
 

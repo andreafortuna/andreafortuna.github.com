@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lubuntu 16 freeze after suspend? Upgrade the kernel!"
-thumbnail: "http://www.andreafortuna.org/technology/images/lubuntu-16-freeze-on-suspend/lubuntu.png"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/lubuntu-16-freeze-on-suspend/lubuntu.png"
 description: "After upgrade to Lubuntu 16, your laptop not responding when suspended? It can be solved with a simple kernel upgrade."
 keywords: Technology, Linux, Lubuntu, Kernel 4.4.8, canonical, Lenovo G50-45
 category: Technology
@@ -14,7 +14,7 @@ tags:
 
 After upgrade to **Lubuntu 16**, your laptop (in my case, a **Lenovo G50-45**) not responding when suspended? It can be solved upgrading the kernel to **4.4.8**.
 
-![lubuntu](http://www.andreafortuna.org/technology/images/lubuntu-16-freeze-on-suspend/lubuntu.png)
+![lubuntu](http://oldsite.andreafortuna.org/technology/images/lubuntu-16-freeze-on-suspend/lubuntu.png)
 
 **Canonical** has packed all the kernel releases as deb packages and made them available for Ubuntu-based systems, via its **kernel.ubuntu.com** repository.
 

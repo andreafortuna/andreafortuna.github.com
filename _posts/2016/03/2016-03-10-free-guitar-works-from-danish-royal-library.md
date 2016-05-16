@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Over 1200 free guitar works from Danish Royal Library"
-thumbnail: "http://www.andreafortuna.org/guitar/images/music_archive.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/guitar/images/music_archive.jpg"
 description: "The Danish Royal Library is really a gold mine for classical guitar players. You will find on this site more than 1200 works by composers of the 19th century, known and less known."
 keywords: Music, Guitar, fingerstyle, classical guitar, free, PDF, downloads, Danish Royal Library
 category: Guitar
@@ -14,7 +14,7 @@ The [Danish Royal Library](http://www.kb.dk/en/){:target="_blank"} is really a g
 
 You will find on this site more than *1200 works* by composers of the *19th century*, known and less known.
 
-![music archive](http://www.andreafortuna.org/guitar/images/music_archive.jpg)
+![music archive](http://oldsite.andreafortuna.org/guitar/images/music_archive.jpg)
 
 <hr/>
 

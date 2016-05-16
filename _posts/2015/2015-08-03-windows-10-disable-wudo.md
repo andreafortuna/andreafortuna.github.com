@@ -2,7 +2,7 @@
 layout: post
 title: "Windows 10: how to disable Windows Update Delivery Optimization (WUDO)"
 description: "Windows 10 introduced a new feature, called Windows Update Delivery Optimization (WUDO), initially designed to help users get faster software updates."
-thumbnail: "http://www.andreafortuna.org/technology/images/WUDO_detail.png"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/WUDO_detail.png"
 keywords: Windows 10, Issues, WUDO, peer-to-peer, Windows Update
 category: Microsoft
 tags: 

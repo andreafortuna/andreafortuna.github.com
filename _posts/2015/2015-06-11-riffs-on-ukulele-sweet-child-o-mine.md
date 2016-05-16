@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Riffs on Ukulele: Sweet Child o' Mine"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/sweetchildofmine.png"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/sweetchildofmine.png"
 description: "A famous Guns N' Roses song, a simple and incisive riff that gets into your head, probably played by all budding guitarists."
 category: Ukulele
 tags: 
@@ -15,7 +15,7 @@ tags:
 {% include JB/setup %}
 A famous [Guns N' Roses](http://en.wikipedia.org/wiki/Guns_N%27_Roses){:target="_blank"} song, a simple and incisive riff that gets into your head, probably played by all budding guitarists.
 
-![Ukulele](http://www.andreafortuna.org/ukulele/images/sweetchildofmine.png)
+![Ukulele](http://oldsite.andreafortuna.org/ukulele/images/sweetchildofmine.png)
 <!-- more -->
 
 A bit of history from [wikipedia](http://en.wikipedia.org/wiki/Sweet_Child_o%27_Mine){:target="_blank"}:
@@ -29,7 +29,7 @@ He based it on his girlfriend Erin Everly, and declared that Lynyrd Skynyrd serv
 
 My transcription makes a minimum use of open strings, and is fairly easy to play except for a jump from the second to the eighth fret in the second phrase:
 
-![Ukulele](http://www.andreafortuna.org/ukulele/images/sweetchildofmine_2.png)
+![Ukulele](http://oldsite.andreafortuna.org/ukulele/images/sweetchildofmine_2.png)
 
 Why i chose this fingering?
 
@@ -37,7 +37,7 @@ Why i chose this fingering?
 
 Officially because I prefer a 'staccato' execution, without notes that resonate, unofficially ... well, I've always played the riff in this way and I succumbed to the habit! :-)
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/SweetChildOMine.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/SweetChildOMine.pdf)
 
 
 

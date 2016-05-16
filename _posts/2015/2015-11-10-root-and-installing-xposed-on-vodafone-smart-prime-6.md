@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rooting and installing Xposed Framework on Vodafone Smart Prime 6 (VF-895N)"
-thumbnail: "http://www.andreafortuna.org/technology/images/smartprime6.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/smartprime6.jpg"
 description: "Rooting and installing Xposed Framework on Vodafone Smart Prime 6 (VF-895N): a simple tutorial!"
 keywords: Android, Vodafone, Smart Prime 6, VF-895N, Rooting, KingRoot, SuperSU, Xposed Frameword, FireFlash, Greenify
 category: Technology

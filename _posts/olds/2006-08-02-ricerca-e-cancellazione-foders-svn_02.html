@@ -7,7 +7,7 @@ tags:
 - Apple
 modified_time: '2012-04-26T14:23:57.588+02:00'
 blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-7175035515222908320
-blogger_orig_url: http://www.andreafortuna.org/2006/08/ricerca-e-cancellazione-foders-svn_02.html
+blogger_orig_url: http://oldsite.andreafortuna.org/2006/08/ricerca-e-cancellazione-foders-svn_02.html
 ---
 
 <p>Giocando con <a href="http://code.google.com">Google Code</a>, mi sono trovato a importare in SubVersion un progetto precedentemente mantenuto su un altro server diverso da quello di Google.</p><br/><p>Giustamente il client mi segnala che la copia locale che tento di utilizzare e' gia' legata a un altro repository.<br/>Che fare?</p><br/><p>L'unico modo e' girarsi tutti i sottofolder dell'albero dei sorgenti e rimuovere tutte le entry .svn presenti: facile, se non si trattassero di 18 Mb di codice con innumerevoli sottodirectory.</p><br/><p>In questo caso, la linea di comando ci viene in aiuto:</p><br/><blockquote><p>find . -type d -name *.svn -print0 | xargs -0 rm -rdf</p></blockquote><br/><p>(utilizzato con successo su Linux e MacOSX)<br/></p>

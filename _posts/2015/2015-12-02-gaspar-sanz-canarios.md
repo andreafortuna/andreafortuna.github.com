@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gaspar Sanz - Canarios: my ukulele transcription (video and tabs)"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/canarios.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/canarios.jpg"
 description: "My ukulele transcription  of Canarios by Gaspar Sanz"
 keywords: ukulele, transcriptions, transcription, canarios, gaspar sanz, music, fingerstyle, Francisco Bartolome Sanz Celma
 category: Ukulele
@@ -65,4 +65,4 @@ And here my *disrespectful* ukulele version:
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Canarios.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/Canarios.pdf)

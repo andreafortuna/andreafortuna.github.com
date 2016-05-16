@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Boije collection: over 1600 free works for classical guitar"
-thumbnail: "http://www.andreafortuna.org/guitar/images/19hCenturyGuitar.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/guitar/images/19hCenturyGuitar.jpg"
 description: "Carl Oscar Boije af Gennäs was an insurance clerk and amateur guitarist. His collection includes nearly 1,000 works in print, together with hand written examples from the 19th century."
 keywords: Music, Guitar, fingerstyle, classical guitar, free, PDF, downloads, Carl Oscar Boije af Gennäs, JK Mertz
 category: Guitar
@@ -14,7 +14,7 @@ tags:
 
 His collection includes nearly 1,000 works in print, together with hand written examples from the *19th century*, including some original manuscripts by *JK Mertz*. 
 
-![music archive](http://www.andreafortuna.org/guitar/images/19hCenturyGuitar.jpg)
+![music archive](http://oldsite.andreafortuna.org/guitar/images/19hCenturyGuitar.jpg)
 
 This collection, which exclusively contains music for guitar, was donated to the library in 1924, and digitised in 2007.
 

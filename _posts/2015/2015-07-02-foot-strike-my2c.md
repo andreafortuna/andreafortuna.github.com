@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Barefoot running: my2c about foot-strike and running style"
-thumbnail: "http://www.andreafortuna.org/running/images/pose.png"
+thumbnail: "http://oldsite.andreafortuna.org/running/images/pose.png"
 description: "Random thoughts and considerations about natural running, and footstrike techniques."
 keywords: running, barefoot running, barefoot, footstrike
 category: Running
@@ -16,7 +16,7 @@ tags:
 {% include JB/setup %}
 
 Random thoughts and considerations about natural running, and footstrike techniques.
-![Barefoot Runner](http://www.andreafortuna.org/running/images/pose.png)
+![Barefoot Runner](http://oldsite.andreafortuna.org/running/images/pose.png)
 <!-- more -->
 
 - The foot-strike must take place with the greatest possible surface area of the foot plant, in order to distribute the impact on the whole foot and to allow the dissipation along the entire leg.

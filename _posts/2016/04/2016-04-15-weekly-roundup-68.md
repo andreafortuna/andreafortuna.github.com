@@ -2,7 +2,7 @@
 layout: post_roundup
 title: "My Weekly #Roundup #68 - #IJF16 #SpaceX #HackingTeam"
 description: "My Weekly Digest #68 - #IJF16 #SpaceX #FBI #Guitar #HackingTeam"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/teslaspacex.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/teslaspacex.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar, hackingteam, tremolo, spacex, ijf16, ijf16bot, fbi, apple, ransomware
 category: WeeklyRoundup
 tags: 
@@ -19,14 +19,14 @@ tags:
 ---
 Interesting things that i read in the last week! Nothing about #Badlock: shortly I will write a dedicated post! 
 
-![TeslaSpaceX](http://www.andreafortuna.org/weeklyroundup/images/teslaspacex.jpg)
+![TeslaSpaceX](http://oldsite.andreafortuna.org/weeklyroundup/images/teslaspacex.jpg)
 <!-- more -->
 <hr/>
 Security & Privacy
 --
 ![saferm](https://scontent-mxp1-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/12991067_1284172414929467_4241545843380307416_n.jpg?oh=ab9145a4f32121ea5fdb351774ebbce4&oe=5777ED8A)
 
-- [Frederike Kaltheuner @ #IJF16: understanding predictive privacy harms](http://www.andreafortuna.org/security/2016/04/11/understanding-predictive-privacy-harms/){:target="_blank"}
+- [Frederike Kaltheuner @ #IJF16: understanding predictive privacy harms](http://oldsite.andreafortuna.org/security/2016/04/11/understanding-predictive-privacy-harms/){:target="_blank"}
 
 - [New Ransomware KimcilWare Targets Magento Websites](http://threatpost.com/new-ransomware-kimcilware-targets-magento-websites/117124/){:target="_blank"}
 
@@ -116,7 +116,7 @@ Music
 </div>
 
 
-- [The tremolo technique: how to improve it?](http://www.andreafortuna.org/guitar/2016/04/14/tremolo-technique/){:target="_blank"}
+- [The tremolo technique: how to improve it?](http://oldsite.andreafortuna.org/guitar/2016/04/14/tremolo-technique/){:target="_blank"}
 
 - [Julian Bream and John Williams Live Recital](http://www.classical-guitar-music.com/ensemble/guitar-duo/video-julian-bream-john-williams-live-recital/){:target="_blank"}																									
 

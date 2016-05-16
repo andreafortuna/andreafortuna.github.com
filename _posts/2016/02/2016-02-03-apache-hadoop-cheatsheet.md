@@ -2,7 +2,7 @@
 layout: post
 title: "Apache Hadoop: an introduction and a Cheat Sheet"
 description: "A brief introduction about Apache Hadoop and a useful PDF Cheat Sheet"
-thumbnail: "http://www.andreafortuna.org/technology/images/hadooplogo.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/hadooplogo.jpg"
 keywords: Programming, Apache, Hadoop, Java
 category: Programming
 tags: 

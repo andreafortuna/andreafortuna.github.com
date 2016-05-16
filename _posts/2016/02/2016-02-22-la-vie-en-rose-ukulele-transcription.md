@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La Vie en rose: simple Ukulele fingerstyle arrangement"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/lavieenrose.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/lavieenrose.jpg"
 description: "My #ukulele version of 'La Vie en rose' by Édith Piaf"
 keywords: Music, Ukulele, patterns, tabs, fingerstyle
 category: Ukulele
@@ -59,7 +59,7 @@ It is a transcription of medium/low difficulty level, where the only point of at
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/LaVieEnRose.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/LaVieEnRose.pdf)
 
 <hr/>
 <div class="video-container">

@@ -2,7 +2,7 @@
 layout: post
 title: "Weekly Roundup Special Edition: all about Hacking Team!"
 description: "Some articles that i read in the last days about the 'Hacking Team breach' (in constant update)"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/hackedteam.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/hackedteam.jpg"
 keywords: Hacking Team, Security, Adobe, Exploits, 0Day, Galileo, Da Vinci, Malware, Windows, iOS, Android, Sudan, FBI, Wikileaks
 category: Security
 tags: 
@@ -30,7 +30,7 @@ tags:
 {% include JB/setup %}
 Some articles that i read in the last days about the "Hacking Team breach" (in constant update).
 
-![HackedTeam](http://www.andreafortuna.org/weeklyroundup/images/hackedteam.jpg)
+![HackedTeam](http://oldsite.andreafortuna.org/weeklyroundup/images/hackedteam.jpg)
 <!-- more -->
 
 *Last update: July 10, 2015 - 11:00 AM*

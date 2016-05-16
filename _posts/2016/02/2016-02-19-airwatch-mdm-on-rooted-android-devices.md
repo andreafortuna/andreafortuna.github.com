@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VMWare AirWatch MDM Agent on rooted Android Devices: how to force the enrollment"
-thumbnail: "http://www.andreafortuna.org/technology/images/airwatch.png"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/airwatch.png"
 description: "A short and simple procedure to force the enrollment of rooted Android devices on AirWatch MDM."
 keywords: Security, VMWare, AirWatch, Android, BOYD, Xposed, unWatch
 category: Technology
@@ -49,7 +49,7 @@ How to force enrollment?
 
 Fortunately there is a simple and quick way to force the enrollment of the device with root permissions.
 
-*Xposed framework* is required (I have already spoken about in [this post](http://www.andreafortuna.org/technology/2015/11/10/root-and-installing-xposed-on-vodafone-smart-prime-6/)): just install *[unWatch](http://forum.xda-developers.com/xposed/modules/app-unwatch-root-support-airwatch-t3183082){:target="_blank"}*, a great module developed by [digitalhigh](http://forum.xda-developers.com/member.php?u=3400685){:target="_blank"}, a member of the [XDA forum](http://forum.xda-developers.com/){:target="_blank"}.
+*Xposed framework* is required (I have already spoken about in [this post](http://oldsite.andreafortuna.org/technology/2015/11/10/root-and-installing-xposed-on-vodafone-smart-prime-6/)): just install *[unWatch](http://forum.xda-developers.com/xposed/modules/app-unwatch-root-support-airwatch-t3183082){:target="_blank"}*, a great module developed by [digitalhigh](http://forum.xda-developers.com/member.php?u=3400685){:target="_blank"}, a member of the [XDA forum](http://forum.xda-developers.com/){:target="_blank"}.
 
 ![unWatch](/technology/images/unWatch.png)
 

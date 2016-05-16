@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Project Shield: a Google free service to protect sites from DDoS attacks"
-thumbnail: "http://www.andreafortuna.org/security/images/project-shield.png"
+thumbnail: "http://oldsite.andreafortuna.org/security/images/project-shield.png"
 description: "Google has built a free tool for journalists, news sites and other organizations, called Project Shield that re-routes nasty traffic through its own infrastructure in order to stop websites being overwhelmed."
 keywords: Security, Google, Project Shield, DDoS
 category: Security
@@ -14,7 +14,7 @@ tags:
 ---
 {% include JB/setup %}
 
-![Project Shield logo](http://www.andreafortuna.org/security/images/project-shield.png)
+![Project Shield logo](http://oldsite.andreafortuna.org/security/images/project-shield.png)
 
 *Google* has built a free tool for journalists, news sites and other organizations, called *Project Shield* that re-routes nasty traffic through its own infrastructure in order to stop websites being overwhelmed.
 

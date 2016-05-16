@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wolfgang Amadeus Mozart: Rondò alla Turca (Turkish March) from Piano Sonata No. 11 (K 331) - My ukulele arrangement"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/turkish_march.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/turkish_march.jpg"
 description: "My #ukulele version of the 'Turkish March' from Piano Sonata No. 11 (K 331) by Wolfgang Amadeus Mozart"
 keywords: ukulele, transcription, arrangement, Wolfgang Amadeus Mozart, Turkish March, Rondò alla Turca, Piano Sonata No. 11,  fingerstyle, 
 category: Ukulele
@@ -78,14 +78,14 @@ My arrangement
 --
 
 <div class="video-container">
-<embed src="http://www.andreafortuna.org/ukulele/files/Mozart_Turkish_March_K331.pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+<embed src="http://oldsite.andreafortuna.org/ukulele/files/Mozart_Turkish_March_K331.pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
 </div>
 
 <hr/>
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://cloud.andreafortuna.org/index.php/s/vLPpDxtOA0qy9fx/download)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://cloud.andreafortuna.org/index.php/s/vLPpDxtOA0qy9fx/download)
 
 <hr/>
 

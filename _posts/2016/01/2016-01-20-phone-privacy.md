@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Christopher Soghoian: How to avoid surveillance with the phone in your pocket"
-thumbnail: "http://www.andreafortuna.org/technology/images/PhoneWiretapping.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/PhoneWiretapping.jpg"
 description: "Very interesting talk by Christopher Soghoian on a 2015 TED Conference, about phone wiretapping and privacy"
 keywords: Wiretapping, Privacy, Security, Activism
 category: Security

@@ -39,7 +39,7 @@ Security & Privacy
 
 - [This Facebook Hack Allows You to Track Your Friends On Map](http://thehackernews.com/2015/05/facebook-hack-location.html){:target="_blank"}
 
-- [Crashing an iPhone with a simple message?](http://www.andreafortuna.org/security/2015/05/29/ios-imessage-crash/){:target="_blank"}
+- [Crashing an iPhone with a simple message?](http://oldsite.andreafortuna.org/security/2015/05/29/ios-imessage-crash/){:target="_blank"}
 
 - [Apache Cordova flaw leaves one in 20 Android apps open to attack](http://www.v3.co.uk/v3-uk/news/2410427/apache-cordova-flaw-leaves-one-in-20-android-apps-open-to-attack){:target="_blank"}
 
@@ -79,13 +79,13 @@ Programming
 Ukulele
 --
 
-![Ukulele](http://www.andreafortuna.org/images/ItsAUkulele.jpg)
+![Ukulele](http://oldsite.andreafortuna.org/images/ItsAUkulele.jpg)
 
 - [Adjusting Ukulele Setup and the Impact on Intonation](http://www.gotaukulele.com/2015/02/adjusting-ukulele-setup-and-impact-on.html){:target="_blank"}
 
-- [Niccolò Paganini, Ghiribizzo No. 1: ukulele transcription](http://www.andreafortuna.org/ukulele/2015/05/28/paganini-ghiribizzo-no-1/){:target="_blank"}
+- [Niccolò Paganini, Ghiribizzo No. 1: ukulele transcription](http://oldsite.andreafortuna.org/ukulele/2015/05/28/paganini-ghiribizzo-no-1/){:target="_blank"}
 
-- [Niccolò Paganini, Ghiribizzo No. 4: ukulele transcription](http://www.andreafortuna.org/ukulele/2015/05/25/paganini-ghiribizzo-no-4/){:target="_blank"}
+- [Niccolò Paganini, Ghiribizzo No. 4: ukulele transcription](http://oldsite.andreafortuna.org/ukulele/2015/05/25/paganini-ghiribizzo-no-4/){:target="_blank"}
 
 - Ryo Natoyama / Way 2 Go!!
 
@@ -95,7 +95,7 @@ Ukulele
 Running
 --
 
-![Lazy](http://www.andreafortuna.org/images/lazy.jpg)
+![Lazy](http://oldsite.andreafortuna.org/images/lazy.jpg)
 
 
 - [Run barefoot is better!](Why, in my opinion, run barefoot is better, in six points){:target="_blank"}

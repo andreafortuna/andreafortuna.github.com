@@ -7,7 +7,7 @@ tags:
 - Unix
 modified_time: '2012-04-26T14:23:36.477+02:00'
 blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-6389610875569315421
-blogger_orig_url: http://www.andreafortuna.org/2006/09/unix-tip-automatizzare-le-sessioni_23.html
+blogger_orig_url: http://oldsite.andreafortuna.org/2006/09/unix-tip-automatizzare-le-sessioni_23.html
 ---
 
 Puo' capitare di dover effettuare una operazione (ad esempio lanciare uno script) su piu' server in sequenza: volendo utilizzare esclusivamente telnet e' possibile automatizzare la procedura di login e di esecuzione del comando in modo da poter 'scriptare' la sequenza.<br/><br/>A questo scopo e' possibile utilizzare <em>expect</em>, un linguaggio di scripting estensione del piu' famoso Tcl/Tk.<br/>Uno script <em>expect</em> si presenta cosi':<br/><blockquote><br/><code>#!/usr/bin/expect -f<br/>spawn telnet server1<br/>expect "login:"<br/>send "andrea\r"<br/>expect "Password:"<br/>send "segreta\r"<br/>expect "server1&gt;$"<br/>send "comando-da-eseguire\r"<br/>expect "server1&gt;$"<br/>send "exit\r"<br/>expect eof</code><br/></blockquote><br/>Una volta salvato il file e reso  eseguibile (con il canonico chmod 755) lo script puo' eseguire autonomamente il login sul server e una eventuale sequenza di comandi.<br/>L'esempio in questione e' facilmente adattabile anche a sessioni ftp.

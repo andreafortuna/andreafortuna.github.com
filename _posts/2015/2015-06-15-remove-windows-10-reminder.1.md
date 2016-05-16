@@ -2,7 +2,7 @@
 layout: post
 title: "How to disable the message 'Upgrade To Windows 10'  From Windows 7 and Windows 8"
 description: "Annoyed by the notification in the tray area that reminds you that is available the free upgrade to Windows 10?"
-thumbnail: "http://www.andreafortuna.org/technology/images/getwindows10.png"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/getwindows10.png"
 category: Technology
 tags: 
 - Windows 10
@@ -13,7 +13,7 @@ tags:
 {% include JB/setup %}
 Annoyed by the notification in the tray area that reminds you that is available the free upgrade to Windows 10?
 
-![Battery](http://www.andreafortuna.org/technology/images/getwindows10.png)
+![Battery](http://oldsite.andreafortuna.org/technology/images/getwindows10.png)
 <!-- more -->
 
 Removing is very simple, follow this simple steps:

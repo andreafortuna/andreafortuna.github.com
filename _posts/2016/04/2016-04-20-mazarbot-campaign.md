@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mazar BOT campaign in Denmark and Italy"
-thumbnail: "http://www.andreafortuna.org/technology/images/MazarBOT.png"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/MazarBOT.png"
 description: "A new Mazar BOT campaign is currently targeting Android users in Denmark and Italy. Attackers are spoofing trustworthy organizations to infected Android smartphones."
 keywords: Security, Threat, Android, MazarBOT, PEBKAC, TOR, SMS, Heimdal Security, Italy, Denmark
 category: Security
@@ -23,11 +23,11 @@ The announcement was given by [Heimdal Security on his blog](https://heimdalsecu
 
 > So far, this new Mazar BOT campaign has infected almost 400 Android devices in **Denmark** and 1500 in **Italy**.
 
-![MazarBOT](http://www.andreafortuna.org/technology/images/MazarBOT.png)
+![MazarBOT](http://oldsite.andreafortuna.org/technology/images/MazarBOT.png)
 
 <hr/>
 
-I already wrote a [post dedicated to Mazar BOT](http://www.andreafortuna.org/security/2016/02/16/mazar-bot-root-and-erase-android-devices/), I recommend you give it a look:
+I already wrote a [post dedicated to Mazar BOT](http://oldsite.andreafortuna.org/security/2016/02/16/mazar-bot-root-and-erase-android-devices/), I recommend you give it a look:
 
 > Once installed, the malware retrieves,unpacks and runs the TOR application, which will then be used to connect to a .onion server in the darkweb (http://pc35hiptpcwqezgs.Onion) and after sends an automated SMS to the number 9876543210 (+98 is the country code for Iran) with the text message: “Thank you”.
 
@@ -50,7 +50,7 @@ Once clicked, the shortened link leads to **www.fhsinsaat.com/apk/post.apk**, wh
 How to protect yourself?
 --
 
-The advices are the same as [my previous post](http://www.andreafortuna.org/security/2016/02/16/mazar-bot-root-and-erase-android-devices/):
+The advices are the same as [my previous post](http://oldsite.andreafortuna.org/security/2016/02/16/mazar-bot-root-and-erase-android-devices/):
 
 1. NEVER click on links in SMS or MMS messages on your phone: Android phones are notoriously vulnerable and current security product dedicated to this OS are not nearly as effective as they are on computers.
 2. Go to **Settings > Security** and make sure this option is turned *OFF*: "Unknown Sources – Allow installation of apps from sources other than the playstore."

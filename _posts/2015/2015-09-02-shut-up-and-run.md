@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The grumpy runner #2: Shut up and run!"
-thumbnail: "http://www.andreafortuna.org/running/images/injuredrunner.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/running/images/injuredrunner.jpg"
 description: "Like any good fan of running, I follow constantly forums and Facebook groups which discuss about the sport."
 category: Running
 tags: 

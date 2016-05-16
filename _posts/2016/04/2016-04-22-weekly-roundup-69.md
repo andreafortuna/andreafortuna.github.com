@@ -2,7 +2,7 @@
 layout: post_roundup
 title: "My Weekly #Roundup #69 - #Prince #Tesla #WebUSB #GoT"
 description: "My Weekly Digest #69 - #Prince #Tesla #WebUSB #GoT"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/prince.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/prince.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar, tesla, facebook, tafkap, prince, ransomware, stallman, game of thrones
 category: WeeklyRoundup
 tags: 
@@ -19,7 +19,7 @@ tags:
 ---
 "Don't have to be cool to rule my world"
 
-![prince](http://www.andreafortuna.org/weeklyroundup/images/prince.jpg)
+![prince](http://oldsite.andreafortuna.org/weeklyroundup/images/prince.jpg)
 <!-- more -->
 <hr/>
 Security & Privacy

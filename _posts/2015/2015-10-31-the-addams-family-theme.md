@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#halloween #ukulele: The Addams Family Theme"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/addamsfamily.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/addamsfamily.jpg"
 description: "Trick or treat? Instead of candy and sweets, I offer my own transcription on #ukulele of the theme of the old and beloved TV series 'The Addams Family'!"
 keywords: ukulele, transcriptions, transcription, The Addams Family, Vic Mizzy, Charles Addams, music, fingerstyle, Halloween
 category: Ukulele
@@ -38,7 +38,7 @@ And here my ukulele arrangement:
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/the_addams_family_theme.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/the_addams_family_theme.pdf)
 
 <hr/>
 <iframe width="100%" height="394" src="https://musescore.com/user/3227656/scores/1365086/embed" frameborder="0"></iframe><span><a href="https://musescore.com/user/3227656/scores/1365086">The Addams Family Theme, Ukulele arrangement</a> by <a href="https://musescore.com/user/3227656">Andrea Fortuna</a></span> 

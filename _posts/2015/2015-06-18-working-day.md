@@ -2,7 +2,7 @@
 layout: post
 title: "Working day..."
 description: "Today I do not have much time to write on the blog, but I want to share an image that sums up my working day!"
-thumbnail: "http://www.andreafortuna.org/technology/images/it_marriage.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/it_marriage.jpg"
 category: Technology
 tags: 
 - Humor
@@ -12,7 +12,7 @@ tags:
 {% include JB/setup %}
 Today I do not have much time to write on the blog, but I want to share an image that sums up my working day!
 
-![IT=Marriage](http://www.andreafortuna.org/technology/images/it_marriage.jpg)
+![IT=Marriage](http://oldsite.andreafortuna.org/technology/images/it_marriage.jpg)
 
 <!-- more -->
 

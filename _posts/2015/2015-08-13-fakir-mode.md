@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 'fakir mode' mantra"
-thumbnail: "http://www.andreafortuna.org/running/images/fakir.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/running/images/fakir.jpg"
 description: "When I run barefoot and I have to face a particularly rough ground, I start to repeat myself a mantra: 'fakir mode, fakir mode, fakir mode ...'."
 keywords: running, barefoot, barefoot running, fakir mode
 category: Running
@@ -15,7 +15,7 @@ tags:
 
 When I run barefoot and I have to face a particularly rough ground, I start to repeat myself a mantra: "fakir mode, fakir mode, fakir mode ...".
 
-![Fakir](http://www.andreafortuna.org/running/images/fakir.jpg)
+![Fakir](http://oldsite.andreafortuna.org/running/images/fakir.jpg)
 
 <!-- more -->
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Niccolò Paganini: theme from 'The Carnival of Venice' ('O mamma, mamma cara') - My ukulele arrangement"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/carnival_of_venice.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/carnival_of_venice.jpg"
 description: "My #ukulele version of Theme from 'The Carnival of Venice' ('O mamma, mamma cara') by Niccolò Paganini"
 keywords: ukulele, transcription, arrangement, Niccolò Paganini, Venice, Carnival, fingerstyle, 
 category: Ukulele
@@ -57,7 +57,7 @@ I recommend to using your thumb to play the notes on the downbeat of the accompa
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/the_carnival_of_venice.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/the_carnival_of_venice.pdf)
 
 <hr/>
 <div class="video-container">

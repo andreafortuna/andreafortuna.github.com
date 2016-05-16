@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mazar BOT: new Android malware that can root and erase your device"
-thumbnail: "http://www.andreafortuna.org/technology/images/MazarBOT.png"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/MazarBOT.png"
 description: "Researchers of Heimdal Security, analyzing an SMS message sent to random mobile numbers and locations, have discovered a new Android Malware, Mazar BOT."
 keywords: Security, Threat, Android, MazarBOT, PEBKAC, TOR, SMS, Heimdal Security
 category: Security

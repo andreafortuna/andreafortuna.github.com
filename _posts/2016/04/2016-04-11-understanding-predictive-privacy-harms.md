@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frederike Kaltheuner @ #IJF16: understanding predictive privacy harms"
-thumbnail: "http://www.andreafortuna.org/security/images/predictingprivacy.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/security/images/predictingprivacy.jpg"
 description: "Predictive analytics based on big data can turn into privacy harms? In this interesting talk at International Journalism Festival, Frederike Kaltheuner seeks to clarify."
 keywords: Security, Privacy, IJF16, Big Data, Frederike Kaltheuner
 category: Security
@@ -27,7 +27,7 @@ In this interesting talk at [International Journalism Festival](http://www.festi
 The speaker
 --
 
-![Frederike Kaltheuner](http://www.andreafortuna.org/security/images/predictingprivacy.jpg)
+![Frederike Kaltheuner](http://oldsite.andreafortuna.org/security/images/predictingprivacy.jpg)
 
 **Frederike Kaltheuner** is a researcher at the *University of Amsterdam*, where she work with the **DATACTIVE** collective. 
 

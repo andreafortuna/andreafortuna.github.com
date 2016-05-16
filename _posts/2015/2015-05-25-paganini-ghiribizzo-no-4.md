@@ -15,7 +15,7 @@ Not everyone knows that Paganini was also an excellent guitarist
 
 He wrote more than 100 pieces for guitar, including the "Ghiribizzi" (‘whims’). 
 
-![Ghiribizzo No. 4](http://www.andreafortuna.org/images/Ghiribizzo4.png)
+![Ghiribizzo No. 4](http://oldsite.andreafortuna.org/images/Ghiribizzo4.png)
 <!-- more -->
 
 >Composed for ‘a little girl in Naples’ who must have been both talented and eager to develop her technique, these whimsical works explore a wide range of musical styles idiomatic to the guitar. 
@@ -29,4 +29,4 @@ The "Ghiribizzo no. 4" is based in fact on a theme by Paganini: the original is 
 
 As usual, in the score there are my suggestions regarding the fingering for both hands.
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/files/Paganini-Ghiribizzo4.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/files/Paganini-Ghiribizzo4.pdf)

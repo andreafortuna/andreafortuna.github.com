@@ -20,7 +20,7 @@ What can not be missed this week?
 
 - [CryptoPHP - Backdoor in Thousands of CMS Plugins & Themes Used to Hijack Web Servers](http://radar.andreafortuna.org/post/103461383164/cryptophp-backdoor-in-thousands-of-cms-plugins)
 
-- [Three new Android vulnerabilities, one remote](http://www.andreafortuna.org/security/2014/11/27/three-new-android-vulnerabilities-one-remote/)
+- [Three new Android vulnerabilities, one remote](http://oldsite.andreafortuna.org/security/2014/11/27/three-new-android-vulnerabilities-one-remote/)
 
 - [Twitter will now Track EVERY App You have Installed on Your Smartphone](http://thehackernews.com/2014/11/twitter-will-now-track-every-app-you.html)
 

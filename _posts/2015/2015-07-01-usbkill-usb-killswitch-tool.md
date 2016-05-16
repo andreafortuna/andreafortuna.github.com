@@ -2,7 +2,7 @@
 layout: post
 title: "Shutting down computer on USB port activity? Yes, with USBKill"
 description: "USBKill, a simple console tool to shutdown computer on USB port activity"
-thumbnail: "http://www.andreafortuna.org/technology/images/usbkill.PNG"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/usbkill.PNG"
 category: Security
 tags: 
 - Unix
@@ -16,7 +16,7 @@ tags:
 {% include JB/setup %}
 *USBkill* is a simple console tool that waits for a change on your USB ports and then immediately shuts down your computer.
 
-![USBKILL](http://www.andreafortuna.org/technology/images/USBKill.gif)
+![USBKILL](http://oldsite.andreafortuna.org/technology/images/USBKill.gif)
 <!-- more -->
 
 From [GitHub repository](https://github.com/hephaest0s/usbkill){:target="_blank"}:
@@ -35,7 +35,7 @@ Slightly paranoid!
 
 Anyway, the tool is useful also as a simple security system in case of theft of laptop: with a simple USB key connected to a security cable tied to the desk. :-)
 
-I had already spoken in a previous [Weekly Roundup](http://www.andreafortuna.org/weeklyroundup/2015/05/11/weekly-roundup-23/): latest updates, however, are quite remarkable:
+I had already spoken in a previous [Weekly Roundup](http://oldsite.andreafortuna.org/weeklyroundup/2015/05/11/weekly-roundup-23/): latest updates, however, are quite remarkable:
 
 >(version 1.0-rc.2)
 >- Compatible with Linux, *BSD and OS X.

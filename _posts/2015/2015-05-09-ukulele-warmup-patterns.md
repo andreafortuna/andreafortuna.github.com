@@ -13,11 +13,11 @@ tags:
 {% include JB/setup %}
 Years ago, when I was studying classical guitar, I developed a simple set of exercises for both hands that I used as a warm up before beginning the study session.
 
-![Ukulele](http://www.andreafortuna.org/images/ukulele_tips.jpg)
+![Ukulele](http://oldsite.andreafortuna.org/images/ukulele_tips.jpg)
 <!-- more -->
 
 So I decided to reuse the warm up exercises elaborated on guitar also on the ukulele.
 
 The base idea is to work with the left hand across all the fretboard, and at the same time, *"wake up"* the right hand with a heterogeneous fingering.
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/files/Warmup.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/files/Warmup.pdf)

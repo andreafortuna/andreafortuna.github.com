@@ -2,7 +2,7 @@
 layout: post
 title: "Import a Windows physical machine into a VirtualBox virtual machine "
 description: "It had to help a user in the migration from an old laptop (with serious motherboard issues) to a new laptop. "
-thumbnail: "http://www.andreafortuna.org/technology/images/virtualWinXP.png"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/virtualWinXP.png"
 keywords: Windows, VirtualBox, Tips, Disk2VHD
 category: Technology
 tags: 

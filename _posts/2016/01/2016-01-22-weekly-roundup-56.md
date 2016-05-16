@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #56 - #LinuxZeroDay #OpenSSH #SpaceX #WhatsApp"
 description: "My Weekly Digest #56 - #LinuxZeroDay #OpenSSH #SpaceX #WhatsApp #Swift #Winter"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/linux_zero_day.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/linux_zero_day.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, Pentatonic, SpaceX, WhatsApp, Linux Kernel Zero Day, OpenSSH, vulnerabilities
 category: WeeklyRoundup
 tags: 
@@ -113,7 +113,7 @@ Ukulele & Music
 
 - [Building an Ukulele from scratch](http://www.instructables.com/id/Building-an-Ukulele-from-scratch/){:target="_blank"}
 
-- [Pentatonic scales on Ukulele, simple patterns](http://www.andreafortuna.org/ukulele/2016/01/18/pentatonic-scales-patterns){:target="_blank"}
+- [Pentatonic scales on Ukulele, simple patterns](http://oldsite.andreafortuna.org/ukulele/2016/01/18/pentatonic-scales-patterns){:target="_blank"}
 
 - [Classical Music Fails](https://www.youtube.com/watch?v=vPA31kvEUyY){:target="_blank"}
 

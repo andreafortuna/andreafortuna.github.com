@@ -7,7 +7,7 @@ tags:
 - Linux
 modified_time: '2012-04-26T14:23:57.521+02:00'
 blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-2998236589971617523
-blogger_orig_url: http://www.andreafortuna.org/2006/04/velocizzare-vmware-server-su-linux_15.html
+blogger_orig_url: http://oldsite.andreafortuna.org/2006/04/velocizzare-vmware-server-su-linux_15.html
 ---
 
 <p>La <a href="http://www.vmware.com/download/server/" target="_blank">Beta 2 di VmWare server</a>  &egrave; estremamente lenta.</p><p>Questo accade perch&egrave; (essendo una Beta) ha i flag di debug abilitati: il meccanismo di debug quindi aumenta il carico di lavoro della macchina host.</p> <a name='more'></a> <p>Ecco una procedura per eliminare il Debug e&nbsp; velocizzare il tutto.</p><p>Fermare la virtual machines:<br /></p> 	<blockquote><p>/etc/init.d/vmware stop</p></blockquote> 	<p>Se sulle macchine virtuali non sono installati i VMWare Tool sara' necessario effettuare lo shutdown dei singoli sistemi virtualizzati.<br /></p> 	<p>Entrare nella cartella <em>lib</em> di vmware (<em>/usr/lib/vmware</em>).</p> 	<p>Qui e' presente un folder <em>bin-debug</em>: rinominarlo con<br /></p> 	<blockquote><p>mv /usr/lib/vmware/bin-debug /usr/lib/vmware/bin-debug.bak</p></blockquote> 	<p>Ora creare un simlink della directory <em>bin</em> chiamandolo <em>bin-debug</em>:</p> 	<blockquote><p>ln -s /usr/lib/vmware/bin /usr/lib/vmware/bin-debug</p></blockquote> 	<p>La directory bin contiene i binari epurati dal codice di debug.<br /></p><p>Dopo aver creato il symlink, riavviare VMware Server:</p> 	<blockquote><p>/etc/init.d/vmware start </p></blockquote><p>&nbsp;</p><p>&nbsp;</p>

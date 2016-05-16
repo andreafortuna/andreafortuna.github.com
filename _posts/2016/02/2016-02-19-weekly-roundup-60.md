@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #60 - #Apple #FBI #Kittens #Vangelis"
 description: "My Weekly Digest #60 - Interesting things that i read in this week conveniently encrypted in iCloud,away from FBI eyes! #Apple #FBI #Kittens #Vangelis #Privacy #JennShelton"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/applefbi.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/applefbi.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, apple, terrorism, tim cook, FBI, android MazarBot, Glibc, Jenn Shelton, Vangelis
 category: WeeklyRoundup
 tags: 
@@ -46,11 +46,11 @@ Security & Privacy
 
 - [Determining Physical Location on the Internet](https://www.schneier.com/blog/archives/2016/02/determining_phy.html){:target="_blank"}
 
-- [Mazar BOT: new Android malware that can root and erase your device](http://www.andreafortuna.org/security/2016/02/16/mazar-bot-root-and-erase-android-devices/){:target="_blank"}
+- [Mazar BOT: new Android malware that can root and erase your device](http://oldsite.andreafortuna.org/security/2016/02/16/mazar-bot-root-and-erase-android-devices/){:target="_blank"}
 
-- [CVE-2015-7547: a new buffer overflow in glibc affect all Linux machines](http://www.andreafortuna.org/security/2016/02/17/CVE-2015-7547-glibc-buffer-overflow/){:target="_blank"}
+- [CVE-2015-7547: a new buffer overflow in glibc affect all Linux machines](http://oldsite.andreafortuna.org/security/2016/02/17/CVE-2015-7547-glibc-buffer-overflow/){:target="_blank"}
 
-- [Cisco ASA VPN Portal Cross Site Scripting](http://www.andreafortuna.org/security/2016/02/18/cisco-asa-vpn-portal-xss/){:target="_blank"}
+- [Cisco ASA VPN Portal Cross Site Scripting](http://oldsite.andreafortuna.org/security/2016/02/18/cisco-asa-vpn-portal-xss/){:target="_blank"}
 
 - [Cisco ASA Software IKEv1 and IKEv2 Buffer Overflow Vulnerability](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160210-asa-ike){:target="_blank"}
 
@@ -131,7 +131,7 @@ Ukulele & Music
 
 - [Spool Clamp Inferno!](http://theukuleleblog.blogspot.com/2016/02/spool-clamp-inferno.html){:target="_blank"}
 
-- [Vangelis: Chariots of Fire on Ukulele](http://www.andreafortuna.org/ukulele/2016/02/15/vangelis-chariots-of-fire/){:target="_blank"}
+- [Vangelis: Chariots of Fire on Ukulele](http://oldsite.andreafortuna.org/ukulele/2016/02/15/vangelis-chariots-of-fire/){:target="_blank"}
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/pCEqZ7z44nk" frameborder="0" allowfullscreen></iframe>

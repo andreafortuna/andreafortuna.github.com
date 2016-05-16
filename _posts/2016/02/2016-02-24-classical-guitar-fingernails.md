@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Classical Guitar without fingernails? An opinion by Rob MacKillop"
-thumbnail: "http://www.andreafortuna.org/guitar/images/fingernails.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/guitar/images/fingernails.jpg"
 description: "Never ask a group of classical guitarists if you can play even without the nails of the right hand!"
 keywords: Music, Guitar, fingerstyle, fingernails, Rob MacKillop, Technique, Tarrega
 category: Guitar
@@ -15,7 +15,7 @@ tags:
 
 Never ask a group of classical guitarists if you can play even without the nails of the right hand!
 
-![Fingernails](http://www.andreafortuna.org/guitar/images/fingernails.jpg)
+![Fingernails](http://oldsite.andreafortuna.org/guitar/images/fingernails.jpg)
 
 You risk being insulted brutally....and absolutely do not mention Tárrega!
 

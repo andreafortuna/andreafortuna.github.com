@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SQL Injection in a Nutshell"
-thumbnail: "http://www.andreafortuna.org/security/images/sql-injection_cover.png"
+thumbnail: "http://oldsite.andreafortuna.org/security/images/sql-injection_cover.png"
 description: "Ay Caramba!"
 keywords: Security, Threat, SQL Injection, The Simpsons, Humor, Comics
 category: Security
@@ -13,7 +13,7 @@ tags:
 
 Ay Caramba!
 
-![SQL Injection](http://www.andreafortuna.org/security/images/sql-injection.png)
+![SQL Injection](http://oldsite.andreafortuna.org/security/images/sql-injection.png)
 
 
 <hr/>

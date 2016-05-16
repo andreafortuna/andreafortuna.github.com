@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #31"
 description: "My Weekly Digest #31 - What can not be missed this week? "
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/reddit.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/reddit.jpg"
 category: WeeklyRoundup
 tags: 
 - Roundup
@@ -27,7 +27,7 @@ tags:
 {% include JB/setup %}
 What can not be missed this week? 
 
-![Reddit](http://www.andreafortuna.org/weeklyroundup/images/reddit.jpg)
+![Reddit](http://oldsite.andreafortuna.org/weeklyroundup/images/reddit.jpg)
 <!-- more -->
 
 Security & Privacy
@@ -94,7 +94,7 @@ Running
 
 ![9.94](https://s-media-cache-ak0.pinimg.com/236x/9b/16/cc/9b16cc45edc0f9bc69fdb28d25f8fd9c.jpg)
 
-- [Barefoot running: my2c about foot-strike and running style](http://www.andreafortuna.org/running/2015/07/02/foot-strike-my2c/){:target="_blank"}
+- [Barefoot running: my2c about foot-strike and running style](http://oldsite.andreafortuna.org/running/2015/07/02/foot-strike-my2c/){:target="_blank"}
 
 - [The Bare Facts About Barefoot and Minimalist Running](http://getfitnow.com/bare-facts-barefoot-minimalist-running/){:target="_blank"}
 

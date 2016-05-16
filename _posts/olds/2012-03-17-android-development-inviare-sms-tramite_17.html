@@ -11,7 +11,7 @@ tags:
 - Android
 modified_time: '2013-04-22T15:57:46.411+02:00'
 blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-1112531995527390878
-blogger_orig_url: http://www.andreafortuna.org/2012/03/android-development-inviare-sms-tramite_17.html
+blogger_orig_url: http://oldsite.andreafortuna.org/2012/03/android-development-inviare-sms-tramite_17.html
 ---
 
 Luca mi chiede nei commenti del <a href="http://andreafortuna.org/2012/02/10/android-development-inviare-sms/" title="Android Development: inviare SMS">precedente post relativo all'invio di SMS da una app</a>:<br /><blockquote>Ho appena provato con un “HelloSMS” ed ho visto che invia l’sms direttamente.<br />Io vorrei invece preparare il messaggio sull’applicazione di default (Messaggi) e poi lasciare all’utente il compito di premere “send”.<br />Hai mai provato a fare qualcosa del genere?<br />Ciao e grazie!</blockquote><br />La soluzione è ancora più semplice. Utilizziamo <strong>ACTION_SENDTO</strong> e popoliamo l'intent con i dati dell'SMS:<br /><br /><pre class="brush: java">Uri uri = Uri.parse("smsto:1234567890");<br /><br />Intent it = new Intent(Intent.ACTION_SENDTO, uri);<br /><br />it.putExtra("sms_body", "TESTO SMS");<br /><br />startActivity(it);<br /><br /></pre><br /><br />Appena avviata l'activity si aprirà l'applicazione di default per la gestione degli sms con testo e numero già compilati.<br /><br /><a href="http://andreafortuna.files.wordpress.com/2012/03/device-2012-03-17-122341.png"><img alt="" class="alignleft  wp-image-1808" height="480" src="http://andreafortuna.files.wordpress.com/2012/03/device-2012-03-17-122341.png" title="device-2012-03-17-122341" width="288" /></a>

@@ -12,7 +12,7 @@ tags:
 {% include JB/setup %}
 My2c about the **barefoot running**: thoughts and considerations that I tried on my skin (and my feet)
 
-![Modern Runner](http://www.andreafortuna.org/images/modernrunner.jpg)
+![Modern Runner](http://oldsite.andreafortuna.org/images/modernrunner.jpg)
 <!-- more -->
 
 1. **Run barefoot** is the most natural way to run; the evolution made the man's feet a masterpiece unique in the animal world.

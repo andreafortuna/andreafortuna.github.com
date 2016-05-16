@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #37 - #AshleyMadison #Windows10 #PayPal #FacebookM"
 description: "My Weekly Digest #37 - #AshleyMadison #Windows10 #PayPal #FacebookM #Ukulele #Music #Security #Programming #Barefoot #Running"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/ashley-madison.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/ashley-madison.jpg"
 keywords: Ashley Madison, Microsoft, windows 10, Geek, Security, Programming, Running, Barefoot, Bill Hoffman, Music, ukulele, Epiphone, Matteo Carcassi, transcription, wordpress, Apple Watch
 category: WeeklyRoundup
 tags: 
@@ -110,7 +110,7 @@ Ukulele & Music
 
 - [Why Music Theory Lessons Are Important for Ukulele](http://www.easyukulele.com/music-theory-lesson.html){:target="_blank"}
 
-- [Matteo Carcassi, Allegretto in C: my ukulele transcription](http://www.andreafortuna.org/ukulele/2015/08/26/matteo_carcassi_andantino_in_c/){:target="_blank"}
+- [Matteo Carcassi, Allegretto in C: my ukulele transcription](http://oldsite.andreafortuna.org/ukulele/2015/08/26/matteo_carcassi_andantino_in_c/){:target="_blank"}
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/z3B-eGtx6h4" frameborder="0" allowfullscreen></iframe>
 
@@ -125,7 +125,7 @@ Running
 
 - [Problem-solving on the run](http://www.runnersworld.co.uk/motivation/problem-solving-on-the-run/13972.html){:target="_blank"}
 
-- [The 'fakir mode' mantra](http://www.andreafortuna.org/running/2015/08/13/fakir-mode/){:target="_blank"}
+- [The 'fakir mode' mantra](http://oldsite.andreafortuna.org/running/2015/08/13/fakir-mode/){:target="_blank"}
 
 - [The best protein for runners](http://www.runnersworld.co.uk/health/the-best-protein-for-runners/13968.html){:target="_blank"}
 

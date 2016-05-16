@@ -2,7 +2,7 @@
 layout: post
 title: "Running Chronicles: my 4 reasons to get up and run before sunrise"
 description: "Why i start everyday with a run?"
-thumbnail: "http://www.andreafortuna.org/images/runner_metamorphosys.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/images/runner_metamorphosys.jpg"
 category: Running
 tags: 
 - Personal
@@ -14,7 +14,7 @@ tags:
 {% include JB/setup %}
 Some colleagues asked me: "Why go running every morning before come to the office?".
 
-![Morning run](http://www.andreafortuna.org/images/runner_metamorphosys.jpg)
+![Morning run](http://oldsite.andreafortuna.org/images/runner_metamorphosys.jpg)
 <!-- more -->
 
 The explanation is very simple, in my case:

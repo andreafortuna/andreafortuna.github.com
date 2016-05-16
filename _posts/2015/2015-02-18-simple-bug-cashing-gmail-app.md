@@ -41,5 +41,5 @@ and, about the exploit:
 
 Marco also has writes a simple python script to send malicious emails: [crash_Android_Google_email_4.2.2.0200.py](http://hmarco.org/cyber-security/exploits/crash_Android_Google_email_4.2.2.0200.py)
 
-![python script](http://www.andreafortuna.org/images/androidemail.PNG)
+![python script](http://oldsite.andreafortuna.org/images/androidemail.PNG)
 

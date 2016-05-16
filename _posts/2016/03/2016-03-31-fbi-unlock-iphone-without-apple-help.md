@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FBI has successfully unlocked terrorist's iPhone without Apple's help? Let's assessing the situation."
-thumbnail: "http://www.andreafortuna.org/security/images/FBIIphone.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/security/images/FBIIphone.jpg"
 description: "A quick rundown of the main articles on the blogs about the unlocking of the iPhone by the FBI (constantly updated)"
 keywords: Security, iPhone, Apple, FBI, Snowden, Cellebrite
 category: Security
@@ -12,7 +12,7 @@ tags:
 
 ---
 
-![iphone](http://www.andreafortuna.org/security/images/FBIIphone.jpg)
+![iphone](http://oldsite.andreafortuna.org/security/images/FBIIphone.jpg)
 
 A quick rundown of the main articles on the blogs about the unlocking of the **iPhone** by the **FBI**
 

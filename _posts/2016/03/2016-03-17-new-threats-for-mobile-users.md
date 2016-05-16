@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two new threats for mobile users"
-thumbnail: "http://www.andreafortuna.org/security/images/android-and-ios.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/security/images/android-and-ios.jpg"
 description: "In the last two days, two new threats for mobile users are discovered by researchers."
 keywords: Security, Threat, IOS, Android, Qualcomm, Snapdragon, Apple, FairPlay, CVE-2016-0819,CVE-2016-0805, PaloAltoNetworks, TrendMicro
 category: Security

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DROWN attack breaking TLS using SSLv2: more than 13 million sites at risk"
-thumbnail: "http://www.andreafortuna.org/security/images/DROWNAttack.PNG"
+thumbnail: "http://oldsite.andreafortuna.org/security/images/DROWNAttack.PNG"
 description: "A new attack allows an attacker to decrypt an intercepted TLS-protected communications that rely on the RSA cryptosystem when the key is exposed even indirectly through SSLv2, a TLS precursor that was retired almost two decades ago for structural weaknesses. "
 keywords: Security, Threat, DROWN, SSLv2, TLS, RSA
 category: Security

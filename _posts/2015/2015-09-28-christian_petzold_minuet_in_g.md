@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Christian Petzold, Minuet in G: my ukulele transcription (video and tabs)"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/Christian_Petzold_Minuet_in_G.PNG"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/Christian_Petzold_Minuet_in_G.PNG"
 description: "A famous and simple 32-measure piece in the key of G major: until 1970 it was attributed to Johann Sebastian Bach (BWV Anh 114), but it is now universally attributed to Christian Petzold."
 keywords: ukulele, transcriptions, transcription, Christian Petzold, Johann Sebastian Bach, Minuet, music, fingerstyle, BWV Anh 114
 category: Ukulele
@@ -33,5 +33,5 @@ Here a short video:
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Christian_Petzold_Minuet_in_G.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/Christian_Petzold_Minuet_in_G.pdf)
 

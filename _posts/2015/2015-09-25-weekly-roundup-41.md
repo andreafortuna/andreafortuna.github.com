@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #41 - #Volkswagen #XcodeGhost #Lenovo"
 description: "My Weekly Digest #41 - #Volkswagen #XcodeGhost #Lenovo #Facebook #emoji #"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/vw.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/vw.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription
 category: WeeklyRoundup
 tags: 

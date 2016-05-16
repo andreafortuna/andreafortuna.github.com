@@ -2,7 +2,7 @@
 layout: post
 title: "Joel Watson predicted Apple's iPad Pro 3 years ago!"
 description: "Several sites, from Engadged to IlDisinformatico, talks about the 2012's comic that anticipates the release of the iPad Pro and its keyboard-cover."
-thumbnail: "http://www.andreafortuna.org/technology/images/ipad_watson.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/ipad_watson.jpg"
 keywords: Apple, Ipad, WWDC, Joel Watson, Comics
 category: Technology
 tags: 

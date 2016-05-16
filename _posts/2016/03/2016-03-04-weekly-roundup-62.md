@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #62 - #SSLv2 #HackingTeam #Oscar"
 description: "Interesting week! A new #TLS #SSL attack, signs of life from #HackingTeam, some #LOL-HTTP-Cats pictures, #Academy #Award to Di Caprio and #Morricone!"
-thumbnail: "http://www.andreafortuna.org/security/images/DROWNAttack.PNG"
+thumbnail: "http://oldsite.andreafortuna.org/security/images/DROWNAttack.PNG"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele,Starbucks, transcription, guitar, Ennio Morricone, Hadoop, Apple, Jekyll, DROWN, HackingTeam
 category: WeeklyRoundup
 tags: 
@@ -25,7 +25,7 @@ tags:
 ---
 Interesting week! A new *TLS/SSL* attack, signs of life from *HackingTeam*, some *LOL-HTTP-Cats* pictures, Academy Award to Di Caprio and Morricone!
 
-![DROWN](http://www.andreafortuna.org/security/images/DROWNAttack.PNG)
+![DROWN](http://oldsite.andreafortuna.org/security/images/DROWNAttack.PNG)
 
 
 <hr/>
@@ -33,13 +33,13 @@ Security & Privacy
 --
 ![privacy](https://pbs.twimg.com/media/BU-Pj1oCYAAAbzm.png)
 
-- [DROWN attack breaking TLS using SSLv2: more than 13 million sites at risk](http://www.andreafortuna.org/security/2016/03/01/drown-attack-breaking-tls-using-sslv2/){:target="_blank"}
+- [DROWN attack breaking TLS using SSLv2: more than 13 million sites at risk](http://oldsite.andreafortuna.org/security/2016/03/01/drown-attack-breaking-tls-using-sslv2/){:target="_blank"}
 
 - [Many sites block visitors that use Tor](https://stallman.org/archives/2016-jan-apr.html#29_February_2016_%28Many_sites_block_visitors_that_use_Tor%29){:target="_blank"}
 
 - [Apple's iPhone Already Has a Backdoor](http://apple.slashdot.org/story/16/02/22/1518202/apples-iphone-already-has-a-backdoor){:target="_blank"}
 
-- [Undetected Mac malware sighted online: HackingTeam has returned?](http://www.andreafortuna.org/security/2016/03/02/hackingteam-has-returned/){:target="_blank"}
+- [Undetected Mac malware sighted online: HackingTeam has returned?](http://oldsite.andreafortuna.org/security/2016/03/02/hackingteam-has-returned/){:target="_blank"}
 
 - [The DROWN security hole – what you need to know](https://nakedsecurity.sophos.com/2016/03/02/the-drown-security-hole-what-you-need-to-know/){:target="_blank"}
 
@@ -109,7 +109,7 @@ Music
 
 - [The Musician's Paradise Workspace](http://lifehacker.com/the-musicians-paradise-workspace-1761351292){:target="_blank"}
 
-- [Classical Guitar and fingernails: the Scott Tennant's point of view](http://www.andreafortuna.org/guitar/2016/02/29/classical-guitar-fingernails-scott-tennant/){:target="_blank"}
+- [Classical Guitar and fingernails: the Scott Tennant's point of view](http://oldsite.andreafortuna.org/guitar/2016/02/29/classical-guitar-fingernails-scott-tennant/){:target="_blank"}
 
 - [Wooden Hand-Cranked Instrument Runs on 2,000 Marbles](https://www.youtube.com/watch?v=IvUU8joBb1Q){:target="_blank"}
 

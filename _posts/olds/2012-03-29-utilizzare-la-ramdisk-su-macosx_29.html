@@ -10,7 +10,7 @@ tags:
 - Apple
 modified_time: '2012-04-26T14:20:17.490+02:00'
 blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-5337481574115348115
-blogger_orig_url: http://www.andreafortuna.org/2012/03/utilizzare-la-ramdisk-su-macosx_29.html
+blogger_orig_url: http://oldsite.andreafortuna.org/2012/03/utilizzare-la-ramdisk-su-macosx_29.html
 ---
 
 La creazione d’un RAM disk su MacOsX è incredibilmente semplice. Avviate il Terminale e fate un copia/incolla di questo comando:<a name='more'></a><br/><blockquote>diskutil erasevolume HFS+ “ramdisk” `hdiutil attach -nomount ram://4000000`</blockquote><br/>Ciò monterà sulla Scrivania un RAM Disk da 4 GB; per crearne uno da 8 GB, modificate il numero 8000000 in 16000000, e così via.<br/><br/>Assicuratevi però di lasciare disponibile un quantitativo sufficiente di RAM al resto del Sistema Operativo.<br/><br/>letto su <a href="http://www.melablog.it/post/16641/creare-un-ram-disk-al-volo-su-mac">Creare un RAM drive su Mac? Ecco come</a>.

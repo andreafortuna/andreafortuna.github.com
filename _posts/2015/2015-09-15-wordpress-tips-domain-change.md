@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wordpress tips: bulk update of permalinks and image paths"
-thumbnail: "http://www.andreafortuna.org/technology/images/wpsql.png"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/wpsql.png"
 description: "When you change domain for an existing wordpress blog, it may be difficult to upgrade permalinks and posts meta."
 keywords: Wordpress, Tips, SQL, Programming
 category: Programming

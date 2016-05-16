@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #32"
 description: "My Weekly Digest #32 - What can not be missed this week? "
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/hackedteamjt.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/hackedteamjt.jpg"
 keywords: Geek, Security, Programming, Running, Barefoot, Music, ukulele, Hacking Team, Android, OSX, OpenSSL, Oracle, VirtualBox, Facebook, Twitter, WhatsApp, Elon Musk, Markdown, Node.js, Microsoft, Huaraches
 category: WeeklyRoundup
 tags: 
@@ -32,9 +32,9 @@ tags:
 
 ---
 {% include JB/setup %}
-No, I will not say anything about *Hacking Team*, i have [already done](http://www.andreafortuna.org/security/2015/07/08/special-weekly-roundup-hacking-team/)!
+No, I will not say anything about *Hacking Team*, i have [already done](http://oldsite.andreafortuna.org/security/2015/07/08/special-weekly-roundup-hacking-team/)!
 
-![HackingTeam](http://www.andreafortuna.org/weeklyroundup/images/hackedteamjt.jpg)
+![HackingTeam](http://oldsite.andreafortuna.org/weeklyroundup/images/hackedteamjt.jpg)
 <!-- more -->
 
 Security & Privacy
@@ -108,7 +108,7 @@ Ukulele & Music
 
 - [Video History of the Ukulele Orchestra of Great Britain](http://ukulelehunt.com/2015/07/08/video-history-of-the-ukulele-orchestra-of-great-britain/){:target="_blank"}
  
-- [Transcribing classical guitar pieces on ukulele](http://www.andreafortuna.org/ukulele/2015/07/06/transcriptions-from-guitar/){:target="_blank"}
+- [Transcribing classical guitar pieces on ukulele](http://oldsite.andreafortuna.org/ukulele/2015/07/06/transcriptions-from-guitar/){:target="_blank"}
  
 - [Custom, Handmade M.J. Franks Concert Ukulele Review](http://www.ukuleletricks.com/mj-franks-concert-ukulele-review/){:target="_blank"}
  
@@ -125,7 +125,7 @@ Running
  
 - [How To Burn Fat While Running](http://blog.runtastic.com/en/veras-viewpoint/how-to-burn-fat-while-running/){:target="_blank"}
  
-- [Train every day, for a whole year? I did it!](http://www.andreafortuna.org/running/2015/07/04/369-workouts-in-365-days/){:target="_blank"}
+- [Train every day, for a whole year? I did it!](http://oldsite.andreafortuna.org/running/2015/07/04/369-workouts-in-365-days/){:target="_blank"}
  
 <iframe width="640" height="480" src="https://www.youtube.com/embed/1zN5ujlz9WQ" frameborder="0" allowfullscreen></iframe>
 

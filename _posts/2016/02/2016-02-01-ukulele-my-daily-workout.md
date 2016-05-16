@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ukulele Exercises: My Daily Workout"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/DailyWorkout.jpeg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/DailyWorkout.jpeg"
 description: "Playing an instrument is like playing a sport, muscles and joints need to be trained and kept moving."
 keywords: Music, Music Theory, Scales, pentatonic scale, Ukulele, patterns, tabs, warmup, dailyworkout, spiders
 category: Ukulele
@@ -47,7 +47,7 @@ Simple chromatic pattern, and 2 variations with string skipping:
 Third step: Spiders!
 --
 
-Now that we have warmed the fingers, we execute two short sequences focused to develop coordination between the two hands, the famous 'spiders' ([V.1](http://www.andreafortuna.org/ukulele/2015/05/19/ukulele-spider-pattern/) and [V.2](http://www.andreafortuna.org/ukulele/2015/06/23/ukulele-spider-exercise-v2/))
+Now that we have warmed the fingers, we execute two short sequences focused to develop coordination between the two hands, the famous 'spiders' ([V.1](http://oldsite.andreafortuna.org/ukulele/2015/05/19/ukulele-spider-pattern/) and [V.2](http://oldsite.andreafortuna.org/ukulele/2015/06/23/ukulele-spider-exercise-v2/))
 
 ![Ukulele Spiders](/ukulele/images/ukulele_spiders.png)
 
@@ -55,20 +55,20 @@ Now that we have warmed the fingers, we execute two short sequences focused to d
 Final step: Scales!
 --
 
-![scales](http://www.andreafortuna.org/ukulele/images/major_cover.png)
+![scales](http://oldsite.andreafortuna.org/ukulele/images/major_cover.png)
 
-At this point, a creative approach: a nice refresher of [diatonic scales (major and minor)](http://www.andreafortuna.org/ukulele/2015/12/10/major-minor-scales-patterns/) 
+At this point, a creative approach: a nice refresher of [diatonic scales (major and minor)](http://oldsite.andreafortuna.org/ukulele/2015/12/10/major-minor-scales-patterns/) 
 
 ![Diatonic scales](/ukulele/images/diatonic_scales_workout.png)
 
-and [pentatonic](http://www.andreafortuna.org/ukulele/2016/01/18/pentatonic-scales-patterns/) 
+and [pentatonic](http://oldsite.andreafortuna.org/ukulele/2016/01/18/pentatonic-scales-patterns/) 
 
 ![Pentatonic scales](/ukulele/images/pentatonic_scales_workout.png)
 
 concludes the daily training.
 
 
-And now we begin to study the [repertoire](http://www.andreafortuna.org/ukulele/tabs.html)!
+And now we begin to study the [repertoire](http://oldsite.andreafortuna.org/ukulele/tabs.html)!
 
 <hr>
 *UPDATE - 2016-02-02*
@@ -84,4 +84,4 @@ I recorded a raw version this morning, I hope will be helpful:
 
 Download all workouts in a single PDF file from the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/DailyWorkout.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/DailyWorkout.pdf)

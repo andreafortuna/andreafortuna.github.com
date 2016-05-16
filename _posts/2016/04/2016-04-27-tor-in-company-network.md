@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tor in a company network: how to detect and block it?"
-thumbnail: "http://www.andreafortuna.org/security/images/TOR/tor_cover.png"
+thumbnail: "http://oldsite.andreafortuna.org/security/images/TOR/tor_cover.png"
 description: "TOR is an important tool. It has its benefits and it could be the perfect way for end users to cover their tracks, but the use of this tool in a corporate network can open up organizations to some risks."
 keywords: Security, Threat
 category: Security
@@ -44,7 +44,7 @@ Currently the protocol is still being worked on and supported under the **[Tor P
 How it works?
 --
 
-![TOR Explain](http://www.andreafortuna.org/security/images/TOR/tor_explain.png)
+![TOR Explain](http://oldsite.andreafortuna.org/security/images/TOR/tor_explain.png)
 
 When you connect to Tor, your computer becomes a node and can be used by any other Tor users to relay their traffic. 
 
@@ -91,7 +91,7 @@ The censors governments have developed various methods to block Tor traffic.
 >**Iran** blocked Tor handshakes using Deep Packet Inspection (DPI) in January 2011 and September 2011. Bluecoat tested out a Tor handshake filter in **Syria** in June 2011. **China** has been harvesting and blocking IP addresses for both public Tor relays and private Tor bridges for years.
 
 <div class="video-container">
-<embed src="http://www.andreafortuna.org/security/files/TOR/slides-28c3.pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
+<embed src="http://oldsite.andreafortuna.org/security/files/TOR/slides-28c3.pdf" pluginspage="http://www.adobe.com/products/acrobat/readstep2.html">
 </div>
 
 

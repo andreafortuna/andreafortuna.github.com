@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KeRanger, the first OSX ransomware comes bundled into Transmission installer"
-thumbnail: "http://www.andreafortuna.org/security/images/transmission.png"
+thumbnail: "http://oldsite.andreafortuna.org/security/images/transmission.png"
 description: "Security researchers from Palo Alto Networks claims to have discovered the first OSX Ransomware, called 'KeRanger'."
 keywords: Security, Threat, OSX, Apple, Palo Alto Networks, KeRanger, Transmission, ransomware, malware
 category: Security
@@ -17,7 +17,7 @@ Security researchers from *Palo Alto Networks* claims to [have discovered](http:
 
 The *ransomware* comes bundled into the popular Mac app [Transmission](), a BitTorrent client with a lot of users.
 
-![transmission](http://www.andreafortuna.org/security/images/transmission.png)
+![transmission](http://oldsite.andreafortuna.org/security/images/transmission.png)
 
 Technical analisys
 --

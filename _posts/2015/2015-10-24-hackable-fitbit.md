@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fitbit hackable in 10 seconds?"
-thumbnail: "http://www.andreafortuna.org/technology/images/fitbit.png"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/fitbit.png"
 keywords: Security, FitBit, tracker, malware, bluetooth
 description: "A vulnerability in FitBit fitness trackers first reported to the vendor in March could still be exploited by an attacker that sits near you."
 category: Security

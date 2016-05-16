@@ -7,7 +7,7 @@ tags:
 - Programming
 modified_time: '2012-04-26T14:22:18.899+02:00'
 blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-9040544552455586833
-blogger_orig_url: http://www.andreafortuna.org/2007/05/sql-tips-selezionare-una-riga-casuale_22.html
+blogger_orig_url: http://oldsite.andreafortuna.org/2007/05/sql-tips-selezionare-una-riga-casuale_22.html
 ---
 
 Mi e' capitato, anche spesso, di dover selezionare una riga casuale da una tabella: senza dover scomodare il linguaggio di programmazione utilizzato per l'accesso ai dati, possiamo effettuare l'operazione direttamente da SQL.<br/><br/><strong>MySQL:</strong><br/>SELECT * FROM tabella<br/>ORDER BY RAND()<br/>LIMIT 1<br/><br/><strong>Microsoft SQL Server:</strong><br/>SELECT TOP 1 * FROM tabella<br/>ORDER BY NEWID()<br/><br/><strong>PostgreSQL:</strong><br/>SELECT * FROM tabella<br/>ORDER BY RANDOM()<br/>LIMIT 1<br/><br/><strong>Oracle:</strong><br/>SELECT * FROM<br/>( SELECT * FROM tabella<br/>ORDER BY dbms_random.value )<br/>WHERE rownum = 1<br/><br/><strong>IBM DB2:</strong><br/>SELECT * FROM tabella<br/>ORDER BY RAND()<br/>FETCH FIRST 1 ROWS ONLY

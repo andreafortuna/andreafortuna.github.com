@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #28"
 description: "My Weekly Digest #28 - What can not be missed this week? "
-thumbnail: "http://www.andreafortuna.org/images/christopher-lee-star-wars.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/images/christopher-lee-star-wars.jpg"
 category: WeeklyRoundup
 tags: 
 - Roundup
@@ -30,7 +30,7 @@ tags:
 {% include JB/setup %}
 What can not be missed this week? 
 
-![Christopher Lee](http://www.andreafortuna.org/images/christopher-lee-star-wars.jpg)
+![Christopher Lee](http://oldsite.andreafortuna.org/images/christopher-lee-star-wars.jpg)
 <!-- more -->
 
 Security & Privacy
@@ -92,7 +92,7 @@ Ukulele & Music
 
 ![Ukes not nukes](https://s-media-cache-ak0.pinimg.com/236x/3b/2c/22/3b2c2286fe9c06f163e1e178d18eeca1.jpg)
 
-- [Riffs on Ukulele: Sweet Child o' Mine](http://www.andreafortuna.org/ukulele/2015/06/11/riffs-on-ukulele-sweet-child-o-mine/)
+- [Riffs on Ukulele: Sweet Child o' Mine](http://oldsite.andreafortuna.org/ukulele/2015/06/11/riffs-on-ukulele-sweet-child-o-mine/)
 
 - [MAD MAX INSPIRED FLAMETHROWER UKULELE](http://hackaday.com/2015/06/07/mad-max-inspired-flamethrower-ukulele/){:target="_blank"}
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Peter Attia: Is the obesity crisis hiding a bigger problem?"
-thumbnail: "http://www.andreafortuna.org/running/images/obesity.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/running/images/obesity.jpg"
 description: "A TED talk by Peter Attia of TEDMED 2013, about obesity and diabetes"
 keywords: wellness, obesity, diabetes, health, Peter Attia, TED, insulin
 category: Wellness

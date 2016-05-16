@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "eFast Browser, a smart adWare that replaces your Google Chrome: how to remove it?"
-thumbnail: "http://www.andreafortuna.org/technology/images/efast.png"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/efast.png"
 keywords: Security, AdWare, eFast Browser, Google Chrome, Chromium, Removal Tools
 description: ""
 category: Security

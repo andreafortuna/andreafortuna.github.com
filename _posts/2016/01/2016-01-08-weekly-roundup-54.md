@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #54 - #Debian #IanMurdock #Tor"
 description: "My Weekly Digest #54 - #Debian #IanMurdock #Tor"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/ian-murdock.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/ian-murdock.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, tabs, Ian Murdock, Debian, Wordpress, Javascript, SQL Injection, Tor, MySql, WebDesign, Responsive, RaspberryPi, Christopher McDougall, Fitbit, Christmas Carols
 category: WeeklyRoundup
 tags: 
@@ -107,13 +107,13 @@ Ukulele & Music
 
 - [Add a whammy bar to any electric or acoustic guitar with the Virtual Jeff](http://www.musicradar.com/news/guitars/namm-2016-add-a-whammy-bar-to-any-electric-or-acoustic-guitar-with-the-virtual-jeff-632741){:target="_blank"}
 
-- [François Campion: Branle - Played on Ukulele](http://www.andreafortuna.org/ukulele/2016/01/05/francois-campion-branle/){:target="_blank"}
+- [François Campion: Branle - Played on Ukulele](http://oldsite.andreafortuna.org/ukulele/2016/01/05/francois-campion-branle/){:target="_blank"}
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/X1_ZyqRaOLw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-- [Ukulele Yearly Roundup: all my transcriptions](http://www.andreafortuna.org/ukulele/2015/12/31/all-ukulele-transcriptions-of-2015/){:target="_blank"}
+- [Ukulele Yearly Roundup: all my transcriptions](http://oldsite.andreafortuna.org/ukulele/2015/12/31/all-ukulele-transcriptions-of-2015/){:target="_blank"}
 
 - [Daft Punk in the style of 10 world famous guitar players](https://www.facebook.com/DavidAntunesMusic/videos/10153878038367375/){:target="_blank"}
 

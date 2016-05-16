@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcribing classical guitar pieces on ukulele"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/transcriptions.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/transcriptions.jpg"
 description: "Often some musicians approach the ukulele after studying for years a more 'conventional' instrument. So It's natural try to play songs you already know, a sort of 'comfort music' that helps to get familiar with the new instrument."
 keywords: ukulele, transcriptions, transcription, Matteo Carcassi, Ruggero Chiesa, music, fingerstyle
 category: Ukulele
@@ -18,7 +18,7 @@ tags:
 Often some musicians approach the ukulele after studying for years a more 'conventional' instrument.
 So It's natural try to play songs you already know, a sort of 'comfort music' that helps to get familiar with the new instrument.
 
-![Ukulele](http://www.andreafortuna.org/ukulele/images/transcriptions.jpg)
+![Ukulele](http://oldsite.andreafortuna.org/ukulele/images/transcriptions.jpg)
 <!-- more -->
 
 I approached the ukulele after years of formal  and disciplined study of the classical guitar, a challenge with something new and unconventional.
@@ -42,7 +42,7 @@ Let us now consider the transcript of a simple study of Matteo Carcassi that all
 
 It's a simple *Andantino in C major*, so well suited for ukulele arrangement that allowing a total fidelity to the original score:
 
-![Andantino Carcassi](http://www.andreafortuna.org/ukulele/images/AndantinoCarcassi1.png)
+![Andantino Carcassi](http://oldsite.andreafortuna.org/ukulele/images/AndantinoCarcassi1.png)
 
 
 The guitar  fingering  is made by Ruggero Chiesa (the music sheet is taken from his famous method "Guitar Gradus")
@@ -67,17 +67,17 @@ During the execution it will be necessary to pay attention to the dynamics of th
 
 This is my interpretation:
 
-![Andantino Carcassi for ukulele](http://www.andreafortuna.org/ukulele/images/AndantinoCarcassi2.png)
+![Andantino Carcassi for ukulele](http://oldsite.andreafortuna.org/ukulele/images/AndantinoCarcassi2.png)
 
 After defining the dynamics the execution is very simple except the beats 8 and 9, where the comfortable continuous G that has been with us throughout the entire  piece momentarily leaves the place for a D played on the second string, with an extension from the first to the fourth finger of 8 frets:
 
-![Andantino Carcassi, difficult phrase](http://www.andreafortuna.org/ukulele/images/AndantinoCarcassi3.png)
+![Andantino Carcassi, difficult phrase](http://oldsite.andreafortuna.org/ukulele/images/AndantinoCarcassi3.png)
 
 Believe me, you can do it! I don't have enormous hands and I can play it without difficulty...a bit of finger-stretching it never hurts!
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/oaiJPxOzb0Y" frameborder="0" allowfullscreen></iframe>
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Matteo_Carcassi_Andantino_in_C.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/Matteo_Carcassi_Andantino_in_C.pdf)
 
 
 **Italian version on [MioUkulele](http://mioukulele.blogspot.it/2015/06/arrangiare-i-brani-classici-per-di.html){:target="_blank"}**

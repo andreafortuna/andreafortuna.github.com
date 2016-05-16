@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Christmas Ukulele: Jingle Bells"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/santaukulele.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/santaukulele.jpg"
 description: "My #ukulele version of Jingle Bells"
 keywords: ukulele, transcriptions, transcription, Jingle Bells,James Lord Pierpont, music, fingerstyle
 category: Ukulele
@@ -62,7 +62,7 @@ Here my ukulele version:
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Jingle_Bells.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/Jingle_Bells.pdf)
 
 <hr/>
 <div class="video-container">

@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #64 - #Apple #iPhone #FBI #Fender #FitBit"
 description: "My Weekly Digest #64 - About the ugly events of #Brussels we have already discussed enough, today we treat futile things! #Apple #iPhone #FBI #FitBit #Music"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/iphone_battery.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/iphone_battery.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar, iPhone, Apple, FBI, Fingernails, Fingerstyle, iMessage
 category: WeeklyRoundup
 tags: 
@@ -19,7 +19,7 @@ tags:
 ---
 About the ugly events of #Brussels we have already discussed enough, today we treat futile things like new Apple products, the "Apple Vs. FBI" story and some of wellness and musical stuff!
 
-![iPhoneBattery](http://www.andreafortuna.org/weeklyroundup/images/iphone_battery.jpg)
+![iPhoneBattery](http://oldsite.andreafortuna.org/weeklyroundup/images/iphone_battery.jpg)
 <!-- more -->
 <hr/>
 Security & Privacy
@@ -104,7 +104,7 @@ Music
 
 - [6-String Ukulele vs. Guitalele](http://ukuleleunderground.com/2016/03/ask-ukulele-underground-6-string-ukulele-vs-guitalele/){:target="_blank"}
 
-- [Classical Guitar and fingernails: My2C](http://www.andreafortuna.org/guitar/2016/03/22/classical-guitar-and-fingernails-my2c){:target="_blank"}
+- [Classical Guitar and fingernails: My2C](http://oldsite.andreafortuna.org/guitar/2016/03/22/classical-guitar-and-fingernails-my2c){:target="_blank"}
 
 - [Retractable Ukulele](https://www.youtube.com/watch?v=UCYw1cfSbtc){:target="_blank"}		
 

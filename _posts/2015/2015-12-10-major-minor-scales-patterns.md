@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Major and Minor scales on Ukulele, simple patterns"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/major_cover.png"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/major_cover.png"
 description: "Simple patterns to easily play major and minor scales on ukulele"
 keywords: Music, Music Theory, Scales, Major scale, Natural Minor scale,Harmonic minor scale, Melodic minor scale, Ukulele, patterns
 category: Ukulele
@@ -98,4 +98,4 @@ The pattern on ukulele is:
 
 Download all patterns from the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Diatonic_Scales.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/Diatonic_Scales.pdf)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Niccolò Paganini, Ghiribizzo No. 20: my ukulele transcription (video and tabs)"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/ghiribizzo20_detail.png"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/ghiribizzo20_detail.png"
 description: "Piece less short than the other 'Ghiribizzi', this time Paganini was inspired by the duet 'La ci darem la mano' of the Mozart's opera 'Don Giovanni'."
 category: Ukulele
 tags: 
@@ -15,7 +15,7 @@ tags:
 {% include JB/setup %}
 Piece less short than the other "Ghiribizzi", this time Paganini was inspired by the duet "La ci darem la mano" of the Mozart's opera "Don Giovanni".
 
-![Ghiribizzo20](http://www.andreafortuna.org/ukulele/images/ghiribizzo20_detail.png)
+![Ghiribizzo20](http://oldsite.andreafortuna.org/ukulele/images/ghiribizzo20_detail.png)
 <!-- more -->
 
 From [Wikipedia](https://en.wikipedia.org/wiki/L%C3%A0_ci_darem_la_mano){:target="_blank"}:
@@ -23,7 +23,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/L%C3%A0_ci_darem_la_mano){:target
 >"The duet, words by Lorenzo Da Ponte, is sung during the first act of the opera. Don Giovanni has just met Zerlina and her betrothed, Masetto. In an attempt to distract Masetto and have him removed from the scene, Giovanni offers to host a wedding celebration for the couple at his castle. When Masetto has left, Giovanni attempts to seduce Zerlina to accompany him to his castle. However, after the end of the duet Donna Elvira arrives and thwarts the seduction, leaving with Zerlina."
 
 
-![Ghiribizzo 20](http://www.andreafortuna.org/ukulele/images/ghiribizzo20.png)
+![Ghiribizzo 20](http://oldsite.andreafortuna.org/ukulele/images/ghiribizzo20.png)
 
 The original key is C major, and this transcript on ukulele was not necessary to make transpositions.
 
@@ -31,7 +31,7 @@ The original key is C major, and this transcript on ukulele was not necessary to
 
 
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/GhiribizzoNo20.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/GhiribizzoNo20.pdf)
 
 
 

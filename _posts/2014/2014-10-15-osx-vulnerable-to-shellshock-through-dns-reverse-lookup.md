@@ -10,7 +10,7 @@ tags:
 ---
 {% include JB/setup %}
 *Dirk-Willem van Gulik* has published on [seclists.org](http://seclists.org/fulldisclosure/2014/Oct/53) a document where explains
-another attack vector for the famous [Shellshock bug](http://www.andreafortuna.org/tags.html#ShellShock-ref): through a 
+another attack vector for the famous [Shellshock bug](http://oldsite.andreafortuna.org/tags.html#ShellShock-ref): through a 
 reverse lookup in DNS, where the results of this lookup are
 passed, unsanitized, to an environment variable (e.g. as part of
 a batch process).

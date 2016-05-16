@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nino Rota, The Godfather Theme (Speak Softly, Love): ukulele arrangement"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/godfather.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/godfather.jpg"
 description: "Nino Rota, The Godfather Love Theme (Speak Softly, Love): #ukulele arrangement"
 keywords: Nino Rota , Ukulele, Cover, Larry Kusik, The Godfather
 category: Ukulele
@@ -34,4 +34,4 @@ As usual, some infos about the song from [Wikipedia](https://en.wikipedia.org/wi
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/The_Godfather_Theme.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/The_Godfather_Theme.pdf)

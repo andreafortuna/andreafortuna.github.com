@@ -13,7 +13,7 @@ tags:
 
 *UPDATE  July 31, 2015*
 
-A good solution for users who have upgraded from Windows 8 / 8.1 is suggested in the [comments by *Tobias Shen*](http://www.andreafortuna.org/microsoft/2014/10/20/windows-10-solve-the-two-finger-scrolling-issue-for-synaptics-touchpads/#comment-2166219123):
+A good solution for users who have upgraded from Windows 8 / 8.1 is suggested in the [comments by *Tobias Shen*](http://oldsite.andreafortuna.org/microsoft/2014/10/20/windows-10-solve-the-two-finger-scrolling-issue-for-synaptics-touchpads/#comment-2166219123):
 
 >The final solution was I uninstalled my Lenovo Pointing Device driver [device manager, mouse and other pointing devices], went to their website and downloaded the windows 10 mouse driver. 
 
@@ -53,6 +53,6 @@ That's all!
 
 - [Windows 10: how to fix the 0x803F700X error on Store](/microsoft/2015/07/31/windows-10-error-0x803F7000/)
 
-- [Windows 10: how to disable Windows Update Delivery Optimization (WUDO)](http://www.andreafortuna.org/microsoft/2015/08/03/windows-10-disable-wudo/)
+- [Windows 10: how to disable Windows Update Delivery Optimization (WUDO)](http://oldsite.andreafortuna.org/microsoft/2015/08/03/windows-10-disable-wudo/)
 
 <hr/>

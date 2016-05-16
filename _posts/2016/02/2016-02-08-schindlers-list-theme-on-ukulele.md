@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Theme from 'Schindler's List' - Arranged for Ukulele"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/schindlerslist.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/schindlerslist.jpg"
 description: 'My ukulele version of the Theme from "Schindler`s List" by John Williams'
 keywords: ukulele, transcription, arrangement, John Williams, Schindler's List, Soundtrack, fingerstyle
 category: Ukulele
@@ -44,7 +44,7 @@ Here a video of my ukulele arrangement:
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/schindlerslist_main_theme.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/schindlerslist_main_theme.pdf)
 
 <hr/>
 <div class="video-container">

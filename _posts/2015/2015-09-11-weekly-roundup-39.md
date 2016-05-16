@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #39 - #WWDC #Apple #Ipad #iPhone"
 description: "My Weekly Digest #39 - #Apple #iPadPro #Ukulele #Running #Windows10 #Security #Programming"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/ipadpro.png"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/ipadpro.png"
 keywords: Apple, Ipad, iPhone 6s, iPad Pro, WWDC, H264ify, Android, WIndows 10, seagate, raspberry, Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription
 category: WeeklyRoundup
 tags: 
@@ -60,7 +60,7 @@ Geekness
 
 - [Here's why the iPhone 6s has a smaller battery](http://www.engadget.com/2015/09/10/iphone-6s-smaller-battery/){:target="_blank"}
 
-- [A comic predicted Apple's iPad Pro keyboard 3 years ago](http://www.andreafortuna.org/technology/2015/09/10/ipadpro-prediction/){:target="_blank"}
+- [A comic predicted Apple's iPad Pro keyboard 3 years ago](http://oldsite.andreafortuna.org/technology/2015/09/10/ipadpro-prediction/){:target="_blank"}
 ![IpadPro2012](http://4.bp.blogspot.com/-A_38HYfAgQQ/VfE6Bso-BtI/AAAAAAAAcvc/t9L-bI0myEc/s1600/Screen%2BShot%2B2015-09-10%2Bat%2B09.59.49.jpg)
 
 - [FINALLY, AN OFFICIAL DISPLAY FOR THE RASPBERRY PI](http://hackaday.com/2015/09/08/finally-an-official-display-for-the-raspberry-pi/){:target="_blank"}

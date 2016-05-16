@@ -46,7 +46,7 @@ Security & Privacy
 
 - [These 8 characters crash Skype, and once they’re in your chat history, the app can’t start](http://venturebeat.com/2015/06/02/these-8-characters-crash-skype-and-once-theyre-in-your-chat-history-the-app-cant-start/){:target="_blank"}
 
-- [Skype: the eight-characters of death!](http://www.andreafortuna.org/security/2015/06/03/skype-crash-with-8-characters/){:target="_blank"}
+- [Skype: the eight-characters of death!](http://oldsite.andreafortuna.org/security/2015/06/03/skype-crash-with-8-characters/){:target="_blank"}
 
 - [Skype can no longer be crashed with these eight characters](https://nakedsecurity.sophos.com/2015/06/04/skype-can-no-longer-be-crashed-with-these-eight-characters/){:target="_blank"}
 
@@ -120,7 +120,7 @@ Running
 
 - [Barefoot Running To The Next Level: Nike Footstickers](http://inventorspot.com/articles/barefoot_running_next_level_nike_footstickers){:target="_blank"}
 
-- [Avoid blisters, with shoes and barefoot](http://www.andreafortuna.org/running/2015/06/04/run-barefoot-avoid-blisters/){:target="_blank"}
+- [Avoid blisters, with shoes and barefoot](http://oldsite.andreafortuna.org/running/2015/06/04/run-barefoot-avoid-blisters/){:target="_blank"}
 
 - [Take Advantage of "Active Rest" for Faster Workout Recovery](http://vitals.lifehacker.com/take-advantage-of-active-rest-for-faster-workout-reco-1708876151){:target="_blank"}
 

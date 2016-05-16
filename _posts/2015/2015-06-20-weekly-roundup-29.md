@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #29"
 description: "My Weekly Digest #29 - What can not be missed this week? "
-thumbnail: "http://www.andreafortuna.org/images/jon-snow.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/images/jon-snow.jpg"
 category: WeeklyRoundup
 tags: 
 - Roundup
@@ -29,7 +29,7 @@ tags:
 {% include JB/setup %}
 What can not be missed this week? 
 
-![Jon Snow](http://www.andreafortuna.org/images/jon-snow.jpg)
+![Jon Snow](http://oldsite.andreafortuna.org/images/jon-snow.jpg)
 <!-- more -->
 
 Security & Privacy
@@ -91,7 +91,7 @@ Ukulele & Music
 
 - [Can We Stop With The Easy Ukulele Myth?](http://www.gotaukulele.com/2015/06/can-we-stop-with-easy-ukulele-myth.html){:target="_blank"}
 
-- [Niccolò Paganini, Ghiribizzo No. 20: ukulele transcription](http://www.andreafortuna.org/ukulele/2015/06/13/paganini-ghiribizzo-no-20/){:target="_blank"}
+- [Niccolò Paganini, Ghiribizzo No. 20: ukulele transcription](http://oldsite.andreafortuna.org/ukulele/2015/06/13/paganini-ghiribizzo-no-20/){:target="_blank"}
 
 - [Zaphod, the double headed ukulele](http://ukehunt.tumblr.com/post/121366213340/zaphod-the-double-headed-ukulele-from-tin-guitar){:target="_blank"}
 
@@ -108,4 +108,4 @@ Running
 
 - [How To Burn Fat While Running](http://blog.runtastic.com/en/veras-viewpoint/how-to-burn-fat-while-running/){:target="_blank"}
 
-- [The grumpy runner #1: the dude at the bar](http://www.andreafortuna.org/running/2015/06/19/sarcastic-runner/){:target="_blank"}
+- [The grumpy runner #1: the dude at the bar](http://oldsite.andreafortuna.org/running/2015/06/19/sarcastic-runner/){:target="_blank"}

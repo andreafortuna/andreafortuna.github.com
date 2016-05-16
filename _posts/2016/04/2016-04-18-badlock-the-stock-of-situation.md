@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BadLock: let's take stock of situation!"
-thumbnail: "http://www.andreafortuna.org/security/images/badlock.png"
+thumbnail: "http://oldsite.andreafortuna.org/security/images/badlock.png"
 description: "BadLock was revealed a few days, we take a look at what is said on the internet about it"
 keywords: Security, Threat, BadLock, Samba, Windows, Hype, Stefan Metzmacher
 category: Security
@@ -15,7 +15,7 @@ tags:
 
 **BadLock** was revealed a few days, we take a look at what is said on the internet about it.
 
-![BadLock](http://www.andreafortuna.org/security/images/badlock.png)
+![BadLock](http://oldsite.andreafortuna.org/security/images/badlock.png)
 
 <hr>
 

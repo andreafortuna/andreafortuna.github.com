@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Michael Tilson Thomas: music and emotion through time"
-thumbnail: "http://www.andreafortuna.org/music/images/TilsonThomas.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/music/images/TilsonThomas.jpg"
 description: "In this beautiful TED talk, Michael Tilson Thomas traces the development of classical music through the development of written notation, the record, and the re-mix."
 keywords: Music, Classical Music, Music Theory, Michael Tilson Thomas 
 category: Music
@@ -16,7 +16,7 @@ tags:
 
 He is currently music director of the **San Francisco Symphony**, and artistic director of the **New World Symphony Orchestra**.
 
-![Michael Tilson Thomas](http://www.andreafortuna.org/music/images/TilsonThomas.jpg)
+![Michael Tilson Thomas](http://oldsite.andreafortuna.org/music/images/TilsonThomas.jpg)
 
 From [Wikipedia](https://en.wikipedia.org/wiki/Michael_Tilson_Thomas):
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Short tunes on #Ukulele: Niccolò Paganini, Caprice No. 24"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/Capriccio24_theme.png"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/Capriccio24_theme.png"
 description: "Caprice No. 24 in A minor is the final caprice of Niccolò Paganini's 24 Caprices."
 keywords: Niccolò Paganini, Ukulele, Caprices, Capricci, Capriccio n.24, Caprice No. 24
 category: Ukulele
@@ -38,4 +38,4 @@ The original is in the key of A minor, but for adapt the piece to the limited ra
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Capriccio_n_24_-_Theme.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/Capriccio_n_24_-_Theme.pdf)

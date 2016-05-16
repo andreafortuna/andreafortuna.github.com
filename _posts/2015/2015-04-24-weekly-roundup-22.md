@@ -39,7 +39,7 @@ Security & Privacy
 
 - [USB Defense: Stop Data Walking Out The Door](http://thehackernews.com/2015/04/usb-security-software.html)
 
-- ['No iOS': a 'terrifying iOS flaw'](http://www.andreafortuna.org/security/2015/04/23/noIOS-wifi-bug/)
+- ['No iOS': a 'terrifying iOS flaw'](http://oldsite.andreafortuna.org/security/2015/04/23/noIOS-wifi-bug/)
 
 - The day the pentest report is due
 [![The day the pentest report is due](http://i.imgur.com/aTMLvyA.jpg)](http://securityreactions.tumblr.com/post/114500277482)

@@ -74,4 +74,4 @@ Music
 
 ![Ukulele](http://rlv.zcache.co.nz/ukulele_player_sticker-ra4843f5bb31444ecad844c36a4e0971b_v9wf3_8byvr_324.jpg)
 
-- [Ukulele Tips: warmup pattern](http://www.andreafortuna.org/ukulele/2015/05/09/ukulele-warmup-patterns/)
+- [Ukulele Tips: warmup pattern](http://oldsite.andreafortuna.org/ukulele/2015/05/09/ukulele-warmup-patterns/)

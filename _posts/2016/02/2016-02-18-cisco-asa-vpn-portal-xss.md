@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cisco ASA VPN Portal Cross Site Scripting, 0Day"
-thumbnail: "http://www.andreafortuna.org/technology/images/CiscoASA.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/CiscoASA.jpg"
 description: "After the vulnerability in the fragmentation of the IKE payload, a new zero-day afflicts the Cisco ASA VPN Portal."
 keywords: Security, Threat, Cisco, 0Day, XSS, Cross Site Scripting
 category: Security

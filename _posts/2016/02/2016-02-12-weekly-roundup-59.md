@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #59 - #Einstein #GravitationalWaves #Security #Music #Geekness #Ukulele #Science"
 description: "This week a lot of things have happened, not only gravitational waves discovery!"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/Gravitational-Waves.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/Gravitational-Waves.jpg"
 keywords: Geek, Security,Programming, Windows 10, Running, Barefoot, Music, ukulele, transcription, einstein, wordpress, gravitational waves, science, IoT, ransomware
 category: WeeklyRoundup
 tags: 
@@ -106,7 +106,7 @@ Programming
 
 - [Holistic Configuration Management at Facebook](http://muratbuffalo.blogspot.it/2016/02/holistic-configuration-management-at.html){:target="_blank"}
 
-- [Related posts on Jekyll, a custom solution](http://www.andreafortuna.org/programming/2016/02/10/jekyll-related-posts/){:target="_blank"}
+- [Related posts on Jekyll, a custom solution](http://oldsite.andreafortuna.org/programming/2016/02/10/jekyll-related-posts/){:target="_blank"}
 
 - [CloudKit Adds Support for Server-to-Server API Access](http://www.programmableweb.com/news/cloudkit-adds-support-server-to-server-api-access/2016/02/09){:target="_blank"}
 
@@ -134,7 +134,7 @@ Ukulele & Music
 
 - [Overcoming Stage Fright](https://rockclass101.com/overcoming-stage-fright/){:target="_blank"}
 
-- [Theme from 'Schindler's List' - Arranged for Ukulele](http://www.andreafortuna.org/ukulele/2016/02/08/schindlers-list-theme-on-ukulele/){:target="_blank"}
+- [Theme from 'Schindler's List' - Arranged for Ukulele](http://oldsite.andreafortuna.org/ukulele/2016/02/08/schindlers-list-theme-on-ukulele/){:target="_blank"}
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/gsIdCsD4a9s" frameborder="0" allowfullscreen></iframe>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Geolocating with a single javascript line"
-thumbnail: "http://www.andreafortuna.org/technology/images/geocaching.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/geocaching.jpg"
 description: "Geolocating in HTML5 with a single line of code? 'It Could Work!'"
 keywords: HTML5, JAVASCRIPT, Geolocation, Programming
 category: Programming

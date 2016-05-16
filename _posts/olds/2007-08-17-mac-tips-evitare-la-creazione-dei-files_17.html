@@ -7,7 +7,7 @@ tags:
 - Apple
 modified_time: '2012-04-26T14:21:52.739+02:00'
 blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-5719898655306736941
-blogger_orig_url: http://www.andreafortuna.org/2007/08/mac-tips-evitare-la-creazione-dei-files_17.html
+blogger_orig_url: http://oldsite.andreafortuna.org/2007/08/mac-tips-evitare-la-creazione-dei-files_17.html
 ---
 
 Lavorando in rete con sistemi diversi si puo' notare  un comportamento di MacOsX che talvolta puo' essere fastidioso:<br/>la creazione sulle unita' condivise in rete da altri sistemi dei file <em>.DS_Store</em>.<br/><br/>Tali files contengono le informazioni necessarie al finder per 'ricordare' le impostazioni date a un determinato folder (dimensioni, modalita' di visualizzazione ecc...).<br/>Sui sistemi Mac questi file sono resi invisibili dallo stesso finder, tuttavia se si accede via rete a una unita' condivisa da un diverso sistema operativo i .DS_Store vengono creati e vengono visualizzati.<br/><br/>Esiste la possibilita' di disabilitare questa funzione, digitando da terminale<br/><blockquote>defaults write com.apple.desktopservices DSDontWriteNetworkStores true</blockquote><br/>Naturalmente in questo modo viene inibita la creazione dei files .DS_Store esclusivamente sule unita' remote, non sui dischi locali.<br/><br/>[da <a href="http://docs.info.apple.com/article.html?artnum=301711">http://docs.info.apple.com/article.html?artnum=301711</a>]

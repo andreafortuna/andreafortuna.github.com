@@ -2,7 +2,7 @@
 layout: post
 title: "Windows 10: uninstall all modern apps with a single Powershell command"
 description: "I have already explained how to uninstall a Metro/Modern app using Powershell on Windows 8, but some readers ask me how to 'clean' the new Windows 10 from all pre-installed Apps."
-thumbnail: "http://www.andreafortuna.org/technology/images/ModernApps.PNG"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/ModernApps.PNG"
 keywords: Windows 10, modern, apps, powershell, tips
 category: Microsoft
 tags: 
@@ -12,7 +12,7 @@ tags:
 
 ---
 {% include JB/setup %}
-I have [already explained](http://www.andreafortuna.org/windows/2014/11/17/windows-8-1-uninstall-metro-apps-with-powershell/) how to uninstall a Metro/Modern app using Powershell on Windows 8, but some readers ask me how to 'clean' the new Windows 10 from all pre-installed Apps.
+I have [already explained](http://oldsite.andreafortuna.org/windows/2014/11/17/windows-8-1-uninstall-metro-apps-with-powershell/) how to uninstall a Metro/Modern app using Powershell on Windows 8, but some readers ask me how to 'clean' the new Windows 10 from all pre-installed Apps.
 
 ![Apps](/technology/images/ModernApps.PNG)
 <!-- more -->

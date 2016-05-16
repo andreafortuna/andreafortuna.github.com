@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Robert de Visée - Minuet"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/minuet.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/minuet.jpg"
 description: "My #ukulele version of a minuet by Robert de Visée"
 keywords: ukulele, transcription, arrangement, Robert de Visée, Menuet, fingerstyle, 
 category: Ukulele
@@ -65,7 +65,7 @@ Here my ukulele version:
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Minuet_devisee.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/Minuet_devisee.pdf)
 
 <hr/>
 <div class="video-container">

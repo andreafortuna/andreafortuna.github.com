@@ -19,7 +19,7 @@ tags:
 {% include JB/setup %}
 What can not be missed this week?
 
-[![Weekly Roundup](http://www.andreafortuna.org/images/milluminodimeno.jpg)](http://caterpillar.blog.rai.it/milluminodimeno/)
+[![Weekly Roundup](http://oldsite.andreafortuna.org/images/milluminodimeno.jpg)](http://caterpillar.blog.rai.it/milluminodimeno/)
 <!-- more -->
 
 Security

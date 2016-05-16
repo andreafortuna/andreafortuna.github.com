@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #47 - #Tor #Vodafone #HackingTeam"
 description: "My Weekly Digest #47 - #Tor #Vodafone #HackingTeam #BitCoin #Arduino #Marathon"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/Vodafone.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/Vodafone.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, Tor, BitCoin, Vodafone, HackingTeam, Arduino, Marathon, Music, Covers, TV Themes, The Addams Family
 category: WeeklyRoundup
 tags: 
@@ -100,7 +100,7 @@ Ukulele & Music
 
 - [3 Questions Interview: Stuart Fuchs](www.playukulelebyear.com/3-questions-interview/3-questions-interviewstuart-fuchs/){:target="_blank"}
 
-- [Halloween Ukulele: The Addams Family Theme](http://www.andreafortuna.org/ukulele/2015/10/31/the-addams-family-theme/){:target="_blank"}
+- [Halloween Ukulele: The Addams Family Theme](http://oldsite.andreafortuna.org/ukulele/2015/10/31/the-addams-family-theme/){:target="_blank"}
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/REWsQEENuX4" frameborder="0" allowfullscreen></iframe>
 

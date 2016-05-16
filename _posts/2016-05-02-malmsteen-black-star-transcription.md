@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yngwie J. Malmsteen, Black Star Intro: my transcription"
-thumbnail: "http://www.andreafortuna.org/guitar/images/blackstar/yngwie.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/guitar/images/blackstar/yngwie.jpg"
 description: "Yngwie J. Malmsteen, Black Star Intro: my transcription"
 keywords: Music, Guitar, fingerstyle, Yngwie Malmsteen, Blackstar, transcription
 category: Guitar
@@ -11,7 +11,7 @@ tags:
 
 ---
 
-![Yngwie](http://www.andreafortuna.org/guitar/images/blackstar/yngwie.jpg)
+![Yngwie](http://oldsite.andreafortuna.org/guitar/images/blackstar/yngwie.jpg)
 
 "Black Star" is the first track from **Yngwie Malmsteen**'s album **Rising Force**
 
@@ -48,15 +48,15 @@ Malmsteen plays "Black Star" intro in fingerstyle, on nylon strings. Few and sim
 My transcription
 --
 
-![transcription](http://www.andreafortuna.org/guitar/images/blackstar/Black_Star_Intro.png)
+![transcription](http://oldsite.andreafortuna.org/guitar/images/blackstar/Black_Star_Intro.png)
 
 Here a brief video, and below the link for downloading the transcription.
 
 <video width="600"  controls>
-  <source src="http://www.andreafortuna.org/guitar/video/blackstar/blackstar.mp4" type="video/mp4">
+  <source src="http://oldsite.andreafortuna.org/guitar/video/blackstar/blackstar.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
 <hr/>
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/guitar/files/blackstar/Black_Star_Intro.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/guitar/files/blackstar/Black_Star_Intro.pdf)

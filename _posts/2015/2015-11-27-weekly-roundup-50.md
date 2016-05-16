@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #50 - #DELL #NetFlix #RaspberryPi #Tesla #Amazon"
 description: "My Weekly Digest #50 -  #DELL #NetFlix #RaspberryPi #Tesla #Turkey #Amazon #PHP #Christmas"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/turkey.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/turkey.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, Danilo Vignola, transcription, php, christmas, turkey, RaspberryPi, netflix, tesla
 category: WeeklyRoundup
 tags: 

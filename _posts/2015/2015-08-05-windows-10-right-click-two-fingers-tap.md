@@ -2,7 +2,7 @@
 layout: post
 title: "Windows 10: enable right click with two fingers tap on Synaptics touchpad"
 description: "After upgrading to Windows 10, the touchpad of my Lenovo G50-45 has lost a feature in my opinion very useful: the right click with the two-fingers tap."
-thumbnail: "http://www.andreafortuna.org/technology/images/lenovo-g50-45.png"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/lenovo-g50-45.png"
 keywords: Windows 10, Issues, Synaptics, Touchpad, Two Fingers, Right Click, lenovo, G50-45
 category: Microsoft
 tags: 

@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #51 - #PirateBay #Doping #JoshuaShintani"
 description: "My Weekly Digest #51 - #PirateBay #Doping #JoshuaShintani #GasparSanz #WindowsPhone #RaspberryPi"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/theforce.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/theforce.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, Gaspar Sanz, Joshua Shintani, Doping, PirateBay, CSS
 category: WeeklyRoundup
 tags: 
@@ -103,7 +103,7 @@ Ukulele & Music
 
 - ['Shallow Hal' Actor Joshua Shintani Dead At 32](http://www.huffingtonpost.com/entry/joshua-shintani-dead-dies_565cbb35e4b079b2818b5d27){:target="_blank"}
 
-- [Gaspar Sanz - Canarios on Ukulele](http://www.andreafortuna.org/ukulele/2015/12/02/gaspar-sanz-canarios/){:target="_blank"}
+- [Gaspar Sanz - Canarios on Ukulele](http://oldsite.andreafortuna.org/ukulele/2015/12/02/gaspar-sanz-canarios/){:target="_blank"}
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/JC1e897GMLQ" frameborder="0" allowfullscreen></iframe>
 

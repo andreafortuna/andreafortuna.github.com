@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #64 - #AceDeceiver #Staminus"
 description: "My Weekly Digest #64 - Some #threats afflicts smartphones, #Staminus was hacked and some other programming/music/welness related links!"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/staminus.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/staminus.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, guitar, lute, TOR, Java, Christopher McDougall, yoga
 category: WeeklyRoundup
 tags: 
@@ -23,7 +23,7 @@ tags:
 ---
 Interesting things that i read in the last week!
 
-![Staminus](http://www.andreafortuna.org/weeklyroundup/images/staminus.jpg)
+![Staminus](http://oldsite.andreafortuna.org/weeklyroundup/images/staminus.jpg)
 <!-- more -->
 <hr/>
 Security & Privacy
@@ -44,7 +44,7 @@ Security & Privacy
 
 - [Hactivist Group Anonymous Declares ‘Total War’ on Donald Trump](http://recode.net/2016/03/15/hactivist-group-anonymous-declares-total-war-on-donald-trump/){:target="_blank"}
 
-- [Two new threats for mobile users](http://www.andreafortuna.org/security/2016/03/17/new-threats-for-mobile-users/){:target="_blank"}
+- [Two new threats for mobile users](http://oldsite.andreafortuna.org/security/2016/03/17/new-threats-for-mobile-users/){:target="_blank"}
 
 
 <hr/>
@@ -83,7 +83,7 @@ Programming
 
 - [Microcontainers - Tiny, Portable Docker Containers](https://dzone.com/articles/microcontainers-tiny-portable-docker-containers){:target="_blank"}
 
-- [How to hide a particular account from Wordpress User List](http://www.andreafortuna.org/programming/2016/03/16/wordpress-hide-user/){:target="_blank"}
+- [How to hide a particular account from Wordpress User List](http://oldsite.andreafortuna.org/programming/2016/03/16/wordpress-hide-user/){:target="_blank"}
 
 - [ResponsiveResize – a Safari Extension to help with responsive design](http://www.midwinter-dg.com/permalink-responsive-resize-a-safari-extension-to-help-with-responsive-design_2012-04-19.html){:target="_blank"}
 
@@ -102,11 +102,11 @@ Music
 
 - [How To Easily Change Between Ukulele Chords](http://ukulelego.com/lessons/easily-change-ukulele-chords/){:target="_blank"}
 
-- [The Boije collection: over 1600 free works for classical guitar](http://www.andreafortuna.org/guitar/2016/03/15/the-boijes-collection/){:target="_blank"}
+- [The Boije collection: over 1600 free works for classical guitar](http://oldsite.andreafortuna.org/guitar/2016/03/15/the-boijes-collection/){:target="_blank"}
 
 - [Type "Metronome" Into Google to Get a Working, Adjustable Metronome](http://lifehacker.com/type-metronome-into-google-to-get-a-working-adjustab-1765443092){:target="_blank"}
 
-- [Wolfgang Amadeus Mozart: Simple ukulele arrangement of Rondò alla Turca (Turkish March) from Piano Sonata No. 11 (K 331)](http://www.andreafortuna.org/ukulele/2016/03/14/mozart-rondo-alla-turca-turkish-march/){:target="_blank"}
+- [Wolfgang Amadeus Mozart: Simple ukulele arrangement of Rondò alla Turca (Turkish March) from Piano Sonata No. 11 (K 331)](http://oldsite.andreafortuna.org/ukulele/2016/03/14/mozart-rondo-alla-turca-turkish-march/){:target="_blank"}
 
 - [Nigel North Plays Dowland on Lute](https://www.youtube.com/watch?v=lhKqxSq4usM){:target="_blank"}
 

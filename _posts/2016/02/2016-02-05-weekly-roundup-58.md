@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #58 - #OpenSSL #MediaTek #Android #NSA #SpaceX"
 description: "My Weekly Digest #58 - Interesting things that i read in the last week, about OpenSSL and Android Bugs, NSA, SpaceX, various Geekness, Running, Yoga, Swimming and Ukulele exercises! "
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/https.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/https.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription,Miitomo, Android, MediaTek, OpenSSL
 category: WeeklyRoundup
 tags: 
@@ -84,7 +84,7 @@ Programming
 
 - [Making A Service Worker: A Case Study](https://www.smashingmagazine.com/2016/02/making-a-service-worker/){:target="_blank"}
 
-- [Hadoop introduction](http://www.andreafortuna.org/programming/2016/02/03/apache-hadoop-cheatsheet/){:target="_blank"}
+- [Hadoop introduction](http://oldsite.andreafortuna.org/programming/2016/02/03/apache-hadoop-cheatsheet/){:target="_blank"}
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/d2xeNpfzsYI" frameborder="0" allowfullscreen></iframe>
@@ -105,7 +105,7 @@ Ukulele & Music
 
 - [Martin has raised list prices on many of the ukuleles. They have launched a new website, too](https://www.martinguitar.com/guitars/ukulele/){:target="_blank"}
 
-- [My daily workout on Ukulele](http://www.andreafortuna.org/ukulele/2016/02/01/ukulele-my-daily-workout/){:target="_blank"}
+- [My daily workout on Ukulele](http://oldsite.andreafortuna.org/ukulele/2016/02/01/ukulele-my-daily-workout/){:target="_blank"}
 
 - [Got A Ukulele Interview - Danielle Ate The Sandwich](http://www.gotaukulele.com/2016/02/got-ukulele-interview-danielle-ate.html){:target="_blank"}
 

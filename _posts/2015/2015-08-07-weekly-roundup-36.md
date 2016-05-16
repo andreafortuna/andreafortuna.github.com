@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #36"
 description: "My Weekly Digest #36 - #Thunderstrike #Windows10 #HackingTeam #JakeShimabukuro #Ukulele #Security #Programming "
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/thunderstrike.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/thunderstrike.jpg"
 keywords: Microsoft, windows 10, Geek, Security, Programming, Running, Barefoot, Music, ukulele, Jake Shimabukuro, Fernando Sor, transcription, wordpress, hacking team, clawhammer, myMail
 category: WeeklyRoundup
 tags: 
@@ -116,7 +116,7 @@ Ukulele & Music
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/1Hqtu-EBgts" frameborder="0" allowfullscreen></iframe>
 
-- [Fernando Sor, 'Introduction and Variations on a Theme by Mozart', Op. 9 - My Ukulele version](http://www.andreafortuna.org/ukulele/2015/08/01/fernando-sor-op9/){:target="_blank"}
+- [Fernando Sor, 'Introduction and Variations on a Theme by Mozart', Op. 9 - My Ukulele version](http://oldsite.andreafortuna.org/ukulele/2015/08/01/fernando-sor-op9/){:target="_blank"}
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/WIA3DZkj1H0" frameborder="0" allowfullscreen></iframe>
 

@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #55 - #DavidBowie #Fortinet #TrendMicro #AlanRickman"
 description: "My Weekly Digest #55 - #DavidBowie #DavidBowie #Fortinet #TrendMicro #BlackBerry #AlanRickman"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/david-bowie.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/david-bowie.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, tabs, Alan Rickman, David Bowie, Fortinet, Run streak, BlackBerry
 category: WeeklyRoundup
 tags: 
@@ -109,7 +109,7 @@ Ukulele & Music
 
 - [25 era-defining photos of David Bowie through the decades](http://mashable.com/2016/01/11/david-bowie-photos/){:target="_blank"}
 
-- [Robert de Visée - Minuet](http://www.andreafortuna.org/ukulele/2016/01/11/robert-de-visee-menuet/){:target="_blank"}
+- [Robert de Visée - Minuet](http://oldsite.andreafortuna.org/ukulele/2016/01/11/robert-de-visee-menuet/){:target="_blank"}
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/Qt1JNDUpNss" frameborder="0" allowfullscreen></iframe>
@@ -131,7 +131,7 @@ Running & Wellness
 
 - [The best songs to blast while running, according to Spotify users](http://uk.businessinsider.com/best-workout-songs-on-spotify-2016-1?utm_source=feedburner&%3Butm_medium=referral&utm_medium=feed&utm_campaign=Feed%3A+businessinsider+%28Business+Insider%29?r=US&IR=T){:target="_blank"}
 
-- [My 'run streak' of 2015](http://www.andreafortuna.org/running/2016/01/13/run-streak/){:target="_blank"}
+- [My 'run streak' of 2015](http://oldsite.andreafortuna.org/running/2016/01/13/run-streak/){:target="_blank"}
 
 - [The Terrible Beauty of Brain Surgery](http://www.nytimes.com/2016/01/03/magazine/karl-ove-knausgaard-on-the-terrible-beauty-of-brain-surgery.html){:target="_blank"}
 

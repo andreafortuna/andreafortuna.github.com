@@ -2,7 +2,7 @@
 layout: post
 title: "Windows 10: generate a battery report"
 description: "When Windows 10 is running on a tablet or a laptop, one of the aspects to be checked periodically is the battery life."
-thumbnail: "http://www.andreafortuna.org/technology/images/battery.png"
+thumbnail: "http://oldsite.andreafortuna.org/technology/images/battery.png"
 keywords: Windows 10, battery, report, tablet, laptop, UAC
 category: Microsoft
 tags: 

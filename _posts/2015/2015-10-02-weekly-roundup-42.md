@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #42 - #WaterOnMars #Stagefright #Windows7"
 description: "My Weekly Digest #42 - #WaterOnMars #Stagefright #Windows7"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/WaterOnMars.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/WaterOnMars.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, ROY SMECK, transcription, Windows 7, Microsoft, Javascript, Vodafone, Game Of Thrones, Dothraki, Lego, 3D Printing, Christian Petzold
 category: WeeklyRoundup
 tags: 
@@ -98,7 +98,7 @@ Ukulele & Music
 
 - [16 Best Ukuleles to Buy This Christmas… Without Breaking the Bank](http://www.ukuleletricks.com/best-ukuleles-christmas-2011/){:target="_blank"}
 
-- [Christian Petzold, Minuet in G: ukulele arrangement](http://www.andreafortuna.org/ukulele/2015/09/28/christian_petzold_minuet_in_g/){:target="_blank"}
+- [Christian Petzold, Minuet in G: ukulele arrangement](http://oldsite.andreafortuna.org/ukulele/2015/09/28/christian_petzold_minuet_in_g/){:target="_blank"}
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/sRoLzKuVbfE" frameborder="0" allowfullscreen></iframe>
 

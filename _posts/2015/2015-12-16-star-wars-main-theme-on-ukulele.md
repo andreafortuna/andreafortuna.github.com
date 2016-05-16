@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Star Wars Main Theme on Ukulele (video and tabs)"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/starwarsmaintheme.png"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/starwarsmaintheme.png"
 description: "John (Williams), forgive me! My #ukulele transcription of Star Wars Main Theme"
 keywords: ukulele, transcriptions, transcription, John Williams, Main Theme, Luke Skywalker Theme, music, fingerstyle
 category: Ukulele
@@ -24,7 +24,7 @@ The author
 --
 *John Towner Williams* (born February 8, 1932) is an American composer, conductor, and pianist.
 
-I already talked about him in the [post about the "Imperial March"](http://www.andreafortuna.org/ukulele/2015/12/12/imperial-march-on-ukulele/)
+I already talked about him in the [post about the "Imperial March"](http://oldsite.andreafortuna.org/ukulele/2015/12/12/imperial-march-on-ukulele/)
 
 <hr>
 The piece
@@ -62,7 +62,7 @@ Here my (recorded-in-hurry-before-going-to-the-office) ukulele version:
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Star_Wars_main_theme.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/Star_Wars_main_theme.pdf)
 
 <hr/>
 <div class="video-container">

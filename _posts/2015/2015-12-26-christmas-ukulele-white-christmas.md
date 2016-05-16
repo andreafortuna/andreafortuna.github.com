@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Christmas Ukulele: White Christmas"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/whitechristmascover.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/whitechristmascover.jpg"
 description: "My #ukulele version of WHite Christmas"
 keywords: ukulele, transcriptions, transcription, White Christmas,Israel Isidore Baline, Bing Crosby, music, fingerstyle
 category: Ukulele
@@ -64,7 +64,7 @@ Here my ukulele version:
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/White_Christmas.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/White_Christmas.pdf)
 
 <hr/>
 <div class="video-container">

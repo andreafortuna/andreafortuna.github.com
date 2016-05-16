@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Running Chronicles: my 2014 report"
-thumbnail: "http://www.andreafortuna.org/images/homer.png"
+thumbnail: "http://oldsite.andreafortuna.org/images/homer.png"
 description: "My 2014 running report"
 category: Running
 tags: 

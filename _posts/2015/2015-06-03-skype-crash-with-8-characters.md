@@ -10,7 +10,7 @@ tags:
 
 ---
 {% include JB/setup %}
-Not only [iOS is affected by annoying bugs](http://www.andreafortuna.org/security/2015/05/29/ios-imessage-crash/) (and stupid) that cause crashes and reboots with the simple insertion of a sequence of characters.
+Not only [iOS is affected by annoying bugs](http://oldsite.andreafortuna.org/security/2015/05/29/ios-imessage-crash/) (and stupid) that cause crashes and reboots with the simple insertion of a sequence of characters.
 
 ![SkypeCrash](http://venturebeat.com/wp-content/uploads/2015/06/skype_bug_autocrash.png)
 <!-- more -->

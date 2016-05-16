@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #57 - #MarvinMinsky #IoT #NAMM"
 description: "My Weekly Digest #57 - #MarvinMinsky #IoT #NAMM #ATARI"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/Minsky.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/Minsky.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, Marvin Minsky, IoT, Marathon, Namm, Atari
 category: WeeklyRoundup
 tags: 
@@ -109,7 +109,7 @@ Ukulele & Music
 <iframe src="https://www.youtube.com/embed/W0I2F8ve4Yk" frameborder="0" allowfullscreen></iframe>
 </div>
 
-- [Niccolò Paganini: theme from 'The Carnival of Venice' ('O mamma, mamma cara') arranged for Ukulele](http://www.andreafortuna.org/ukulele/2016/01/25/niccolo-paganini-the-carnival-of-venice/){:target="_blank"}
+- [Niccolò Paganini: theme from 'The Carnival of Venice' ('O mamma, mamma cara') arranged for Ukulele](http://oldsite.andreafortuna.org/ukulele/2016/01/25/niccolo-paganini-the-carnival-of-venice/){:target="_blank"}
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/wWtHt0lSk-M" frameborder="0" allowfullscreen></iframe>
@@ -139,7 +139,7 @@ Running & Wellness
 
 - [10 ways to perfect your running technique](http://www.worldrunning.com/articles/10-ways-to-perfect-your-running-technique/){:target="_blank"}
 
-- [Is the obesity crisis hiding a bigger problem?](http://www.andreafortuna.org/wellness/2016/01/27/2015-obesity-and-diabetes/){:target="_blank"}
+- [Is the obesity crisis hiding a bigger problem?](http://oldsite.andreafortuna.org/wellness/2016/01/27/2015-obesity-and-diabetes/){:target="_blank"}
 
 
 

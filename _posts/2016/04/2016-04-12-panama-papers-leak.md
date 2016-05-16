@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Panama Papers Leak – What You Need To Know"
-thumbnail: "http://www.andreafortuna.org/security/images/panama-papers-leak/panama_papers_cover.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/security/images/panama-papers-leak/panama_papers_cover.jpg"
 description: "What You Need To Know About The Panama Papers Leak"
 keywords: Security, Privacy, Panama Papers, leak, Mossack Fonseca, Vladimir Putin, Ian Cameron
 category: Security
@@ -12,7 +12,7 @@ tags:
 
 ---
 
-![PanamaPapers](http://www.andreafortuna.org/security/images/panama-papers-leak/panama_papers_cover.jpg)
+![PanamaPapers](http://oldsite.andreafortuna.org/security/images/panama-papers-leak/panama_papers_cover.jpg)
 
 Over a year ago, an anonymous source contacted the *Süddeutsche Zeitung* and submitted encrypted internal documents from **Mossack Fonseca**, a Panamanian law firm that sells anonymous offshore companies around the world. 
 

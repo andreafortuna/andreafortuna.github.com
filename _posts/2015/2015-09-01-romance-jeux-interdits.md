@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Romance - Jeux Interdits: my ukulele arrangement (video and tabs)"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/Romance.PNG"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/Romance.PNG"
 description: "There are many versions of this tune, which pass to Fernando Sor, Francisco Tarrega and arrive at Narciso Yepes."
 keywords: Jeux Interdits, Giochi Proibiti, Forbidden Games, ukulele, fingerstyle, transcriptions, transcription, arrangement, Narciso Yepes, Fernando Sor,Francisco Tarrega, Romance, music
 category: Ukulele
@@ -38,5 +38,5 @@ I've transcribed the song on ukulele trying to keep the fingering the most possi
 
 For ukulele score&tablature (with my fingering notes), click the link below.
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Spanish_Romance_(Jeux_Interdits).pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/Spanish_Romance_(Jeux_Interdits).pdf)
 

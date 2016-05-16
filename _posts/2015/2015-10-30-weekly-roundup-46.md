@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #46 - #OMS #Meat #Cancer"
 description: "My Weekly Digest #46 - #OMS #Meat #Cancer #JohnWilliamDuarte #Ukulele #Running #Calisthenics"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/meat.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/meat.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, John William Duarte, meat, cancer, SQL Injection, Joomla, calisthenics, Bob Wood, Epiphone
 category: WeeklyRoundup
 tags: 
@@ -100,7 +100,7 @@ Ukulele & Music
 
 - [Things To Bring To The Gig](http://liveukulele.com/gear/things-to-bring-to-the-gig/){:target="_blank"}
 
-- [John William Duarte - English Suite, Op. 31 - Prelude](http://www.andreafortuna.org/ukulele/2015/10/26/english-suite/){:target="_blank"}
+- [John William Duarte - English Suite, Op. 31 - Prelude](http://oldsite.andreafortuna.org/ukulele/2015/10/26/english-suite/){:target="_blank"}
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/Stz5eI0gT0Q" frameborder="0" allowfullscreen></iframe>
 

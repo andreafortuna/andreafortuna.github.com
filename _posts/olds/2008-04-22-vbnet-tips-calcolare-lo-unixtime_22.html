@@ -8,7 +8,7 @@ tags:
 - Programmazione
 modified_time: '2012-04-26T14:20:43.863+02:00'
 blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-3779035837833295013
-blogger_orig_url: http://www.andreafortuna.org/2008/04/vbnet-tips-calcolare-lo-unixtime_22.html
+blogger_orig_url: http://oldsite.andreafortuna.org/2008/04/vbnet-tips-calcolare-lo-unixtime_22.html
 ---
 
 Attualmente al framework .NET manca una cosa abbastanza utile: non esiste una funzione che restituisca lo unixtime attuale.<br/><br/>Lo UnixTime, vi ricordo, e' l'unita' di misura del tempo utilizzata nei sistemi UnixLike e rappresenta il numero di secondi che sono trascorsi dalla mezzanotte (UTC) dell'1 gennaio 1970.<br/><br/>Questo breve code snippet permette di calcolare tale valore:<br/><br/>[sourcecode language='vb']<br/><br/>unixtime  = (DateTime.UtcNow - New DateTime(1970, 1, 1, 0, 0, 0)).TotalSeconds<br/><br/>[/sourcecode]

@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #40 - #tor #android #facebook #hackingteam #instagram"
 description: "My Weekly Digest #40 - #tor #android #hackingteam #instagram #privacy #hyperloop #ukulele #facebook"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/facebook-really-dislike.png"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/facebook-really-dislike.png"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, Kit Harington, Tor, Beatles, London Marathon, Jake Shimabukuro, Hacking Team, Facebook Dislike,v  Gmail, Instagram, Game of Thrones, Jon Snow, Android, Hyperloop
 category: WeeklyRoundup
 tags: 
@@ -111,7 +111,7 @@ Ukulele & Music
 
 ![UkesNotNukes](https://s-media-cache-ak0.pinimg.com/236x/3b/2c/22/3b2c2286fe9c06f163e1e178d18eeca1.jpg)
 
-- [Short tunes on #Ukulele: 'Happy Birthday To You'](http://www.andreafortuna.org/ukulele/2015/09/14/happy-birthday/){:target="_blank"}
+- [Short tunes on #Ukulele: 'Happy Birthday To You'](http://oldsite.andreafortuna.org/ukulele/2015/09/14/happy-birthday/){:target="_blank"}
 
 - [Beatles on Ukulele](http://www.easyukulele.com/beatles-ukulele.html){:target="_blank"}
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Avoid blisters, with shoes and barefoot"
-thumbnail: "http://www.andreafortuna.org/running/images/barefoot_1.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/running/images/barefoot_1.jpg"
 description: "My2C to prevent blisters."
 category: Running
 tags: 
@@ -14,7 +14,7 @@ tags:
 
 A blister is an accumulation of plasma and other body fluids between the layers of the epidermis or between this and the dermis.
 
-![Barefoot Runner](http://www.andreafortuna.org/running/images/barefoot_1.jpg)
+![Barefoot Runner](http://oldsite.andreafortuna.org/running/images/barefoot_1.jpg)
 <!-- more -->
 
 The presence of this small bag filled with liquid also prevents the contact of the bacteria with the wound by removing the risk of infections.
@@ -30,7 +30,7 @@ Here is a small Decalogue (made by drawing exclusively on my personal experience
 - Always bring back a pair of shoes or sandals; if you feel pain or even just a little burning, wear it and preferably go home walking.
 
 <figure>
-  <img src="http://www.andreafortuna.org/running/images/barefoot_2.jpg" alt="Sole">
+  <img src="http://oldsite.andreafortuna.org/running/images/barefoot_2.jpg" alt="Sole">
   <figcaption>Blister healed, improved skin!</figcaption>
 </figure>
 

@@ -7,7 +7,7 @@ tags:
 - Linux
 modified_time: '2012-04-26T14:23:57.612+02:00'
 blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-8165232576964570456
-blogger_orig_url: http://www.andreafortuna.org/2006/03/utilizzare-xargs_31.html
+blogger_orig_url: http://oldsite.andreafortuna.org/2006/03/utilizzare-xargs_31.html
 ---
 
 <p>XARGS e' una utility unix per la costruzione ed esecuzione di righe di comando dallo standard input.</p><p>Dalla <em>man page</em> :<br /></p><blockquote>xargs legge dallo standard input argomenti, delimitati da spazi bianchi (possono essere protetti con virgolette doppie o singole o da backslash ('\')) o da caratteri di newline, ed esegue il comando (che di default &egrave; /bin/echo) una o pi&ugrave; volte con ognuno degli argomenti-iniziali seguiti dagli argomenti letti dallo standard input.</blockquote>  <a name='more'></a>  <p>Un caso in cui xarg puo' rendersi utile &egrave; quando richiamando un comando del genere<br /></p><blockquote>$ rm *<br /></blockquote><p><br />ci venga restituito il seguente errore:<br /></p><blockquote>bash: /bin/rm: Argument list too long<br /></blockquote><p>il numero massimo&nbsp; di parametri che si possono&nbsp; passare sulla linea di<br /> comando e` infatti alto ma limitato.<br />Per&nbsp; evitare&nbsp; questo&nbsp; inconveniente&nbsp; si puo`&nbsp; utilizzare&nbsp; xargs: il comando&nbsp; di prima, quindi, si puo` trasformare in:<br /></p><blockquote>$ ls | xargs rm</blockquote><p>&nbsp;</p><p>Viene in pratica richiamato <em>rm </em>per ogni nome di file restituito da <em>ls</em>. </p><p>&nbsp;</p>

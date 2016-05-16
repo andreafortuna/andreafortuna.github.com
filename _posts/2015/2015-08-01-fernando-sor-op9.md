@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fernando Sor, 'Introduction and Variations on a Theme by Mozart', Op. 9 - My Ukulele version"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/SorOp9_home.PNG"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/SorOp9_home.PNG"
 description: "I believe that all classical guitarist has faced at least once the famous Fernando Sor's Op.9, the 'Variations on a Theme of Mozart'."
 keywords: ukulele, transcription, guitar, Fernando Sor, Ana Vidovic, Mozart, Op. 9
 category: Ukulele
@@ -96,5 +96,5 @@ And finally, this is my execution:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/WIA3DZkj1H0" frameborder="0" allowfullscreen></iframe>
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/SOR_Op9.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/SOR_Op9.pdf)
 

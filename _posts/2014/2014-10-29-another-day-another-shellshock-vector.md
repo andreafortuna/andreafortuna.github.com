@@ -8,7 +8,7 @@ tags:
 - SMTP
 ---
 {% include JB/setup %}
-[SANS Internet Storm Center](https://isc.sans.edu/diary/Shellshock+via+SMTP/18879) announced that some web hosting providers reports a strange activity  that appears to be a [*shellshock*](http://www.andreafortuna.org/tags.html#ShellShock-ref) exploit attempt via SMTP.
+[SANS Internet Storm Center](https://isc.sans.edu/diary/Shellshock+via+SMTP/18879) announced that some web hosting providers reports a strange activity  that appears to be a [*shellshock*](http://oldsite.andreafortuna.org/tags.html#ShellShock-ref) exploit attempt via SMTP.
 
 ![Remote code execution](http://cdn.zdnet.be/thumb/600-600/i/2014/44/shutterstock_222964006.jpg)
 

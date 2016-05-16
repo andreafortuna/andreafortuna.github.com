@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Imperial March (Darth Vader's Theme) on Ukulele (video and tabs)"
-thumbnail: "http://www.andreafortuna.org/ukulele/images/imperialmarch.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/ukulele/images/imperialmarch.jpg"
 description: "Uke, I am your father! My #ukulele transcription of Star Wars Imperial March"
 keywords: ukulele, transcriptions, transcription, John Williams, Imperial March, Dart Vader Theme, music, fingerstyle
 category: Ukulele
@@ -49,4 +49,4 @@ Here my ukulele version:
 
 Ukulele score&tablature could be downloaded clicking the link below:
 
-[![Download!](http://www.andreafortuna.org/images/Download-PDF-Button.png)](http://www.andreafortuna.org/ukulele/files/Imperial_March.pdf)
+[![Download!](http://oldsite.andreafortuna.org/images/Download-PDF-Button.png)](http://oldsite.andreafortuna.org/ukulele/files/Imperial_March.pdf)

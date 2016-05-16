@@ -10,7 +10,7 @@ tags:
 - ASP.NET
 modified_time: '2012-04-26T14:20:32.720+02:00'
 blogger_id: tag:blogger.com,1999:blog-1948348952555789070.post-3564925135780600494
-blogger_orig_url: http://www.andreafortuna.org/2011/04/aspnet-esportare-il-contenuto-di-una_21.html
+blogger_orig_url: http://oldsite.andreafortuna.org/2011/04/aspnet-esportare-il-contenuto-di-una_21.html
 ---
 
 Snippet VB.NET (ma adattabile rapidamente anche in C#) rapido-rapido: salviamo il contenuto del controllo <strong>GridView1</strong>in un file html (leggibile quindi con MS Excel), mantenendone le formattazioni:<br/><a name='more'></a><br/><br/>[sourcecode language="vb"]<br/><br/>Dim SB As New StringBuilder()<br/>Dim SW As New System.IO.StringWriter(SB)<br/>Dim htmlTW As New HtmlTextWriter(SW)<br/><br/>Dim stringWrite As New System.IO.StringWriter()<br/>Dim htmlWrite As New HtmlTextWriter(stringWrite)<br/><br/>Dim frm As New HtmlForm()<br/>PlanningGridView.Parent.Controls.Add(frm)<br/>frm.Attributes(&quot;runat&quot;) = &quot;server&quot;<br/>frm.Controls.Add(&lt;strong&gt;GridView1&lt;/strong&gt;)<br/><br/>frm.RenderControl(htmlWrite)<br/>Response.ContentType = &quot;application/csv&quot;<br/>Response.AddHeader(&quot;Content-Disposition&quot;, &quot;attachment;filename=Export.xls;&quot;)<br/>Response.Charset = &quot;&quot;<br/>Response.Clear()<br/>Response.Write(stringWrite.ToString())<br/>Response.End()<br/><br/>[/sourcecode]

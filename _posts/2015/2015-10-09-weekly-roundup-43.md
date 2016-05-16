@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #43 - #Facebook #Reactions #SHA1"
 description: "My Weekly Digest #43 - #Facebook #Reactions #tesla #sha1"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/reactions.png"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/reactions.png"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, facebook, jake shimabukuro, blues, wordpress, treadmill, squat
 category: WeeklyRoundup
 tags: 

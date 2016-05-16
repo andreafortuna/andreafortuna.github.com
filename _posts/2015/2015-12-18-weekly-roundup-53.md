@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #53 - #StartWars #TheForceAwakens #LinkedIn #MacKeeper"
 description: "My Weekly Digest #53 - #StartWars #TheForceAwakens #LinkedIn #MacKeeper #ImperialMarch #DarthVader"
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/theforcecover.jpg"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/theforcecover.jpg"
 keywords: Geek, Security,Programming, Running, Barefoot, Music, ukulele, transcription, StartWars, The Force Awakens,Lance Armstrong, running selfie, Imperial March, Start Wars Main Theme, Linkedin, MacKeeper, Tesla
 category: WeeklyRoundup
 tags: 
@@ -54,7 +54,7 @@ Security & Privacy
 Geekness
 --
 
-![TheForce](http://www.andreafortuna.org/ukulele/images/theforceawakens.jpg)
+![TheForce](http://oldsite.andreafortuna.org/ukulele/images/theforceawakens.jpg)
 
 - [After 'The Force Awakens': 10 burning questions from the movie](http://mashable.com/2015/12/18/star-wars-calendar-17/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&utm_cid=Mash-Prod-RSS-Feedburner-All-Partial&utm_source=feedly&utm_medium=webfeeds){:target="_blank"}
 
@@ -105,9 +105,9 @@ Programming
 Ukulele & Music
 --
 
-![AtAtUke](http://www.andreafortuna.org/ukulele/images/imperialmarch.jpg)
+![AtAtUke](http://oldsite.andreafortuna.org/ukulele/images/imperialmarch.jpg)
 
-- [Star Wars Main Theme on Ukulele](http://www.andreafortuna.org/ukulele/2015/12/16/star-wars-main-theme-on-ukulele/){:target="_blank"}
+- [Star Wars Main Theme on Ukulele](http://oldsite.andreafortuna.org/ukulele/2015/12/16/star-wars-main-theme-on-ukulele/){:target="_blank"}
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/WH_mKGjWtsE" frameborder="0" allowfullscreen></iframe>
@@ -115,11 +115,11 @@ Ukulele & Music
 
 - [Thumbpicking On Ukulele](http://ukulelego.com/tips/thumbpicking-on-ukulele/){:target="_blank"}
 
-- [Christmas Ukulele: Stille Nacht (Silent Night)](http://www.andreafortuna.org/ukulele/2015/12/15/christmas-ukulele-silent-night-stille-nacht/){:target="_blank"}
+- [Christmas Ukulele: Stille Nacht (Silent Night)](http://oldsite.andreafortuna.org/ukulele/2015/12/15/christmas-ukulele-silent-night-stille-nacht/){:target="_blank"}
 
 - [Final pics for the master grade mango tenor ukulele by Mya-Moe](http://ukehunt.tumblr.com/post/135435517570/quietamericanmusic-final-pics-for-the-master){:target="_blank"}
 
-- [The Imperial March (Darth Vader's Theme) on Ukulele](http://www.andreafortuna.org/ukulele/2015/12/12/imperial-march-on-ukulele/){:target="_blank"}
+- [The Imperial March (Darth Vader's Theme) on Ukulele](http://oldsite.andreafortuna.org/ukulele/2015/12/12/imperial-march-on-ukulele/){:target="_blank"}
 
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/Tl7_lEKnULI" frameborder="0" allowfullscreen></iframe>

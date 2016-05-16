@@ -2,7 +2,7 @@
 layout: post
 title: "My Weekly #Roundup #33"
 description: "My Weekly Digest #33 - What can not be missed this week? "
-thumbnail: "http://www.andreafortuna.org/weeklyroundup/images/iwatalive.png"
+thumbnail: "http://oldsite.andreafortuna.org/weeklyroundup/images/iwatalive.png"
 keywords: Geek, Security, Programming, Running, Barefoot, Music, ukulele, Hacking Team, Hardrock 100, Appalachian Trail, Scott Jurek, Kilian Jornet, Satoru Iwata, Nintendo, Magnus Effect, AngularJS, javascript
 category: WeeklyRoundup
 tags: 
@@ -30,7 +30,7 @@ tags:
 {% include JB/setup %}
 Goodbye, Mr. Iwata, and thank you!
 
-![Satoru Iwata](http://www.andreafortuna.org/weeklyroundup/images/iwatalive.png)
+![Satoru Iwata](http://oldsite.andreafortuna.org/weeklyroundup/images/iwatalive.png)
 <!-- more -->
 
 Security & Privacy
