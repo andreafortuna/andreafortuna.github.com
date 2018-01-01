@@ -8,6 +8,8 @@ tagline: Ukulele
 ---
 {% include JB/setup %}
 
+ <script>location='https://andreafortuna.org/ukulele/'</script>
+
 <a name="classicalpieces"></a>
 
 Classical pieces
